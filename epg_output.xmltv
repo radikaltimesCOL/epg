@@ -15,438 +15,63 @@
   <channel id="Soccer 05">
     <display-name>Soccer 05</display-name>
   </channel>
-  <channel id="Soccer 06">
-    <display-name>Soccer 06</display-name>
-  </channel>
-  <channel id="Soccer 07">
-    <display-name>Soccer 07</display-name>
-  </channel>
-  <channel id="Soccer 08">
-    <display-name>Soccer 08</display-name>
-  </channel>
-  <channel id="Soccer 09">
-    <display-name>Soccer 09</display-name>
-  </channel>
-  <channel id="Soccer 10">
-    <display-name>Soccer 10</display-name>
-  </channel>
-  <channel id="Soccer 11">
-    <display-name>Soccer 11</display-name>
-  </channel>
-  <channel id="Soccer 12">
-    <display-name>Soccer 12</display-name>
-  </channel>
-  <channel id="Soccer 13">
-    <display-name>Soccer 13</display-name>
-  </channel>
-  <channel id="Soccer 14">
-    <display-name>Soccer 14</display-name>
-  </channel>
-  <channel id="Soccer 15">
-    <display-name>Soccer 15</display-name>
-  </channel>
-  <channel id="Soccer 16">
-    <display-name>Soccer 16</display-name>
-  </channel>
-  <channel id="Soccer 17">
-    <display-name>Soccer 17</display-name>
-  </channel>
-  <channel id="Soccer 18">
-    <display-name>Soccer 18</display-name>
-  </channel>
-  <channel id="Soccer 19">
-    <display-name>Soccer 19</display-name>
-  </channel>
-  <channel id="Soccer 20">
-    <display-name>Soccer 20</display-name>
-  </channel>
-  <channel id="Soccer 21">
-    <display-name>Soccer 21</display-name>
-  </channel>
-  <channel id="Soccer 22">
-    <display-name>Soccer 22</display-name>
-  </channel>
-  <channel id="Soccer 23">
-    <display-name>Soccer 23</display-name>
-  </channel>
-  <channel id="Soccer 24">
-    <display-name>Soccer 24</display-name>
-  </channel>
-  <channel id="Soccer 25">
-    <display-name>Soccer 25</display-name>
-  </channel>
-  <channel id="Soccer 26">
-    <display-name>Soccer 26</display-name>
-  </channel>
-  <channel id="Soccer 27">
-    <display-name>Soccer 27</display-name>
-  </channel>
-  <channel id="Soccer 28">
-    <display-name>Soccer 28</display-name>
-  </channel>
-  <channel id="Soccer 29">
-    <display-name>Soccer 29</display-name>
-  </channel>
-  <channel id="Soccer 30">
-    <display-name>Soccer 30</display-name>
-  </channel>
-  <programme start="20250427040000 -0400" stop="20250427090000 -0400" channel="Soccer 01">
+  <programme start="20250428073000 -0400" stop="20250428123000 -0400" channel="Soccer 01">
     <title>Event has not started yet</title>
     <desc/>
   </programme>
-  <programme start="20250427090000 -0400" stop="20250427110000 -0400" channel="Soccer 01">
-    <title>|EPL| Bournemouth vs Man United - 4/27 - 09:00ET</title>
-    <desc>|EPL| Bournemouth vs Man United - 4/27 - 09:00ET</desc>
+  <programme start="20250428123000 -0400" stop="20250428143000 -0400" channel="Soccer 01">
+    <title>|Serie A| Udinese vs Bologna - 4/28 - 12:30ET</title>
+    <desc>|Serie A| Udinese vs Bologna - 4/28 - 12:30ET</desc>
   </programme>
-  <programme start="20250427110000 -0400" stop="20250427160000 -0400" channel="Soccer 01">
+  <programme start="20250428143000 -0400" stop="20250428193000 -0400" channel="Soccer 01">
     <title>Event has ended</title>
     <desc/>
   </programme>
-  <programme start="20250427063000 -0400" stop="20250427113000 -0400" channel="Soccer 02">
+  <programme start="20250428094500 -0400" stop="20250428144500 -0400" channel="Soccer 02">
     <title>Event has not started yet</title>
     <desc/>
   </programme>
-  <programme start="20250427113000 -0400" stop="20250427133000 -0400" channel="Soccer 02">
-    <title>|EPL| Liverpool vs Tottenham - 4/27 - 11:30ET</title>
-    <desc>|EPL| Liverpool vs Tottenham - 4/27 - 11:30ET</desc>
+  <programme start="20250428144500 -0400" stop="20250428164500 -0400" channel="Soccer 02">
+    <title>|Serie A| Hellas Verona vs Cagliari - 4/28 - 14:45ET</title>
+    <desc>|Serie A| Hellas Verona vs Cagliari - 4/28 - 14:45ET</desc>
   </programme>
-  <programme start="20250427133000 -0400" stop="20250427183000 -0400" channel="Soccer 02">
+  <programme start="20250428164500 -0400" stop="20250428214500 -0400" channel="Soccer 02">
     <title>Event has ended</title>
     <desc/>
   </programme>
-  <programme start="20250427063000 -0400" stop="20250427113000 -0400" channel="Soccer 03">
+  <programme start="20250428094500 -0400" stop="20250428144500 -0400" channel="Soccer 03">
     <title>Event has not started yet</title>
     <desc/>
   </programme>
-  <programme start="20250427113000 -0400" stop="20250427133000 -0400" channel="Soccer 03">
-    <title>|FA Cup| Nottingham vs Man City - 4/27 - 11:30ET</title>
-    <desc>|FA Cup| Nottingham vs Man City - 4/27 - 11:30ET</desc>
+  <programme start="20250428144500 -0400" stop="20250428164500 -0400" channel="Soccer 03">
+    <title>|Serie A| Lazio vs Parma - 4/28 - 14:45ET</title>
+    <desc>|Serie A| Lazio vs Parma - 4/28 - 14:45ET</desc>
   </programme>
-  <programme start="20250427133000 -0400" stop="20250427183000 -0400" channel="Soccer 03">
+  <programme start="20250428164500 -0400" stop="20250428214500 -0400" channel="Soccer 03">
     <title>Event has ended</title>
     <desc/>
   </programme>
-  <programme start="20250427051500 -0400" stop="20250427101500 -0400" channel="Soccer 04">
+  <programme start="20250428101500 -0400" stop="20250428151500 -0400" channel="Soccer 04">
     <title>Event has not started yet</title>
     <desc/>
   </programme>
-  <programme start="20250427101500 -0400" stop="20250427121500 -0400" channel="Soccer 04">
-    <title>|LaLiga| Villarreal vs Espanyol - 4/27 - 10:15ET</title>
-    <desc>|LaLiga| Villarreal vs Espanyol - 4/27 - 10:15ET</desc>
+  <programme start="20250428151500 -0400" stop="20250428171500 -0400" channel="Soccer 04">
+    <title>|Betclic| Casa Pia vs Estoril - 4/28 - 15:15ET</title>
+    <desc>|Betclic| Casa Pia vs Estoril - 4/28 - 15:15ET</desc>
   </programme>
-  <programme start="20250427121500 -0400" stop="20250427171500 -0400" channel="Soccer 04">
+  <programme start="20250428171500 -0400" stop="20250428221500 -0400" channel="Soccer 04">
     <title>Event has ended</title>
     <desc/>
   </programme>
-  <programme start="20250427013000 -0400" stop="20250427063000 -0400" channel="Soccer 05">
+  <programme start="20250428100000 -0400" stop="20250428150000 -0400" channel="Soccer 05">
     <title>Event has not started yet</title>
     <desc/>
   </programme>
-  <programme start="20250427063000 -0400" stop="20250427083000 -0400" channel="Soccer 05">
-    <title>|Serie A| Como vs Genoa - 4/27 - 06:30ET</title>
-    <desc>|Serie A| Como vs Genoa - 4/27 - 06:30ET</desc>
-  </programme>
-  <programme start="20250427083000 -0400" stop="20250427133000 -0400" channel="Soccer 05">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250427013000 -0400" stop="20250427063000 -0400" channel="Soccer 06">
-    <title>Event has not started yet</title>
-    <desc/>
-  </programme>
-  <programme start="20250427063000 -0400" stop="20250427083000 -0400" channel="Soccer 06">
-    <title>|Serie A| Venezia vs Milan - 4/27 - 06:30ET</title>
-    <desc>|Serie A| Venezia vs Milan - 4/27 - 06:30ET</desc>
-  </programme>
-  <programme start="20250427083000 -0400" stop="20250427133000 -0400" channel="Soccer 06">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250427040000 -0400" stop="20250427090000 -0400" channel="Soccer 07">
-    <title>Event has not started yet</title>
-    <desc/>
-  </programme>
-  <programme start="20250427090000 -0400" stop="20250427110000 -0400" channel="Soccer 07">
-    <title>|Serie A| Fiorentina vs Empoli - 4/27 - 09:00ET</title>
-    <desc>|Serie A| Fiorentina vs Empoli - 4/27 - 09:00ET</desc>
-  </programme>
-  <programme start="20250427110000 -0400" stop="20250427160000 -0400" channel="Soccer 07">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250427040000 -0400" stop="20250427090000 -0400" channel="Soccer 08">
-    <title>Event has not started yet</title>
-    <desc/>
-  </programme>
-  <programme start="20250427090000 -0400" stop="20250427110000 -0400" channel="Soccer 08">
-    <title>|Serie A| Inter vs Roma - 4/27 - 09:00ET</title>
-    <desc>|Serie A| Inter vs Roma - 4/27 - 09:00ET</desc>
-  </programme>
-  <programme start="20250427110000 -0400" stop="20250427160000 -0400" channel="Soccer 08">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250427070000 -0400" stop="20250427120000 -0400" channel="Soccer 09">
-    <title>Event has not started yet</title>
-    <desc/>
-  </programme>
-  <programme start="20250427120000 -0400" stop="20250427140000 -0400" channel="Soccer 09">
-    <title>|Serie A| Juventus vs Monza - 4/27 - 12:00ET</title>
-    <desc>|Serie A| Juventus vs Monza - 4/27 - 12:00ET</desc>
-  </programme>
-  <programme start="20250427140000 -0400" stop="20250427190000 -0400" channel="Soccer 09">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250427094500 -0400" stop="20250427144500 -0400" channel="Soccer 10">
-    <title>Event has not started yet</title>
-    <desc/>
-  </programme>
-  <programme start="20250427144500 -0400" stop="20250427164500 -0400" channel="Soccer 10">
-    <title>|Serie A| Napoli vs Torino - 4/27 - 14:45ET</title>
-    <desc>|Serie A| Napoli vs Torino - 4/27 - 14:45ET</desc>
-  </programme>
-  <programme start="20250427164500 -0400" stop="20250427214500 -0400" channel="Soccer 10">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250427040000 -0400" stop="20250427090000 -0400" channel="Soccer 11">
-    <title>Event has not started yet</title>
-    <desc/>
-  </programme>
-  <programme start="20250427090000 -0400" stop="20250427110000 -0400" channel="Soccer 11">
-    <title>|Ligue 1| Angers SCO vs Lille - 4/27 - 09:00ET</title>
-    <desc>|Ligue 1| Angers SCO vs Lille - 4/27 - 09:00ET</desc>
-  </programme>
-  <programme start="20250427110000 -0400" stop="20250427160000 -0400" channel="Soccer 11">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250427094500 -0400" stop="20250427144500 -0400" channel="Soccer 12">
-    <title>Event has not started yet</title>
-    <desc/>
-  </programme>
-  <programme start="20250427144500 -0400" stop="20250427164500 -0400" channel="Soccer 12">
-    <title>|Ligue 1| Marseille vs Brest - 4/27 - 14:45ET</title>
-    <desc>|Ligue 1| Marseille vs Brest - 4/27 - 14:45ET</desc>
-  </programme>
-  <programme start="20250427164500 -0400" stop="20250427214500 -0400" channel="Soccer 12">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250427053000 -0400" stop="20250427103000 -0400" channel="Soccer 13">
-    <title>Event has not started yet</title>
-    <desc/>
-  </programme>
-  <programme start="20250427103000 -0400" stop="20250427123000 -0400" channel="Soccer 13">
-    <title>|Betclic| Moreirense vs Nacional - 4/27 - 10:30ET</title>
-    <desc>|Betclic| Moreirense vs Nacional - 4/27 - 10:30ET</desc>
-  </programme>
-  <programme start="20250427123000 -0400" stop="20250427173000 -0400" channel="Soccer 13">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250427080000 -0400" stop="20250427130000 -0400" channel="Soccer 14">
-    <title>Event has not started yet</title>
-    <desc/>
-  </programme>
-  <programme start="20250427130000 -0400" stop="20250427150000 -0400" channel="Soccer 14">
-    <title>|Betclic| Guimarães vs Rio Ave - 4/27 - 13:00ET</title>
-    <desc>|Betclic| Guimarães vs Rio Ave - 4/27 - 13:00ET</desc>
-  </programme>
-  <programme start="20250427150000 -0400" stop="20250427200000 -0400" channel="Soccer 14">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250427080000 -0400" stop="20250427130000 -0400" channel="Soccer 15">
-    <title>Event has not started yet</title>
-    <desc/>
-  </programme>
-  <programme start="20250427130000 -0400" stop="20250427150000 -0400" channel="Soccer 15">
-    <title>|Betclic| Benfica vs AVS - 4/27 - 13:00ET</title>
-    <desc>|Betclic| Benfica vs AVS - 4/27 - 13:00ET</desc>
-  </programme>
-  <programme start="20250427150000 -0400" stop="20250427200000 -0400" channel="Soccer 15">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250427103000 -0400" stop="20250427153000 -0400" channel="Soccer 16">
-    <title>Event has not started yet</title>
-    <desc/>
-  </programme>
-  <programme start="20250427153000 -0400" stop="20250427173000 -0400" channel="Soccer 16">
-    <title>|Betclic| Boavista vs Sporting - 4/27 - 15:30ET</title>
-    <desc>|Betclic| Boavista vs Sporting - 4/27 - 15:30ET</desc>
-  </programme>
-  <programme start="20250427173000 -0400" stop="20250427223000 -0400" channel="Soccer 16">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250427023000 -0400" stop="20250427073000 -0400" channel="Soccer 17">
-    <title>Event has not started yet</title>
-    <desc/>
-  </programme>
-  <programme start="20250427073000 -0400" stop="20250427093000 -0400" channel="Soccer 17">
-    <title>|Jupiler| Gent vs Anderlecht - 4/27 - 07:30ET</title>
-    <desc>|Jupiler| Gent vs Anderlecht - 4/27 - 07:30ET</desc>
-  </programme>
-  <programme start="20250427093000 -0400" stop="20250427143000 -0400" channel="Soccer 17">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250427050000 -0400" stop="20250427100000 -0400" channel="Soccer 18">
-    <title>Event has not started yet</title>
-    <desc/>
-  </programme>
-  <programme start="20250427100000 -0400" stop="20250427120000 -0400" channel="Soccer 18">
-    <title>|Jupiler| Genk vs Antwerp - 4/27 - 10:00ET</title>
-    <desc>|Jupiler| Genk vs Antwerp - 4/27 - 10:00ET</desc>
-  </programme>
-  <programme start="20250427120000 -0400" stop="20250427170000 -0400" channel="Soccer 18">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250427073000 -0400" stop="20250427123000 -0400" channel="Soccer 19">
-    <title>Event has not started yet</title>
-    <desc/>
-  </programme>
-  <programme start="20250427123000 -0400" stop="20250427143000 -0400" channel="Soccer 19">
-    <title>|Jupiler| Union Saint-Gilloise vs Club Brugge - 4/27 - 12:30ET</title>
-    <desc>|Jupiler| Union Saint-Gilloise vs Club Brugge - 4/27 - 12:30ET</desc>
-  </programme>
-  <programme start="20250427143000 -0400" stop="20250427193000 -0400" channel="Soccer 19">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250427033000 -0400" stop="20250427083000 -0400" channel="Soccer 20">
-    <title>Event has not started yet</title>
-    <desc/>
-  </programme>
-  <programme start="20250427083000 -0400" stop="20250427103000 -0400" channel="Soccer 20">
-    <title>|Eredivisie| Ajax vs Sparta Rotterdam - 4/27 - 08:30ET</title>
-    <desc>|Eredivisie| Ajax vs Sparta Rotterdam - 4/27 - 08:30ET</desc>
-  </programme>
-  <programme start="20250427103000 -0400" stop="20250427153000 -0400" channel="Soccer 20">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250427070000 -0400" stop="20250427120000 -0400" channel="Soccer 21">
-    <title>Event has not started yet</title>
-    <desc/>
-  </programme>
-  <programme start="20250427120000 -0400" stop="20250427140000 -0400" channel="Soccer 21">
-    <title>|Super Lig| Eyüpspor vs Galatasaray - 4/27 - 12:00ET</title>
-    <desc>|Super Lig| Eyüpspor vs Galatasaray - 4/27 - 12:00ET</desc>
-  </programme>
-  <programme start="20250427140000 -0400" stop="20250427190000 -0400" channel="Soccer 21">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250427100000 -0400" stop="20250427150000 -0400" channel="Soccer 22">
-    <title>Event has not started yet</title>
-    <desc/>
-  </programme>
-  <programme start="20250427150000 -0400" stop="20250427170000 -0400" channel="Soccer 22">
-    <title>|Brasileirao| Flamengo vs Corinthians - 4/27 - 15:00ET</title>
-    <desc>|Brasileirao| Flamengo vs Corinthians - 4/27 - 15:00ET</desc>
-  </programme>
-  <programme start="20250427170000 -0400" stop="20250427220000 -0400" channel="Soccer 22">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250427123000 -0400" stop="20250427173000 -0400" channel="Soccer 23">
-    <title>Event has not started yet</title>
-    <desc/>
-  </programme>
-  <programme start="20250427173000 -0400" stop="20250427193000 -0400" channel="Soccer 23">
-    <title>|Brasileirao| Palmeiras vs Bahia - 4/27 - 17:30ET</title>
-    <desc>|Brasileirao| Palmeiras vs Bahia - 4/27 - 17:30ET</desc>
-  </programme>
-  <programme start="20250427193000 -0400" stop="20250428003000 -0400" channel="Soccer 23">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250427123000 -0400" stop="20250427173000 -0400" channel="Soccer 24">
-    <title>Event has not started yet</title>
-    <desc/>
-  </programme>
-  <programme start="20250427173000 -0400" stop="20250427193000 -0400" channel="Soccer 24">
-    <title>|Brasileirao| Cruzeiro vs Vasco - 4/27 - 17:30ET</title>
-    <desc>|Brasileirao| Cruzeiro vs Vasco - 4/27 - 17:30ET</desc>
-  </programme>
-  <programme start="20250427193000 -0400" stop="20250428003000 -0400" channel="Soccer 24">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250427123000 -0400" stop="20250427173000 -0400" channel="Soccer 25">
-    <title>Event has not started yet</title>
-    <desc/>
-  </programme>
-  <programme start="20250427173000 -0400" stop="20250427193000 -0400" channel="Soccer 25">
-    <title>|Brasileirao| Vitoria vs Gremio - 4/27 - 17:30ET</title>
-    <desc>|Brasileirao| Vitoria vs Gremio - 4/27 - 17:30ET</desc>
-  </programme>
-  <programme start="20250427193000 -0400" stop="20250428003000 -0400" channel="Soccer 25">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250427143000 -0400" stop="20250427193000 -0400" channel="Soccer 26">
-    <title>Event has not started yet</title>
-    <desc/>
-  </programme>
-  <programme start="20250427193000 -0400" stop="20250427213000 -0400" channel="Soccer 26">
-    <title>|Brasileirao| Santos vs Bragantino - 4/27 - 19:30ET</title>
-    <desc>|Brasileirao| Santos vs Bragantino - 4/27 - 19:30ET</desc>
-  </programme>
-  <programme start="20250427213000 -0400" stop="20250428023000 -0400" channel="Soccer 26">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250427100000 -0400" stop="20250427150000 -0400" channel="Soccer 27">
-    <title>Event has not started yet</title>
-    <desc/>
-  </programme>
-  <programme start="20250427150000 -0400" stop="20250427170000 -0400" channel="Soccer 27">
-    <title>|MLS| Minnesota vs Vancouver - 4/27 - 15:00ET</title>
-    <desc>|MLS| Minnesota vs Vancouver - 4/27 - 15:00ET</desc>
-  </programme>
-  <programme start="20250427170000 -0400" stop="20250427220000 -0400" channel="Soccer 27">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250427120000 -0400" stop="20250427170000 -0400" channel="Soccer 28">
-    <title>Event has not started yet</title>
-    <desc/>
-  </programme>
-  <programme start="20250427170000 -0400" stop="20250427190000 -0400" channel="Soccer 28">
-    <title>|MLS| Inter Miami vs Dallas - 4/27 - 17:00ET</title>
-    <desc>|MLS| Inter Miami vs Dallas - 4/27 - 17:00ET</desc>
-  </programme>
-  <programme start="20250427190000 -0400" stop="20250428000000 -0400" channel="Soccer 28">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250427140000 -0400" stop="20250427190000 -0400" channel="Soccer 29">
-    <title>Event has not started yet</title>
-    <desc/>
-  </programme>
-  <programme start="20250427190000 -0400" stop="20250427210000 -0400" channel="Soccer 29">
-    <title>|MLS| LAFC vs St. Louis - 4/27 - 19:00ET</title>
-    <desc>|MLS| LAFC vs St. Louis - 4/27 - 19:00ET</desc>
-  </programme>
-  <programme start="20250427210000 -0400" stop="20250428020000 -0400" channel="Soccer 29">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250427160000 -0400" stop="20250427210000 -0400" channel="Soccer 30">
-    <title>Event has not started yet</title>
-    <desc/>
-  </programme>
-  <programme start="20250427210000 -0400" stop="20250427230000 -0400" channel="Soccer 30">
-    <title>|MLS| LA Galaxy vs Portland Timbers - 4/27 - 21:00ET</title>
-    <desc>|MLS| LA Galaxy vs Portland Timbers - 4/27 - 21:00ET</desc>
-  </programme>
-  <programme start="20250427230000 -0400" stop="20250428040000 -0400" channel="Soccer 30">
+  <programme start="20250428150000 -0400" stop="20250428170000 -0400" channel="Soccer 05">
+    <title>|EFL| Leeds United vs Bristol City - 4/28 - 15:00ET</title>
+    <desc>|EFL| Leeds United vs Bristol City - 4/28 - 15:00ET</desc>
+  </programme>
+  <programme start="20250428170000 -0400" stop="20250428220000 -0400" channel="Soccer 05">
     <title>Event has ended</title>
     <desc/>
   </programme>
