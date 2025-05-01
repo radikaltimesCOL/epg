@@ -18,75 +18,150 @@
   <channel id="Soccer 06">
     <display-name>Soccer 06</display-name>
   </channel>
-  <programme start="20250430100000 -0400" stop="20250430150000 -0400" channel="Soccer 01">
+  <channel id="Soccer 07">
+    <display-name>Soccer 07</display-name>
+  </channel>
+  <channel id="Soccer 08">
+    <display-name>Soccer 08</display-name>
+  </channel>
+  <channel id="Soccer 09">
+    <display-name>Soccer 09</display-name>
+  </channel>
+  <channel id="Soccer 10">
+    <display-name>Soccer 10</display-name>
+  </channel>
+  <channel id="Soccer 11">
+    <display-name>Soccer 11</display-name>
+  </channel>
+  <programme start="20250501100000 -0400" stop="20250501150000 -0400" channel="Soccer 01">
     <title>Event starts at 03:00 PM EDT</title>
     <desc/>
   </programme>
-  <programme start="20250430150000 -0400" stop="20250430170000 -0400" channel="Soccer 01">
-    <title>|Champions| Barcelona vs Inter - 4/30 - 15:00ET</title>
-    <desc>FC Barcelona and Inter Milan clash in a high-stakes UEFA Champions League semi-final first leg April 30th at 3:00 PM ET, at Barcelona's Estadi Olímpic Lluís Companys.</desc>
+  <programme start="20250501150000 -0400" stop="20250501170000 -0400" channel="Soccer 01">
+    <title>|Europa| Athletic Club vs Manchester United - 5/1 - 15:00ET</title>
+    <desc>|Europa| Athletic Club vs Manchester United - 5/1 - 15:00ET</desc>
   </programme>
-  <programme start="20250430170000 -0400" stop="20250430220000 -0400" channel="Soccer 01">
+  <programme start="20250501170000 -0400" stop="20250501220000 -0400" channel="Soccer 01">
     <title>Event has ended</title>
     <desc/>
   </programme>
-  <programme start="20250430100000 -0400" stop="20250430150000 -0400" channel="Soccer 02">
+  <programme start="20250501100000 -0400" stop="20250501150000 -0400" channel="Soccer 02">
     <title>Event starts at 03:00 PM EDT</title>
     <desc/>
   </programme>
-  <programme start="20250430150000 -0400" stop="20250430170000 -0400" channel="Soccer 02">
-    <title>|Champions| Barcelona vs Inter - 4/30 - 15:00ET</title>
-    <desc>El FC Barcelona recibe al Inter de Milán 30 de abril, a las 15:00 ET (21:00 CET) en el Estadi Olímpic Lluís Companys para la crucial ida de la Semifinal de la UEFA Champions League.</desc>
+  <programme start="20250501150000 -0400" stop="20250501170000 -0400" channel="Soccer 02">
+    <title>|Europa| Tottenham vs Bodø / Glimt - 5/1 - 15:00ET</title>
+    <desc>|Europa| Tottenham vs Bodø / Glimt - 5/1 - 15:00ET</desc>
   </programme>
-  <programme start="20250430170000 -0400" stop="20250430220000 -0400" channel="Soccer 02">
+  <programme start="20250501170000 -0400" stop="20250501220000 -0400" channel="Soccer 02">
     <title>Event has ended</title>
     <desc/>
   </programme>
-  <programme start="20250430073000 -0400" stop="20250430123000 -0400" channel="Soccer 03">
-    <title>Event starts at 12:30 PM EDT</title>
+  <programme start="20250501100000 -0400" stop="20250501150000 -0400" channel="Soccer 03">
+    <title>Event starts at 03:00 PM EDT</title>
     <desc/>
   </programme>
-  <programme start="20250430123000 -0400" stop="20250430143000 -0400" channel="Soccer 03">
-    <title>|AFC Elite| Al Nassr vs Kawasaki Frontale - 4/30 - 12:30ET</title>
-    <desc>Al Nassr and Kawasaki Frontale face off in a high-stakes AFC Champions League Elite semi-final tomorrow, April 30th at 12:30 PM ET, at King Abdullah Sports City in Jeddah.</desc>
+  <programme start="20250501150000 -0400" stop="20250501170000 -0400" channel="Soccer 03">
+    <title>|Conference| Real Betis vs Fiorentina - 5/1 - 15:00ET</title>
+    <desc>|Conference| Real Betis vs Fiorentina - 5/1 - 15:00ET</desc>
   </programme>
-  <programme start="20250430143000 -0400" stop="20250430193000 -0400" channel="Soccer 03">
+  <programme start="20250501170000 -0400" stop="20250501220000 -0400" channel="Soccer 03">
     <title>Event has ended</title>
     <desc/>
   </programme>
-  <programme start="20250430150000 -0400" stop="20250430200000 -0400" channel="Soccer 04">
-    <title>Event starts at 08:00 PM EDT</title>
+  <programme start="20250501100000 -0400" stop="20250501150000 -0400" channel="Soccer 04">
+    <title>Event starts at 03:00 PM EDT</title>
     <desc/>
   </programme>
-  <programme start="20250430200000 -0400" stop="20250430220000 -0400" channel="Soccer 04">
-    <title>|CONCACAF| Inter Miami vs Vancouver - 4/30 - 20:00ET</title>
-    <desc>Inter Miami hosts Vancouver Whitecaps April 30th, at 8:00 PM ET at Chase Stadium for the decisive CONCACAF Champions Cup semi-final second leg, needing to overturn a 2-0 aggregate deficit to reach the final.</desc>
+  <programme start="20250501150000 -0400" stop="20250501170000 -0400" channel="Soccer 04">
+    <title>|Conference| Djurgården vs Chelsea - 5/1 - 15:00ET</title>
+    <desc>|Conference| Djurgården vs Chelsea - 5/1 - 15:00ET</desc>
   </programme>
-  <programme start="20250430220000 -0400" stop="20250501030000 -0400" channel="Soccer 04">
+  <programme start="20250501170000 -0400" stop="20250501220000 -0400" channel="Soccer 04">
     <title>Event has ended</title>
     <desc/>
   </programme>
-  <programme start="20250430150000 -0400" stop="20250430200000 -0400" channel="Soccer 05">
-    <title>Event starts at 08:00 PM EDT</title>
+  <programme start="20250501093000 -0400" stop="20250501143000 -0400" channel="Soccer 05">
+    <title>Event starts at 02:30 PM EDT</title>
     <desc/>
   </programme>
-  <programme start="20250430200000 -0400" stop="20250430220000 -0400" channel="Soccer 05">
-    <title>|CONCACAF| Inter Miami vs Vancouver - 4/30 - 20:00ET</title>
-    <desc>Inter Miami se enfrenta al Vancouver Whitecaps 30 de abril, a las 20:00 ET en el Chase Stadium en el partido de vuelta de la semifinal de la CONCACAF Champions Cup, buscando remontar un déficit de 2-0 para llegar a la final.</desc>
+  <programme start="20250501143000 -0400" stop="20250501163000 -0400" channel="Soccer 05">
+    <title>|EPL| Nottingham Forest vs Brentford - 5/1 - 14:30ET</title>
+    <desc>|EPL| Nottingham Forest vs Brentford - 5/1 - 14:30ET</desc>
   </programme>
-  <programme start="20250430220000 -0400" stop="20250501030000 -0400" channel="Soccer 05">
+  <programme start="20250501163000 -0400" stop="20250501213000 -0400" channel="Soccer 05">
     <title>Event has ended</title>
     <desc/>
   </programme>
-  <programme start="20250430140000 -0400" stop="20250430190000 -0400" channel="Soccer 06">
-    <title>Event starts at 07:00 PM EDT</title>
+  <programme start="20250501023000 -0400" stop="20250501073000 -0400" channel="Soccer 06">
+    <title>Event starts at 07:30 AM EDT</title>
     <desc/>
   </programme>
-  <programme start="20250430190000 -0400" stop="20250430210000 -0400" channel="Soccer 06">
-    <title>|Canada Champ| Toronto vs Montréal- 4/30 - 19:00ET</title>
-    <desc>Rivals Toronto FC and CF Montréal face off  April 30th, at 7:00 PM ET at BMO Field in a knockout Preliminary Round match of the 2025 TELUS Canadian Championship.</desc>
+  <programme start="20250501073000 -0400" stop="20250501093000 -0400" channel="Soccer 06">
+    <title>|Jupiler| Antwerp vs Anderlecht - 5/1 - 07:30ET</title>
+    <desc>|Jupiler| Antwerp vs Anderlecht - 5/1 - 07:30ET</desc>
   </programme>
-  <programme start="20250430210000 -0400" stop="20250501020000 -0400" channel="Soccer 06">
+  <programme start="20250501093000 -0400" stop="20250501143000 -0400" channel="Soccer 06">
+    <title>Event has ended</title>
+    <desc/>
+  </programme>
+  <programme start="20250501050000 -0400" stop="20250501100000 -0400" channel="Soccer 07">
+    <title>Event starts at 10:00 AM EDT</title>
+    <desc/>
+  </programme>
+  <programme start="20250501100000 -0400" stop="20250501120000 -0400" channel="Soccer 07">
+    <title>|Jupiler| Club Brugge vs Gent - 5/1 - 10:00ET</title>
+    <desc>|Jupiler| Club Brugge vs Gent - 5/1 - 10:00ET</desc>
+  </programme>
+  <programme start="20250501120000 -0400" stop="20250501170000 -0400" channel="Soccer 07">
+    <title>Event has ended</title>
+    <desc/>
+  </programme>
+  <programme start="20250501100000 -0400" stop="20250501150000 -0400" channel="Soccer 08">
+    <title>Event starts at 03:00 PM EDT</title>
+    <desc/>
+  </programme>
+  <programme start="20250501150000 -0400" stop="20250501170000 -0400" channel="Soccer 08">
+    <title>|Copa Brasil| Operário PR vs Vasco da Gama - 5/1 - 15:00ET</title>
+    <desc>|Copa Brasil| Operário PR vs Vasco da Gama - 5/1 - 15:00ET</desc>
+  </programme>
+  <programme start="20250501170000 -0400" stop="20250501220000 -0400" channel="Soccer 08">
+    <title>Event has ended</title>
+    <desc/>
+  </programme>
+  <programme start="20250501123000 -0400" stop="20250501173000 -0400" channel="Soccer 09">
+    <title>Event starts at 05:30 PM EDT</title>
+    <desc/>
+  </programme>
+  <programme start="20250501173000 -0400" stop="20250501193000 -0400" channel="Soccer 09">
+    <title>|Copa Brasil| Criciúma vs RB Bragantino - 5/1 - 17:30ET</title>
+    <desc>|Copa Brasil| Criciúma vs RB Bragantino - 5/1 - 17:30ET</desc>
+  </programme>
+  <programme start="20250501193000 -0400" stop="20250502003000 -0400" channel="Soccer 09">
+    <title>Event has ended</title>
+    <desc/>
+  </programme>
+  <programme start="20250501153000 -0400" stop="20250501203000 -0400" channel="Soccer 10">
+    <title>Event starts at 08:30 PM EDT</title>
+    <desc/>
+  </programme>
+  <programme start="20250501203000 -0400" stop="20250501223000 -0400" channel="Soccer 10">
+    <title>|Copa Brasil| Cruzeiro vs Vila Nova - 5/1 - 20:30ET</title>
+    <desc>|Copa Brasil| Cruzeiro vs Vila Nova - 5/1 - 20:30ET</desc>
+  </programme>
+  <programme start="20250501223000 -0400" stop="20250502033000 -0400" channel="Soccer 10">
+    <title>Event has ended</title>
+    <desc/>
+  </programme>
+  <programme start="20250501050000 -0400" stop="20250501100000 -0400" channel="Soccer 11">
+    <title>Event starts at 10:00 AM EDT</title>
+    <desc/>
+  </programme>
+  <programme start="20250501100000 -0400" stop="20250501120000 -0400" channel="Soccer 11">
+    <title>|CONCACAF| Cruz Azul vs Tigres UANL - 5/1 - 10:00ET</title>
+    <desc>|CONCACAF| Cruz Azul vs Tigres UANL - 5/1 - 10:00ET</desc>
+  </programme>
+  <programme start="20250501120000 -0400" stop="20250501170000 -0400" channel="Soccer 11">
     <title>Event has ended</title>
     <desc/>
   </programme>
