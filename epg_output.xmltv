@@ -1,193 +1,889 @@
-import pandas as pd
-import xml.etree.ElementTree as ET
-from xml.dom import minidom
-from datetime import datetime, timedelta
-import pytz # Library for timezone handling
-import re # For regex extraction
-
-# --- Configuration ---
-CSV_FILE_PATH = 'Soccer.xlsx - Sheet1.csv'
-XMLTV_OUTPUT_FILE = 'soccer_epg.xml'
-DEFAULT_GAME_DURATION_MINUTES = 120
-TIMEZONE = 'America/New_York' # IANA timezone identifier for ET
-NUM_CHANNELS = 80
-CHANNEL_PREFIX = 'Soccer'
-# Use the year the script is run or a specific year if needed
-# Since the data is '5/4', let's assume the current year.
-# Note: The context states the current date is May 4, 2025. We'll use 2025.
-YEAR = 2025
-
-# --- Helper Function to Format Datetime for XMLTV ---
-def format_xmltv_datetime(dt_obj):
-    """Formats a timezone-aware datetime object for XMLTV standard."""
-    if dt_obj.tzinfo is None:
-        # This should not happen if localization is done correctly
-        print(f"Warning: datetime object {dt_obj} lacks timezone info.")
-        # Fallback: Assume UTC or raise error? For now, format as is.
-        return dt_obj.strftime('%Y%m%d%H%M%S +0000')
-
-    # Format: YYYYMMDDHHMMSS <space>+/-HHMM
-    # Get UTC offset in hours and minutes
-    offset_seconds = dt_obj.utcoffset().total_seconds()
-    offset_hours = int(offset_seconds // 3600)
-    offset_minutes = int((offset_seconds % 3600) // 60)
-    offset_sign = '+' if offset_seconds >= 0 else '-'
-    # Create the offset string (e.g., "-0400" for EDT)
-    offset_str = f"{offset_sign}{abs(offset_hours):02d}{abs(offset_minutes):02d}"
-
-    return dt_obj.strftime(f'%Y%m%d%H%M%S {offset_str}')
-
-# --- Load and Clean Data ---
-print(f"Reading CSV file: {CSV_FILE_PATH}")
-try:
-    df_original = pd.read_csv(CSV_FILE_PATH)
-except FileNotFoundError:
-    print(f"Error: Input CSV file not found at {CSV_FILE_PATH}")
-    exit()
-
-df_cleaned = df_original.dropna(axis=1, how='all').copy()
-
-# Regex pattern from successful attempt (Attempt 2)
-# Captures: League, Home Team, Away Team (handling multi-word), Month, Day, Time(HH:MM), Timezone(ET)
-pattern_refined = r'\|([^|]+)\|\s*([^vs]+?)\s+vs\s+([^-\s]+(?:\s+[^-\s]+)*?)\s*-\s*(\d{1,2})/(\d{1,2})\s*-\s*(\d{1,2}:\d{2})(ET)'
-
-print("Parsing titles...")
-extracted_data = df_cleaned['Title'].str.extract(pattern_refined)
-
-# Assign extracted data to new columns
-df_cleaned[['League', 'Home Team', 'Away Team', 'Month', 'Day', 'Time', 'Timezone_Abbr']] = extracted_data
-
-# --- Data Preprocessing & Filtering ---
-# Drop rows where essential parts (like date/time/teams) couldn't be extracted
-df_cleaned = df_cleaned.dropna(subset=['League', 'Home Team', 'Away Team', 'Month', 'Day', 'Time'])
-df_cleaned = df_cleaned.reset_index(drop=True) # Reset index after dropping rows
-
-# Convert types and create naive datetime objects first
-try:
-    df_cleaned['Month'] = pd.to_numeric(df_cleaned['Month']).astype(int)
-    df_cleaned['Day'] = pd.to_numeric(df_cleaned['Day']).astype(int)
-    # Combine Year, Month, Day, Time into a single string for parsing
-    datetime_str = (
-        str(YEAR) + '-' +
-        df_cleaned['Month'].astype(str).str.zfill(2) + '-' +
-        df_cleaned['Day'].astype(str).str.zfill(2) + ' ' +
-        df_cleaned['Time']
-    )
-    # Create naive datetime objects (no timezone yet)
-    df_cleaned['NaiveStartDateTime'] = pd.to_datetime(datetime_str, format='%Y-%m-%d %H:%M', errors='coerce')
-except Exception as e:
-    print(f"Error converting date/time components: {e}")
-    # Drop rows where conversion failed
-    df_cleaned = df_cleaned.dropna(subset=['NaiveStartDateTime'])
-
-print(f"Successfully parsed {len(df_cleaned)} matches.")
-
-if len(df_cleaned) == 0:
-    print("No match data could be parsed. Exiting.")
-    exit()
-
-# --- Timezone Handling ---
-print(f"Applying timezone: {TIMEZONE}")
-tz = pytz.timezone(TIMEZONE)
-
-# Localize the naive datetime to the specified timezone
-df_cleaned['StartDateTime'] = df_cleaned['NaiveStartDateTime'].apply(lambda dt: tz.localize(dt))
-
-# Calculate StopDateTime based on default duration
-duration_delta = timedelta(minutes=DEFAULT_GAME_DURATION_MINUTES)
-df_cleaned['StopDateTime'] = df_cleaned['StartDateTime'] + duration_delta
-
-
-# --- Build XMLTV Structure ---
-print("Generating XMLTV structure...")
-# Create root element <tv>
-tv_root = ET.Element('tv', attrib={'generator-info-name': 'Custom Soccer EPG Script'})
-
-# Create <channel> elements
-print(f"Generating {NUM_CHANNELS} channel entries...")
-for i in range(1, NUM_CHANNELS + 1):
-    channel_id = f"{CHANNEL_PREFIX} {i:02d}"
-    channel_elem = ET.SubElement(tv_root, 'channel', attrib={'id': channel_id})
-    display_name_elem = ET.SubElement(channel_elem, 'display-name')
-    display_name_elem.text = channel_id
-
-# Create <programme> elements for actual games and pre-game events
-print("Generating program entries...")
-match_count = 0
-for index, row in df_cleaned.iterrows():
-    match_count += 1
-    if match_count > NUM_CHANNELS:
-        print(f"Warning: More matches ({len(df_cleaned)}) than channels ({NUM_CHANNELS}). Skipping remaining matches.")
-        break
-
-    channel_id = f"{CHANNEL_PREFIX} {match_count:02d}"
-    game_start_time = row['StartDateTime']
-    game_stop_time = row['StopDateTime']
-
-    # --- Generate Pre-Game Events ---
-    pre_game_title = f" Game will start at {game_start_time.strftime('%H:%M%Z')}" # e.g., " Game will start at 09:00EDT"
-    # Correct title format as requested: " Game will start at HH:MMET"
-    # Need to determine if it's EDT or EST for the "ET" suffix reliably, or just use "ET"
-    # Let's stick to the user request format using "ET" explicitly.
-    pre_game_title = f" Game will start at {game_start_time.strftime('%H:%M')}ET"
-
-
-    day_start_time = game_start_time.replace(hour=0, minute=0, second=0, microsecond=0)
-    current_pre_game_start = day_start_time
-
-    while current_pre_game_start < game_start_time:
-        # Stop time is 2 hours later, but capped at the actual game start time
-        current_pre_game_stop = min(current_pre_game_start + timedelta(hours=2), game_start_time)
-
-        # Avoid creating zero-duration events if game starts exactly on a 2-hour mark
-        if current_pre_game_start >= current_pre_game_stop:
-            break
-
-        pre_game_elem = ET.SubElement(tv_root, 'programme', attrib={
-            'start': format_xmltv_datetime(current_pre_game_start),
-            'stop': format_xmltv_datetime(current_pre_game_stop),
-            'channel': channel_id
-        })
-        title_elem = ET.SubElement(pre_game_elem, 'title', attrib={'lang': 'en'})
-        title_elem.text = pre_game_title
-        cat_elem = ET.SubElement(pre_game_elem, 'category', attrib={'lang': 'en'})
-        cat_elem.text = 'Sports' # Generic category
-
-        # Move to the next pre-game slot
-        current_pre_game_start = current_pre_game_stop
-
-
-    # --- Generate Actual Game Event ---
-    programme_elem = ET.SubElement(tv_root, 'programme', attrib={
-        'start': format_xmltv_datetime(game_start_time),
-        'stop': format_xmltv_datetime(game_stop_time),
-        'channel': channel_id
-    })
-
-    # Title (e.g., "EPL: Brighton vs Newcastle")
-    title_elem = ET.SubElement(programme_elem, 'title', attrib={'lang': 'en'})
-    title_elem.text = f"{row['League']}: {row['Home Team']} vs {row['Away Team']}"
-
-    # Description
-    desc_elem = ET.SubElement(programme_elem, 'desc', attrib={'lang': 'en'})
-    desc_elem.text = f"Live {row['League']} action: {row['Home Team']} takes on {row['Away Team']}."
-
-    # Category
-    cat_elem1 = ET.SubElement(programme_elem, 'category', attrib={'lang': 'en'})
-    cat_elem1.text = 'Sports'
-    cat_elem2 = ET.SubElement(programme_elem, 'category', attrib={'lang': 'en'})
-    cat_elem2.text = 'Soccer'
-
-# --- Write XML File ---
-print(f"Writing XMLTV file to: {XMLTV_OUTPUT_FILE}")
-# Use minidom for pretty printing (indentation)
-xml_string = ET.tostring(tv_root, encoding='UTF-8', method='xml')
-dom = minidom.parseString(xml_string)
-pretty_xml_as_string = dom.toprettyxml(indent="  ", encoding='UTF-8')
-
-try:
-    with open(XMLTV_OUTPUT_FILE, "wb") as f: # Write in binary mode for UTF-8
-        f.write(pretty_xml_as_string)
-    print("Successfully generated XMLTV file.")
-except Exception as e:
-    print(f"Error writing XML file: {e}")
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Custom Soccer EPG Script">
+  <channel id="Soccer 01">
+    <display-name>Soccer 01</display-name>
+  </channel>
+  <channel id="Soccer 02">
+    <display-name>Soccer 02</display-name>
+  </channel>
+  <channel id="Soccer 03">
+    <display-name>Soccer 03</display-name>
+  </channel>
+  <channel id="Soccer 04">
+    <display-name>Soccer 04</display-name>
+  </channel>
+  <channel id="Soccer 05">
+    <display-name>Soccer 05</display-name>
+  </channel>
+  <channel id="Soccer 06">
+    <display-name>Soccer 06</display-name>
+  </channel>
+  <channel id="Soccer 07">
+    <display-name>Soccer 07</display-name>
+  </channel>
+  <channel id="Soccer 08">
+    <display-name>Soccer 08</display-name>
+  </channel>
+  <channel id="Soccer 09">
+    <display-name>Soccer 09</display-name>
+  </channel>
+  <channel id="Soccer 10">
+    <display-name>Soccer 10</display-name>
+  </channel>
+  <channel id="Soccer 11">
+    <display-name>Soccer 11</display-name>
+  </channel>
+  <channel id="Soccer 12">
+    <display-name>Soccer 12</display-name>
+  </channel>
+  <channel id="Soccer 13">
+    <display-name>Soccer 13</display-name>
+  </channel>
+  <channel id="Soccer 14">
+    <display-name>Soccer 14</display-name>
+  </channel>
+  <channel id="Soccer 15">
+    <display-name>Soccer 15</display-name>
+  </channel>
+  <channel id="Soccer 16">
+    <display-name>Soccer 16</display-name>
+  </channel>
+  <channel id="Soccer 17">
+    <display-name>Soccer 17</display-name>
+  </channel>
+  <channel id="Soccer 18">
+    <display-name>Soccer 18</display-name>
+  </channel>
+  <channel id="Soccer 19">
+    <display-name>Soccer 19</display-name>
+  </channel>
+  <channel id="Soccer 20">
+    <display-name>Soccer 20</display-name>
+  </channel>
+  <channel id="Soccer 21">
+    <display-name>Soccer 21</display-name>
+  </channel>
+  <channel id="Soccer 22">
+    <display-name>Soccer 22</display-name>
+  </channel>
+  <channel id="Soccer 23">
+    <display-name>Soccer 23</display-name>
+  </channel>
+  <channel id="Soccer 24">
+    <display-name>Soccer 24</display-name>
+  </channel>
+  <channel id="Soccer 25">
+    <display-name>Soccer 25</display-name>
+  </channel>
+  <channel id="Soccer 26">
+    <display-name>Soccer 26</display-name>
+  </channel>
+  <channel id="Soccer 27">
+    <display-name>Soccer 27</display-name>
+  </channel>
+  <channel id="Soccer 28">
+    <display-name>Soccer 28</display-name>
+  </channel>
+  <channel id="Soccer 29">
+    <display-name>Soccer 29</display-name>
+  </channel>
+  <channel id="Soccer 30">
+    <display-name>Soccer 30</display-name>
+  </channel>
+  <channel id="Soccer 31">
+    <display-name>Soccer 31</display-name>
+  </channel>
+  <channel id="Soccer 32">
+    <display-name>Soccer 32</display-name>
+  </channel>
+  <channel id="Soccer 33">
+    <display-name>Soccer 33</display-name>
+  </channel>
+  <channel id="Soccer 34">
+    <display-name>Soccer 34</display-name>
+  </channel>
+  <channel id="Soccer 35">
+    <display-name>Soccer 35</display-name>
+  </channel>
+  <channel id="Soccer 36">
+    <display-name>Soccer 36</display-name>
+  </channel>
+  <channel id="Soccer 37">
+    <display-name>Soccer 37</display-name>
+  </channel>
+  <channel id="Soccer 38">
+    <display-name>Soccer 38</display-name>
+  </channel>
+  <channel id="Soccer 39">
+    <display-name>Soccer 39</display-name>
+  </channel>
+  <channel id="Soccer 40">
+    <display-name>Soccer 40</display-name>
+  </channel>
+  <channel id="Soccer 41">
+    <display-name>Soccer 41</display-name>
+  </channel>
+  <channel id="Soccer 42">
+    <display-name>Soccer 42</display-name>
+  </channel>
+  <channel id="Soccer 43">
+    <display-name>Soccer 43</display-name>
+  </channel>
+  <channel id="Soccer 44">
+    <display-name>Soccer 44</display-name>
+  </channel>
+  <channel id="Soccer 45">
+    <display-name>Soccer 45</display-name>
+  </channel>
+  <channel id="Soccer 46">
+    <display-name>Soccer 46</display-name>
+  </channel>
+  <channel id="Soccer 47">
+    <display-name>Soccer 47</display-name>
+  </channel>
+  <channel id="Soccer 48">
+    <display-name>Soccer 48</display-name>
+  </channel>
+  <channel id="Soccer 49">
+    <display-name>Soccer 49</display-name>
+  </channel>
+  <channel id="Soccer 50">
+    <display-name>Soccer 50</display-name>
+  </channel>
+  <channel id="Soccer 51">
+    <display-name>Soccer 51</display-name>
+  </channel>
+  <channel id="Soccer 52">
+    <display-name>Soccer 52</display-name>
+  </channel>
+  <channel id="Soccer 53">
+    <display-name>Soccer 53</display-name>
+  </channel>
+  <channel id="Soccer 54">
+    <display-name>Soccer 54</display-name>
+  </channel>
+  <channel id="Soccer 55">
+    <display-name>Soccer 55</display-name>
+  </channel>
+  <channel id="Soccer 56">
+    <display-name>Soccer 56</display-name>
+  </channel>
+  <channel id="Soccer 57">
+    <display-name>Soccer 57</display-name>
+  </channel>
+  <channel id="Soccer 58">
+    <display-name>Soccer 58</display-name>
+  </channel>
+  <channel id="Soccer 59">
+    <display-name>Soccer 59</display-name>
+  </channel>
+  <channel id="Soccer 60">
+    <display-name>Soccer 60</display-name>
+  </channel>
+  <channel id="Soccer 61">
+    <display-name>Soccer 61</display-name>
+  </channel>
+  <channel id="Soccer 62">
+    <display-name>Soccer 62</display-name>
+  </channel>
+  <channel id="Soccer 63">
+    <display-name>Soccer 63</display-name>
+  </channel>
+  <channel id="Soccer 64">
+    <display-name>Soccer 64</display-name>
+  </channel>
+  <channel id="Soccer 65">
+    <display-name>Soccer 65</display-name>
+  </channel>
+  <channel id="Soccer 66">
+    <display-name>Soccer 66</display-name>
+  </channel>
+  <channel id="Soccer 67">
+    <display-name>Soccer 67</display-name>
+  </channel>
+  <channel id="Soccer 68">
+    <display-name>Soccer 68</display-name>
+  </channel>
+  <channel id="Soccer 69">
+    <display-name>Soccer 69</display-name>
+  </channel>
+  <channel id="Soccer 70">
+    <display-name>Soccer 70</display-name>
+  </channel>
+  <channel id="Soccer 71">
+    <display-name>Soccer 71</display-name>
+  </channel>
+  <channel id="Soccer 72">
+    <display-name>Soccer 72</display-name>
+  </channel>
+  <channel id="Soccer 73">
+    <display-name>Soccer 73</display-name>
+  </channel>
+  <channel id="Soccer 74">
+    <display-name>Soccer 74</display-name>
+  </channel>
+  <channel id="Soccer 75">
+    <display-name>Soccer 75</display-name>
+  </channel>
+  <channel id="Soccer 76">
+    <display-name>Soccer 76</display-name>
+  </channel>
+  <channel id="Soccer 77">
+    <display-name>Soccer 77</display-name>
+  </channel>
+  <channel id="Soccer 78">
+    <display-name>Soccer 78</display-name>
+  </channel>
+  <channel id="Soccer 79">
+    <display-name>Soccer 79</display-name>
+  </channel>
+  <channel id="Soccer 80">
+    <display-name>Soccer 80</display-name>
+  </channel>
+  <programme start="20250504000000 -0400" stop="20250504020000 -0400" channel="Soccer 01">
+    <title lang="en"> Game will start at 09:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504020000 -0400" stop="20250504040000 -0400" channel="Soccer 01">
+    <title lang="en"> Game will start at 09:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504040000 -0400" stop="20250504060000 -0400" channel="Soccer 01">
+    <title lang="en"> Game will start at 09:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504060000 -0400" stop="20250504080000 -0400" channel="Soccer 01">
+    <title lang="en"> Game will start at 09:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504080000 -0400" stop="20250504090000 -0400" channel="Soccer 01">
+    <title lang="en"> Game will start at 09:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504090000 -0400" stop="20250504110000 -0400" channel="Soccer 01">
+    <title lang="en">EPL: Brighton vs Newcastle</title>
+    <desc lang="en">Live EPL action: Brighton takes on Newcastle.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250504000000 -0400" stop="20250504020000 -0400" channel="Soccer 02">
+    <title lang="en"> Game will start at 09:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504020000 -0400" stop="20250504040000 -0400" channel="Soccer 02">
+    <title lang="en"> Game will start at 09:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504040000 -0400" stop="20250504060000 -0400" channel="Soccer 02">
+    <title lang="en"> Game will start at 09:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504060000 -0400" stop="20250504080000 -0400" channel="Soccer 02">
+    <title lang="en"> Game will start at 09:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504080000 -0400" stop="20250504090000 -0400" channel="Soccer 02">
+    <title lang="en"> Game will start at 09:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504090000 -0400" stop="20250504110000 -0400" channel="Soccer 02">
+    <title lang="en">EPL: Brentford vs Manchester United</title>
+    <desc lang="en">Live EPL action: Brentford takes on Manchester United.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250504000000 -0400" stop="20250504020000 -0400" channel="Soccer 03">
+    <title lang="en"> Game will start at 08:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504020000 -0400" stop="20250504040000 -0400" channel="Soccer 03">
+    <title lang="en"> Game will start at 08:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504040000 -0400" stop="20250504060000 -0400" channel="Soccer 03">
+    <title lang="en"> Game will start at 08:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504060000 -0400" stop="20250504080000 -0400" channel="Soccer 03">
+    <title lang="en"> Game will start at 08:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504080000 -0400" stop="20250504100000 -0400" channel="Soccer 03">
+    <title lang="en">LaLiga: Real Madrid vs Celta</title>
+    <desc lang="en">Live LaLiga action: Real Madrid takes on Celta.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250504000000 -0400" stop="20250504020000 -0400" channel="Soccer 04">
+    <title lang="en"> Game will start at 15:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504020000 -0400" stop="20250504040000 -0400" channel="Soccer 04">
+    <title lang="en"> Game will start at 15:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504040000 -0400" stop="20250504060000 -0400" channel="Soccer 04">
+    <title lang="en"> Game will start at 15:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504060000 -0400" stop="20250504080000 -0400" channel="Soccer 04">
+    <title lang="en"> Game will start at 15:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504080000 -0400" stop="20250504100000 -0400" channel="Soccer 04">
+    <title lang="en"> Game will start at 15:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504100000 -0400" stop="20250504120000 -0400" channel="Soccer 04">
+    <title lang="en"> Game will start at 15:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504120000 -0400" stop="20250504140000 -0400" channel="Soccer 04">
+    <title lang="en"> Game will start at 15:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504140000 -0400" stop="20250504150000 -0400" channel="Soccer 04">
+    <title lang="en"> Game will start at 15:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504150000 -0400" stop="20250504170000 -0400" channel="Soccer 04">
+    <title lang="en">LaLiga: Real Sociedad vs Athletic Club</title>
+    <desc lang="en">Live LaLiga action: Real Sociedad takes on Athletic Club.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250504000000 -0400" stop="20250504020000 -0400" channel="Soccer 05">
+    <title lang="en"> Game will start at 06:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504020000 -0400" stop="20250504040000 -0400" channel="Soccer 05">
+    <title lang="en"> Game will start at 06:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504040000 -0400" stop="20250504060000 -0400" channel="Soccer 05">
+    <title lang="en"> Game will start at 06:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504060000 -0400" stop="20250504063000 -0400" channel="Soccer 05">
+    <title lang="en"> Game will start at 06:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504063000 -0400" stop="20250504083000 -0400" channel="Soccer 05">
+    <title lang="en">Serie A: Empoli vs Lazio</title>
+    <desc lang="en">Live Serie A action: Empoli takes on Lazio.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250504000000 -0400" stop="20250504020000 -0400" channel="Soccer 06">
+    <title lang="en"> Game will start at 09:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504020000 -0400" stop="20250504040000 -0400" channel="Soccer 06">
+    <title lang="en"> Game will start at 09:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504040000 -0400" stop="20250504060000 -0400" channel="Soccer 06">
+    <title lang="en"> Game will start at 09:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504060000 -0400" stop="20250504080000 -0400" channel="Soccer 06">
+    <title lang="en"> Game will start at 09:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504080000 -0400" stop="20250504090000 -0400" channel="Soccer 06">
+    <title lang="en"> Game will start at 09:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504090000 -0400" stop="20250504110000 -0400" channel="Soccer 06">
+    <title lang="en">Serie A: Monza vs Atalanta</title>
+    <desc lang="en">Live Serie A action: Monza takes on Atalanta.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250504000000 -0400" stop="20250504020000 -0400" channel="Soccer 07">
+    <title lang="en"> Game will start at 12:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504020000 -0400" stop="20250504040000 -0400" channel="Soccer 07">
+    <title lang="en"> Game will start at 12:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504040000 -0400" stop="20250504060000 -0400" channel="Soccer 07">
+    <title lang="en"> Game will start at 12:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504060000 -0400" stop="20250504080000 -0400" channel="Soccer 07">
+    <title lang="en"> Game will start at 12:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504080000 -0400" stop="20250504100000 -0400" channel="Soccer 07">
+    <title lang="en"> Game will start at 12:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504100000 -0400" stop="20250504120000 -0400" channel="Soccer 07">
+    <title lang="en"> Game will start at 12:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504120000 -0400" stop="20250504140000 -0400" channel="Soccer 07">
+    <title lang="en">Serie A: Roma vs Fiorentina</title>
+    <desc lang="en">Live Serie A action: Roma takes on Fiorentina.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250504000000 -0400" stop="20250504020000 -0400" channel="Soccer 08">
+    <title lang="en"> Game will start at 14:45ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504020000 -0400" stop="20250504040000 -0400" channel="Soccer 08">
+    <title lang="en"> Game will start at 14:45ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504040000 -0400" stop="20250504060000 -0400" channel="Soccer 08">
+    <title lang="en"> Game will start at 14:45ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504060000 -0400" stop="20250504080000 -0400" channel="Soccer 08">
+    <title lang="en"> Game will start at 14:45ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504080000 -0400" stop="20250504100000 -0400" channel="Soccer 08">
+    <title lang="en"> Game will start at 14:45ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504100000 -0400" stop="20250504120000 -0400" channel="Soccer 08">
+    <title lang="en"> Game will start at 14:45ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504120000 -0400" stop="20250504140000 -0400" channel="Soccer 08">
+    <title lang="en"> Game will start at 14:45ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504140000 -0400" stop="20250504144500 -0400" channel="Soccer 08">
+    <title lang="en"> Game will start at 14:45ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504144500 -0400" stop="20250504164500 -0400" channel="Soccer 08">
+    <title lang="en">Serie A: Bologna vs Juventus</title>
+    <desc lang="en">Live Serie A action: Bologna takes on Juventus.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250504000000 -0400" stop="20250504020000 -0400" channel="Soccer 09">
+    <title lang="en"> Game will start at 11:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504020000 -0400" stop="20250504040000 -0400" channel="Soccer 09">
+    <title lang="en"> Game will start at 11:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504040000 -0400" stop="20250504060000 -0400" channel="Soccer 09">
+    <title lang="en"> Game will start at 11:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504060000 -0400" stop="20250504080000 -0400" channel="Soccer 09">
+    <title lang="en"> Game will start at 11:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504080000 -0400" stop="20250504100000 -0400" channel="Soccer 09">
+    <title lang="en"> Game will start at 11:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504100000 -0400" stop="20250504113000 -0400" channel="Soccer 09">
+    <title lang="en"> Game will start at 11:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504113000 -0400" stop="20250504133000 -0400" channel="Soccer 09">
+    <title lang="en">Bundesliga: Freiburg vs Leverkusen</title>
+    <desc lang="en">Live Bundesliga action: Freiburg takes on Leverkusen.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250504000000 -0400" stop="20250504020000 -0400" channel="Soccer 10">
+    <title lang="en"> Game will start at 13:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504020000 -0400" stop="20250504040000 -0400" channel="Soccer 10">
+    <title lang="en"> Game will start at 13:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504040000 -0400" stop="20250504060000 -0400" channel="Soccer 10">
+    <title lang="en"> Game will start at 13:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504060000 -0400" stop="20250504080000 -0400" channel="Soccer 10">
+    <title lang="en"> Game will start at 13:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504080000 -0400" stop="20250504100000 -0400" channel="Soccer 10">
+    <title lang="en"> Game will start at 13:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504100000 -0400" stop="20250504120000 -0400" channel="Soccer 10">
+    <title lang="en"> Game will start at 13:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504120000 -0400" stop="20250504133000 -0400" channel="Soccer 10">
+    <title lang="en"> Game will start at 13:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504133000 -0400" stop="20250504153000 -0400" channel="Soccer 10">
+    <title lang="en">Bundesliga: Mainz 05 vs Eintracht Frankfurt</title>
+    <desc lang="en">Live Bundesliga action: Mainz 05 takes on Eintracht Frankfurt.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250504000000 -0400" stop="20250504020000 -0400" channel="Soccer 11">
+    <title lang="en"> Game will start at 14:45ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504020000 -0400" stop="20250504040000 -0400" channel="Soccer 11">
+    <title lang="en"> Game will start at 14:45ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504040000 -0400" stop="20250504060000 -0400" channel="Soccer 11">
+    <title lang="en"> Game will start at 14:45ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504060000 -0400" stop="20250504080000 -0400" channel="Soccer 11">
+    <title lang="en"> Game will start at 14:45ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504080000 -0400" stop="20250504100000 -0400" channel="Soccer 11">
+    <title lang="en"> Game will start at 14:45ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504100000 -0400" stop="20250504120000 -0400" channel="Soccer 11">
+    <title lang="en"> Game will start at 14:45ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504120000 -0400" stop="20250504140000 -0400" channel="Soccer 11">
+    <title lang="en"> Game will start at 14:45ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504140000 -0400" stop="20250504144500 -0400" channel="Soccer 11">
+    <title lang="en"> Game will start at 14:45ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504144500 -0400" stop="20250504164500 -0400" channel="Soccer 11">
+    <title lang="en">Ligue 1: Lille vs Marseille</title>
+    <desc lang="en">Live Ligue 1 action: Lille takes on Marseille.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250504000000 -0400" stop="20250504020000 -0400" channel="Soccer 12">
+    <title lang="en"> Game will start at 13:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504020000 -0400" stop="20250504040000 -0400" channel="Soccer 12">
+    <title lang="en"> Game will start at 13:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504040000 -0400" stop="20250504060000 -0400" channel="Soccer 12">
+    <title lang="en"> Game will start at 13:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504060000 -0400" stop="20250504080000 -0400" channel="Soccer 12">
+    <title lang="en"> Game will start at 13:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504080000 -0400" stop="20250504100000 -0400" channel="Soccer 12">
+    <title lang="en"> Game will start at 13:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504100000 -0400" stop="20250504120000 -0400" channel="Soccer 12">
+    <title lang="en"> Game will start at 13:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504120000 -0400" stop="20250504130000 -0400" channel="Soccer 12">
+    <title lang="en"> Game will start at 13:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504130000 -0400" stop="20250504150000 -0400" channel="Soccer 12">
+    <title lang="en">Betclic: Arouca vs Casa Pia</title>
+    <desc lang="en">Live Betclic action: Arouca takes on Casa Pia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250504000000 -0400" stop="20250504020000 -0400" channel="Soccer 13">
+    <title lang="en"> Game will start at 15:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504020000 -0400" stop="20250504040000 -0400" channel="Soccer 13">
+    <title lang="en"> Game will start at 15:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504040000 -0400" stop="20250504060000 -0400" channel="Soccer 13">
+    <title lang="en"> Game will start at 15:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504060000 -0400" stop="20250504080000 -0400" channel="Soccer 13">
+    <title lang="en"> Game will start at 15:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504080000 -0400" stop="20250504100000 -0400" channel="Soccer 13">
+    <title lang="en"> Game will start at 15:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504100000 -0400" stop="20250504120000 -0400" channel="Soccer 13">
+    <title lang="en"> Game will start at 15:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504120000 -0400" stop="20250504140000 -0400" channel="Soccer 13">
+    <title lang="en"> Game will start at 15:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504140000 -0400" stop="20250504153000 -0400" channel="Soccer 13">
+    <title lang="en"> Game will start at 15:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504153000 -0400" stop="20250504173000 -0400" channel="Soccer 13">
+    <title lang="en">Betclic: Sporting vs Gil Vicente</title>
+    <desc lang="en">Live Betclic action: Sporting takes on Gil Vicente.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250504000000 -0400" stop="20250504020000 -0400" channel="Soccer 14">
+    <title lang="en"> Game will start at 12:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504020000 -0400" stop="20250504040000 -0400" channel="Soccer 14">
+    <title lang="en"> Game will start at 12:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504040000 -0400" stop="20250504060000 -0400" channel="Soccer 14">
+    <title lang="en"> Game will start at 12:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504060000 -0400" stop="20250504080000 -0400" channel="Soccer 14">
+    <title lang="en"> Game will start at 12:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504080000 -0400" stop="20250504100000 -0400" channel="Soccer 14">
+    <title lang="en"> Game will start at 12:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504100000 -0400" stop="20250504120000 -0400" channel="Soccer 14">
+    <title lang="en"> Game will start at 12:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504120000 -0400" stop="20250504140000 -0400" channel="Soccer 14">
+    <title lang="en">Belgian Cup: Club Brugge vs Anderlecht</title>
+    <desc lang="en">Live Belgian Cup action: Club Brugge takes on Anderlecht.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250504000000 -0400" stop="20250504020000 -0400" channel="Soccer 15">
+    <title lang="en"> Game will start at 15:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504020000 -0400" stop="20250504040000 -0400" channel="Soccer 15">
+    <title lang="en"> Game will start at 15:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504040000 -0400" stop="20250504060000 -0400" channel="Soccer 15">
+    <title lang="en"> Game will start at 15:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504060000 -0400" stop="20250504080000 -0400" channel="Soccer 15">
+    <title lang="en"> Game will start at 15:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504080000 -0400" stop="20250504100000 -0400" channel="Soccer 15">
+    <title lang="en"> Game will start at 15:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504100000 -0400" stop="20250504120000 -0400" channel="Soccer 15">
+    <title lang="en"> Game will start at 15:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504120000 -0400" stop="20250504140000 -0400" channel="Soccer 15">
+    <title lang="en"> Game will start at 15:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504140000 -0400" stop="20250504150000 -0400" channel="Soccer 15">
+    <title lang="en"> Game will start at 15:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504150000 -0400" stop="20250504170000 -0400" channel="Soccer 15">
+    <title lang="en">Brasileirao: Grêmio vs Santos</title>
+    <desc lang="en">Live Brasileirao action: Grêmio takes on Santos.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250504000000 -0400" stop="20250504020000 -0400" channel="Soccer 16">
+    <title lang="en"> Game will start at 17:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504020000 -0400" stop="20250504040000 -0400" channel="Soccer 16">
+    <title lang="en"> Game will start at 17:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504040000 -0400" stop="20250504060000 -0400" channel="Soccer 16">
+    <title lang="en"> Game will start at 17:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504060000 -0400" stop="20250504080000 -0400" channel="Soccer 16">
+    <title lang="en"> Game will start at 17:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504080000 -0400" stop="20250504100000 -0400" channel="Soccer 16">
+    <title lang="en"> Game will start at 17:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504100000 -0400" stop="20250504120000 -0400" channel="Soccer 16">
+    <title lang="en"> Game will start at 17:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504120000 -0400" stop="20250504140000 -0400" channel="Soccer 16">
+    <title lang="en"> Game will start at 17:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504140000 -0400" stop="20250504160000 -0400" channel="Soccer 16">
+    <title lang="en"> Game will start at 17:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504160000 -0400" stop="20250504173000 -0400" channel="Soccer 16">
+    <title lang="en"> Game will start at 17:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504173000 -0400" stop="20250504193000 -0400" channel="Soccer 16">
+    <title lang="en">Brasileirao: Cruzeiro vs Flamengo</title>
+    <desc lang="en">Live Brasileirao action: Cruzeiro takes on Flamengo.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250504000000 -0400" stop="20250504020000 -0400" channel="Soccer 17">
+    <title lang="en"> Game will start at 15:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504020000 -0400" stop="20250504040000 -0400" channel="Soccer 17">
+    <title lang="en"> Game will start at 15:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504040000 -0400" stop="20250504060000 -0400" channel="Soccer 17">
+    <title lang="en"> Game will start at 15:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504060000 -0400" stop="20250504080000 -0400" channel="Soccer 17">
+    <title lang="en"> Game will start at 15:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504080000 -0400" stop="20250504100000 -0400" channel="Soccer 17">
+    <title lang="en"> Game will start at 15:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504100000 -0400" stop="20250504120000 -0400" channel="Soccer 17">
+    <title lang="en"> Game will start at 15:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504120000 -0400" stop="20250504140000 -0400" channel="Soccer 17">
+    <title lang="en"> Game will start at 15:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504140000 -0400" stop="20250504150000 -0400" channel="Soccer 17">
+    <title lang="en"> Game will start at 15:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504150000 -0400" stop="20250504170000 -0400" channel="Soccer 17">
+    <title lang="en">MLS: NYC vs Cincinnati</title>
+    <desc lang="en">Live MLS action: NYC takes on Cincinnati.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250504000000 -0400" stop="20250504020000 -0400" channel="Soccer 18">
+    <title lang="en"> Game will start at 19:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504020000 -0400" stop="20250504040000 -0400" channel="Soccer 18">
+    <title lang="en"> Game will start at 19:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504040000 -0400" stop="20250504060000 -0400" channel="Soccer 18">
+    <title lang="en"> Game will start at 19:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504060000 -0400" stop="20250504080000 -0400" channel="Soccer 18">
+    <title lang="en"> Game will start at 19:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504080000 -0400" stop="20250504100000 -0400" channel="Soccer 18">
+    <title lang="en"> Game will start at 19:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504100000 -0400" stop="20250504120000 -0400" channel="Soccer 18">
+    <title lang="en"> Game will start at 19:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504120000 -0400" stop="20250504140000 -0400" channel="Soccer 18">
+    <title lang="en"> Game will start at 19:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504140000 -0400" stop="20250504160000 -0400" channel="Soccer 18">
+    <title lang="en"> Game will start at 19:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504160000 -0400" stop="20250504180000 -0400" channel="Soccer 18">
+    <title lang="en"> Game will start at 19:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504180000 -0400" stop="20250504190000 -0400" channel="Soccer 18">
+    <title lang="en"> Game will start at 19:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504190000 -0400" stop="20250504210000 -0400" channel="Soccer 18">
+    <title lang="en">MLS: Sporting KC vs LA Galaxy</title>
+    <desc lang="en">Live MLS action: Sporting KC takes on LA Galaxy.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250504000000 -0400" stop="20250504020000 -0400" channel="Soccer 19">
+    <title lang="en"> Game will start at 21:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504020000 -0400" stop="20250504040000 -0400" channel="Soccer 19">
+    <title lang="en"> Game will start at 21:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504040000 -0400" stop="20250504060000 -0400" channel="Soccer 19">
+    <title lang="en"> Game will start at 21:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504060000 -0400" stop="20250504080000 -0400" channel="Soccer 19">
+    <title lang="en"> Game will start at 21:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504080000 -0400" stop="20250504100000 -0400" channel="Soccer 19">
+    <title lang="en"> Game will start at 21:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504100000 -0400" stop="20250504120000 -0400" channel="Soccer 19">
+    <title lang="en"> Game will start at 21:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504120000 -0400" stop="20250504140000 -0400" channel="Soccer 19">
+    <title lang="en"> Game will start at 21:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504140000 -0400" stop="20250504160000 -0400" channel="Soccer 19">
+    <title lang="en"> Game will start at 21:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504160000 -0400" stop="20250504180000 -0400" channel="Soccer 19">
+    <title lang="en"> Game will start at 21:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504180000 -0400" stop="20250504200000 -0400" channel="Soccer 19">
+    <title lang="en"> Game will start at 21:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504200000 -0400" stop="20250504213000 -0400" channel="Soccer 19">
+    <title lang="en"> Game will start at 21:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250504213000 -0400" stop="20250504233000 -0400" channel="Soccer 19">
+    <title lang="en">Liga MX: Monterrey vs Pumas UNAM</title>
+    <desc lang="en">Live Liga MX action: Monterrey takes on Pumas UNAM.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+</tv>
