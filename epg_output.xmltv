@@ -1,795 +1,193 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="Custom EPG Generator Script">
-  <channel id="Soccer 01">
-    <display-name>Soccer 01</display-name>
-  </channel>
-  <channel id="Soccer 02">
-    <display-name>Soccer 02</display-name>
-  </channel>
-  <channel id="Soccer 03">
-    <display-name>Soccer 03</display-name>
-  </channel>
-  <channel id="Soccer 04">
-    <display-name>Soccer 04</display-name>
-  </channel>
-  <channel id="Soccer 05">
-    <display-name>Soccer 05</display-name>
-  </channel>
-  <channel id="Soccer 06">
-    <display-name>Soccer 06</display-name>
-  </channel>
-  <channel id="Soccer 07">
-    <display-name>Soccer 07</display-name>
-  </channel>
-  <channel id="Soccer 08">
-    <display-name>Soccer 08</display-name>
-  </channel>
-  <channel id="Soccer 09">
-    <display-name>Soccer 09</display-name>
-  </channel>
-  <channel id="Soccer 10">
-    <display-name>Soccer 10</display-name>
-  </channel>
-  <channel id="Soccer 11">
-    <display-name>Soccer 11</display-name>
-  </channel>
-  <channel id="Soccer 12">
-    <display-name>Soccer 12</display-name>
-  </channel>
-  <channel id="Soccer 13">
-    <display-name>Soccer 13</display-name>
-  </channel>
-  <channel id="Soccer 14">
-    <display-name>Soccer 14</display-name>
-  </channel>
-  <channel id="Soccer 15">
-    <display-name>Soccer 15</display-name>
-  </channel>
-  <channel id="Soccer 16">
-    <display-name>Soccer 16</display-name>
-  </channel>
-  <channel id="Soccer 17">
-    <display-name>Soccer 17</display-name>
-  </channel>
-  <channel id="Soccer 18">
-    <display-name>Soccer 18</display-name>
-  </channel>
-  <channel id="Soccer 19">
-    <display-name>Soccer 19</display-name>
-  </channel>
-  <channel id="Soccer 20">
-    <display-name>Soccer 20</display-name>
-  </channel>
-  <channel id="Soccer 21">
-    <display-name>Soccer 21</display-name>
-  </channel>
-  <channel id="Soccer 22">
-    <display-name>Soccer 22</display-name>
-  </channel>
-  <channel id="Soccer 23">
-    <display-name>Soccer 23</display-name>
-  </channel>
-  <channel id="Soccer 24">
-    <display-name>Soccer 24</display-name>
-  </channel>
-  <channel id="Soccer 25">
-    <display-name>Soccer 25</display-name>
-  </channel>
-  <channel id="Soccer 26">
-    <display-name>Soccer 26</display-name>
-  </channel>
-  <channel id="Soccer 27">
-    <display-name>Soccer 27</display-name>
-  </channel>
-  <channel id="Soccer 28">
-    <display-name>Soccer 28</display-name>
-  </channel>
-  <channel id="Soccer 29">
-    <display-name>Soccer 29</display-name>
-  </channel>
-  <channel id="Soccer 30">
-    <display-name>Soccer 30</display-name>
-  </channel>
-  <channel id="Soccer 31">
-    <display-name>Soccer 31</display-name>
-  </channel>
-  <channel id="Soccer 32">
-    <display-name>Soccer 32</display-name>
-  </channel>
-  <channel id="Soccer 33">
-    <display-name>Soccer 33</display-name>
-  </channel>
-  <channel id="Soccer 34">
-    <display-name>Soccer 34</display-name>
-  </channel>
-  <channel id="Soccer 35">
-    <display-name>Soccer 35</display-name>
-  </channel>
-  <channel id="Soccer 36">
-    <display-name>Soccer 36</display-name>
-  </channel>
-  <channel id="Soccer 37">
-    <display-name>Soccer 37</display-name>
-  </channel>
-  <channel id="Soccer 38">
-    <display-name>Soccer 38</display-name>
-  </channel>
-  <channel id="Soccer 39">
-    <display-name>Soccer 39</display-name>
-  </channel>
-  <channel id="Soccer 40">
-    <display-name>Soccer 40</display-name>
-  </channel>
-  <channel id="Soccer 41">
-    <display-name>Soccer 41</display-name>
-  </channel>
-  <channel id="Soccer 42">
-    <display-name>Soccer 42</display-name>
-  </channel>
-  <channel id="Soccer 43">
-    <display-name>Soccer 43</display-name>
-  </channel>
-  <channel id="Soccer 44">
-    <display-name>Soccer 44</display-name>
-  </channel>
-  <channel id="Soccer 45">
-    <display-name>Soccer 45</display-name>
-  </channel>
-  <channel id="Soccer 46">
-    <display-name>Soccer 46</display-name>
-  </channel>
-  <channel id="Soccer 47">
-    <display-name>Soccer 47</display-name>
-  </channel>
-  <channel id="Soccer 48">
-    <display-name>Soccer 48</display-name>
-  </channel>
-  <channel id="Soccer 49">
-    <display-name>Soccer 49</display-name>
-  </channel>
-  <channel id="Soccer 50">
-    <display-name>Soccer 50</display-name>
-  </channel>
-  <channel id="Soccer 51">
-    <display-name>Soccer 51</display-name>
-  </channel>
-  <channel id="Soccer 52">
-    <display-name>Soccer 52</display-name>
-  </channel>
-  <channel id="Soccer 53">
-    <display-name>Soccer 53</display-name>
-  </channel>
-  <channel id="Soccer 54">
-    <display-name>Soccer 54</display-name>
-  </channel>
-  <channel id="Soccer 55">
-    <display-name>Soccer 55</display-name>
-  </channel>
-  <channel id="Soccer 56">
-    <display-name>Soccer 56</display-name>
-  </channel>
-  <channel id="Soccer 57">
-    <display-name>Soccer 57</display-name>
-  </channel>
-  <channel id="Soccer 58">
-    <display-name>Soccer 58</display-name>
-  </channel>
-  <channel id="Soccer 59">
-    <display-name>Soccer 59</display-name>
-  </channel>
-  <channel id="Soccer 60">
-    <display-name>Soccer 60</display-name>
-  </channel>
-  <channel id="Soccer 61">
-    <display-name>Soccer 61</display-name>
-  </channel>
-  <channel id="Soccer 62">
-    <display-name>Soccer 62</display-name>
-  </channel>
-  <channel id="Soccer 63">
-    <display-name>Soccer 63</display-name>
-  </channel>
-  <channel id="Soccer 64">
-    <display-name>Soccer 64</display-name>
-  </channel>
-  <channel id="Soccer 65">
-    <display-name>Soccer 65</display-name>
-  </channel>
-  <channel id="Soccer 66">
-    <display-name>Soccer 66</display-name>
-  </channel>
-  <channel id="Soccer 67">
-    <display-name>Soccer 67</display-name>
-  </channel>
-  <channel id="Soccer 68">
-    <display-name>Soccer 68</display-name>
-  </channel>
-  <channel id="Soccer 69">
-    <display-name>Soccer 69</display-name>
-  </channel>
-  <channel id="Soccer 70">
-    <display-name>Soccer 70</display-name>
-  </channel>
-  <channel id="Soccer 71">
-    <display-name>Soccer 71</display-name>
-  </channel>
-  <channel id="Soccer 72">
-    <display-name>Soccer 72</display-name>
-  </channel>
-  <channel id="Soccer 73">
-    <display-name>Soccer 73</display-name>
-  </channel>
-  <channel id="Soccer 74">
-    <display-name>Soccer 74</display-name>
-  </channel>
-  <channel id="Soccer 75">
-    <display-name>Soccer 75</display-name>
-  </channel>
-  <channel id="Soccer 76">
-    <display-name>Soccer 76</display-name>
-  </channel>
-  <channel id="Soccer 77">
-    <display-name>Soccer 77</display-name>
-  </channel>
-  <channel id="Soccer 78">
-    <display-name>Soccer 78</display-name>
-  </channel>
-  <channel id="Soccer 79">
-    <display-name>Soccer 79</display-name>
-  </channel>
-  <channel id="Soccer 80">
-    <display-name>Soccer 80</display-name>
-  </channel>
-  <programme start="20250504040000 -0400" stop="20250504090000 -0400" channel="Soccer 01">
-    <title>Event starts at 09:00 AM EDT</title>
-    <desc/>
-  </programme>
-  <programme start="20250504090000 -0400" stop="20250504110000 -0400" channel="Soccer 01">
-    <title>|EPL| Brighton vs Newcastle - 5/4 - 09:00ET</title>
-    <desc>|EPL| Brighton vs Newcastle - 5/4 - 09:00ET</desc>
-  </programme>
-  <programme start="20250504110000 -0400" stop="20250504160000 -0400" channel="Soccer 01">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250504040000 -0400" stop="20250504090000 -0400" channel="Soccer 02">
-    <title>Event starts at 09:00 AM EDT</title>
-    <desc/>
-  </programme>
-  <programme start="20250504090000 -0400" stop="20250504110000 -0400" channel="Soccer 02">
-    <title>|EPL| West Ham vs Tottenham - 5/4 - 09:00ET</title>
-    <desc>|EPL| West Ham vs Tottenham - 5/4 - 09:00ET</desc>
-  </programme>
-  <programme start="20250504110000 -0400" stop="20250504160000 -0400" channel="Soccer 02">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250504040000 -0400" stop="20250504090000 -0400" channel="Soccer 03">
-    <title>Event starts at 09:00 AM EDT</title>
-    <desc/>
-  </programme>
-  <programme start="20250504090000 -0400" stop="20250504110000 -0400" channel="Soccer 03">
-    <title>|EPL| Brentford vs Manchester United - 5/4 - 09:00ET</title>
-    <desc>|EPL| Brentford vs Manchester United - 5/4 - 09:00ET</desc>
-  </programme>
-  <programme start="20250504110000 -0400" stop="20250504160000 -0400" channel="Soccer 03">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250504063000 -0400" stop="20250504113000 -0400" channel="Soccer 04">
-    <title>Event starts at 11:30 AM EDT</title>
-    <desc/>
-  </programme>
-  <programme start="20250504113000 -0400" stop="20250504133000 -0400" channel="Soccer 04">
-    <title>|EPL| Chelsea vs Liverpool - 5/4 - 11:30ET</title>
-    <desc>|EPL| Chelsea vs Liverpool - 5/4 - 11:30ET</desc>
-  </programme>
-  <programme start="20250504133000 -0400" stop="20250504183000 -0400" channel="Soccer 04">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250504030000 -0400" stop="20250504080000 -0400" channel="Soccer 05">
-    <title>Event starts at 08:00 AM EDT</title>
-    <desc/>
-  </programme>
-  <programme start="20250504080000 -0400" stop="20250504100000 -0400" channel="Soccer 05">
-    <title>|LaLiga| Real Madrid vs Celta - 5/4 - 08:00ET</title>
-    <desc>|LaLiga| Real Madrid vs Celta - 5/4 - 08:00ET</desc>
-  </programme>
-  <programme start="20250504100000 -0400" stop="20250504150000 -0400" channel="Soccer 05">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250504051500 -0400" stop="20250504101500 -0400" channel="Soccer 06">
-    <title>Event starts at 10:15 AM EDT</title>
-    <desc/>
-  </programme>
-  <programme start="20250504101500 -0400" stop="20250504121500 -0400" channel="Soccer 06">
-    <title>|LaLiga| Sevilla vs Leganés - 5/4 - 10:15ET</title>
-    <desc>|LaLiga| Sevilla vs Leganés - 5/4 - 10:15ET</desc>
-  </programme>
-  <programme start="20250504121500 -0400" stop="20250504171500 -0400" channel="Soccer 06">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250504073000 -0400" stop="20250504123000 -0400" channel="Soccer 07">
-    <title>Event starts at 12:30 PM EDT</title>
-    <desc/>
-  </programme>
-  <programme start="20250504123000 -0400" stop="20250504143000 -0400" channel="Soccer 07">
-    <title>|LaLiga| Espanyol vs Real Betis - 5/4 - 12:30ET</title>
-    <desc>|LaLiga| Espanyol vs Real Betis - 5/4 - 12:30ET</desc>
-  </programme>
-  <programme start="20250504143000 -0400" stop="20250504193000 -0400" channel="Soccer 07">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250504100000 -0400" stop="20250504150000 -0400" channel="Soccer 08">
-    <title>Event starts at 03:00 PM EDT</title>
-    <desc/>
-  </programme>
-  <programme start="20250504150000 -0400" stop="20250504170000 -0400" channel="Soccer 08">
-    <title>|LaLiga| Real Sociedad vs Athletic Club - 5/4 - 15:00ET</title>
-    <desc>|LaLiga| Real Sociedad vs Athletic Club - 5/4 - 15:00ET</desc>
-  </programme>
-  <programme start="20250504170000 -0400" stop="20250504220000 -0400" channel="Soccer 08">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250504013000 -0400" stop="20250504063000 -0400" channel="Soccer 09">
-    <title>Event starts at 06:30 AM EDT</title>
-    <desc/>
-  </programme>
-  <programme start="20250504063000 -0400" stop="20250504083000 -0400" channel="Soccer 09">
-    <title>|Serie A| Empoli vs Lazio - 5/4 - 06:30ET</title>
-    <desc>|Serie A| Empoli vs Lazio - 5/4 - 06:30ET</desc>
-  </programme>
-  <programme start="20250504083000 -0400" stop="20250504133000 -0400" channel="Soccer 09">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250504040000 -0400" stop="20250504090000 -0400" channel="Soccer 10">
-    <title>Event starts at 09:00 AM EDT</title>
-    <desc/>
-  </programme>
-  <programme start="20250504090000 -0400" stop="20250504110000 -0400" channel="Soccer 10">
-    <title>|Serie A| Monza vs Atalanta - 5/4 - 09:00ET</title>
-    <desc>|Serie A| Monza vs Atalanta - 5/4 - 09:00ET</desc>
-  </programme>
-  <programme start="20250504110000 -0400" stop="20250504160000 -0400" channel="Soccer 10">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250504070000 -0400" stop="20250504120000 -0400" channel="Soccer 11">
-    <title>Event starts at 12:00 PM EDT</title>
-    <desc/>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504140000 -0400" channel="Soccer 11">
-    <title>|Serie A| Roma vs Fiorentina - 5/4 - 12:00ET</title>
-    <desc>|Serie A| Roma vs Fiorentina - 5/4 - 12:00ET</desc>
-  </programme>
-  <programme start="20250504140000 -0400" stop="20250504190000 -0400" channel="Soccer 11">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250504094500 -0400" stop="20250504144500 -0400" channel="Soccer 12">
-    <title>Event starts at 02:45 PM EDT</title>
-    <desc/>
-  </programme>
-  <programme start="20250504144500 -0400" stop="20250504164500 -0400" channel="Soccer 12">
-    <title>|Serie A| Bologna vs Juventus - 5/4 - 14:45ET</title>
-    <desc>|Serie A| Bologna vs Juventus - 5/4 - 14:45ET</desc>
-  </programme>
-  <programme start="20250504164500 -0400" stop="20250504214500 -0400" channel="Soccer 12">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250504043000 -0400" stop="20250504093000 -0400" channel="Soccer 13">
-    <title>Event starts at 09:30 AM EDT</title>
-    <desc/>
-  </programme>
-  <programme start="20250504093000 -0400" stop="20250504113000 -0400" channel="Soccer 13">
-    <title>|Bundesliga| Augsburg vs Kiel - 5/4 - 09:30ET</title>
-    <desc>|Bundesliga| Augsburg vs Kiel - 5/4 - 09:30ET</desc>
-  </programme>
-  <programme start="20250504113000 -0400" stop="20250504163000 -0400" channel="Soccer 13">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250504063000 -0400" stop="20250504113000 -0400" channel="Soccer 14">
-    <title>Event starts at 11:30 AM EDT</title>
-    <desc/>
-  </programme>
-  <programme start="20250504113000 -0400" stop="20250504133000 -0400" channel="Soccer 14">
-    <title>|Bundesliga| Freiburg vs Leverkusen - 5/4 - 11:30ET</title>
-    <desc>|Bundesliga| Freiburg vs Leverkusen - 5/4 - 11:30ET</desc>
-  </programme>
-  <programme start="20250504133000 -0400" stop="20250504183000 -0400" channel="Soccer 14">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250504083000 -0400" stop="20250504133000 -0400" channel="Soccer 15">
-    <title>Event starts at 01:30 PM EDT</title>
-    <desc/>
-  </programme>
-  <programme start="20250504133000 -0400" stop="20250504153000 -0400" channel="Soccer 15">
-    <title>|Bundesliga| Mainz 05 vs Eintracht Frankfurt - 5/4 - 13:30ET</title>
-    <desc>|Bundesliga| Mainz 05 vs Eintracht Frankfurt - 5/4 - 13:30ET</desc>
-  </programme>
-  <programme start="20250504153000 -0400" stop="20250504203000 -0400" channel="Soccer 15">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250504040000 -0400" stop="20250504090000 -0400" channel="Soccer 16">
-    <title>Event starts at 09:00 AM EDT</title>
-    <desc/>
-  </programme>
-  <programme start="20250504090000 -0400" stop="20250504110000 -0400" channel="Soccer 16">
-    <title>|Ligue 1| Nantes vs Angers - 5/4 - 09:00ET</title>
-    <desc>|Ligue 1| Nantes vs Angers - 5/4 - 09:00ET</desc>
-  </programme>
-  <programme start="20250504110000 -0400" stop="20250504160000 -0400" channel="Soccer 16">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250504094500 -0400" stop="20250504144500 -0400" channel="Soccer 17">
-    <title>Event starts at 02:45 PM EDT</title>
-    <desc/>
-  </programme>
-  <programme start="20250504144500 -0400" stop="20250504164500 -0400" channel="Soccer 17">
-    <title>|Ligue 1| Lille vs Marseille - 5/4 - 14:45ET</title>
-    <desc>|Ligue 1| Lille vs Marseille - 5/4 - 14:45ET</desc>
-  </programme>
-  <programme start="20250504164500 -0400" stop="20250504214500 -0400" channel="Soccer 17">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250504053000 -0400" stop="20250504103000 -0400" channel="Soccer 18">
-    <title>Event starts at 10:30 AM EDT</title>
-    <desc/>
-  </programme>
-  <programme start="20250504103000 -0400" stop="20250504123000 -0400" channel="Soccer 18">
-    <title>|Betclic| Rio Ave vs Estrela - 5/4 - 10:30ET</title>
-    <desc>|Betclic| Rio Ave vs Estrela - 5/4 - 10:30ET</desc>
-  </programme>
-  <programme start="20250504123000 -0400" stop="20250504173000 -0400" channel="Soccer 18">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250504080000 -0400" stop="20250504130000 -0400" channel="Soccer 19">
-    <title>Event starts at 01:00 PM EDT</title>
-    <desc/>
-  </programme>
-  <programme start="20250504130000 -0400" stop="20250504150000 -0400" channel="Soccer 19">
-    <title>|Betclic| Arouca vs Casa Pia - 5/4 - 13:00ET</title>
-    <desc>|Betclic| Arouca vs Casa Pia - 5/4 - 13:00ET</desc>
-  </programme>
-  <programme start="20250504150000 -0400" stop="20250504200000 -0400" channel="Soccer 19">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250504103000 -0400" stop="20250504153000 -0400" channel="Soccer 20">
-    <title>Event starts at 03:30 PM EDT</title>
-    <desc/>
-  </programme>
-  <programme start="20250504153000 -0400" stop="20250504173000 -0400" channel="Soccer 20">
-    <title>|Betclic| Sporting vs Gil Vicente - 5/4 - 15:30ET</title>
-    <desc>|Betclic| Sporting vs Gil Vicente - 5/4 - 15:30ET</desc>
-  </programme>
-  <programme start="20250504173000 -0400" stop="20250504223000 -0400" channel="Soccer 20">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250504070000 -0400" stop="20250504120000 -0400" channel="Soccer 21">
-    <title>Event starts at 12:00 PM EDT</title>
-    <desc/>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504140000 -0400" channel="Soccer 21">
-    <title>|Belgian Cup| Club Brugge vs Anderlecht - 5/4 - 12:00ET</title>
-    <desc>|Belgian Cup| Club Brugge vs Anderlecht - 5/4 - 12:00ET</desc>
-  </programme>
-  <programme start="20250504140000 -0400" stop="20250504190000 -0400" channel="Soccer 21">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250504033000 -0400" stop="20250504083000 -0400" channel="Soccer 22">
-    <title>Event starts at 08:30 AM EDT</title>
-    <desc/>
-  </programme>
-  <programme start="20250504083000 -0400" stop="20250504103000 -0400" channel="Soccer 22">
-    <title>|Eredivisie| Go Ahead Eagles vs AZ - 5/4 - 08:30ET</title>
-    <desc>|Eredivisie| Go Ahead Eagles vs AZ - 5/4 - 08:30ET</desc>
-  </programme>
-  <programme start="20250504103000 -0400" stop="20250504153000 -0400" channel="Soccer 22">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250504020000 -0400" stop="20250504070000 -0400" channel="Soccer 23">
-    <title>Event starts at 07:00 AM EDT</title>
-    <desc/>
-  </programme>
-  <programme start="20250504070000 -0400" stop="20250504090000 -0400" channel="Soccer 23">
-    <title>|Premiership| Rangers vs Celtic - 5/4 - 07:00ET</title>
-    <desc>|Premiership| Rangers vs Celtic - 5/4 - 07:00ET</desc>
-  </programme>
-  <programme start="20250504090000 -0400" stop="20250504140000 -0400" channel="Soccer 23">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250504100000 -0400" stop="20250504150000 -0400" channel="Soccer 24">
-    <title>Event starts at 03:00 PM EDT</title>
-    <desc/>
-  </programme>
-  <programme start="20250504150000 -0400" stop="20250504170000 -0400" channel="Soccer 24">
-    <title>|Brasileirao| Vasco vs Palmeiras - 5/4 - 15:00ET</title>
-    <desc>|Brasileirao| Vasco vs Palmeiras - 5/4 - 15:00ET</desc>
-  </programme>
-  <programme start="20250504170000 -0400" stop="20250504220000 -0400" channel="Soccer 24">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250504100000 -0400" stop="20250504150000 -0400" channel="Soccer 25">
-    <title>Event starts at 03:00 PM EDT</title>
-    <desc/>
-  </programme>
-  <programme start="20250504150000 -0400" stop="20250504170000 -0400" channel="Soccer 25">
-    <title>|Brasileirao| Grêmio vs Santos - 5/4 - 15:00ET</title>
-    <desc>|Brasileirao| Grêmio vs Santos - 5/4 - 15:00ET</desc>
-  </programme>
-  <programme start="20250504170000 -0400" stop="20250504220000 -0400" channel="Soccer 25">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250504123000 -0400" stop="20250504173000 -0400" channel="Soccer 26">
-    <title>Event starts at 05:30 PM EDT</title>
-    <desc/>
-  </programme>
-  <programme start="20250504173000 -0400" stop="20250504193000 -0400" channel="Soccer 26">
-    <title>|Brasileirao| Cruzeiro vs Flamengo - 5/4 - 17:30ET</title>
-    <desc>|Brasileirao| Cruzeiro vs Flamengo - 5/4 - 17:30ET</desc>
-  </programme>
-  <programme start="20250504193000 -0400" stop="20250505003000 -0400" channel="Soccer 26">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250504100000 -0400" stop="20250504150000 -0400" channel="Soccer 27">
-    <title>Event starts at 03:00 PM EDT</title>
-    <desc/>
-  </programme>
-  <programme start="20250504150000 -0400" stop="20250504170000 -0400" channel="Soccer 27">
-    <title>|MLS| NYC vs Cincinnati - 5/4 - 15:00ET</title>
-    <desc>|MLS| NYC vs Cincinnati - 5/4 - 15:00ET</desc>
-  </programme>
-  <programme start="20250504170000 -0400" stop="20250504220000 -0400" channel="Soccer 27">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250504140000 -0400" stop="20250504190000 -0400" channel="Soccer 28">
-    <title>Event starts at 07:00 PM EDT</title>
-    <desc/>
-  </programme>
-  <programme start="20250504190000 -0400" stop="20250504210000 -0400" channel="Soccer 28">
-    <title>|MLS| Sporting KC vs LA Galaxy - 5/4 - 19:00ET</title>
-    <desc>|MLS| Sporting KC vs LA Galaxy - 5/4 - 19:00ET</desc>
-  </programme>
-  <programme start="20250504210000 -0400" stop="20250505020000 -0400" channel="Soccer 28">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250504163000 -0400" stop="20250504213000 -0400" channel="Soccer 29">
-    <title>Event starts at 09:30 PM EDT</title>
-    <desc/>
-  </programme>
-  <programme start="20250504213000 -0400" stop="20250504233000 -0400" channel="Soccer 29">
-    <title>|Liga MX| Monterrey vs Pumas UNAM - 5/4 - 21:30ET</title>
-    <desc>|Liga MX| Monterrey vs Pumas UNAM - 5/4 - 21:30ET</desc>
-  </programme>
-  <programme start="20250504233000 -0400" stop="20250505043000 -0400" channel="Soccer 29">
-    <title>Event has ended</title>
-    <desc/>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 30">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 31">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 32">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 33">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 34">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 35">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 36">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 37">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 38">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 39">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 40">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 41">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 42">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 43">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 44">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 45">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 46">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 47">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 48">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 49">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 50">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 51">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 52">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 53">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 54">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 55">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 56">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 57">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 58">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 59">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 60">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 61">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 62">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 63">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 64">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 65">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 66">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 67">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 68">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 69">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 70">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 71">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 72">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 73">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 74">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 75">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 76">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 77">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 78">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 79">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-  <programme start="20250504120000 -0400" stop="20250504170000 -0400" channel="Soccer 80">
-    <title>Scheduled Programming</title>
-    <desc>Scheduled programming</desc>
-  </programme>
-</tv>
+import pandas as pd
+import xml.etree.ElementTree as ET
+from xml.dom import minidom
+from datetime import datetime, timedelta
+import pytz # Library for timezone handling
+import re # For regex extraction
+
+# --- Configuration ---
+CSV_FILE_PATH = 'Soccer.xlsx - Sheet1.csv'
+XMLTV_OUTPUT_FILE = 'soccer_epg.xml'
+DEFAULT_GAME_DURATION_MINUTES = 120
+TIMEZONE = 'America/New_York' # IANA timezone identifier for ET
+NUM_CHANNELS = 80
+CHANNEL_PREFIX = 'Soccer'
+# Use the year the script is run or a specific year if needed
+# Since the data is '5/4', let's assume the current year.
+# Note: The context states the current date is May 4, 2025. We'll use 2025.
+YEAR = 2025
+
+# --- Helper Function to Format Datetime for XMLTV ---
+def format_xmltv_datetime(dt_obj):
+    """Formats a timezone-aware datetime object for XMLTV standard."""
+    if dt_obj.tzinfo is None:
+        # This should not happen if localization is done correctly
+        print(f"Warning: datetime object {dt_obj} lacks timezone info.")
+        # Fallback: Assume UTC or raise error? For now, format as is.
+        return dt_obj.strftime('%Y%m%d%H%M%S +0000')
+
+    # Format: YYYYMMDDHHMMSS <space>+/-HHMM
+    # Get UTC offset in hours and minutes
+    offset_seconds = dt_obj.utcoffset().total_seconds()
+    offset_hours = int(offset_seconds // 3600)
+    offset_minutes = int((offset_seconds % 3600) // 60)
+    offset_sign = '+' if offset_seconds >= 0 else '-'
+    # Create the offset string (e.g., "-0400" for EDT)
+    offset_str = f"{offset_sign}{abs(offset_hours):02d}{abs(offset_minutes):02d}"
+
+    return dt_obj.strftime(f'%Y%m%d%H%M%S {offset_str}')
+
+# --- Load and Clean Data ---
+print(f"Reading CSV file: {CSV_FILE_PATH}")
+try:
+    df_original = pd.read_csv(CSV_FILE_PATH)
+except FileNotFoundError:
+    print(f"Error: Input CSV file not found at {CSV_FILE_PATH}")
+    exit()
+
+df_cleaned = df_original.dropna(axis=1, how='all').copy()
+
+# Regex pattern from successful attempt (Attempt 2)
+# Captures: League, Home Team, Away Team (handling multi-word), Month, Day, Time(HH:MM), Timezone(ET)
+pattern_refined = r'\|([^|]+)\|\s*([^vs]+?)\s+vs\s+([^-\s]+(?:\s+[^-\s]+)*?)\s*-\s*(\d{1,2})/(\d{1,2})\s*-\s*(\d{1,2}:\d{2})(ET)'
+
+print("Parsing titles...")
+extracted_data = df_cleaned['Title'].str.extract(pattern_refined)
+
+# Assign extracted data to new columns
+df_cleaned[['League', 'Home Team', 'Away Team', 'Month', 'Day', 'Time', 'Timezone_Abbr']] = extracted_data
+
+# --- Data Preprocessing & Filtering ---
+# Drop rows where essential parts (like date/time/teams) couldn't be extracted
+df_cleaned = df_cleaned.dropna(subset=['League', 'Home Team', 'Away Team', 'Month', 'Day', 'Time'])
+df_cleaned = df_cleaned.reset_index(drop=True) # Reset index after dropping rows
+
+# Convert types and create naive datetime objects first
+try:
+    df_cleaned['Month'] = pd.to_numeric(df_cleaned['Month']).astype(int)
+    df_cleaned['Day'] = pd.to_numeric(df_cleaned['Day']).astype(int)
+    # Combine Year, Month, Day, Time into a single string for parsing
+    datetime_str = (
+        str(YEAR) + '-' +
+        df_cleaned['Month'].astype(str).str.zfill(2) + '-' +
+        df_cleaned['Day'].astype(str).str.zfill(2) + ' ' +
+        df_cleaned['Time']
+    )
+    # Create naive datetime objects (no timezone yet)
+    df_cleaned['NaiveStartDateTime'] = pd.to_datetime(datetime_str, format='%Y-%m-%d %H:%M', errors='coerce')
+except Exception as e:
+    print(f"Error converting date/time components: {e}")
+    # Drop rows where conversion failed
+    df_cleaned = df_cleaned.dropna(subset=['NaiveStartDateTime'])
+
+print(f"Successfully parsed {len(df_cleaned)} matches.")
+
+if len(df_cleaned) == 0:
+    print("No match data could be parsed. Exiting.")
+    exit()
+
+# --- Timezone Handling ---
+print(f"Applying timezone: {TIMEZONE}")
+tz = pytz.timezone(TIMEZONE)
+
+# Localize the naive datetime to the specified timezone
+df_cleaned['StartDateTime'] = df_cleaned['NaiveStartDateTime'].apply(lambda dt: tz.localize(dt))
+
+# Calculate StopDateTime based on default duration
+duration_delta = timedelta(minutes=DEFAULT_GAME_DURATION_MINUTES)
+df_cleaned['StopDateTime'] = df_cleaned['StartDateTime'] + duration_delta
+
+
+# --- Build XMLTV Structure ---
+print("Generating XMLTV structure...")
+# Create root element <tv>
+tv_root = ET.Element('tv', attrib={'generator-info-name': 'Custom Soccer EPG Script'})
+
+# Create <channel> elements
+print(f"Generating {NUM_CHANNELS} channel entries...")
+for i in range(1, NUM_CHANNELS + 1):
+    channel_id = f"{CHANNEL_PREFIX} {i:02d}"
+    channel_elem = ET.SubElement(tv_root, 'channel', attrib={'id': channel_id})
+    display_name_elem = ET.SubElement(channel_elem, 'display-name')
+    display_name_elem.text = channel_id
+
+# Create <programme> elements for actual games and pre-game events
+print("Generating program entries...")
+match_count = 0
+for index, row in df_cleaned.iterrows():
+    match_count += 1
+    if match_count > NUM_CHANNELS:
+        print(f"Warning: More matches ({len(df_cleaned)}) than channels ({NUM_CHANNELS}). Skipping remaining matches.")
+        break
+
+    channel_id = f"{CHANNEL_PREFIX} {match_count:02d}"
+    game_start_time = row['StartDateTime']
+    game_stop_time = row['StopDateTime']
+
+    # --- Generate Pre-Game Events ---
+    pre_game_title = f" Game will start at {game_start_time.strftime('%H:%M%Z')}" # e.g., " Game will start at 09:00EDT"
+    # Correct title format as requested: " Game will start at HH:MMET"
+    # Need to determine if it's EDT or EST for the "ET" suffix reliably, or just use "ET"
+    # Let's stick to the user request format using "ET" explicitly.
+    pre_game_title = f" Game will start at {game_start_time.strftime('%H:%M')}ET"
+
+
+    day_start_time = game_start_time.replace(hour=0, minute=0, second=0, microsecond=0)
+    current_pre_game_start = day_start_time
+
+    while current_pre_game_start < game_start_time:
+        # Stop time is 2 hours later, but capped at the actual game start time
+        current_pre_game_stop = min(current_pre_game_start + timedelta(hours=2), game_start_time)
+
+        # Avoid creating zero-duration events if game starts exactly on a 2-hour mark
+        if current_pre_game_start >= current_pre_game_stop:
+            break
+
+        pre_game_elem = ET.SubElement(tv_root, 'programme', attrib={
+            'start': format_xmltv_datetime(current_pre_game_start),
+            'stop': format_xmltv_datetime(current_pre_game_stop),
+            'channel': channel_id
+        })
+        title_elem = ET.SubElement(pre_game_elem, 'title', attrib={'lang': 'en'})
+        title_elem.text = pre_game_title
+        cat_elem = ET.SubElement(pre_game_elem, 'category', attrib={'lang': 'en'})
+        cat_elem.text = 'Sports' # Generic category
+
+        # Move to the next pre-game slot
+        current_pre_game_start = current_pre_game_stop
+
+
+    # --- Generate Actual Game Event ---
+    programme_elem = ET.SubElement(tv_root, 'programme', attrib={
+        'start': format_xmltv_datetime(game_start_time),
+        'stop': format_xmltv_datetime(game_stop_time),
+        'channel': channel_id
+    })
+
+    # Title (e.g., "EPL: Brighton vs Newcastle")
+    title_elem = ET.SubElement(programme_elem, 'title', attrib={'lang': 'en'})
+    title_elem.text = f"{row['League']}: {row['Home Team']} vs {row['Away Team']}"
+
+    # Description
+    desc_elem = ET.SubElement(programme_elem, 'desc', attrib={'lang': 'en'})
+    desc_elem.text = f"Live {row['League']} action: {row['Home Team']} takes on {row['Away Team']}."
+
+    # Category
+    cat_elem1 = ET.SubElement(programme_elem, 'category', attrib={'lang': 'en'})
+    cat_elem1.text = 'Sports'
+    cat_elem2 = ET.SubElement(programme_elem, 'category', attrib={'lang': 'en'})
+    cat_elem2.text = 'Soccer'
+
+# --- Write XML File ---
+print(f"Writing XMLTV file to: {XMLTV_OUTPUT_FILE}")
+# Use minidom for pretty printing (indentation)
+xml_string = ET.tostring(tv_root, encoding='UTF-8', method='xml')
+dom = minidom.parseString(xml_string)
+pretty_xml_as_string = dom.toprettyxml(indent="  ", encoding='UTF-8')
+
+try:
+    with open(XMLTV_OUTPUT_FILE, "wb") as f: # Write in binary mode for UTF-8
+        f.write(pretty_xml_as_string)
+    print("Successfully generated XMLTV file.")
+except Exception as e:
+    print(f"Error writing XML file: {e}")
