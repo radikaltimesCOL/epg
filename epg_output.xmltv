@@ -161,7 +161,7 @@
     <display-name>Soccer 40</display-name>
     <display-name>Soccer Channel 40</display-name>
   </channel>
-  <programme start="20260704153000 +0000" stop="20260704160000 +0000" channel="soccer 06">
+  <programme start="20260704203000 +0000" stop="20260704210000 +0000" channel="soccer 06">
     <title>Pre-Game: Denmark vs Sweden</title>
     <desc>Pre-game analysis and coverage for Womens Euro: Denmark vs Sweden</desc>
     <category>Sports</category>
@@ -169,14 +169,14 @@
     <category>Pre-Game</category>
     <category>Womens Euro</category>
   </programme>
-  <programme start="20260704160000 +0000" stop="20260704180000 +0000" channel="soccer 06">
+  <programme start="20260704210000 +0000" stop="20260704230000 +0000" channel="soccer 06">
     <title>Denmark vs Sweden</title>
     <desc>Womens Euro: Denmark vs Sweden</desc>
     <category>Sports</category>
     <category>Soccer</category>
     <category>Womens Euro</category>
   </programme>
-  <programme start="20260704180000 +0000" stop="20260704183000 +0000" channel="soccer 06">
+  <programme start="20260704230000 +0000" stop="20260704233000 +0000" channel="soccer 06">
     <title>Post-Game: Denmark vs Sweden</title>
     <desc>Post-game analysis and highlights for Womens Euro: Denmark vs Sweden</desc>
     <category>Sports</category>
@@ -184,7 +184,7 @@
     <category>Post-Game</category>
     <category>Womens Euro</category>
   </programme>
-  <programme start="20260704183000 +0000" stop="20260704190000 +0000" channel="soccer 01">
+  <programme start="20260704233000 +0000" stop="20260705000000 +0000" channel="soccer 01">
     <title>Pre-Game: Fluminense vs Al Hilal</title>
     <desc>Pre-game analysis and coverage for Club Cup: Fluminense vs Al Hilal</desc>
     <category>Sports</category>
@@ -192,7 +192,7 @@
     <category>Pre-Game</category>
     <category>Club Cup</category>
   </programme>
-  <programme start="20260704183000 +0000" stop="20260704190000 +0000" channel="soccer 07">
+  <programme start="20260704233000 +0000" stop="20260705000000 +0000" channel="soccer 07">
     <title>Pre-Game: Germany vs Poland</title>
     <desc>Pre-game analysis and coverage for Womens Euro: Germany vs Poland</desc>
     <category>Sports</category>
@@ -200,21 +200,21 @@
     <category>Pre-Game</category>
     <category>Womens Euro</category>
   </programme>
-  <programme start="20260704190000 +0000" stop="20260704210000 +0000" channel="soccer 01">
+  <programme start="20260705000000 +0000" stop="20260705020000 +0000" channel="soccer 01">
     <title>Fluminense vs Al Hilal</title>
     <desc>Club Cup: Fluminense vs Al Hilal</desc>
     <category>Sports</category>
     <category>Soccer</category>
     <category>Club Cup</category>
   </programme>
-  <programme start="20260704190000 +0000" stop="20260704210000 +0000" channel="soccer 07">
+  <programme start="20260705000000 +0000" stop="20260705020000 +0000" channel="soccer 07">
     <title>Germany vs Poland</title>
     <desc>Womens Euro: Germany vs Poland</desc>
     <category>Sports</category>
     <category>Soccer</category>
     <category>Womens Euro</category>
   </programme>
-  <programme start="20260704210000 +0000" stop="20260704213000 +0000" channel="soccer 01">
+  <programme start="20260705020000 +0000" stop="20260705023000 +0000" channel="soccer 01">
     <title>Post-Game: Fluminense vs Al Hilal</title>
     <desc>Post-game analysis and highlights for Club Cup: Fluminense vs Al Hilal</desc>
     <category>Sports</category>
@@ -222,7 +222,7 @@
     <category>Post-Game</category>
     <category>Club Cup</category>
   </programme>
-  <programme start="20260704210000 +0000" stop="20260704213000 +0000" channel="soccer 07">
+  <programme start="20260705020000 +0000" stop="20260705023000 +0000" channel="soccer 07">
     <title>Post-Game: Germany vs Poland</title>
     <desc>Post-game analysis and highlights for Womens Euro: Germany vs Poland</desc>
     <category>Sports</category>
@@ -230,7 +230,7 @@
     <category>Post-Game</category>
     <category>Womens Euro</category>
   </programme>
-  <programme start="20260705001500 +0000" stop="20260705004500 +0000" channel="soccer 03">
+  <programme start="20260705051500 +0000" stop="20260705054500 +0000" channel="soccer 03">
     <title>Pre-Game: Dallas vs Minnesota</title>
     <desc>Pre-game analysis and coverage for MLS: Dallas vs Minnesota</desc>
     <category>Sports</category>
@@ -238,14 +238,14 @@
     <category>Pre-Game</category>
     <category>MLS</category>
   </programme>
-  <programme start="20260705004500 +0000" stop="20260705024500 +0000" channel="soccer 03">
+  <programme start="20260705054500 +0000" stop="20260705074500 +0000" channel="soccer 03">
     <title>Dallas vs Minnesota</title>
     <desc>MLS: Dallas vs Minnesota</desc>
     <category>Sports</category>
     <category>Soccer</category>
     <category>MLS</category>
   </programme>
-  <programme start="20260705010000 +0000" stop="20260705013000 +0000" channel="soccer 02">
+  <programme start="20260705060000 +0000" stop="20260705063000 +0000" channel="soccer 02">
     <title>Pre-Game: Palmeiras vs Chelsea</title>
     <desc>Pre-game analysis and coverage for Club Cup: Palmeiras vs Chelsea</desc>
     <category>Sports</category>
@@ -253,7 +253,7 @@
     <category>Pre-Game</category>
     <category>Club Cup</category>
   </programme>
-  <programme start="20260705010000 +0000" stop="20260705013000 +0000" channel="soccer 04">
+  <programme start="20260705060000 +0000" stop="20260705063000 +0000" channel="soccer 04">
     <title>Pre-Game: Colorado vs Sporting KC</title>
     <desc>Pre-game analysis and coverage for MLS: Colorado vs Sporting KC</desc>
     <category>Sports</category>
@@ -261,21 +261,21 @@
     <category>Pre-Game</category>
     <category>MLS</category>
   </programme>
-  <programme start="20260705013000 +0000" stop="20260705033000 +0000" channel="soccer 02">
+  <programme start="20260705063000 +0000" stop="20260705083000 +0000" channel="soccer 02">
     <title>Palmeiras vs Chelsea</title>
     <desc>Club Cup: Palmeiras vs Chelsea</desc>
     <category>Sports</category>
     <category>Soccer</category>
     <category>Club Cup</category>
   </programme>
-  <programme start="20260705013000 +0000" stop="20260705033000 +0000" channel="soccer 04">
+  <programme start="20260705063000 +0000" stop="20260705083000 +0000" channel="soccer 04">
     <title>Colorado vs Sporting KC</title>
     <desc>MLS: Colorado vs Sporting KC</desc>
     <category>Sports</category>
     <category>Soccer</category>
     <category>MLS</category>
   </programme>
-  <programme start="20260705020000 +0000" stop="20260705023000 +0000" channel="soccer 05">
+  <programme start="20260705070000 +0000" stop="20260705073000 +0000" channel="soccer 05">
     <title>Pre-Game: LA Galaxy vs Vancouver</title>
     <desc>Pre-game analysis and coverage for MLS: LA Galaxy vs Vancouver</desc>
     <category>Sports</category>
@@ -283,14 +283,14 @@
     <category>Pre-Game</category>
     <category>MLS</category>
   </programme>
-  <programme start="20260705023000 +0000" stop="20260705043000 +0000" channel="soccer 05">
+  <programme start="20260705073000 +0000" stop="20260705093000 +0000" channel="soccer 05">
     <title>LA Galaxy vs Vancouver</title>
     <desc>MLS: LA Galaxy vs Vancouver</desc>
     <category>Sports</category>
     <category>Soccer</category>
     <category>MLS</category>
   </programme>
-  <programme start="20260705024500 +0000" stop="20260705031500 +0000" channel="soccer 03">
+  <programme start="20260705074500 +0000" stop="20260705081500 +0000" channel="soccer 03">
     <title>Post-Game: Dallas vs Minnesota</title>
     <desc>Post-game analysis and highlights for MLS: Dallas vs Minnesota</desc>
     <category>Sports</category>
@@ -298,7 +298,7 @@
     <category>Post-Game</category>
     <category>MLS</category>
   </programme>
-  <programme start="20260705033000 +0000" stop="20260705040000 +0000" channel="soccer 02">
+  <programme start="20260705083000 +0000" stop="20260705090000 +0000" channel="soccer 02">
     <title>Post-Game: Palmeiras vs Chelsea</title>
     <desc>Post-game analysis and highlights for Club Cup: Palmeiras vs Chelsea</desc>
     <category>Sports</category>
@@ -306,7 +306,7 @@
     <category>Post-Game</category>
     <category>Club Cup</category>
   </programme>
-  <programme start="20260705033000 +0000" stop="20260705040000 +0000" channel="soccer 04">
+  <programme start="20260705083000 +0000" stop="20260705090000 +0000" channel="soccer 04">
     <title>Post-Game: Colorado vs Sporting KC</title>
     <desc>Post-game analysis and highlights for MLS: Colorado vs Sporting KC</desc>
     <category>Sports</category>
@@ -314,7 +314,7 @@
     <category>Post-Game</category>
     <category>MLS</category>
   </programme>
-  <programme start="20260705043000 +0000" stop="20260705050000 +0000" channel="soccer 05">
+  <programme start="20260705093000 +0000" stop="20260705100000 +0000" channel="soccer 05">
     <title>Post-Game: LA Galaxy vs Vancouver</title>
     <desc>Post-game analysis and highlights for MLS: LA Galaxy vs Vancouver</desc>
     <category>Sports</category>
