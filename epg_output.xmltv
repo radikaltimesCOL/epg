@@ -120,9 +120,41 @@
   <channel id="Soccer 40">
     <display-name>Soccer 40</display-name>
   </channel>
+  <programme start="20250703050000 -0400" stop="20250703150000 -0400" channel="Soccer 01">
+    <title>Coming Up: Fluminense vs Al Hilal</title>
+    <desc>Fluminense vs Al Hilal starts at 3:00 PM ET. Stay tuned for live coverage of this Club Cup match.</desc>
+  </programme>
+  <programme start="20250703050000 -0400" stop="20250703213000 -0400" channel="Soccer 02">
+    <title>Coming Up: Palmeiras vs Chelsea</title>
+    <desc>Palmeiras vs Chelsea starts at 9:30 PM ET. Stay tuned for live coverage of this Club Cup match.</desc>
+  </programme>
+  <programme start="20250703050000 -0400" stop="20250703204500 -0400" channel="Soccer 03">
+    <title>Coming Up: Dallas vs Minnesota</title>
+    <desc>Dallas vs Minnesota starts at 8:45 PM ET. Stay tuned for live coverage of this MLS match.</desc>
+  </programme>
+  <programme start="20250703050000 -0400" stop="20250703213000 -0400" channel="Soccer 04">
+    <title>Coming Up: Colorado vs Sporting KC</title>
+    <desc>Colorado vs Sporting KC starts at 9:30 PM ET. Stay tuned for live coverage of this MLS match.</desc>
+  </programme>
+  <programme start="20250703050000 -0400" stop="20250703223000 -0400" channel="Soccer 05">
+    <title>Coming Up: LA Galaxy vs Vancouver</title>
+    <desc>LA Galaxy vs Vancouver starts at 10:30 PM ET. Stay tuned for live coverage of this MLS match.</desc>
+  </programme>
+  <programme start="20250703050000 -0400" stop="20250703120000 -0400" channel="Soccer 06">
+    <title>Coming Up: Denmark vs Sweden</title>
+    <desc>Denmark vs Sweden starts at 12:00 PM ET. Stay tuned for live coverage of this Womens Euro match.</desc>
+  </programme>
+  <programme start="20250703050000 -0400" stop="20250703150000 -0400" channel="Soccer 07">
+    <title>Coming Up: Germany vs Poland</title>
+    <desc>Germany vs Poland starts at 3:00 PM ET. Stay tuned for live coverage of this Womens Euro match.</desc>
+  </programme>
   <programme start="20250703120000 -0400" stop="20250703140000 -0400" channel="Soccer 06">
     <title>Womens Euro Denmark vs Sweden</title>
     <desc>Womens Euro: Denmark vs Sweden</desc>
+  </programme>
+  <programme start="20250703140000 -0400" stop="20250703160000 -0400" channel="Soccer 06">
+    <title>Game Ended: Denmark vs Sweden</title>
+    <desc>Womens Euro match Denmark vs Sweden has ended. Thank you for watching. Stay tuned for more soccer programming.</desc>
   </programme>
   <programme start="20250703150000 -0400" stop="20250703170000 -0400" channel="Soccer 01">
     <title>Club Cup Fluminense vs Al Hilal</title>
@@ -131,6 +163,14 @@
   <programme start="20250703150000 -0400" stop="20250703170000 -0400" channel="Soccer 07">
     <title>Womens Euro Germany vs Poland</title>
     <desc>Womens Euro: Germany vs Poland</desc>
+  </programme>
+  <programme start="20250703170000 -0400" stop="20250703190000 -0400" channel="Soccer 01">
+    <title>Game Ended: Fluminense vs Al Hilal</title>
+    <desc>Club Cup match Fluminense vs Al Hilal has ended. Thank you for watching. Stay tuned for more soccer programming.</desc>
+  </programme>
+  <programme start="20250703170000 -0400" stop="20250703190000 -0400" channel="Soccer 07">
+    <title>Game Ended: Germany vs Poland</title>
+    <desc>Womens Euro match Germany vs Poland has ended. Thank you for watching. Stay tuned for more soccer programming.</desc>
   </programme>
   <programme start="20250703204500 -0400" stop="20250703224500 -0400" channel="Soccer 03">
     <title>MLS Dallas vs Minnesota</title>
@@ -147,6 +187,22 @@
   <programme start="20250703223000 -0400" stop="20250704003000 -0400" channel="Soccer 05">
     <title>MLS LA Galaxy vs Vancouver</title>
     <desc>MLS: LA Galaxy vs Vancouver</desc>
+  </programme>
+  <programme start="20250703224500 -0400" stop="20250704004500 -0400" channel="Soccer 03">
+    <title>Game Ended: Dallas vs Minnesota</title>
+    <desc>MLS match Dallas vs Minnesota has ended. Thank you for watching. Stay tuned for more soccer programming.</desc>
+  </programme>
+  <programme start="20250703233000 -0400" stop="20250704013000 -0400" channel="Soccer 02">
+    <title>Game Ended: Palmeiras vs Chelsea</title>
+    <desc>Club Cup match Palmeiras vs Chelsea has ended. Thank you for watching. Stay tuned for more soccer programming.</desc>
+  </programme>
+  <programme start="20250703233000 -0400" stop="20250704013000 -0400" channel="Soccer 04">
+    <title>Game Ended: Colorado vs Sporting KC</title>
+    <desc>MLS match Colorado vs Sporting KC has ended. Thank you for watching. Stay tuned for more soccer programming.</desc>
+  </programme>
+  <programme start="20250704003000 -0400" stop="20250704023000 -0400" channel="Soccer 05">
+    <title>Game Ended: LA Galaxy vs Vancouver</title>
+    <desc>MLS match LA Galaxy vs Vancouver has ended. Thank you for watching. Stay tuned for more soccer programming.</desc>
   </programme>
   <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 08">
     <title>Scheduled Programming</title>
