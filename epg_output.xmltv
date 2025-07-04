@@ -1,338 +1,338 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv generator-info-name="Custom EPG Generator Script">
-  <channel id="soccer 01">
+  <channel id="Soccer 01">
     <display-name>Soccer 01</display-name>
   </channel>
-  <channel id="soccer 02">
+  <channel id="Soccer 02">
     <display-name>Soccer 02</display-name>
   </channel>
-  <channel id="soccer 03">
+  <channel id="Soccer 03">
     <display-name>Soccer 03</display-name>
   </channel>
-  <channel id="soccer 04">
+  <channel id="Soccer 04">
     <display-name>Soccer 04</display-name>
   </channel>
-  <channel id="soccer 05">
+  <channel id="Soccer 05">
     <display-name>Soccer 05</display-name>
   </channel>
-  <channel id="soccer 06">
+  <channel id="Soccer 06">
     <display-name>Soccer 06</display-name>
   </channel>
-  <channel id="soccer 07">
+  <channel id="Soccer 07">
     <display-name>Soccer 07</display-name>
   </channel>
-  <channel id="soccer 08">
+  <channel id="Soccer 08">
     <display-name>Soccer 08</display-name>
   </channel>
-  <channel id="soccer 09">
+  <channel id="Soccer 09">
     <display-name>Soccer 09</display-name>
   </channel>
-  <channel id="soccer 10">
+  <channel id="Soccer 10">
     <display-name>Soccer 10</display-name>
   </channel>
-  <channel id="soccer 11">
+  <channel id="Soccer 11">
     <display-name>Soccer 11</display-name>
   </channel>
-  <channel id="soccer 12">
+  <channel id="Soccer 12">
     <display-name>Soccer 12</display-name>
   </channel>
-  <channel id="soccer 13">
+  <channel id="Soccer 13">
     <display-name>Soccer 13</display-name>
   </channel>
-  <channel id="soccer 14">
+  <channel id="Soccer 14">
     <display-name>Soccer 14</display-name>
   </channel>
-  <channel id="soccer 15">
+  <channel id="Soccer 15">
     <display-name>Soccer 15</display-name>
   </channel>
-  <channel id="soccer 16">
+  <channel id="Soccer 16">
     <display-name>Soccer 16</display-name>
   </channel>
-  <channel id="soccer 17">
+  <channel id="Soccer 17">
     <display-name>Soccer 17</display-name>
   </channel>
-  <channel id="soccer 18">
+  <channel id="Soccer 18">
     <display-name>Soccer 18</display-name>
   </channel>
-  <channel id="soccer 19">
+  <channel id="Soccer 19">
     <display-name>Soccer 19</display-name>
   </channel>
-  <channel id="soccer 20">
+  <channel id="Soccer 20">
     <display-name>Soccer 20</display-name>
   </channel>
-  <channel id="soccer 21">
+  <channel id="Soccer 21">
     <display-name>Soccer 21</display-name>
   </channel>
-  <channel id="soccer 22">
+  <channel id="Soccer 22">
     <display-name>Soccer 22</display-name>
   </channel>
-  <channel id="soccer 23">
+  <channel id="Soccer 23">
     <display-name>Soccer 23</display-name>
   </channel>
-  <channel id="soccer 24">
+  <channel id="Soccer 24">
     <display-name>Soccer 24</display-name>
   </channel>
-  <channel id="soccer 25">
+  <channel id="Soccer 25">
     <display-name>Soccer 25</display-name>
   </channel>
-  <channel id="soccer 26">
+  <channel id="Soccer 26">
     <display-name>Soccer 26</display-name>
   </channel>
-  <channel id="soccer 27">
+  <channel id="Soccer 27">
     <display-name>Soccer 27</display-name>
   </channel>
-  <channel id="soccer 28">
+  <channel id="Soccer 28">
     <display-name>Soccer 28</display-name>
   </channel>
-  <channel id="soccer 29">
+  <channel id="Soccer 29">
     <display-name>Soccer 29</display-name>
   </channel>
-  <channel id="soccer 30">
+  <channel id="Soccer 30">
     <display-name>Soccer 30</display-name>
   </channel>
-  <channel id="soccer 31">
+  <channel id="Soccer 31">
     <display-name>Soccer 31</display-name>
   </channel>
-  <channel id="soccer 32">
+  <channel id="Soccer 32">
     <display-name>Soccer 32</display-name>
   </channel>
-  <channel id="soccer 33">
+  <channel id="Soccer 33">
     <display-name>Soccer 33</display-name>
   </channel>
-  <channel id="soccer 34">
+  <channel id="Soccer 34">
     <display-name>Soccer 34</display-name>
   </channel>
-  <channel id="soccer 35">
+  <channel id="Soccer 35">
     <display-name>Soccer 35</display-name>
   </channel>
-  <channel id="soccer 36">
+  <channel id="Soccer 36">
     <display-name>Soccer 36</display-name>
   </channel>
-  <channel id="soccer 37">
+  <channel id="Soccer 37">
     <display-name>Soccer 37</display-name>
   </channel>
-  <channel id="soccer 38">
+  <channel id="Soccer 38">
     <display-name>Soccer 38</display-name>
   </channel>
-  <channel id="soccer 39">
+  <channel id="Soccer 39">
     <display-name>Soccer 39</display-name>
   </channel>
-  <channel id="soccer 40">
+  <channel id="Soccer 40">
     <display-name>Soccer 40</display-name>
   </channel>
-  <programme start="20250704113000 -0400" stop="20250704120000 -0400" channel="soccer 06">
+  <programme start="20250704113000 -0400" stop="20250704120000 -0400" channel="Soccer 06">
     <title>Pre-Game: Denmark vs Sweden</title>
     <desc>Pre-game analysis and coverage for Womens Euro: Denmark vs Sweden</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704140000 -0400" channel="soccer 06">
+  <programme start="20250704120000 -0400" stop="20250704140000 -0400" channel="Soccer 06">
     <title>Womens Euro Denmark vs Sweden</title>
     <desc>Womens Euro Denmark vs Sweden</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 08">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 08">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 09">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 09">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 10">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 10">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 11">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 11">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 12">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 12">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 13">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 13">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 14">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 14">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 15">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 15">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 16">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 16">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 17">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 17">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 18">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 18">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 19">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 19">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 20">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 20">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 21">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 21">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 22">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 22">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 23">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 23">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 24">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 24">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 25">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 25">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 26">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 26">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 27">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 27">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 28">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 28">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 29">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 29">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 30">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 30">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 31">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 31">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 32">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 32">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 33">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 33">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 34">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 34">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 35">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 35">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 36">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 36">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 37">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 37">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 38">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 38">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 39">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 39">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="soccer 40">
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 40">
     <title>Scheduled Programming</title>
     <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250704140000 -0400" stop="20250704143000 -0400" channel="soccer 06">
+  <programme start="20250704140000 -0400" stop="20250704143000 -0400" channel="Soccer 06">
     <title>Post-Game: Denmark vs Sweden</title>
     <desc>Post-game analysis and highlights for Womens Euro: Denmark vs Sweden</desc>
   </programme>
-  <programme start="20250704143000 -0400" stop="20250704150000 -0400" channel="soccer 01">
+  <programme start="20250704143000 -0400" stop="20250704150000 -0400" channel="Soccer 01">
     <title>Pre-Game: Fluminense vs Al Hilal</title>
     <desc>Pre-game analysis and coverage for Club Cup: Fluminense vs Al Hilal</desc>
   </programme>
-  <programme start="20250704143000 -0400" stop="20250704150000 -0400" channel="soccer 07">
+  <programme start="20250704143000 -0400" stop="20250704150000 -0400" channel="Soccer 07">
     <title>Pre-Game: Germany vs Poland</title>
     <desc>Pre-game analysis and coverage for Womens Euro: Germany vs Poland</desc>
   </programme>
-  <programme start="20250704150000 -0400" stop="20250704170000 -0400" channel="soccer 01">
+  <programme start="20250704150000 -0400" stop="20250704170000 -0400" channel="Soccer 01">
     <title>Club Cup Fluminense vs Al Hilal</title>
     <desc>Club Cup Fluminense vs Al Hilal</desc>
   </programme>
-  <programme start="20250704150000 -0400" stop="20250704170000 -0400" channel="soccer 07">
+  <programme start="20250704150000 -0400" stop="20250704170000 -0400" channel="Soccer 07">
     <title>Womens Euro Germany vs Poland</title>
     <desc>Womens Euro Germany vs Poland</desc>
   </programme>
-  <programme start="20250704170000 -0400" stop="20250704173000 -0400" channel="soccer 01">
+  <programme start="20250704170000 -0400" stop="20250704173000 -0400" channel="Soccer 01">
     <title>Post-Game: Fluminense vs Al Hilal</title>
     <desc>Post-game analysis and highlights for Club Cup: Fluminense vs Al Hilal</desc>
   </programme>
-  <programme start="20250704170000 -0400" stop="20250704173000 -0400" channel="soccer 07">
+  <programme start="20250704170000 -0400" stop="20250704173000 -0400" channel="Soccer 07">
     <title>Post-Game: Germany vs Poland</title>
     <desc>Post-game analysis and highlights for Womens Euro: Germany vs Poland</desc>
   </programme>
-  <programme start="20250704201500 -0400" stop="20250704204500 -0400" channel="soccer 03">
+  <programme start="20250704201500 -0400" stop="20250704204500 -0400" channel="Soccer 03">
     <title>Pre-Game: Dallas vs Minnesota</title>
     <desc>Pre-game analysis and coverage for MLS: Dallas vs Minnesota</desc>
   </programme>
-  <programme start="20250704204500 -0400" stop="20250704224500 -0400" channel="soccer 03">
+  <programme start="20250704204500 -0400" stop="20250704224500 -0400" channel="Soccer 03">
     <title>MLS Dallas vs Minnesota</title>
     <desc>MLS Dallas vs Minnesota</desc>
   </programme>
-  <programme start="20250704210000 -0400" stop="20250704213000 -0400" channel="soccer 02">
+  <programme start="20250704210000 -0400" stop="20250704213000 -0400" channel="Soccer 02">
     <title>Pre-Game: Palmeiras vs Chelsea</title>
     <desc>Pre-game analysis and coverage for Club Cup: Palmeiras vs Chelsea</desc>
   </programme>
-  <programme start="20250704210000 -0400" stop="20250704213000 -0400" channel="soccer 04">
+  <programme start="20250704210000 -0400" stop="20250704213000 -0400" channel="Soccer 04">
     <title>Pre-Game: Colorado vs Sporting KC</title>
     <desc>Pre-game analysis and coverage for MLS: Colorado vs Sporting KC</desc>
   </programme>
-  <programme start="20250704213000 -0400" stop="20250704233000 -0400" channel="soccer 02">
+  <programme start="20250704213000 -0400" stop="20250704233000 -0400" channel="Soccer 02">
     <title>Club Cup Palmeiras vs Chelsea</title>
     <desc>Club Cup Palmeiras vs Chelsea</desc>
   </programme>
-  <programme start="20250704213000 -0400" stop="20250704233000 -0400" channel="soccer 04">
+  <programme start="20250704213000 -0400" stop="20250704233000 -0400" channel="Soccer 04">
     <title>MLS Colorado vs Sporting KC</title>
     <desc>MLS Colorado vs Sporting KC</desc>
   </programme>
-  <programme start="20250704220000 -0400" stop="20250704223000 -0400" channel="soccer 05">
+  <programme start="20250704220000 -0400" stop="20250704223000 -0400" channel="Soccer 05">
     <title>Pre-Game: LA Galaxy vs Vancouver</title>
     <desc>Pre-game analysis and coverage for MLS: LA Galaxy vs Vancouver</desc>
   </programme>
-  <programme start="20250704223000 -0400" stop="20250705003000 -0400" channel="soccer 05">
+  <programme start="20250704223000 -0400" stop="20250705003000 -0400" channel="Soccer 05">
     <title>MLS LA Galaxy vs Vancouver</title>
     <desc>MLS LA Galaxy vs Vancouver</desc>
   </programme>
-  <programme start="20250704224500 -0400" stop="20250704231500 -0400" channel="soccer 03">
+  <programme start="20250704224500 -0400" stop="20250704231500 -0400" channel="Soccer 03">
     <title>Post-Game: Dallas vs Minnesota</title>
     <desc>Post-game analysis and highlights for MLS: Dallas vs Minnesota</desc>
   </programme>
-  <programme start="20250704233000 -0400" stop="20250705000000 -0400" channel="soccer 02">
+  <programme start="20250704233000 -0400" stop="20250705000000 -0400" channel="Soccer 02">
     <title>Post-Game: Palmeiras vs Chelsea</title>
     <desc>Post-game analysis and highlights for Club Cup: Palmeiras vs Chelsea</desc>
   </programme>
-  <programme start="20250704233000 -0400" stop="20250705000000 -0400" channel="soccer 04">
+  <programme start="20250704233000 -0400" stop="20250705000000 -0400" channel="Soccer 04">
     <title>Post-Game: Colorado vs Sporting KC</title>
     <desc>Post-game analysis and highlights for MLS: Colorado vs Sporting KC</desc>
   </programme>
-  <programme start="20250705003000 -0400" stop="20250705010000 -0400" channel="soccer 05">
+  <programme start="20250705003000 -0400" stop="20250705010000 -0400" channel="Soccer 05">
     <title>Post-Game: LA Galaxy vs Vancouver</title>
     <desc>Post-game analysis and highlights for MLS: LA Galaxy vs Vancouver</desc>
   </programme>
