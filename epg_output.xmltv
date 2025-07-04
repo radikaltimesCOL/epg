@@ -120,33 +120,33 @@
   <channel id="Soccer 40">
     <display-name>Soccer 40</display-name>
   </channel>
-  <programme start="20250703120000 -0400" stop="20250703140000 -0400" channel="Soccer 06">
-    <title>Womens Euro Denmark vs Sweden</title>
-    <desc>Womens Euro Denmark vs Sweden</desc>
+  <programme start="20250704120000 -0400" stop="20250704140000 -0400" channel="Soccer 01">
+    <title>Test Programme 1</title>
+    <desc>Test programme for Soccer 01</desc>
   </programme>
-  <programme start="20250703150000 -0400" stop="20250703170000 -0400" channel="Soccer 01">
-    <title>Club Cup Fluminense vs Al Hilal</title>
-    <desc>Club Cup Fluminense vs Al Hilal</desc>
+  <programme start="20250704130000 -0400" stop="20250704150000 -0400" channel="Soccer 02">
+    <title>Test Programme 2</title>
+    <desc>Test programme for Soccer 02</desc>
   </programme>
-  <programme start="20250703150000 -0400" stop="20250703170000 -0400" channel="Soccer 07">
-    <title>Womens Euro Germany vs Poland</title>
-    <desc>Womens Euro Germany vs Poland</desc>
+  <programme start="20250704140000 -0400" stop="20250704160000 -0400" channel="Soccer 03">
+    <title>Test Programme 3</title>
+    <desc>Test programme for Soccer 03</desc>
   </programme>
-  <programme start="20250703204500 -0400" stop="20250703224500 -0400" channel="Soccer 03">
-    <title>MLS Dallas vs Minnesota</title>
-    <desc>MLS Dallas vs Minnesota</desc>
+  <programme start="20250704150000 -0400" stop="20250704170000 -0400" channel="Soccer 04">
+    <title>Test Programme 4</title>
+    <desc>Test programme for Soccer 04</desc>
   </programme>
-  <programme start="20250703213000 -0400" stop="20250703233000 -0400" channel="Soccer 02">
-    <title>Club Cup Palmeiras vs Chelsea</title>
-    <desc>Club Cup Palmeiras vs Chelsea</desc>
+  <programme start="20250704160000 -0400" stop="20250704180000 -0400" channel="Soccer 05">
+    <title>Test Programme 5</title>
+    <desc>Test programme for Soccer 05</desc>
   </programme>
-  <programme start="20250703213000 -0400" stop="20250703233000 -0400" channel="Soccer 04">
-    <title>MLS Colorado vs Sporting KC</title>
-    <desc>MLS Colorado vs Sporting KC</desc>
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 06">
+    <title>Scheduled Programming</title>
+    <desc>Scheduled programming</desc>
   </programme>
-  <programme start="20250703223000 -0400" stop="20250704003000 -0400" channel="Soccer 05">
-    <title>MLS LA Galaxy vs Vancouver</title>
-    <desc>MLS LA Galaxy vs Vancouver</desc>
+  <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 07">
+    <title>Scheduled Programming</title>
+    <desc>Scheduled programming</desc>
   </programme>
   <programme start="20250704120000 -0400" stop="20250704170000 -0400" channel="Soccer 08">
     <title>Scheduled Programming</title>
