@@ -1,392 +1,456 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv source-info-url="https://epg-pro.com" source-info-name="EPG Pro" generator-info-name="EPG Pro" generator-info-url="https://epg-pro.com">
-  <channel id="EVENT 01">
-    <display-name>EVENT 01</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 02">
-    <display-name>EVENT 02</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 03">
-    <display-name>EVENT 03</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 04">
-    <display-name>EVENT 04</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 05">
-    <display-name>EVENT 05</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 06">
-    <display-name>EVENT 06</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 07">
-    <display-name>EVENT 07</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 08">
-    <display-name>EVENT 08</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 09">
-    <display-name>EVENT 09</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 10">
-    <display-name>EVENT 10</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 11">
-    <display-name>EVENT 11</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 12">
-    <display-name>EVENT 12</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 13">
-    <display-name>EVENT 13</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 14">
-    <display-name>EVENT 14</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 15">
-    <display-name>EVENT 15</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 16">
-    <display-name>EVENT 16</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 17">
-    <display-name>EVENT 17</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 18">
-    <display-name>EVENT 18</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 19">
-    <display-name>EVENT 19</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 20">
-    <display-name>EVENT 20</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 21">
-    <display-name>EVENT 21</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 22">
-    <display-name>EVENT 22</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 23">
-    <display-name>EVENT 23</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 24">
-    <display-name>EVENT 24</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 25">
-    <display-name>EVENT 25</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 26">
-    <display-name>EVENT 26</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 27">
-    <display-name>EVENT 27</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 28">
-    <display-name>EVENT 28</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 29">
-    <display-name>EVENT 29</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 30">
-    <display-name>EVENT 30</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 31">
-    <display-name>EVENT 31</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 32">
-    <display-name>EVENT 32</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 33">
-    <display-name>EVENT 33</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 34">
-    <display-name>EVENT 34</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 35">
-    <display-name>EVENT 35</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 36">
-    <display-name>EVENT 36</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 37">
-    <display-name>EVENT 37</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 38">
-    <display-name>EVENT 38</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 39">
-    <display-name>EVENT 39</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 40">
-    <display-name>EVENT 40</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 41">
-    <display-name>EVENT 41</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 42">
-    <display-name>EVENT 42</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 43">
-    <display-name>EVENT 43</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 44">
-    <display-name>EVENT 44</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 45">
-    <display-name>EVENT 45</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 46">
-    <display-name>EVENT 46</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 47">
-    <display-name>EVENT 47</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 48">
-    <display-name>EVENT 48</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 49">
-    <display-name>EVENT 49</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 50">
-    <display-name>EVENT 50</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 51">
-    <display-name>EVENT 51</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 52">
-    <display-name>EVENT 52</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 53">
-    <display-name>EVENT 53</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 54">
-    <display-name>EVENT 54</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 55">
-    <display-name>EVENT 55</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 56">
-    <display-name>EVENT 56</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 57">
-    <display-name>EVENT 57</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 58">
-    <display-name>EVENT 58</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 59">
-    <display-name>EVENT 59</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 60">
-    <display-name>EVENT 60</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 61">
-    <display-name>EVENT 61</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 62">
-    <display-name>EVENT 62</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 63">
-    <display-name>EVENT 63</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 64">
-    <display-name>EVENT 64</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 65">
-    <display-name>EVENT 65</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 66">
-    <display-name>EVENT 66</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 67">
-    <display-name>EVENT 67</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 68">
-    <display-name>EVENT 68</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 69">
-    <display-name>EVENT 69</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <channel id="EVENT 70">
-    <display-name>EVENT 70</display-name>
-    <icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" />
-  </channel>
-  <programme start="20250722080000 -0400" stop="20250722170000 -0400" channel="EVENT 01">
-    <title lang="en">Upcoming Event</title>
-    <desc lang="en">Summer Shootout at Charlotte starts at 5:00 PM ET. Stay tuned for live coverage.</desc>
-    <category lang="en">PPV Preview</category>
-    <rating system="MPAA"><value>G</value></rating>
+<?xml version='1.0' encoding='UTF-8'?>
+<tv generator="EPG-Pro-Export">
+  <channel id="EVENT01">
+    <display-name>EVENT 01:</display-name>
+  </channel>
+  <channel id="EVENT02">
+    <display-name>EVENT 02:</display-name>
+  </channel>
+  <channel id="EVENT03">
+    <display-name>EVENT 03:</display-name>
+  </channel>
+  <channel id="EVENT04">
+    <display-name>EVENT 04:</display-name>
+  </channel>
+  <channel id="EVENT05">
+    <display-name>EVENT 05:</display-name>
+  </channel>
+  <channel id="EVENT06">
+    <display-name>EVENT 06:</display-name>
+  </channel>
+  <channel id="EVENT07">
+    <display-name>EVENT 07:</display-name>
+  </channel>
+  <channel id="EVENT08">
+    <display-name>EVENT 08:</display-name>
+  </channel>
+  <channel id="EVENT09">
+    <display-name>EVENT 09:</display-name>
+  </channel>
+  <channel id="EVENT10">
+    <display-name>EVENT 10:</display-name>
+  </channel>
+  <channel id="EVENT11">
+    <display-name>EVENT 11:</display-name>
+  </channel>
+  <channel id="EVENT12">
+    <display-name>EVENT 12:</display-name>
+  </channel>
+  <channel id="EVENT13">
+    <display-name>EVENT 13:</display-name>
+  </channel>
+  <channel id="EVENT14">
+    <display-name>EVENT 14:</display-name>
+  </channel>
+  <channel id="EVENT15">
+    <display-name>EVENT 15:</display-name>
+  </channel>
+  <channel id="EVENT16">
+    <display-name>EVENT 16:</display-name>
+  </channel>
+  <channel id="EVENT17">
+    <display-name>EVENT 17:</display-name>
+  </channel>
+  <channel id="EVENT18">
+    <display-name>EVENT 18:</display-name>
+  </channel>
+  <channel id="EVENT19">
+    <display-name>EVENT 19:</display-name>
+  </channel>
+  <channel id="EVENT20">
+    <display-name>EVENT 20:</display-name>
+  </channel>
+  <channel id="EVENT21">
+    <display-name>EVENT 21:</display-name>
+  </channel>
+  <channel id="EVENT22">
+    <display-name>EVENT 22:</display-name>
+  </channel>
+  <channel id="EVENT23">
+    <display-name>EVENT 23:</display-name>
+  </channel>
+  <channel id="EVENT24">
+    <display-name>EVENT 24:</display-name>
+  </channel>
+  <channel id="EVENT25">
+    <display-name>EVENT 25:</display-name>
+  </channel>
+  <channel id="EVENT26">
+    <display-name>EVENT 26:</display-name>
+  </channel>
+  <channel id="EVENT27">
+    <display-name>EVENT 27:</display-name>
+  </channel>
+  <channel id="EVENT28">
+    <display-name>EVENT 28:</display-name>
+  </channel>
+  <channel id="EVENT29">
+    <display-name>EVENT 29:</display-name>
+  </channel>
+  <channel id="EVENT30">
+    <display-name>EVENT 30:</display-name>
+  </channel>
+  <channel id="EVENT31">
+    <display-name>EVENT 31:</display-name>
+  </channel>
+  <channel id="EVENT32">
+    <display-name>EVENT 32:</display-name>
+  </channel>
+  <channel id="EVENT33">
+    <display-name>EVENT 33:</display-name>
+  </channel>
+  <channel id="EVENT34">
+    <display-name>EVENT 34:</display-name>
+  </channel>
+  <channel id="EVENT35">
+    <display-name>EVENT 35:</display-name>
+  </channel>
+  <channel id="EVENT36">
+    <display-name>EVENT 36:</display-name>
+  </channel>
+  <channel id="EVENT37">
+    <display-name>EVENT 37:</display-name>
+  </channel>
+  <channel id="EVENT38">
+    <display-name>EVENT 38:</display-name>
+  </channel>
+  <channel id="EVENT39">
+    <display-name>EVENT 39:</display-name>
+  </channel>
+  <channel id="EVENT40">
+    <display-name>EVENT 40:</display-name>
+  </channel>
+  <channel id="EVENT41">
+    <display-name>EVENT 41:</display-name>
+  </channel>
+  <channel id="EVENT42">
+    <display-name>EVENT 42:</display-name>
+  </channel>
+  <channel id="EVENT43">
+    <display-name>EVENT 43:</display-name>
+  </channel>
+  <channel id="EVENT44">
+    <display-name>EVENT 44:</display-name>
+  </channel>
+  <channel id="EVENT45">
+    <display-name>EVENT 45:</display-name>
+  </channel>
+  <channel id="EVENT46">
+    <display-name>EVENT 46:</display-name>
+  </channel>
+  <channel id="EVENT47">
+    <display-name>EVENT 47:</display-name>
+  </channel>
+  <channel id="EVENT48">
+    <display-name>EVENT 48:</display-name>
+  </channel>
+  <channel id="EVENT49">
+    <display-name>EVENT 49:</display-name>
+  </channel>
+  <channel id="EVENT50">
+    <display-name>EVENT 50:</display-name>
+  </channel>
+  <channel id="EVENT51">
+    <display-name>EVENT 51:</display-name>
+  </channel>
+  <channel id="EVENT52">
+    <display-name>EVENT 52:</display-name>
+  </channel>
+  <channel id="EVENT53">
+    <display-name>EVENT 53:</display-name>
+  </channel>
+  <channel id="EVENT54">
+    <display-name>EVENT 54:</display-name>
+  </channel>
+  <channel id="EVENT55">
+    <display-name>EVENT 55:</display-name>
+  </channel>
+  <channel id="EVENT56">
+    <display-name>EVENT 56:</display-name>
+  </channel>
+  <channel id="EVENT57">
+    <display-name>EVENT 57:</display-name>
+  </channel>
+  <channel id="EVENT58">
+    <display-name>EVENT 58:</display-name>
+  </channel>
+  <channel id="EVENT59">
+    <display-name>EVENT 59:</display-name>
+  </channel>
+  <channel id="EVENT60">
+    <display-name>EVENT 60:</display-name>
+  </channel>
+  <channel id="EVENT61">
+    <display-name>EVENT 61:</display-name>
+  </channel>
+  <channel id="EVENT62">
+    <display-name>EVENT 62:</display-name>
+  </channel>
+  <channel id="EVENT63">
+    <display-name>EVENT 63:</display-name>
+  </channel>
+  <channel id="EVENT64">
+    <display-name>EVENT 64:</display-name>
+  </channel>
+  <channel id="EVENT65">
+    <display-name>EVENT 65:</display-name>
+  </channel>
+  <channel id="EVENT66">
+    <display-name>EVENT 66:</display-name>
+  </channel>
+  <channel id="EVENT67">
+    <display-name>EVENT 67:</display-name>
+  </channel>
+  <channel id="EVENT68">
+    <display-name>EVENT 68:</display-name>
+  </channel>
+  <channel id="EVENT69">
+    <display-name>EVENT 69:</display-name>
+  </channel>
+  <channel id="EVENT70">
+    <display-name>EVENT 70:</display-name>
+  </channel>
+  <programme start="20250722080000 -0400" stop="20250722170000 -0400" channel="EVENT01">
+    <title lang="en">Summer Shootout at Charlotte starts at 5:00 PM ET</title>
   </programme>
-  <programme start="20250722170000 -0400" stop="20250722200000 -0400" channel="EVENT 01">
-    <title lang="en">Summer Shootout at Charlotte</title>
-    <desc lang="en">PPV Event: Summer Shootout at Charlotte</desc>
-    <category lang="en">PPV</category>
-    
-    <rating system="MPAA"><value>PG-13</value></rating>
+  <programme start="20250722170000 -0400" stop="20250722200000 -0400" channel="EVENT01">
+    <title lang="en">Summer Shootout at Charlotte (7.22 5:00 PM ET)</title>
   </programme>
-  <programme start="20250722200000 -0400" stop="20250722235959 -0400" channel="EVENT 01">
-    <title lang="en">Event Concluded</title>
-    <desc lang="en">Summer Shootout at Charlotte has ended. Thank you for watching. Programming will resume tomorrow.</desc>
-    <category lang="en">PPV Wrap-up</category>
-    <rating system="MPAA"><value>G</value></rating>
+  <programme start="20250722200000 -0400" stop="20250722235959 -0400" channel="EVENT01">
+    <title lang="en">Summer Shootout at Charlotte has ended. Thank you for watching.</title>
   </programme>
-  <programme start="20250722080000 -0400" stop="20250722180000 -0400" channel="EVENT 02">
-    <title lang="en">Upcoming Event</title>
-    <desc lang="en">Kubota HLR Silver Cup at Lernerville starts at 6:00 PM ET. Stay tuned for live coverage.</desc>
-    <category lang="en">PPV Preview</category>
-    <rating system="MPAA"><value>G</value></rating>
+  <programme start="20250722080000 -0400" stop="20250722180000 -0400" channel="EVENT02">
+    <title lang="en">Kubota HLR Silver Cup at Lernerville starts at 6:00 PM ET</title>
   </programme>
-  <programme start="20250722180000 -0400" stop="20250722210000 -0400" channel="EVENT 02">
-    <title lang="en">Kubota HLR Silver Cup at Lernerville</title>
-    <desc lang="en">PPV Event: Kubota HLR Silver Cup at Lernerville</desc>
-    <category lang="en">PPV</category>
-    
-    <rating system="MPAA"><value>PG-13</value></rating>
+  <programme start="20250722180000 -0400" stop="20250722210000 -0400" channel="EVENT02">
+    <title lang="en">Kubota HLR Silver Cup at Lernerville (7.22 6:00 PM ET)</title>
   </programme>
-  <programme start="20250722210000 -0400" stop="20250722235959 -0400" channel="EVENT 02">
-    <title lang="en">Event Concluded</title>
-    <desc lang="en">Kubota HLR Silver Cup at Lernerville has ended. Thank you for watching. Programming will resume tomorrow.</desc>
-    <category lang="en">PPV Wrap-up</category>
-    <rating system="MPAA"><value>G</value></rating>
+  <programme start="20250722210000 -0400" stop="20250722235959 -0400" channel="EVENT02">
+    <title lang="en">Kubota HLR Silver Cup at Lernerville has ended. Thank you for watching.</title>
   </programme>
-  <programme start="20250722080000 -0400" stop="20250722180000 -0400" channel="EVENT 03">
-    <title lang="en">Upcoming Event</title>
-    <desc lang="en">Millbridge Speedway starts at 6:00 PM ET. Stay tuned for live coverage.</desc>
-    <category lang="en">PPV Preview</category>
-    <rating system="MPAA"><value>G</value></rating>
+  <programme start="20250722080000 -0400" stop="20250722180000 -0400" channel="EVENT03">
+    <title lang="en">Millbridge Speedway starts at 6:00 PM ET</title>
   </programme>
-  <programme start="20250722180000 -0400" stop="20250722210000 -0400" channel="EVENT 03">
-    <title lang="en">Millbridge Speedway</title>
-    <desc lang="en">PPV Event: Millbridge Speedway</desc>
-    <category lang="en">PPV</category>
-    
-    <rating system="MPAA"><value>PG-13</value></rating>
+  <programme start="20250722180000 -0400" stop="20250722210000 -0400" channel="EVENT03">
+    <title lang="en">Millbridge Speedway (7.22 6:00 PM ET)</title>
   </programme>
-  <programme start="20250722210000 -0400" stop="20250722235959 -0400" channel="EVENT 03">
-    <title lang="en">Event Concluded</title>
-    <desc lang="en">Millbridge Speedway has ended. Thank you for watching. Programming will resume tomorrow.</desc>
-    <category lang="en">PPV Wrap-up</category>
-    <rating system="MPAA"><value>G</value></rating>
+  <programme start="20250722210000 -0400" stop="20250722235959 -0400" channel="EVENT03">
+    <title lang="en">Millbridge Speedway has ended. Thank you for watching.</title>
   </programme>
-  <programme start="20250722080000 -0400" stop="20250722183000 -0400" channel="EVENT 04">
-    <title lang="en">Upcoming Event</title>
-    <desc lang="en">Short Track Super Series at Autodrome starts at 6:30 PM ET. Stay tuned for live coverage.</desc>
-    <category lang="en">PPV Preview</category>
-    <rating system="MPAA"><value>G</value></rating>
+  <programme start="20250722080000 -0400" stop="20250722183000 -0400" channel="EVENT04">
+    <title lang="en">Short Track Super Series at Autodrome starts at 6:30 PM ET</title>
   </programme>
-  <programme start="20250722183000 -0400" stop="20250722213000 -0400" channel="EVENT 04">
-    <title lang="en">Short Track Super Series at Autodrome</title>
-    <desc lang="en">PPV Event: Short Track Super Series at Autodrome</desc>
-    <category lang="en">PPV</category>
-    
-    <rating system="MPAA"><value>PG-13</value></rating>
+  <programme start="20250722183000 -0400" stop="20250722213000 -0400" channel="EVENT04">
+    <title lang="en">Short Track Super Series at Autodrome (7.22 6:30 PM ET)</title>
   </programme>
-  <programme start="20250722213000 -0400" stop="20250722235959 -0400" channel="EVENT 04">
-    <title lang="en">Event Concluded</title>
-    <desc lang="en">Short Track Super Series at Autodrome has ended. Thank you for watching. Programming will resume tomorrow.</desc>
-    <category lang="en">PPV Wrap-up</category>
-    <rating system="MPAA"><value>G</value></rating>
+  <programme start="20250722213000 -0400" stop="20250722235959 -0400" channel="EVENT04">
+    <title lang="en">Short Track Super Series at Autodrome has ended. Thank you for watching.</title>
   </programme>
-  <programme start="20250722080000 -0400" stop="20250722190000 -0400" channel="EVENT 05">
-    <title lang="en">Upcoming Event</title>
-    <desc lang="en">Southern Nationals at Toccoa starts at 7:00 PM ET. Stay tuned for live coverage.</desc>
-    <category lang="en">PPV Preview</category>
-    <rating system="MPAA"><value>G</value></rating>
+  <programme start="20250722080000 -0400" stop="20250722190000 -0400" channel="EVENT05">
+    <title lang="en">Southern Nationals at Toccoa starts at 7:00 PM ET</title>
   </programme>
-  <programme start="20250722190000 -0400" stop="20250722220000 -0400" channel="EVENT 05">
-    <title lang="en">Southern Nationals at Toccoa</title>
-    <desc lang="en">PPV Event: Southern Nationals at Toccoa</desc>
-    <category lang="en">PPV</category>
-    
-    <rating system="MPAA"><value>PG-13</value></rating>
+  <programme start="20250722190000 -0400" stop="20250722220000 -0400" channel="EVENT05">
+    <title lang="en">Southern Nationals at Toccoa (7.22 7:00 PM ET)</title>
   </programme>
-  <programme start="20250722220000 -0400" stop="20250722235959 -0400" channel="EVENT 05">
-    <title lang="en">Event Concluded</title>
-    <desc lang="en">Southern Nationals at Toccoa has ended. Thank you for watching. Programming will resume tomorrow.</desc>
-    <category lang="en">PPV Wrap-up</category>
-    <rating system="MPAA"><value>G</value></rating>
+  <programme start="20250722220000 -0400" stop="20250722235959 -0400" channel="EVENT05">
+    <title lang="en">Southern Nationals at Toccoa has ended. Thank you for watching.</title>
   </programme>
-  <programme start="20250722080000 -0400" stop="20250722221500 -0400" channel="EVENT 06">
-    <title lang="en">Upcoming Event</title>
-    <desc lang="en">TUF Team Cormier vs. Team Sonnen EP 9 starts at 10:15 PM ET. Stay tuned for live coverage.</desc>
-    <category lang="en">PPV Preview</category>
-    <rating system="MPAA"><value>G</value></rating>
+  <programme start="20250722080000 -0400" stop="20250722221500 -0400" channel="EVENT06">
+    <title lang="en">TUF Team Cormier vs. Team Sonnen EP 9 starts at 10:15 PM ET</title>
   </programme>
-  <programme start="20250722221500 -0400" stop="20250723011500 -0400" channel="EVENT 06">
-    <title lang="en">TUF Team Cormier vs. Team Sonnen EP 9</title>
-    <desc lang="en">PPV Event: TUF Team Cormier vs. Team Sonnen EP 9</desc>
-    <category lang="en">PPV</category>
-    
-    <rating system="MPAA"><value>PG-13</value></rating>
+  <programme start="20250722221500 -0400" stop="20250723011500 -0400" channel="EVENT06">
+    <title lang="en">TUF Team Cormier vs. Team Sonnen EP 9 (7.22 10:15 PM ET)</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT07">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT08">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT09">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT10">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT11">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT12">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT13">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT14">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT15">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT16">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT17">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT18">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT19">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT20">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT21">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT22">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT23">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT24">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT25">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT26">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT27">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT28">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT29">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT30">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT31">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT32">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT33">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT34">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT35">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT36">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT37">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT38">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT39">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT40">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT41">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT42">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT43">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT44">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT45">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT46">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT47">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT48">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT49">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT50">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT51">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT52">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT53">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT54">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT55">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT56">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT57">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT58">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT59">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT60">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT61">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT62">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT63">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT64">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT65">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT66">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT67">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT68">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT69">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722110000 -0400" channel="EVENT70">
+    <title lang="en">No Event scheduled</title>
   </programme>
 </tv>
