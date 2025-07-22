@@ -71,108 +71,108 @@
 <channel id="EVENT 68:"><display-name>EVENT 68:</display-name><icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" /></channel>
 <channel id="EVENT 69:"><display-name>EVENT 69:</display-name><icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" /></channel>
 <channel id="EVENT 70:"><display-name>EVENT 70:</display-name><icon src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg" /></channel>
-  <programme start="20250722080000 +0000" stop="20250722170000 +0000" channel="EVENT 01:">
+  <programme start="20250722080000 -0400" stop="20250722170000 -0400" channel="EVENT 01:">
     <title lang="en">Upcoming Event</title>
-    <desc lang="en">Summer Shootout at Charlotte starts at 5:00 PM. Stay tuned for live coverage.</desc>
+    <desc lang="en">Summer Shootout at Charlotte starts at 5:00 PM ET. Stay tuned for live coverage.</desc>
     <category lang="en">PPV Preview</category>
     <rating system="MPAA"><value>G</value></rating>
   </programme>
-  <programme start="20250722170000 +0000" stop="20250722200000 +0000" channel="EVENT 01:">
+  <programme start="20250722170000 -0400" stop="20250722200000 -0400" channel="EVENT 01:">
     <title lang="en">Summer Shootout at Charlotte</title>
     <desc lang="en">PPV Event: Summer Shootout at Charlotte</desc>
     <category lang="en">PPV</category>
     
     <rating system="MPAA"><value>PG-13</value></rating>
   </programme>
-  <programme start="20250722200000 +0000" stop="20250722235959 +0000" channel="EVENT 01:">
+  <programme start="20250722200000 -0400" stop="20250722235959 -0400" channel="EVENT 01:">
     <title lang="en">Event Concluded</title>
     <desc lang="en">Summer Shootout at Charlotte has ended. Thank you for watching. Programming will resume tomorrow.</desc>
     <category lang="en">PPV Wrap-up</category>
     <rating system="MPAA"><value>G</value></rating>
   </programme>
-  <programme start="20250722080000 +0000" stop="20250722180000 +0000" channel="EVENT 02:">
+  <programme start="20250722080000 -0400" stop="20250722180000 -0400" channel="EVENT 02:">
     <title lang="en">Upcoming Event</title>
-    <desc lang="en">Kubota HLR Silver Cup at Lernerville starts at 6:00 PM. Stay tuned for live coverage.</desc>
+    <desc lang="en">Kubota HLR Silver Cup at Lernerville starts at 6:00 PM ET. Stay tuned for live coverage.</desc>
     <category lang="en">PPV Preview</category>
     <rating system="MPAA"><value>G</value></rating>
   </programme>
-  <programme start="20250722180000 +0000" stop="20250722210000 +0000" channel="EVENT 02:">
+  <programme start="20250722180000 -0400" stop="20250722210000 -0400" channel="EVENT 02:">
     <title lang="en">Kubota HLR Silver Cup at Lernerville</title>
     <desc lang="en">PPV Event: Kubota HLR Silver Cup at Lernerville</desc>
     <category lang="en">PPV</category>
     
     <rating system="MPAA"><value>PG-13</value></rating>
   </programme>
-  <programme start="20250722210000 +0000" stop="20250722235959 +0000" channel="EVENT 02:">
+  <programme start="20250722210000 -0400" stop="20250722235959 -0400" channel="EVENT 02:">
     <title lang="en">Event Concluded</title>
     <desc lang="en">Kubota HLR Silver Cup at Lernerville has ended. Thank you for watching. Programming will resume tomorrow.</desc>
     <category lang="en">PPV Wrap-up</category>
     <rating system="MPAA"><value>G</value></rating>
   </programme>
-  <programme start="20250722080000 +0000" stop="20250722180000 +0000" channel="EVENT 03:">
+  <programme start="20250722080000 -0400" stop="20250722180000 -0400" channel="EVENT 03:">
     <title lang="en">Upcoming Event</title>
-    <desc lang="en">Millbridge Speedway starts at 6:00 PM. Stay tuned for live coverage.</desc>
+    <desc lang="en">Millbridge Speedway starts at 6:00 PM ET. Stay tuned for live coverage.</desc>
     <category lang="en">PPV Preview</category>
     <rating system="MPAA"><value>G</value></rating>
   </programme>
-  <programme start="20250722180000 +0000" stop="20250722210000 +0000" channel="EVENT 03:">
+  <programme start="20250722180000 -0400" stop="20250722210000 -0400" channel="EVENT 03:">
     <title lang="en">Millbridge Speedway</title>
     <desc lang="en">PPV Event: Millbridge Speedway</desc>
     <category lang="en">PPV</category>
     
     <rating system="MPAA"><value>PG-13</value></rating>
   </programme>
-  <programme start="20250722210000 +0000" stop="20250722235959 +0000" channel="EVENT 03:">
+  <programme start="20250722210000 -0400" stop="20250722235959 -0400" channel="EVENT 03:">
     <title lang="en">Event Concluded</title>
     <desc lang="en">Millbridge Speedway has ended. Thank you for watching. Programming will resume tomorrow.</desc>
     <category lang="en">PPV Wrap-up</category>
     <rating system="MPAA"><value>G</value></rating>
   </programme>
-  <programme start="20250722080000 +0000" stop="20250722183000 +0000" channel="EVENT 04:">
+  <programme start="20250722080000 -0400" stop="20250722183000 -0400" channel="EVENT 04:">
     <title lang="en">Upcoming Event</title>
-    <desc lang="en">Short Track Super Series at Autodrome starts at 6:30 PM. Stay tuned for live coverage.</desc>
+    <desc lang="en">Short Track Super Series at Autodrome starts at 6:30 PM ET. Stay tuned for live coverage.</desc>
     <category lang="en">PPV Preview</category>
     <rating system="MPAA"><value>G</value></rating>
   </programme>
-  <programme start="20250722183000 +0000" stop="20250722213000 +0000" channel="EVENT 04:">
+  <programme start="20250722183000 -0400" stop="20250722213000 -0400" channel="EVENT 04:">
     <title lang="en">Short Track Super Series at Autodrome</title>
     <desc lang="en">PPV Event: Short Track Super Series at Autodrome</desc>
     <category lang="en">PPV</category>
     
     <rating system="MPAA"><value>PG-13</value></rating>
   </programme>
-  <programme start="20250722213000 +0000" stop="20250722235959 +0000" channel="EVENT 04:">
+  <programme start="20250722213000 -0400" stop="20250722235959 -0400" channel="EVENT 04:">
     <title lang="en">Event Concluded</title>
     <desc lang="en">Short Track Super Series at Autodrome has ended. Thank you for watching. Programming will resume tomorrow.</desc>
     <category lang="en">PPV Wrap-up</category>
     <rating system="MPAA"><value>G</value></rating>
   </programme>
-  <programme start="20250722080000 +0000" stop="20250722190000 +0000" channel="EVENT 05:">
+  <programme start="20250722080000 -0400" stop="20250722190000 -0400" channel="EVENT 05:">
     <title lang="en">Upcoming Event</title>
-    <desc lang="en">Southern Nationals at Toccoa starts at 7:00 PM. Stay tuned for live coverage.</desc>
+    <desc lang="en">Southern Nationals at Toccoa starts at 7:00 PM ET. Stay tuned for live coverage.</desc>
     <category lang="en">PPV Preview</category>
     <rating system="MPAA"><value>G</value></rating>
   </programme>
-  <programme start="20250722190000 +0000" stop="20250722220000 +0000" channel="EVENT 05:">
+  <programme start="20250722190000 -0400" stop="20250722220000 -0400" channel="EVENT 05:">
     <title lang="en">Southern Nationals at Toccoa</title>
     <desc lang="en">PPV Event: Southern Nationals at Toccoa</desc>
     <category lang="en">PPV</category>
     
     <rating system="MPAA"><value>PG-13</value></rating>
   </programme>
-  <programme start="20250722220000 +0000" stop="20250722235959 +0000" channel="EVENT 05:">
+  <programme start="20250722220000 -0400" stop="20250722235959 -0400" channel="EVENT 05:">
     <title lang="en">Event Concluded</title>
     <desc lang="en">Southern Nationals at Toccoa has ended. Thank you for watching. Programming will resume tomorrow.</desc>
     <category lang="en">PPV Wrap-up</category>
     <rating system="MPAA"><value>G</value></rating>
   </programme>
-  <programme start="20250722080000 +0000" stop="20250722221500 +0000" channel="EVENT 06:">
+  <programme start="20250722080000 -0400" stop="20250722221500 -0400" channel="EVENT 06:">
     <title lang="en">Upcoming Event</title>
-    <desc lang="en">TUF Team Cormier vs. Team Sonnen EP 9 starts at 10:15 PM. Stay tuned for live coverage.</desc>
+    <desc lang="en">TUF Team Cormier vs. Team Sonnen EP 9 starts at 10:15 PM ET. Stay tuned for live coverage.</desc>
     <category lang="en">PPV Preview</category>
     <rating system="MPAA"><value>G</value></rating>
   </programme>
-  <programme start="20250722221500 +0000" stop="20250723011500 +0000" channel="EVENT 06:">
+  <programme start="20250722221500 -0400" stop="20250723011500 -0400" channel="EVENT 06:">
     <title lang="en">TUF Team Cormier vs. Team Sonnen EP 9</title>
     <desc lang="en">PPV Event: TUF Team Cormier vs. Team Sonnen EP 9</desc>
     <category lang="en">PPV</category>
