@@ -210,37 +210,52 @@
   <channel id="EVENT 70">
     <display-name>EVENT 70:</display-name>
   </channel>
-  <programme start="20250722163000 -0400" stop="20250722170000 -0400" channel="EVENT 01">
+  <programme start="20250722080000 -0400" stop="20250722170000 -0400" channel="EVENT 01">
     <title lang="en">Summer Shootout at Charlotte starts at 5:00 PM ET</title>
   </programme>
   <programme start="20250722170000 -0400" stop="20250722200000 -0400" channel="EVENT 01">
     <title lang="en">Summer Shootout at Charlotte (7.22 5:00 PM ET)</title>
   </programme>
-  <programme start="20250722173000 -0400" stop="20250722180000 -0400" channel="EVENT 02">
+  <programme start="20250722200000 -0400" stop="20250722235959 -0400" channel="EVENT 01">
+    <title lang="en">Summer Shootout at Charlotte has ended. Thank you for watching.</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722180000 -0400" channel="EVENT 02">
     <title lang="en">Kubota HLR Silver Cup at Lernerville starts at 6:00 PM ET</title>
   </programme>
   <programme start="20250722180000 -0400" stop="20250722210000 -0400" channel="EVENT 02">
     <title lang="en">Kubota HLR Silver Cup at Lernerville (7.22 6:00 PM ET)</title>
   </programme>
-  <programme start="20250722173000 -0400" stop="20250722180000 -0400" channel="EVENT 03">
+  <programme start="20250722210000 -0400" stop="20250722235959 -0400" channel="EVENT 02">
+    <title lang="en">Kubota HLR Silver Cup at Lernerville has ended. Thank you for watching.</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722180000 -0400" channel="EVENT 03">
     <title lang="en">Millbridge Speedway starts at 6:00 PM ET</title>
   </programme>
   <programme start="20250722180000 -0400" stop="20250722210000 -0400" channel="EVENT 03">
     <title lang="en">Millbridge Speedway (7.22 6:00 PM ET)</title>
   </programme>
-  <programme start="20250722180000 -0400" stop="20250722183000 -0400" channel="EVENT 04">
+  <programme start="20250722210000 -0400" stop="20250722235959 -0400" channel="EVENT 03">
+    <title lang="en">Millbridge Speedway has ended. Thank you for watching.</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722183000 -0400" channel="EVENT 04">
     <title lang="en">Short Track Super Series at Autodrome starts at 6:30 PM ET</title>
   </programme>
   <programme start="20250722183000 -0400" stop="20250722213000 -0400" channel="EVENT 04">
     <title lang="en">Short Track Super Series at Autodrome (7.22 6:30 PM ET)</title>
   </programme>
-  <programme start="20250722183000 -0400" stop="20250722190000 -0400" channel="EVENT 05">
+  <programme start="20250722213000 -0400" stop="20250722235959 -0400" channel="EVENT 04">
+    <title lang="en">Short Track Super Series at Autodrome has ended. Thank you for watching.</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722190000 -0400" channel="EVENT 05">
     <title lang="en">Southern Nationals at Toccoa starts at 7:00 PM ET</title>
   </programme>
   <programme start="20250722190000 -0400" stop="20250722220000 -0400" channel="EVENT 05">
     <title lang="en">Southern Nationals at Toccoa (7.22 7:00 PM ET)</title>
   </programme>
-  <programme start="20250722214500 -0400" stop="20250722221500 -0400" channel="EVENT 06">
+  <programme start="20250722220000 -0400" stop="20250722235959 -0400" channel="EVENT 05">
+    <title lang="en">Southern Nationals at Toccoa has ended. Thank you for watching.</title>
+  </programme>
+  <programme start="20250722080000 -0400" stop="20250722221500 -0400" channel="EVENT 06">
     <title lang="en">TUF Team Cormier vs. Team Sonnen EP 9 starts at 10:15 PM ET</title>
   </programme>
   <programme start="20250722221500 -0400" stop="20250723011500 -0400" channel="EVENT 06">
