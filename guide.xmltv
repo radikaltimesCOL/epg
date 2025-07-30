@@ -210,235 +210,782 @@
   <channel id="EVENT 70">
     <display-name>EVENT 70:</display-name>
   </channel>
-  <programme start="20250729080000 -0400" stop="20250729221500 -0400" channel="EVENT 01">
-    <title lang="en">EVENT 01: TUF Team Cormier vs. Team Sonnen EP 10 starts at 10:15 PM ET</title>
+  <programme start="20250730000000 -0400" stop="20250730020000 -0400" channel="Soccer 01">
+    <title lang="en"> Game will start at 7:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730020000 -0400" stop="20250730040000 -0400" channel="Soccer 01">
+    <title lang="en"> Game will start at 7:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730040000 -0400" stop="20250730060000 -0400" channel="Soccer 01">
+    <title lang="en"> Game will start at 7:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730060000 -0400" stop="20250730080000 -0400" channel="Soccer 01">
+    <title lang="en"> Game will start at 7:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730080000 -0400" stop="20250730100000 -0400" channel="Soccer 01">
+    <title lang="en"> Game will start at 7:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730100000 -0400" stop="20250730120000 -0400" channel="Soccer 01">
+    <title lang="en"> Game will start at 7:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730120000 -0400" stop="20250730140000 -0400" channel="Soccer 01">
+    <title lang="en"> Game will start at 7:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730140000 -0400" stop="20250730160000 -0400" channel="Soccer 01">
+    <title lang="en"> Game will start at 7:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730160000 -0400" stop="20250730180000 -0400" channel="Soccer 01">
+    <title lang="en"> Game will start at 7:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730180000 -0400" stop="20250730193000 -0400" channel="Soccer 01">
+    <title lang="en"> Game will start at 7:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730193000 -0400" stop="20250730213000 -0400" channel="Soccer 01">
+    <title lang="en">Leagues Cup: Inter Miami vs Atlas</title>
+    <desc lang="en">Live Leagues Cup action: Inter Miami takes on Atlas.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250730000000 -0400" stop="20250730020000 -0400" channel="Soccer 02">
+    <title lang="en"> Game will start at 7:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730020000 -0400" stop="20250730040000 -0400" channel="Soccer 02">
+    <title lang="en"> Game will start at 7:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730040000 -0400" stop="20250730060000 -0400" channel="Soccer 02">
+    <title lang="en"> Game will start at 7:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730060000 -0400" stop="20250730080000 -0400" channel="Soccer 02">
+    <title lang="en"> Game will start at 7:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730080000 -0400" stop="20250730100000 -0400" channel="Soccer 02">
+    <title lang="en"> Game will start at 7:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730100000 -0400" stop="20250730120000 -0400" channel="Soccer 02">
+    <title lang="en"> Game will start at 7:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730120000 -0400" stop="20250730140000 -0400" channel="Soccer 02">
+    <title lang="en"> Game will start at 7:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730140000 -0400" stop="20250730160000 -0400" channel="Soccer 02">
+    <title lang="en"> Game will start at 7:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730160000 -0400" stop="20250730180000 -0400" channel="Soccer 02">
+    <title lang="en"> Game will start at 7:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730180000 -0400" stop="20250730193000 -0400" channel="Soccer 02">
+    <title lang="en"> Game will start at 7:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730193000 -0400" stop="20250730213000 -0400" channel="Soccer 02">
+    <title lang="en">Leagues Cup: Necaxa vs Atlanta</title>
+    <desc lang="en">Live Leagues Cup action: Necaxa takes on Atlanta.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250730000000 -0400" stop="20250730020000 -0400" channel="Soccer 03">
+    <title lang="en"> Game will start at 8:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730020000 -0400" stop="20250730040000 -0400" channel="Soccer 03">
+    <title lang="en"> Game will start at 8:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730040000 -0400" stop="20250730060000 -0400" channel="Soccer 03">
+    <title lang="en"> Game will start at 8:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730060000 -0400" stop="20250730080000 -0400" channel="Soccer 03">
+    <title lang="en"> Game will start at 8:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730080000 -0400" stop="20250730100000 -0400" channel="Soccer 03">
+    <title lang="en"> Game will start at 8:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730100000 -0400" stop="20250730120000 -0400" channel="Soccer 03">
+    <title lang="en"> Game will start at 8:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730120000 -0400" stop="20250730140000 -0400" channel="Soccer 03">
+    <title lang="en"> Game will start at 8:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730140000 -0400" stop="20250730160000 -0400" channel="Soccer 03">
+    <title lang="en"> Game will start at 8:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730160000 -0400" stop="20250730180000 -0400" channel="Soccer 03">
+    <title lang="en"> Game will start at 8:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730180000 -0400" stop="20250730200000 -0400" channel="Soccer 03">
+    <title lang="en"> Game will start at 8:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730200000 -0400" stop="20250730220000 -0400" channel="Soccer 03">
+    <title lang="en">Leagues Cup: Pumas vs Orlando City</title>
+    <desc lang="en">Live Leagues Cup action: Pumas takes on Orlando City.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250730000000 -0400" stop="20250730020000 -0400" channel="Soccer 04">
+    <title lang="en"> Game will start at 8:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730020000 -0400" stop="20250730040000 -0400" channel="Soccer 04">
+    <title lang="en"> Game will start at 8:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730040000 -0400" stop="20250730060000 -0400" channel="Soccer 04">
+    <title lang="en"> Game will start at 8:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730060000 -0400" stop="20250730080000 -0400" channel="Soccer 04">
+    <title lang="en"> Game will start at 8:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730080000 -0400" stop="20250730100000 -0400" channel="Soccer 04">
+    <title lang="en"> Game will start at 8:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730100000 -0400" stop="20250730120000 -0400" channel="Soccer 04">
+    <title lang="en"> Game will start at 8:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730120000 -0400" stop="20250730140000 -0400" channel="Soccer 04">
+    <title lang="en"> Game will start at 8:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730140000 -0400" stop="20250730160000 -0400" channel="Soccer 04">
+    <title lang="en"> Game will start at 8:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730160000 -0400" stop="20250730180000 -0400" channel="Soccer 04">
+    <title lang="en"> Game will start at 8:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730180000 -0400" stop="20250730200000 -0400" channel="Soccer 04">
+    <title lang="en"> Game will start at 8:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730200000 -0400" stop="20250730203000 -0400" channel="Soccer 04">
+    <title lang="en"> Game will start at 8:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730203000 -0400" stop="20250730223000 -0400" channel="Soccer 04">
+    <title lang="en">Leagues Cup: Minnesota United vs Querétaro</title>
+    <desc lang="en">Live Leagues Cup action: Minnesota United takes on Querétaro.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250730000000 -0400" stop="20250730020000 -0400" channel="Soccer 05">
+    <title lang="en"> Game will start at 9:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730020000 -0400" stop="20250730040000 -0400" channel="Soccer 05">
+    <title lang="en"> Game will start at 9:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730040000 -0400" stop="20250730060000 -0400" channel="Soccer 05">
+    <title lang="en"> Game will start at 9:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730060000 -0400" stop="20250730080000 -0400" channel="Soccer 05">
+    <title lang="en"> Game will start at 9:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730080000 -0400" stop="20250730100000 -0400" channel="Soccer 05">
+    <title lang="en"> Game will start at 9:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730100000 -0400" stop="20250730120000 -0400" channel="Soccer 05">
+    <title lang="en"> Game will start at 9:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730120000 -0400" stop="20250730140000 -0400" channel="Soccer 05">
+    <title lang="en"> Game will start at 9:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730140000 -0400" stop="20250730160000 -0400" channel="Soccer 05">
+    <title lang="en"> Game will start at 9:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730160000 -0400" stop="20250730180000 -0400" channel="Soccer 05">
+    <title lang="en"> Game will start at 9:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730180000 -0400" stop="20250730200000 -0400" channel="Soccer 05">
+    <title lang="en"> Game will start at 9:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730200000 -0400" stop="20250730213000 -0400" channel="Soccer 05">
+    <title lang="en"> Game will start at 9:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730213000 -0400" stop="20250730233000 -0400" channel="Soccer 05">
+    <title lang="en">Leagues Cup: América vs Real Salt Lake</title>
+    <desc lang="en">Live Leagues Cup action: América takes on Real Salt Lake.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250730000000 -0400" stop="20250730020000 -0400" channel="Soccer 06">
+    <title lang="en"> Game will start at 10:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730020000 -0400" stop="20250730040000 -0400" channel="Soccer 06">
+    <title lang="en"> Game will start at 10:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730040000 -0400" stop="20250730060000 -0400" channel="Soccer 06">
+    <title lang="en"> Game will start at 10:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730060000 -0400" stop="20250730080000 -0400" channel="Soccer 06">
+    <title lang="en"> Game will start at 10:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730080000 -0400" stop="20250730100000 -0400" channel="Soccer 06">
+    <title lang="en"> Game will start at 10:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730100000 -0400" stop="20250730120000 -0400" channel="Soccer 06">
+    <title lang="en"> Game will start at 10:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730120000 -0400" stop="20250730140000 -0400" channel="Soccer 06">
+    <title lang="en"> Game will start at 10:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730140000 -0400" stop="20250730160000 -0400" channel="Soccer 06">
+    <title lang="en"> Game will start at 10:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730160000 -0400" stop="20250730180000 -0400" channel="Soccer 06">
+    <title lang="en"> Game will start at 10:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730180000 -0400" stop="20250730200000 -0400" channel="Soccer 06">
+    <title lang="en"> Game will start at 10:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730200000 -0400" stop="20250730220000 -0400" channel="Soccer 06">
+    <title lang="en"> Game will start at 10:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730220000 -0400" stop="20250730223000 -0400" channel="Soccer 06">
+    <title lang="en"> Game will start at 10:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730223000 -0400" stop="20250731003000 -0400" channel="Soccer 06">
+    <title lang="en">Leagues Cup: Portland vs Atletico San Luis</title>
+    <desc lang="en">Live Leagues Cup action: Portland takes on Atletico San Luis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250730000000 -0400" stop="20250730020000 -0400" channel="Soccer 07">
+    <title lang="en"> Game will start at 11:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730020000 -0400" stop="20250730040000 -0400" channel="Soccer 07">
+    <title lang="en"> Game will start at 11:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730040000 -0400" stop="20250730060000 -0400" channel="Soccer 07">
+    <title lang="en"> Game will start at 11:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730060000 -0400" stop="20250730080000 -0400" channel="Soccer 07">
+    <title lang="en"> Game will start at 11:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730080000 -0400" stop="20250730100000 -0400" channel="Soccer 07">
+    <title lang="en"> Game will start at 11:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730100000 -0400" stop="20250730113000 -0400" channel="Soccer 07">
+    <title lang="en"> Game will start at 11:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730113000 -0400" stop="20250730133000 -0400" channel="Soccer 07">
+    <title lang="en">Friendly: Mallorca vs Lyon</title>
+    <desc lang="en">Live Friendly action: Mallorca takes on Lyon.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250730000000 -0400" stop="20250730020000 -0400" channel="Soccer 08">
+    <title lang="en"> Game will start at 11:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730020000 -0400" stop="20250730040000 -0400" channel="Soccer 08">
+    <title lang="en"> Game will start at 11:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730040000 -0400" stop="20250730060000 -0400" channel="Soccer 08">
+    <title lang="en"> Game will start at 11:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730060000 -0400" stop="20250730080000 -0400" channel="Soccer 08">
+    <title lang="en"> Game will start at 11:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730080000 -0400" stop="20250730100000 -0400" channel="Soccer 08">
+    <title lang="en"> Game will start at 11:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730100000 -0400" stop="20250730113000 -0400" channel="Soccer 08">
+    <title lang="en"> Game will start at 11:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730113000 -0400" stop="20250730133000 -0400" channel="Soccer 08">
+    <title lang="en">Friendly: Al Nassr vs Toulouse</title>
+    <desc lang="en">Live Friendly action: Al Nassr takes on Toulouse.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250730000000 -0400" stop="20250730020000 -0400" channel="Soccer 09">
+    <title lang="en"> Game will start at 1:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730020000 -0400" stop="20250730040000 -0400" channel="Soccer 09">
+    <title lang="en"> Game will start at 1:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730040000 -0400" stop="20250730060000 -0400" channel="Soccer 09">
+    <title lang="en"> Game will start at 1:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730060000 -0400" stop="20250730080000 -0400" channel="Soccer 09">
+    <title lang="en"> Game will start at 1:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730080000 -0400" stop="20250730100000 -0400" channel="Soccer 09">
+    <title lang="en"> Game will start at 1:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730100000 -0400" stop="20250730120000 -0400" channel="Soccer 09">
+    <title lang="en"> Game will start at 1:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730120000 -0400" stop="20250730130000 -0400" channel="Soccer 09">
+    <title lang="en"> Game will start at 1:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730130000 -0400" stop="20250730150000 -0400" channel="Soccer 09">
+    <title lang="en">Friendly: Wolfsburg vs Espanyol</title>
+    <desc lang="en">Live Friendly action: Wolfsburg takes on Espanyol.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250730000000 -0400" stop="20250730020000 -0400" channel="Soccer 10">
+    <title lang="en"> Game will start at 2:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730020000 -0400" stop="20250730040000 -0400" channel="Soccer 10">
+    <title lang="en"> Game will start at 2:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730040000 -0400" stop="20250730060000 -0400" channel="Soccer 10">
+    <title lang="en"> Game will start at 2:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730060000 -0400" stop="20250730080000 -0400" channel="Soccer 10">
+    <title lang="en"> Game will start at 2:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730080000 -0400" stop="20250730100000 -0400" channel="Soccer 10">
+    <title lang="en"> Game will start at 2:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730100000 -0400" stop="20250730120000 -0400" channel="Soccer 10">
+    <title lang="en"> Game will start at 2:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730120000 -0400" stop="20250730140000 -0400" channel="Soccer 10">
+    <title lang="en"> Game will start at 2:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730140000 -0400" stop="20250730160000 -0400" channel="Soccer 10">
+    <title lang="en">Friendly: Coventry City vs Real Betis</title>
+    <desc lang="en">Live Friendly action: Coventry City takes on Real Betis.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250730000000 -0400" stop="20250730020000 -0400" channel="Soccer 11">
+    <title lang="en"> Game will start at 2:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730020000 -0400" stop="20250730040000 -0400" channel="Soccer 11">
+    <title lang="en"> Game will start at 2:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730040000 -0400" stop="20250730060000 -0400" channel="Soccer 11">
+    <title lang="en"> Game will start at 2:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730060000 -0400" stop="20250730080000 -0400" channel="Soccer 11">
+    <title lang="en"> Game will start at 2:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730080000 -0400" stop="20250730100000 -0400" channel="Soccer 11">
+    <title lang="en"> Game will start at 2:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730100000 -0400" stop="20250730120000 -0400" channel="Soccer 11">
+    <title lang="en"> Game will start at 2:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730120000 -0400" stop="20250730140000 -0400" channel="Soccer 11">
+    <title lang="en"> Game will start at 2:00ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730140000 -0400" stop="20250730160000 -0400" channel="Soccer 11">
+    <title lang="en">Friendly: Wolves vs Lens</title>
+    <desc lang="en">Live Friendly action: Wolves takes on Lens.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250730000000 -0400" stop="20250730020000 -0400" channel="Soccer 12">
+    <title lang="en"> Game will start at 6:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730020000 -0400" stop="20250730040000 -0400" channel="Soccer 12">
+    <title lang="en"> Game will start at 6:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730040000 -0400" stop="20250730060000 -0400" channel="Soccer 12">
+    <title lang="en"> Game will start at 6:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730060000 -0400" stop="20250730080000 -0400" channel="Soccer 12">
+    <title lang="en"> Game will start at 6:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730080000 -0400" stop="20250730100000 -0400" channel="Soccer 12">
+    <title lang="en"> Game will start at 6:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730100000 -0400" stop="20250730120000 -0400" channel="Soccer 12">
+    <title lang="en"> Game will start at 6:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730120000 -0400" stop="20250730140000 -0400" channel="Soccer 12">
+    <title lang="en"> Game will start at 6:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730140000 -0400" stop="20250730160000 -0400" channel="Soccer 12">
+    <title lang="en"> Game will start at 6:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730160000 -0400" stop="20250730180000 -0400" channel="Soccer 12">
+    <title lang="en"> Game will start at 6:30ET</title>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20250729221500 -0400" stop="20250730011500 -0400" channel="EVENT 01">
-    <title lang="en">EVENT 01: TUF Team Cormier vs. Team Sonnen EP 10 (7.29 10:15 PM ET)</title>
+  <programme start="20250730180000 -0400" stop="20250730183000 -0400" channel="Soccer 12">
+    <title lang="en"> Game will start at 6:30ET</title>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729170000 -0400" channel="EVENT 02">
-    <title lang="en">EVENT 02: Summer Shootout at Charlotte starts at 5:00 PM ET</title>
+  <programme start="20250730183000 -0400" stop="20250730203000 -0400" channel="Soccer 12">
+    <title lang="en">Friendly: West Ham United vs Everton</title>
+    <desc lang="en">Live Friendly action: West Ham United takes on Everton.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
   </programme>
-  <programme start="20250729170000 -0400" stop="20250729200000 -0400" channel="EVENT 02">
-    <title lang="en">EVENT 02: Summer Shootout at Charlotte (7.29 5:00 PM ET)</title>
+  <programme start="20250730000000 -0400" stop="20250730020000 -0400" channel="Soccer 13">
+    <title lang="en"> Game will start at 8:30ET</title>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20250729200000 -0400" stop="20250729235959 -0400" channel="EVENT 02">
-    <title lang="en">EVENT 02: Summer Shootout at Charlotte has ended. Thank you for watching.</title>
+  <programme start="20250730020000 -0400" stop="20250730040000 -0400" channel="Soccer 13">
+    <title lang="en"> Game will start at 8:30ET</title>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729181500 -0400" channel="EVENT 03">
-    <title lang="en">EVENT 03: USAC Indiana Sprint Week at Kokomo starts at 6:15 PM ET</title>
+  <programme start="20250730040000 -0400" stop="20250730060000 -0400" channel="Soccer 13">
+    <title lang="en"> Game will start at 8:30ET</title>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20250729181500 -0400" stop="20250729211500 -0400" channel="EVENT 03">
-    <title lang="en">EVENT 03: USAC Indiana Sprint Week at Kokomo (7.29 6:15 PM ET)</title>
+  <programme start="20250730060000 -0400" stop="20250730080000 -0400" channel="Soccer 13">
+    <title lang="en"> Game will start at 8:30ET</title>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20250729211500 -0400" stop="20250729235959 -0400" channel="EVENT 03">
-    <title lang="en">EVENT 03: USAC Indiana Sprint Week at Kokomo has ended. Thank you for watching.</title>
+  <programme start="20250730080000 -0400" stop="20250730100000 -0400" channel="Soccer 13">
+    <title lang="en"> Game will start at 8:30ET</title>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729174500 -0400" channel="EVENT 04">
-    <title lang="en">EVENT 04: Autodrome Drummond starts at 5:45 PM ET</title>
+  <programme start="20250730100000 -0400" stop="20250730120000 -0400" channel="Soccer 13">
+    <title lang="en"> Game will start at 8:30ET</title>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20250729174500 -0400" stop="20250729204500 -0400" channel="EVENT 04">
-    <title lang="en">EVENT 04: Autodrome Drummond (7.29 5:45 PM ET)</title>
+  <programme start="20250730120000 -0400" stop="20250730140000 -0400" channel="Soccer 13">
+    <title lang="en"> Game will start at 8:30ET</title>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20250729204500 -0400" stop="20250729235959 -0400" channel="EVENT 04">
-    <title lang="en">EVENT 04: Autodrome Drummond has ended. Thank you for watching.</title>
+  <programme start="20250730140000 -0400" stop="20250730160000 -0400" channel="Soccer 13">
+    <title lang="en"> Game will start at 8:30ET</title>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 05">
+  <programme start="20250730160000 -0400" stop="20250730180000 -0400" channel="Soccer 13">
+    <title lang="en"> Game will start at 8:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730180000 -0400" stop="20250730200000 -0400" channel="Soccer 13">
+    <title lang="en"> Game will start at 8:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730200000 -0400" stop="20250730203000 -0400" channel="Soccer 13">
+    <title lang="en"> Game will start at 8:30ET</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20250730203000 -0400" stop="20250730223000 -0400" channel="Soccer 13">
+    <title lang="en">Friendly: Manchester United vs Bournemouth</title>
+    <desc lang="en">Live Friendly action: Manchester United takes on Bournemouth.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20250730080000 -0400" stop="20250730163000 -0400" channel="EVENT 01">
+    <title lang="en">EVENT 01: School Bus Demo Derby at Riverhead starts at 4:30 PM ET</title>
+  </programme>
+  <programme start="20250730163000 -0400" stop="20250730193000 -0400" channel="EVENT 01">
+    <title lang="en">EVENT 01: School Bus Demo Derby at Riverhead (7.30 4:30 PM ET)</title>
+  </programme>
+  <programme start="20250730193000 -0400" stop="20250730235959 -0400" channel="EVENT 01">
+    <title lang="en">EVENT 01: School Bus Demo Derby at Riverhead has ended. Thank you for watching.</title>
+  </programme>
+  <programme start="20250730080000 -0400" stop="20250730184500 -0400" channel="EVENT 02">
+    <title lang="en">EVENT 02: USAC Indiana Sprint Week at Circle City starts at 6:45 PM ET</title>
+  </programme>
+  <programme start="20250730184500 -0400" stop="20250730214500 -0400" channel="EVENT 02">
+    <title lang="en">EVENT 02: USAC Indiana Sprint Week at Circle City (7.30 6:45 PM ET)</title>
+  </programme>
+  <programme start="20250730214500 -0400" stop="20250730235959 -0400" channel="EVENT 02">
+    <title lang="en">EVENT 02: USAC Indiana Sprint Week at Circle City has ended. Thank you for watching.</title>
+  </programme>
+  <programme start="20250730080000 -0400" stop="20250730174500 -0400" channel="EVENT 03">
+    <title lang="en">EVENT 03: Brockville Ontario Speedway starts at 5:45 PM ET</title>
+  </programme>
+  <programme start="20250730174500 -0400" stop="20250730204500 -0400" channel="EVENT 03">
+    <title lang="en">EVENT 03: Brockville Ontario Speedway (7.30 5:45 PM ET)</title>
+  </programme>
+  <programme start="20250730204500 -0400" stop="20250730235959 -0400" channel="EVENT 03">
+    <title lang="en">EVENT 03: Brockville Ontario Speedway has ended. Thank you for watching.</title>
+  </programme>
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 04">
+    <title lang="en">No Event scheduled</title>
+  </programme>
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 05">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 06">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 06">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 07">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 07">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 08">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 08">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 09">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 09">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 10">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 10">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 11">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 11">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 12">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 12">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 13">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 13">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 14">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 14">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 15">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 15">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 16">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 16">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 17">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 17">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 18">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 18">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 19">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 19">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 20">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 20">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 21">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 21">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 22">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 22">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 23">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 23">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 24">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 24">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 25">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 25">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 26">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 26">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 27">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 27">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 28">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 28">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 29">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 29">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 30">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 30">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 31">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 31">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 32">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 32">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 33">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 33">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 34">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 34">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 35">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 35">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 36">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 36">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 37">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 37">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 38">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 38">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 39">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 39">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 40">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 40">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 41">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 41">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 42">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 42">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 43">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 43">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 44">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 44">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 45">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 45">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 46">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 46">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 47">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 47">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 48">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 48">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 49">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 49">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 50">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 50">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 51">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 51">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 52">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 52">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 53">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 53">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 54">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 54">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 55">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 55">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 56">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 56">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 57">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 57">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 58">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 58">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 59">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 59">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 60">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 60">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 61">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 61">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 62">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 62">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 63">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 63">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 64">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 64">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 65">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 65">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 66">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 66">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 67">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 67">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 68">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 68">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 69">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 69">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250729080000 -0400" stop="20250729110000 -0400" channel="EVENT 70">
+  <programme start="20250730080000 -0400" stop="20250730110000 -0400" channel="EVENT 70">
     <title lang="en">No Event scheduled</title>
   </programme>
 </tv>
