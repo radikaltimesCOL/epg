@@ -210,334 +210,397 @@
   <channel id="EVENT 70">
     <display-name>EVENT 70:</display-name>
   </channel>
-  <programme start="20250801080000 -0400" stop="20250801090000 -0400" channel="EVENT 01">
-    <title lang="en">EVENT 01: PDRA Northern Nationals starts at 9:00 AM ET</title>
+  <programme start="20250802080000 -0400" stop="20250802180000 -0400" channel="EVENT 01">
+    <title lang="en">EVENT 01: PRELIMS UFC FN starts at 6:00 PM ET</title>
   </programme>
-  <programme start="20250801090000 -0400" stop="20250801120000 -0400" channel="EVENT 01">
-    <title lang="en">EVENT 01: PDRA Northern Nationals (8.1 9:00 AM ET)</title>
+  <programme start="20250802180000 -0400" stop="20250802210000 -0400" channel="EVENT 01">
+    <title lang="en">EVENT 01: PRELIMS UFC FN (8.2 6:00 PM ET)</title>
   </programme>
-  <programme start="20250801120000 -0400" stop="20250801235959 -0400" channel="EVENT 01">
-    <title lang="en">EVENT 01: PDRA Northern Nationals has ended. Thank you for watching.</title>
+  <programme start="20250802210000 -0400" stop="20250802235959 -0400" channel="EVENT 01">
+    <title lang="en">EVENT 01: PRELIMS UFC FN has ended. Thank you for watching.</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801173000 -0400" channel="EVENT 02">
-    <title lang="en">EVENT 02: NAPA SK 5K at Stafford starts at 5:30 PM ET</title>
+  <programme start="20250802080000 -0400" stop="20250802180000 -0400" channel="EVENT 02">
+    <title lang="en">EVENT 02: PRELIMS UFC FN starts at 6:00 PM ET</title>
   </programme>
-  <programme start="20250801173000 -0400" stop="20250801203000 -0400" channel="EVENT 02">
-    <title lang="en">EVENT 02: NAPA SK 5K at Stafford (8.1 5:30 PM ET)</title>
+  <programme start="20250802180000 -0400" stop="20250802210000 -0400" channel="EVENT 02">
+    <title lang="en">EVENT 02: PRELIMS UFC FN (8.2 6:00 PM ET)</title>
   </programme>
-  <programme start="20250801203000 -0400" stop="20250801235959 -0400" channel="EVENT 02">
-    <title lang="en">EVENT 02: NAPA SK 5K at Stafford has ended. Thank you for watching.</title>
+  <programme start="20250802210000 -0400" stop="20250802235959 -0400" channel="EVENT 02">
+    <title lang="en">EVENT 02: PRELIMS UFC FN has ended. Thank you for watching.</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801182000 -0400" channel="EVENT 03">
-    <title lang="en">EVENT 03: NASCAR Dirt Mods at Autodrome Granby starts at 6:20 PM ET</title>
+  <programme start="20250802080000 -0400" stop="20250802210000 -0400" channel="EVENT 03">
+    <title lang="en">EVENT 03: UFC FN Albazi vs. Taira starts at 9:00 PM ET</title>
   </programme>
-  <programme start="20250801182000 -0400" stop="20250801212000 -0400" channel="EVENT 03">
-    <title lang="en">EVENT 03: NASCAR Dirt Mods at Autodrome Granby (8.1 6:20 PM ET)</title>
+  <programme start="20250802210000 -0400" stop="20250803000000 -0400" channel="EVENT 03">
+    <title lang="en">EVENT 03: UFC FN Albazi vs. Taira (8.2 9:00 PM ET)</title>
   </programme>
-  <programme start="20250801212000 -0400" stop="20250801235959 -0400" channel="EVENT 03">
-    <title lang="en">EVENT 03: NASCAR Dirt Mods at Autodrome Granby has ended. Thank you for watching.</title>
+  <programme start="20250802080000 -0400" stop="20250802210000 -0400" channel="EVENT 04">
+    <title lang="en">EVENT 04: UFC FN Albazi vs. Taira starts at 9:00 PM ET</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801183000 -0400" channel="EVENT 04">
-    <title lang="en">EVENT 04: USAC Indiana Sprint Week at Bloomington starts at 6:30 PM ET</title>
+  <programme start="20250802210000 -0400" stop="20250803000000 -0400" channel="EVENT 04">
+    <title lang="en">EVENT 04: UFC FN Albazi vs. Taira (8.2 9:00 PM ET)</title>
   </programme>
-  <programme start="20250801183000 -0400" stop="20250801213000 -0400" channel="EVENT 04">
-    <title lang="en">EVENT 04: USAC Indiana Sprint Week at Bloomington (8.1 6:30 PM ET)</title>
+  <programme start="20250802080000 -0400" stop="20250802180000 -0400" channel="EVENT 05">
+    <title lang="en">EVENT 05: WWE SummerSlam starts at 6:00 PM ET</title>
   </programme>
-  <programme start="20250801213000 -0400" stop="20250801235959 -0400" channel="EVENT 04">
-    <title lang="en">EVENT 04: USAC Indiana Sprint Week at Bloomington has ended. Thank you for watching.</title>
+  <programme start="20250802180000 -0400" stop="20250802210000 -0400" channel="EVENT 05">
+    <title lang="en">EVENT 05: WWE SummerSlam (8.2 6:00 PM ET)</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801183000 -0400" channel="EVENT 05">
-    <title lang="en">EVENT 05: NAPA All Star Sprints at Hartford starts at 6:30 PM ET</title>
+  <programme start="20250802210000 -0400" stop="20250802235959 -0400" channel="EVENT 05">
+    <title lang="en">EVENT 05: WWE SummerSlam has ended. Thank you for watching.</title>
   </programme>
-  <programme start="20250801183000 -0400" stop="20250801213000 -0400" channel="EVENT 05">
-    <title lang="en">EVENT 05: NAPA All Star Sprints at Hartford (8.1 6:30 PM ET)</title>
+  <programme start="20250802080000 -0400" stop="20250802180000 -0400" channel="EVENT 06">
+    <title lang="en">EVENT 06: WWE SummerSlam starts at 6:00 PM ET</title>
   </programme>
-  <programme start="20250801213000 -0400" stop="20250801235959 -0400" channel="EVENT 05">
-    <title lang="en">EVENT 05: NAPA All Star Sprints at Hartford has ended. Thank you for watching.</title>
+  <programme start="20250802180000 -0400" stop="20250802210000 -0400" channel="EVENT 06">
+    <title lang="en">EVENT 06: WWE SummerSlam (8.2 6:00 PM ET)</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801184500 -0400" channel="EVENT 06">
-    <title lang="en">EVENT 06: Thunder on the Thruway at Utica Rome starts at 6:45 PM ET</title>
+  <programme start="20250802210000 -0400" stop="20250802235959 -0400" channel="EVENT 06">
+    <title lang="en">EVENT 06: WWE SummerSlam has ended. Thank you for watching.</title>
   </programme>
-  <programme start="20250801184500 -0400" stop="20250801214500 -0400" channel="EVENT 06">
-    <title lang="en">EVENT 06: Thunder on the Thruway at Utica Rome (8.1 6:45 PM ET)</title>
+  <programme start="20250802080000 -0400" stop="20250802200000 -0400" channel="EVENT 07">
+    <title lang="en">EVENT 07: Duarte vs. Sims Jr starts at 8:00 PM ET</title>
   </programme>
-  <programme start="20250801214500 -0400" stop="20250801235959 -0400" channel="EVENT 06">
-    <title lang="en">EVENT 06: Thunder on the Thruway at Utica Rome has ended. Thank you for watching.</title>
+  <programme start="20250802200000 -0400" stop="20250802230000 -0400" channel="EVENT 07">
+    <title lang="en">EVENT 07: Duarte vs. Sims Jr (8.2 8:00 PM ET)</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801193000 -0400" channel="EVENT 07">
-    <title lang="en">EVENT 07: CARS Tour Throwback Classic at Hickory starts at 7:30 PM ET</title>
+  <programme start="20250802230000 -0400" stop="20250802235959 -0400" channel="EVENT 07">
+    <title lang="en">EVENT 07: Duarte vs. Sims Jr has ended. Thank you for watching.</title>
   </programme>
-  <programme start="20250801193000 -0400" stop="20250801223000 -0400" channel="EVENT 07">
-    <title lang="en">EVENT 07: CARS Tour Throwback Classic at Hickory (8.1 7:30 PM ET)</title>
+  <programme start="20250802080000 -0400" stop="20250802203000 -0400" channel="EVENT 08">
+    <title lang="en">EVENT 08: BKFC 79 starts at 8:30 PM ET</title>
   </programme>
-  <programme start="20250801223000 -0400" stop="20250801235959 -0400" channel="EVENT 07">
-    <title lang="en">EVENT 07: CARS Tour Throwback Classic at Hickory has ended. Thank you for watching.</title>
+  <programme start="20250802203000 -0400" stop="20250802233000 -0400" channel="EVENT 08">
+    <title lang="en">EVENT 08: BKFC 79 (8.2 8:30 PM ET)</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801193000 -0400" channel="EVENT 08">
-    <title lang="en">EVENT 08: Belleville 305 Nationals starts at 7:30 PM ET</title>
+  <programme start="20250802233000 -0400" stop="20250802235959 -0400" channel="EVENT 08">
+    <title lang="en">EVENT 08: BKFC 79 has ended. Thank you for watching.</title>
   </programme>
-  <programme start="20250801193000 -0400" stop="20250801223000 -0400" channel="EVENT 08">
-    <title lang="en">EVENT 08: Belleville 305 Nationals (8.1 7:30 PM ET)</title>
+  <programme start="20250802080000 -0400" stop="20250802130000 -0400" channel="EVENT 09">
+    <title lang="en">EVENT 09: GCW Josh Barnetts Bloodsport XIV starts at 1:00 PM ET</title>
   </programme>
-  <programme start="20250801223000 -0400" stop="20250801235959 -0400" channel="EVENT 08">
-    <title lang="en">EVENT 08: Belleville 305 Nationals has ended. Thank you for watching.</title>
+  <programme start="20250802130000 -0400" stop="20250802160000 -0400" channel="EVENT 09">
+    <title lang="en">EVENT 09: GCW Josh Barnetts Bloodsport XIV (8.2 1:00 PM ET)</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801194500 -0400" channel="EVENT 09">
-    <title lang="en">EVENT 09: IMCA Weekly Racing at Marshalltown starts at 7:45 PM ET</title>
+  <programme start="20250802160000 -0400" stop="20250802235959 -0400" channel="EVENT 09">
+    <title lang="en">EVENT 09: GCW Josh Barnetts Bloodsport XIV has ended. Thank you for watching.</title>
   </programme>
-  <programme start="20250801194500 -0400" stop="20250801224500 -0400" channel="EVENT 09">
-    <title lang="en">EVENT 09: IMCA Weekly Racing at Marshalltown (8.1 7:45 PM ET)</title>
+  <programme start="20250802080000 -0400" stop="20250802140000 -0400" channel="EVENT 10">
+    <title lang="en">EVENT 10: Rage Kombat Inferno starts at 2:00 PM ET</title>
   </programme>
-  <programme start="20250801224500 -0400" stop="20250801235959 -0400" channel="EVENT 09">
-    <title lang="en">EVENT 09: IMCA Weekly Racing at Marshalltown has ended. Thank you for watching.</title>
+  <programme start="20250802140000 -0400" stop="20250802170000 -0400" channel="EVENT 10">
+    <title lang="en">EVENT 10: Rage Kombat Inferno (8.2 2:00 PM ET)</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801190000 -0400" channel="EVENT 10">
-    <title lang="en">EVENT 10: Cedar Lake Speedway starts at 7:00 PM ET</title>
+  <programme start="20250802170000 -0400" stop="20250802235959 -0400" channel="EVENT 10">
+    <title lang="en">EVENT 10: Rage Kombat Inferno has ended. Thank you for watching.</title>
   </programme>
-  <programme start="20250801190000 -0400" stop="20250801220000 -0400" channel="EVENT 10">
-    <title lang="en">EVENT 10: Cedar Lake Speedway (8.1 7:00 PM ET)</title>
+  <programme start="20250802080000 -0400" stop="20250802230000 -0400" channel="EVENT 11">
+    <title lang="en">EVENT 11: GCW Emo Fight starts at 11:00 PM ET</title>
   </programme>
-  <programme start="20250801220000 -0400" stop="20250801235959 -0400" channel="EVENT 10">
-    <title lang="en">EVENT 10: Cedar Lake Speedway has ended. Thank you for watching.</title>
+  <programme start="20250802230000 -0400" stop="20250803020000 -0400" channel="EVENT 11">
+    <title lang="en">EVENT 11: GCW Emo Fight (8.2 11:00 PM ET)</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801191000 -0400" channel="EVENT 11">
-    <title lang="en">EVENT 11: Knoxville Raceway starts at 7:10 PM ET</title>
+  <programme start="20250802080000 -0400" stop="20250802190000 -0400" channel="EVENT 12">
+    <title lang="en">EVENT 12: Dead and Compnay 60 Years Of The Grateful Dead starts at 7:00 PM ET</title>
   </programme>
-  <programme start="20250801191000 -0400" stop="20250801221000 -0400" channel="EVENT 11">
-    <title lang="en">EVENT 11: Knoxville Raceway (8.1 7:10 PM ET)</title>
+  <programme start="20250802190000 -0400" stop="20250802220000 -0400" channel="EVENT 12">
+    <title lang="en">EVENT 12: Dead and Compnay 60 Years Of The Grateful Dead (8.2 7:00 PM ET)</title>
   </programme>
-  <programme start="20250801221000 -0400" stop="20250801235959 -0400" channel="EVENT 11">
-    <title lang="en">EVENT 11: Knoxville Raceway has ended. Thank you for watching.</title>
+  <programme start="20250802220000 -0400" stop="20250802235959 -0400" channel="EVENT 12">
+    <title lang="en">EVENT 12: Dead and Compnay 60 Years Of The Grateful Dead has ended. Thank you for watching.</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801191500 -0400" channel="EVENT 12">
-    <title lang="en">EVENT 12: I55 Federated Auto Parts Raceway Park starts at 7:15 PM ET</title>
+  <programme start="20250802080000 -0400" stop="20250802084500 -0400" channel="EVENT 13">
+    <title lang="en">EVENT 13: PDRA Northern Nationals starts at 8:45 AM ET</title>
   </programme>
-  <programme start="20250801191500 -0400" stop="20250801221500 -0400" channel="EVENT 12">
-    <title lang="en">EVENT 12: I55 Federated Auto Parts Raceway Park (8.1 7:15 PM ET)</title>
+  <programme start="20250802084500 -0400" stop="20250802114500 -0400" channel="EVENT 13">
+    <title lang="en">EVENT 13: PDRA Northern Nationals (8.2 8:45 AM ET)</title>
   </programme>
-  <programme start="20250801221500 -0400" stop="20250801235959 -0400" channel="EVENT 12">
-    <title lang="en">EVENT 12: I55 Federated Auto Parts Raceway Park has ended. Thank you for watching.</title>
+  <programme start="20250802114500 -0400" stop="20250802235959 -0400" channel="EVENT 13">
+    <title lang="en">EVENT 13: PDRA Northern Nationals has ended. Thank you for watching.</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801160000 -0400" channel="EVENT 13">
-    <title lang="en">EVENT 13: GCW ID Showcase starts at 4:00 PM ET</title>
+  <programme start="20250802080000 -0400" stop="20250802193000 -0400" channel="EVENT 14">
+    <title lang="en">EVENT 14: Belleville 305 Nationals starts at 7:30 PM ET</title>
   </programme>
-  <programme start="20250801160000 -0400" stop="20250801190000 -0400" channel="EVENT 13">
-    <title lang="en">EVENT 13: GCW ID Showcase (8.1 4:00 PM ET)</title>
+  <programme start="20250802193000 -0400" stop="20250802223000 -0400" channel="EVENT 14">
+    <title lang="en">EVENT 14: Belleville 305 Nationals (8.2 7:30 PM ET)</title>
   </programme>
-  <programme start="20250801190000 -0400" stop="20250801235959 -0400" channel="EVENT 13">
-    <title lang="en">EVENT 13: GCW ID Showcase has ended. Thank you for watching.</title>
+  <programme start="20250802223000 -0400" stop="20250802235959 -0400" channel="EVENT 14">
+    <title lang="en">EVENT 14: Belleville 305 Nationals has ended. Thank you for watching.</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801200000 -0400" channel="EVENT 14">
-    <title lang="en">EVENT 14: GCW Hit Em Up starts at 8:00 PM ET</title>
+  <programme start="20250802080000 -0400" stop="20250802172000 -0400" channel="EVENT 15">
+    <title lang="en">EVENT 15: CARS Tour Throwback Classic at Hickory starts at 5:20 PM ET</title>
   </programme>
-  <programme start="20250801200000 -0400" stop="20250801230000 -0400" channel="EVENT 14">
-    <title lang="en">EVENT 14: GCW Hit Em Up (8.1 8:00 PM ET)</title>
+  <programme start="20250802172000 -0400" stop="20250802202000 -0400" channel="EVENT 15">
+    <title lang="en">EVENT 15: CARS Tour Throwback Classic at Hickory (8.2 5:20 PM ET)</title>
   </programme>
-  <programme start="20250801230000 -0400" stop="20250801235959 -0400" channel="EVENT 14">
-    <title lang="en">EVENT 14: GCW Hit Em Up has ended. Thank you for watching.</title>
+  <programme start="20250802202000 -0400" stop="20250802235959 -0400" channel="EVENT 15">
+    <title lang="en">EVENT 15: CARS Tour Throwback Classic at Hickory has ended. Thank you for watching.</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801190000 -0400" channel="EVENT 15">
-    <title lang="en">EVENT 15: EFW Adrenaline 10 starts at 7:00 PM ET</title>
+  <programme start="20250802080000 -0400" stop="20250802170000 -0400" channel="EVENT 16">
+    <title lang="en">EVENT 16: NASCAR Modified Bubba 150 at Riverhead starts at 5:00 PM ET</title>
   </programme>
-  <programme start="20250801190000 -0400" stop="20250801220000 -0400" channel="EVENT 15">
-    <title lang="en">EVENT 15: EFW Adrenaline 10 (8.1 7:00 PM ET)</title>
+  <programme start="20250802170000 -0400" stop="20250802200000 -0400" channel="EVENT 16">
+    <title lang="en">EVENT 16: NASCAR Modified Bubba 150 at Riverhead (8.2 5:00 PM ET)</title>
   </programme>
-  <programme start="20250801220000 -0400" stop="20250801235959 -0400" channel="EVENT 15">
-    <title lang="en">EVENT 15: EFW Adrenaline 10 has ended. Thank you for watching.</title>
+  <programme start="20250802200000 -0400" stop="20250802235959 -0400" channel="EVENT 16">
+    <title lang="en">EVENT 16: NASCAR Modified Bubba 150 at Riverhead has ended. Thank you for watching.</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801200000 -0400" channel="EVENT 16">
-    <title lang="en">EVENT 16: House of Glory High Intensity starts at 8:00 PM ET</title>
+  <programme start="20250802080000 -0400" stop="20250802171500 -0400" channel="EVENT 17">
+    <title lang="en">EVENT 17: Supermodified Twin 40s at Oswego starts at 5:15 PM ET</title>
   </programme>
-  <programme start="20250801200000 -0400" stop="20250801230000 -0400" channel="EVENT 16">
-    <title lang="en">EVENT 16: House of Glory High Intensity (8.1 8:00 PM ET)</title>
+  <programme start="20250802171500 -0400" stop="20250802201500 -0400" channel="EVENT 17">
+    <title lang="en">EVENT 17: Supermodified Twin 40s at Oswego (8.2 5:15 PM ET)</title>
   </programme>
-  <programme start="20250801230000 -0400" stop="20250801235959 -0400" channel="EVENT 16">
-    <title lang="en">EVENT 16: House of Glory High Intensity has ended. Thank you for watching.</title>
+  <programme start="20250802201500 -0400" stop="20250802235959 -0400" channel="EVENT 17">
+    <title lang="en">EVENT 17: Supermodified Twin 40s at Oswego has ended. Thank you for watching.</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801190000 -0400" channel="EVENT 17">
-    <title lang="en">EVENT 17: Shooto Brazil 131 starts at 7:00 PM ET</title>
+  <programme start="20250802080000 -0400" stop="20250802180000 -0400" channel="EVENT 18">
+    <title lang="en">EVENT 18: Weekly Racing at Fonda starts at 6:00 PM ET</title>
   </programme>
-  <programme start="20250801190000 -0400" stop="20250801220000 -0400" channel="EVENT 17">
-    <title lang="en">EVENT 17: Shooto Brazil 131 (8.1 7:00 PM ET)</title>
+  <programme start="20250802180000 -0400" stop="20250802210000 -0400" channel="EVENT 18">
+    <title lang="en">EVENT 18: Weekly Racing at Fonda (8.2 6:00 PM ET)</title>
   </programme>
-  <programme start="20250801220000 -0400" stop="20250801235959 -0400" channel="EVENT 17">
-    <title lang="en">EVENT 17: Shooto Brazil 131 has ended. Thank you for watching.</title>
+  <programme start="20250802210000 -0400" stop="20250802235959 -0400" channel="EVENT 18">
+    <title lang="en">EVENT 18: Weekly Racing at Fonda has ended. Thank you for watching.</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801210000 -0400" channel="EVENT 18">
-    <title lang="en">EVENT 18: Budo Striking Vol 30 starts at 9:00 PM ET</title>
+  <programme start="20250802080000 -0400" stop="20250802180000 -0400" channel="EVENT 19">
+    <title lang="en">EVENT 19: Weekly Racing at Port Royal starts at 6:00 PM ET</title>
   </programme>
-  <programme start="20250801210000 -0400" stop="20250802000000 -0400" channel="EVENT 18">
-    <title lang="en">EVENT 18: Budo Striking Vol 30 (8.1 9:00 PM ET)</title>
+  <programme start="20250802180000 -0400" stop="20250802210000 -0400" channel="EVENT 19">
+    <title lang="en">EVENT 19: Weekly Racing at Port Royal (8.2 6:00 PM ET)</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801220000 -0400" channel="EVENT 19">
-    <title lang="en">EVENT 19: Urijah Fabers A1 Combat 29 starts at 10:00 PM ET</title>
+  <programme start="20250802210000 -0400" stop="20250802235959 -0400" channel="EVENT 19">
+    <title lang="en">EVENT 19: Weekly Racing at Port Royal has ended. Thank you for watching.</title>
   </programme>
-  <programme start="20250801220000 -0400" stop="20250802010000 -0400" channel="EVENT 19">
-    <title lang="en">EVENT 19: Urijah Fabers A1 Combat 29 (8.1 10:00 PM ET)</title>
+  <programme start="20250802080000 -0400" stop="20250802180000 -0400" channel="EVENT 20">
+    <title lang="en">EVENT 20: NASCAR Weekly Racing at Berlin starts at 6:00 PM ET</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801233000 -0400" channel="EVENT 20">
-    <title lang="en">EVENT 20: Budo Sento Championship Vol 30 starts at 11:30 PM ET</title>
+  <programme start="20250802180000 -0400" stop="20250802210000 -0400" channel="EVENT 20">
+    <title lang="en">EVENT 20: NASCAR Weekly Racing at Berlin (8.2 6:00 PM ET)</title>
   </programme>
-  <programme start="20250801233000 -0400" stop="20250802023000 -0400" channel="EVENT 20">
-    <title lang="en">EVENT 20: Budo Sento Championship Vol 30 (8.1 11:30 PM ET)</title>
+  <programme start="20250802210000 -0400" stop="20250802235959 -0400" channel="EVENT 20">
+    <title lang="en">EVENT 20: NASCAR Weekly Racing at Berlin has ended. Thank you for watching.</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801180000 -0400" channel="EVENT 21">
-    <title lang="en">EVENT 21: PFL World Tournament Finals starts at 6:00 PM ET</title>
+  <programme start="20250802080000 -0400" stop="20250802182000 -0400" channel="EVENT 21">
+    <title lang="en">EVENT 21: NASCAR Weekly Racing at Jennerstown starts at 6:20 PM ET</title>
   </programme>
-  <programme start="20250801180000 -0400" stop="20250801210000 -0400" channel="EVENT 21">
-    <title lang="en">EVENT 21: PFL World Tournament Finals (8.1 6:00 PM ET)</title>
+  <programme start="20250802182000 -0400" stop="20250802212000 -0400" channel="EVENT 21">
+    <title lang="en">EVENT 21: NASCAR Weekly Racing at Jennerstown (8.2 6:20 PM ET)</title>
   </programme>
-  <programme start="20250801210000 -0400" stop="20250801235959 -0400" channel="EVENT 21">
-    <title lang="en">EVENT 21: PFL World Tournament Finals has ended. Thank you for watching.</title>
+  <programme start="20250802212000 -0400" stop="20250802235959 -0400" channel="EVENT 21">
+    <title lang="en">EVENT 21: NASCAR Weekly Racing at Jennerstown has ended. Thank you for watching.</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801210000 -0400" channel="EVENT 22">
-    <title lang="en">EVENT 22: One Fight Night Eersel vs. Jarvis starts at 9:00 PM ET</title>
+  <programme start="20250802080000 -0400" stop="20250802183000 -0400" channel="EVENT 22">
+    <title lang="en">EVENT 22: Family Fireworks Night at Eldora starts at 6:30 PM ET</title>
   </programme>
-  <programme start="20250801210000 -0400" stop="20250802000000 -0400" channel="EVENT 22">
-    <title lang="en">EVENT 22: One Fight Night Eersel vs. Jarvis (8.1 9:00 PM ET)</title>
+  <programme start="20250802183000 -0400" stop="20250802213000 -0400" channel="EVENT 22">
+    <title lang="en">EVENT 22: Family Fireworks Night at Eldora (8.2 6:30 PM ET)</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 23">
+  <programme start="20250802213000 -0400" stop="20250802235959 -0400" channel="EVENT 22">
+    <title lang="en">EVENT 22: Family Fireworks Night at Eldora has ended. Thank you for watching.</title>
+  </programme>
+  <programme start="20250802080000 -0400" stop="20250802184500 -0400" channel="EVENT 23">
+    <title lang="en">EVENT 23: USAC Indiana Sprint Week at TriState starts at 6:45 PM ET</title>
+  </programme>
+  <programme start="20250802184500 -0400" stop="20250802214500 -0400" channel="EVENT 23">
+    <title lang="en">EVENT 23: USAC Indiana Sprint Week at TriState (8.2 6:45 PM ET)</title>
+  </programme>
+  <programme start="20250802214500 -0400" stop="20250802235959 -0400" channel="EVENT 23">
+    <title lang="en">EVENT 23: USAC Indiana Sprint Week at TriState has ended. Thank you for watching.</title>
+  </programme>
+  <programme start="20250802080000 -0400" stop="20250802190000 -0400" channel="EVENT 24">
+    <title lang="en">EVENT 24: IMCA Weekly Racing at 141 starts at 7:00 PM ET</title>
+  </programme>
+  <programme start="20250802190000 -0400" stop="20250802220000 -0400" channel="EVENT 24">
+    <title lang="en">EVENT 24: IMCA Weekly Racing at 141 (8.2 7:00 PM ET)</title>
+  </programme>
+  <programme start="20250802220000 -0400" stop="20250802235959 -0400" channel="EVENT 24">
+    <title lang="en">EVENT 24: IMCA Weekly Racing at 141 has ended. Thank you for watching.</title>
+  </programme>
+  <programme start="20250802080000 -0400" stop="20250802190000 -0400" channel="EVENT 25">
+    <title lang="en">EVENT 25: NASCAR Weekly Racing at Langley starts at 7:00 PM ET</title>
+  </programme>
+  <programme start="20250802190000 -0400" stop="20250802220000 -0400" channel="EVENT 25">
+    <title lang="en">EVENT 25: NASCAR Weekly Racing at Langley (8.2 7:00 PM ET)</title>
+  </programme>
+  <programme start="20250802220000 -0400" stop="20250802235959 -0400" channel="EVENT 25">
+    <title lang="en">EVENT 25: NASCAR Weekly Racing at Langley has ended. Thank you for watching.</title>
+  </programme>
+  <programme start="20250802080000 -0400" stop="20250802194500 -0400" channel="EVENT 26">
+    <title lang="en">EVENT 26: NASCAR Modified 100 at Bowman Gray starts at 7:45 PM ET</title>
+  </programme>
+  <programme start="20250802194500 -0400" stop="20250802224500 -0400" channel="EVENT 26">
+    <title lang="en">EVENT 26: NASCAR Modified 100 at Bowman Gray (8.2 7:45 PM ET)</title>
+  </programme>
+  <programme start="20250802224500 -0400" stop="20250802235959 -0400" channel="EVENT 26">
+    <title lang="en">EVENT 26: NASCAR Modified 100 at Bowman Gray has ended. Thank you for watching.</title>
+  </programme>
+  <programme start="20250802080000 -0400" stop="20250802174500 -0400" channel="EVENT 27">
+    <title lang="en">EVENT 27: Owosso Speedway starts at 5:45 PM ET</title>
+  </programme>
+  <programme start="20250802174500 -0400" stop="20250802204500 -0400" channel="EVENT 27">
+    <title lang="en">EVENT 27: Owosso Speedway (8.2 5:45 PM ET)</title>
+  </programme>
+  <programme start="20250802204500 -0400" stop="20250802235959 -0400" channel="EVENT 27">
+    <title lang="en">EVENT 27: Owosso Speedway has ended. Thank you for watching.</title>
+  </programme>
+  <programme start="20250802080000 -0400" stop="20250802181500 -0400" channel="EVENT 28">
+    <title lang="en">EVENT 28: Land of Legends Raceway starts at 6:15 PM ET</title>
+  </programme>
+  <programme start="20250802181500 -0400" stop="20250802211500 -0400" channel="EVENT 28">
+    <title lang="en">EVENT 28: Land of Legends Raceway (8.2 6:15 PM ET)</title>
+  </programme>
+  <programme start="20250802211500 -0400" stop="20250802235959 -0400" channel="EVENT 28">
+    <title lang="en">EVENT 28: Land of Legends Raceway has ended. Thank you for watching.</title>
+  </programme>
+  <programme start="20250802080000 -0400" stop="20250802183000 -0400" channel="EVENT 29">
+    <title lang="en">EVENT 29: Sharon Speedway starts at 6:30 PM ET</title>
+  </programme>
+  <programme start="20250802183000 -0400" stop="20250802213000 -0400" channel="EVENT 29">
+    <title lang="en">EVENT 29: Sharon Speedway (8.2 6:30 PM ET)</title>
+  </programme>
+  <programme start="20250802213000 -0400" stop="20250802235959 -0400" channel="EVENT 29">
+    <title lang="en">EVENT 29: Sharon Speedway has ended. Thank you for watching.</title>
+  </programme>
+  <programme start="20250802080000 -0400" stop="20250802190000 -0400" channel="EVENT 30">
+    <title lang="en">EVENT 30: Cedar Lake Speedway starts at 7:00 PM ET</title>
+  </programme>
+  <programme start="20250802190000 -0400" stop="20250802220000 -0400" channel="EVENT 30">
+    <title lang="en">EVENT 30: Cedar Lake Speedway (8.2 7:00 PM ET)</title>
+  </programme>
+  <programme start="20250802220000 -0400" stop="20250802235959 -0400" channel="EVENT 30">
+    <title lang="en">EVENT 30: Cedar Lake Speedway has ended. Thank you for watching.</title>
+  </programme>
+  <programme start="20250802080000 -0400" stop="20250802190000 -0400" channel="EVENT 31">
+    <title lang="en">EVENT 31: Knoxville Raceway starts at 7:00 PM ET</title>
+  </programme>
+  <programme start="20250802190000 -0400" stop="20250802220000 -0400" channel="EVENT 31">
+    <title lang="en">EVENT 31: Knoxville Raceway (8.2 7:00 PM ET)</title>
+  </programme>
+  <programme start="20250802220000 -0400" stop="20250802235959 -0400" channel="EVENT 31">
+    <title lang="en">EVENT 31: Knoxville Raceway has ended. Thank you for watching.</title>
+  </programme>
+  <programme start="20250802080000 -0400" stop="20250802191500 -0400" channel="EVENT 32">
+    <title lang="en">EVENT 32: I55 Federated Auto Parts Raceway starts at 7:15 PM ET</title>
+  </programme>
+  <programme start="20250802191500 -0400" stop="20250802221500 -0400" channel="EVENT 32">
+    <title lang="en">EVENT 32: I55 Federated Auto Parts Raceway (8.2 7:15 PM ET)</title>
+  </programme>
+  <programme start="20250802221500 -0400" stop="20250802235959 -0400" channel="EVENT 32">
+    <title lang="en">EVENT 32: I55 Federated Auto Parts Raceway has ended. Thank you for watching.</title>
+  </programme>
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 33">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 24">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 34">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 25">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 35">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 26">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 36">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 27">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 37">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 28">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 38">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 29">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 39">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 30">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 40">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 31">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 41">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 32">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 42">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 33">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 43">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 34">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 44">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 35">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 45">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 36">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 46">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 37">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 47">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 38">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 48">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 39">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 49">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 40">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 50">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 41">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 51">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 42">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 52">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 43">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 53">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 44">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 54">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 45">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 55">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 46">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 56">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 47">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 57">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 48">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 58">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 49">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 59">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 50">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 60">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 51">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 61">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 52">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 62">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 53">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 63">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 54">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 64">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 55">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 65">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 56">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 66">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 57">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 67">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 58">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 68">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 59">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 69">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 60">
-    <title lang="en">No Event scheduled</title>
-  </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 61">
-    <title lang="en">No Event scheduled</title>
-  </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 62">
-    <title lang="en">No Event scheduled</title>
-  </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 63">
-    <title lang="en">No Event scheduled</title>
-  </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 64">
-    <title lang="en">No Event scheduled</title>
-  </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 65">
-    <title lang="en">No Event scheduled</title>
-  </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 66">
-    <title lang="en">No Event scheduled</title>
-  </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 67">
-    <title lang="en">No Event scheduled</title>
-  </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 68">
-    <title lang="en">No Event scheduled</title>
-  </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 69">
-    <title lang="en">No Event scheduled</title>
-  </programme>
-  <programme start="20250801080000 -0400" stop="20250801110000 -0400" channel="EVENT 70">
+  <programme start="20250802080000 -0400" stop="20250802110000 -0400" channel="EVENT 70">
     <title lang="en">No Event scheduled</title>
   </programme>
 </tv>
