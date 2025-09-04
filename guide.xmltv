@@ -210,226 +210,241 @@
   <channel id="EVENT 70">
     <display-name>EVENT 70:</display-name>
   </channel>
-  <programme start="20250903080000 -0400" stop="20250903140000 -0400" channel="EVENT 01">
-    <title lang="en">EVENT 01: BKFC Fight Night Budva starts at 2:00 PM ET</title>
+  <programme start="20250904080000 -0400" stop="20250904174500 -0400" channel="EVENT 01">
+    <title lang="en">EVENT 01: Kubota HLR Tuscarora 50 at Port Royal starts at 5:45 PM ET</title>
   </programme>
-  <programme start="20250903140000 -0400" stop="20250903170000 -0400" channel="EVENT 01">
-    <title lang="en">EVENT 01: BKFC Fight Night Budva (9.3 2:00 PM ET)</title>
+  <programme start="20250904174500 -0400" stop="20250904204500 -0400" channel="EVENT 01">
+    <title lang="en">EVENT 01: Kubota HLR Tuscarora 50 at Port Royal (9.4 5:45 PM ET)</title>
   </programme>
-  <programme start="20250903170000 -0400" stop="20250903235959 -0400" channel="EVENT 01">
-    <title lang="en">EVENT 01: BKFC Fight Night Budva has ended. Thank you for watching.</title>
+  <programme start="20250904204500 -0400" stop="20250904235959 -0400" channel="EVENT 01">
+    <title lang="en">EVENT 01: Kubota HLR Tuscarora 50 at Port Royal has ended. Thank you for watching.</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903181500 -0400" channel="EVENT 02">
-    <title lang="en">EVENT 02: Millbridge Speedway starts at 6:15 PM ET</title>
+  <programme start="20250904080000 -0400" stop="20250904183000 -0400" channel="EVENT 02">
+    <title lang="en">EVENT 02: World 100 at Eldora starts at 6:30 PM ET</title>
   </programme>
-  <programme start="20250903181500 -0400" stop="20250903211500 -0400" channel="EVENT 02">
-    <title lang="en">EVENT 02: Millbridge Speedway (9.3 6:15 PM ET)</title>
+  <programme start="20250904183000 -0400" stop="20250904213000 -0400" channel="EVENT 02">
+    <title lang="en">EVENT 02: World 100 at Eldora (9.4 6:30 PM ET)</title>
   </programme>
-  <programme start="20250903211500 -0400" stop="20250903235959 -0400" channel="EVENT 02">
-    <title lang="en">EVENT 02: Millbridge Speedway has ended. Thank you for watching.</title>
+  <programme start="20250904213000 -0400" stop="20250904235959 -0400" channel="EVENT 02">
+    <title lang="en">EVENT 02: World 100 at Eldora has ended. Thank you for watching.</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 03">
-    <title lang="en">No Event scheduled</title>
+  <programme start="20250904080000 -0400" stop="20250904134000 -0400" channel="EVENT 03">
+    <title lang="en">EVENT 03: IMCA Super Nationals Day 4 starts at 1:40 PM ET</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 04">
-    <title lang="en">No Event scheduled</title>
+  <programme start="20250904134000 -0400" stop="20250904164000 -0400" channel="EVENT 03">
+    <title lang="en">EVENT 03: IMCA Super Nationals Day 4 (9.4 1:40 PM ET)</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 05">
-    <title lang="en">No Event scheduled</title>
+  <programme start="20250904164000 -0400" stop="20250904235959 -0400" channel="EVENT 03">
+    <title lang="en">EVENT 03: IMCA Super Nationals Day 4 has ended. Thank you for watching.</title>
+  </programme>
+  <programme start="20250904080000 -0400" stop="20250904220000 -0400" channel="EVENT 04">
+    <title lang="en">EVENT 04: BFL 84 starts at 10:00 PM ET</title>
+  </programme>
+  <programme start="20250904220000 -0400" stop="20250905010000 -0400" channel="EVENT 04">
+    <title lang="en">EVENT 04: BFL 84 (9.4 10:00 PM ET)</title>
+  </programme>
+  <programme start="20250904080000 -0400" stop="20250904200000 -0400" channel="EVENT 05">
+    <title lang="en">EVENT 05: House of Glory Philly starts at 8:00 PM ET</title>
+  </programme>
+  <programme start="20250904200000 -0400" stop="20250904230000 -0400" channel="EVENT 05">
+    <title lang="en">EVENT 05: House of Glory Philly (9.4 8:00 PM ET)</title>
+  </programme>
+  <programme start="20250904230000 -0400" stop="20250904235959 -0400" channel="EVENT 05">
+    <title lang="en">EVENT 05: House of Glory Philly has ended. Thank you for watching.</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 06">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 06">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 07">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 07">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 08">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 08">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 09">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 09">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 10">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 10">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 11">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 11">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 12">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 12">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 13">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 13">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 14">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 14">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 15">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 15">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 16">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 16">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 17">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 17">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 18">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 18">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 19">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 19">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 20">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 20">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 21">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 21">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 22">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 22">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 23">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 23">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 24">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 24">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 25">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 25">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 26">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 26">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 27">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 27">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 28">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 28">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 29">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 29">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 30">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 30">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 31">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 31">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 32">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 32">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 33">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 33">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 34">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 34">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 35">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 35">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 36">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 36">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 37">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 37">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 38">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 38">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 39">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 39">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 40">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 40">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 41">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 41">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 42">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 42">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 43">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 43">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 44">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 44">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 45">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 45">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 46">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 46">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 47">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 47">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 48">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 48">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 49">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 49">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 50">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 50">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 51">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 51">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 52">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 52">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 53">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 53">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 54">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 54">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 55">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 55">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 56">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 56">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 57">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 57">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 58">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 58">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 59">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 59">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 60">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 60">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 61">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 61">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 62">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 62">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 63">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 63">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 64">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 64">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 65">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 65">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 66">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 66">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 67">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 67">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 68">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 68">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 69">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 69">
     <title lang="en">No Event scheduled</title>
   </programme>
-  <programme start="20250903080000 -0400" stop="20250903110000 -0400" channel="EVENT 70">
+  <programme start="20250904080000 -0400" stop="20250904110000 -0400" channel="EVENT 70">
     <title lang="en">No Event scheduled</title>
   </programme>
 </tv>
