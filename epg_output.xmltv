@@ -1,431 +1,935 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="Custom Soccer EPG Script">
-  <channel id="Soccer 01">
+<tv generator-info-name="EPG Manager" generator-info-url="https://epg-manager.com">
+  <channel id="soccer01">
     <display-name>Soccer 01</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png" />
   </channel>
-  <channel id="Soccer 02">
+  <channel id="soccer02">
     <display-name>Soccer 02</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png" />
   </channel>
-  <channel id="Soccer 03">
+  <channel id="soccer03">
     <display-name>Soccer 03</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png" />
   </channel>
-  <channel id="Soccer 04">
+  <channel id="soccer04">
     <display-name>Soccer 04</display-name>
+    <icon src="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png" />
   </channel>
-  <channel id="Soccer 05">
+  <channel id="soccer05">
     <display-name>Soccer 05</display-name>
   </channel>
-  <channel id="Soccer 06">
+  <channel id="soccer06">
     <display-name>Soccer 06</display-name>
   </channel>
-  <channel id="Soccer 07">
+  <channel id="soccer07">
     <display-name>Soccer 07</display-name>
   </channel>
-  <channel id="Soccer 08">
+  <channel id="soccer08">
     <display-name>Soccer 08</display-name>
   </channel>
-  <channel id="Soccer 09">
+  <channel id="soccer09">
     <display-name>Soccer 09</display-name>
   </channel>
-  <channel id="Soccer 10">
+  <channel id="soccer10">
     <display-name>Soccer 10</display-name>
   </channel>
-  <channel id="Soccer 11">
+  <channel id="soccer11">
     <display-name>Soccer 11</display-name>
   </channel>
-  <channel id="Soccer 12">
+  <channel id="soccer12">
     <display-name>Soccer 12</display-name>
   </channel>
-  <channel id="Soccer 13">
+  <channel id="soccer13">
     <display-name>Soccer 13</display-name>
   </channel>
-  <channel id="Soccer 14">
+  <channel id="soccer14">
     <display-name>Soccer 14</display-name>
   </channel>
-  <channel id="Soccer 15">
+  <channel id="soccer15">
     <display-name>Soccer 15</display-name>
   </channel>
-  <channel id="Soccer 16">
+  <channel id="soccer16">
     <display-name>Soccer 16</display-name>
   </channel>
-  <channel id="Soccer 17">
+  <channel id="soccer17">
     <display-name>Soccer 17</display-name>
   </channel>
-  <channel id="Soccer 18">
+  <channel id="soccer18">
     <display-name>Soccer 18</display-name>
   </channel>
-  <channel id="Soccer 19">
+  <channel id="soccer19">
     <display-name>Soccer 19</display-name>
   </channel>
-  <channel id="Soccer 20">
+  <channel id="soccer20">
     <display-name>Soccer 20</display-name>
   </channel>
-  <channel id="Soccer 21">
+  <channel id="soccer21">
     <display-name>Soccer 21</display-name>
   </channel>
-  <channel id="Soccer 22">
+  <channel id="soccer22">
     <display-name>Soccer 22</display-name>
   </channel>
-  <channel id="Soccer 23">
-    <display-name>Soccer 23</display-name>
-  </channel>
-  <channel id="Soccer 24">
-    <display-name>Soccer 24</display-name>
-  </channel>
-  <channel id="Soccer 25">
-    <display-name>Soccer 25</display-name>
-  </channel>
-  <channel id="Soccer 26">
-    <display-name>Soccer 26</display-name>
-  </channel>
-  <channel id="Soccer 27">
-    <display-name>Soccer 27</display-name>
-  </channel>
-  <channel id="Soccer 28">
-    <display-name>Soccer 28</display-name>
-  </channel>
-  <channel id="Soccer 29">
-    <display-name>Soccer 29</display-name>
-  </channel>
-  <channel id="Soccer 30">
-    <display-name>Soccer 30</display-name>
-  </channel>
-  <channel id="Soccer 31">
-    <display-name>Soccer 31</display-name>
-  </channel>
-  <channel id="Soccer 32">
-    <display-name>Soccer 32</display-name>
-  </channel>
-  <channel id="Soccer 33">
-    <display-name>Soccer 33</display-name>
-  </channel>
-  <channel id="Soccer 34">
-    <display-name>Soccer 34</display-name>
-  </channel>
-  <channel id="Soccer 35">
-    <display-name>Soccer 35</display-name>
-  </channel>
-  <channel id="Soccer 36">
-    <display-name>Soccer 36</display-name>
-  </channel>
-  <channel id="Soccer 37">
-    <display-name>Soccer 37</display-name>
-  </channel>
-  <channel id="Soccer 38">
-    <display-name>Soccer 38</display-name>
-  </channel>
-  <channel id="Soccer 39">
-    <display-name>Soccer 39</display-name>
-  </channel>
-  <channel id="Soccer 40">
-    <display-name>Soccer 40</display-name>
-  </channel>
-  <channel id="Soccer 41">
-    <display-name>Soccer 41</display-name>
-  </channel>
-  <channel id="Soccer 42">
-    <display-name>Soccer 42</display-name>
-  </channel>
-  <channel id="Soccer 43">
-    <display-name>Soccer 43</display-name>
-  </channel>
-  <channel id="Soccer 44">
-    <display-name>Soccer 44</display-name>
-  </channel>
-  <channel id="Soccer 45">
-    <display-name>Soccer 45</display-name>
-  </channel>
-  <channel id="Soccer 46">
-    <display-name>Soccer 46</display-name>
-  </channel>
-  <channel id="Soccer 47">
-    <display-name>Soccer 47</display-name>
-  </channel>
-  <channel id="Soccer 48">
-    <display-name>Soccer 48</display-name>
-  </channel>
-  <channel id="Soccer 49">
-    <display-name>Soccer 49</display-name>
-  </channel>
-  <channel id="Soccer 50">
-    <display-name>Soccer 50</display-name>
-  </channel>
-  <channel id="Soccer 51">
-    <display-name>Soccer 51</display-name>
-  </channel>
-  <channel id="Soccer 52">
-    <display-name>Soccer 52</display-name>
-  </channel>
-  <channel id="Soccer 53">
-    <display-name>Soccer 53</display-name>
-  </channel>
-  <channel id="Soccer 54">
-    <display-name>Soccer 54</display-name>
-  </channel>
-  <channel id="Soccer 55">
-    <display-name>Soccer 55</display-name>
-  </channel>
-  <channel id="Soccer 56">
-    <display-name>Soccer 56</display-name>
-  </channel>
-  <channel id="Soccer 57">
-    <display-name>Soccer 57</display-name>
-  </channel>
-  <channel id="Soccer 58">
-    <display-name>Soccer 58</display-name>
-  </channel>
-  <channel id="Soccer 59">
-    <display-name>Soccer 59</display-name>
-  </channel>
-  <channel id="Soccer 60">
-    <display-name>Soccer 60</display-name>
-  </channel>
-  <channel id="Soccer 61">
-    <display-name>Soccer 61</display-name>
-  </channel>
-  <channel id="Soccer 62">
-    <display-name>Soccer 62</display-name>
-  </channel>
-  <channel id="Soccer 63">
-    <display-name>Soccer 63</display-name>
-  </channel>
-  <channel id="Soccer 64">
-    <display-name>Soccer 64</display-name>
-  </channel>
-  <channel id="Soccer 65">
-    <display-name>Soccer 65</display-name>
-  </channel>
-  <channel id="Soccer 66">
-    <display-name>Soccer 66</display-name>
-  </channel>
-  <channel id="Soccer 67">
-    <display-name>Soccer 67</display-name>
-  </channel>
-  <channel id="Soccer 68">
-    <display-name>Soccer 68</display-name>
-  </channel>
-  <channel id="Soccer 69">
-    <display-name>Soccer 69</display-name>
-  </channel>
-  <channel id="Soccer 70">
-    <display-name>Soccer 70</display-name>
-  </channel>
-  <channel id="Soccer 71">
-    <display-name>Soccer 71</display-name>
-  </channel>
-  <channel id="Soccer 72">
-    <display-name>Soccer 72</display-name>
-  </channel>
-  <channel id="Soccer 73">
-    <display-name>Soccer 73</display-name>
-  </channel>
-  <channel id="Soccer 74">
-    <display-name>Soccer 74</display-name>
-  </channel>
-  <channel id="Soccer 75">
-    <display-name>Soccer 75</display-name>
-  </channel>
-  <channel id="Soccer 76">
-    <display-name>Soccer 76</display-name>
-  </channel>
-  <channel id="Soccer 77">
-    <display-name>Soccer 77</display-name>
-  </channel>
-  <channel id="Soccer 78">
-    <display-name>Soccer 78</display-name>
-  </channel>
-  <channel id="Soccer 79">
-    <display-name>Soccer 79</display-name>
-  </channel>
-  <channel id="Soccer 80">
-    <display-name>Soccer 80</display-name>
-  </channel>
-  <programme start="20250723000000 -0400" stop="20250723020000 -0400" channel="Soccer 01">
-    <title lang="en"> Game will start at 6:00ET</title>
-    <category lang="en">Sports</category>
+  <programme start="20250923T100000 +0000" stop="20250923T130000 +0000" channel="soccer01">
+    <title lang="en">Athletic Club vs Girona - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Athletic Club</actor>
+      <actor>Girona</actor>
+    </credits>
+    <sub-title lang="en">Venue: Girona Stadium</sub-title>
   </programme>
-  <programme start="20250723020000 -0400" stop="20250723040000 -0400" channel="Soccer 01">
-    <title lang="en"> Game will start at 6:00ET</title>
-    <category lang="en">Sports</category>
+  <programme start="20250923T130000 +0000" stop="20250923T160000 +0000" channel="soccer01">
+    <title lang="en">Athletic Club vs Girona - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Athletic Club</actor>
+      <actor>Girona</actor>
+    </credits>
+    <sub-title lang="en">Venue: Girona Stadium</sub-title>
   </programme>
-  <programme start="20250723040000 -0400" stop="20250723060000 -0400" channel="Soccer 01">
-    <title lang="en"> Game will start at 6:00ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723060000 -0400" stop="20250723080000 -0400" channel="Soccer 01">
-    <title lang="en"> Game will start at 6:00ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723080000 -0400" stop="20250723100000 -0400" channel="Soccer 01">
-    <title lang="en"> Game will start at 6:00ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723100000 -0400" stop="20250723120000 -0400" channel="Soccer 01">
-    <title lang="en"> Game will start at 6:00ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723120000 -0400" stop="20250723140000 -0400" channel="Soccer 01">
-    <title lang="en"> Game will start at 6:00ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723140000 -0400" stop="20250723160000 -0400" channel="Soccer 01">
-    <title lang="en"> Game will start at 6:00ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723160000 -0400" stop="20250723180000 -0400" channel="Soccer 01">
-    <title lang="en"> Game will start at 6:00ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723180000 -0400" stop="20250723200000 -0400" channel="Soccer 01">
-    <title lang="en">Brasileirao: Fluminense vs Palmeiras</title>
-    <desc lang="en">Live Brasileirao action: Fluminense takes on Palmeiras.</desc>
+  <programme start="20250923T170000 +0000" stop="20250923T190000 +0000" channel="soccer01">
+    <title lang="en">Athletic Club vs Girona</title>
+    <desc lang="en">League: LaLiga</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
+    <credits>
+      <actor>Athletic Club</actor>
+      <actor>Girona</actor>
+    </credits>
+    <sub-title lang="en">Venue: Girona Stadium</sub-title>
   </programme>
-  <programme start="20250723000000 -0400" stop="20250723020000 -0400" channel="Soccer 02">
-    <title lang="en"> Game will start at 6:30ET</title>
-    <category lang="en">Sports</category>
+  <programme start="20250923T100000 +0000" stop="20250923T130000 +0000" channel="soccer02">
+    <title lang="en">Espanyol vs Valencia - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Espanyol</actor>
+      <actor>Valencia</actor>
+    </credits>
+    <sub-title lang="en">Venue: Valencia Stadium</sub-title>
   </programme>
-  <programme start="20250723020000 -0400" stop="20250723040000 -0400" channel="Soccer 02">
-    <title lang="en"> Game will start at 6:30ET</title>
-    <category lang="en">Sports</category>
+  <programme start="20250923T130000 +0000" stop="20250923T160000 +0000" channel="soccer02">
+    <title lang="en">Espanyol vs Valencia - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Espanyol</actor>
+      <actor>Valencia</actor>
+    </credits>
+    <sub-title lang="en">Venue: Valencia Stadium</sub-title>
   </programme>
-  <programme start="20250723040000 -0400" stop="20250723060000 -0400" channel="Soccer 02">
-    <title lang="en"> Game will start at 6:30ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723060000 -0400" stop="20250723080000 -0400" channel="Soccer 02">
-    <title lang="en"> Game will start at 6:30ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723080000 -0400" stop="20250723100000 -0400" channel="Soccer 02">
-    <title lang="en"> Game will start at 6:30ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723100000 -0400" stop="20250723120000 -0400" channel="Soccer 02">
-    <title lang="en"> Game will start at 6:30ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723120000 -0400" stop="20250723140000 -0400" channel="Soccer 02">
-    <title lang="en"> Game will start at 6:30ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723140000 -0400" stop="20250723160000 -0400" channel="Soccer 02">
-    <title lang="en"> Game will start at 6:30ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723160000 -0400" stop="20250723180000 -0400" channel="Soccer 02">
-    <title lang="en"> Game will start at 6:30ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723180000 -0400" stop="20250723183000 -0400" channel="Soccer 02">
-    <title lang="en"> Game will start at 6:30ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723183000 -0400" stop="20250723203000 -0400" channel="Soccer 02">
-    <title lang="en">Brasileirao: Corinthians vs Cruzeiro</title>
-    <desc lang="en">Live Brasileirao action: Corinthians takes on Cruzeiro.</desc>
+  <programme start="20250923T170000 +0000" stop="20250923T190000 +0000" channel="soccer02">
+    <title lang="en">Espanyol vs Valencia</title>
+    <desc lang="en">League: LaLiga</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
+    <credits>
+      <actor>Espanyol</actor>
+      <actor>Valencia</actor>
+    </credits>
+    <sub-title lang="en">Venue: Valencia Stadium</sub-title>
   </programme>
-  <programme start="20250723000000 -0400" stop="20250723020000 -0400" channel="Soccer 03">
-    <title lang="en"> Game will start at 8:30ET</title>
-    <category lang="en">Sports</category>
+  <programme start="20250923T100000 +0000" stop="20250923T130000 +0000" channel="soccer03">
+    <title lang="en">Sevilla vs Villarreal - starts at 3:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Sevilla</actor>
+      <actor>Villarreal</actor>
+    </credits>
+    <sub-title lang="en">Venue: Villarreal Stadium</sub-title>
   </programme>
-  <programme start="20250723020000 -0400" stop="20250723040000 -0400" channel="Soccer 03">
-    <title lang="en"> Game will start at 8:30ET</title>
-    <category lang="en">Sports</category>
+  <programme start="20250923T130000 +0000" stop="20250923T160000 +0000" channel="soccer03">
+    <title lang="en">Sevilla vs Villarreal - starts at 3:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Sevilla</actor>
+      <actor>Villarreal</actor>
+    </credits>
+    <sub-title lang="en">Venue: Villarreal Stadium</sub-title>
   </programme>
-  <programme start="20250723040000 -0400" stop="20250723060000 -0400" channel="Soccer 03">
-    <title lang="en"> Game will start at 8:30ET</title>
-    <category lang="en">Sports</category>
+  <programme start="20250923T160000 +0000" stop="20250923T190000 +0000" channel="soccer03">
+    <title lang="en">Sevilla vs Villarreal - starts at 3:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Sevilla</actor>
+      <actor>Villarreal</actor>
+    </credits>
+    <sub-title lang="en">Venue: Villarreal Stadium</sub-title>
   </programme>
-  <programme start="20250723060000 -0400" stop="20250723080000 -0400" channel="Soccer 03">
-    <title lang="en"> Game will start at 8:30ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723080000 -0400" stop="20250723100000 -0400" channel="Soccer 03">
-    <title lang="en"> Game will start at 8:30ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723100000 -0400" stop="20250723120000 -0400" channel="Soccer 03">
-    <title lang="en"> Game will start at 8:30ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723120000 -0400" stop="20250723140000 -0400" channel="Soccer 03">
-    <title lang="en"> Game will start at 8:30ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723140000 -0400" stop="20250723160000 -0400" channel="Soccer 03">
-    <title lang="en"> Game will start at 8:30ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723160000 -0400" stop="20250723180000 -0400" channel="Soccer 03">
-    <title lang="en"> Game will start at 8:30ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723180000 -0400" stop="20250723200000 -0400" channel="Soccer 03">
-    <title lang="en"> Game will start at 8:30ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723200000 -0400" stop="20250723203000 -0400" channel="Soccer 03">
-    <title lang="en"> Game will start at 8:30ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723203000 -0400" stop="20250723223000 -0400" channel="Soccer 03">
-    <title lang="en">Brasileirao: Santos vs Internacional</title>
-    <desc lang="en">Live Brasileirao action: Santos takes on Internacional.</desc>
+  <programme start="20250923T193000 +0000" stop="20250923T213000 +0000" channel="soccer03">
+    <title lang="en">Sevilla vs Villarreal</title>
+    <desc lang="en">League: LaLiga</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
+    <credits>
+      <actor>Sevilla</actor>
+      <actor>Villarreal</actor>
+    </credits>
+    <sub-title lang="en">Venue: Villarreal Stadium</sub-title>
   </programme>
-  <programme start="20250723000000 -0400" stop="20250723020000 -0400" channel="Soccer 04">
-    <title lang="en"> Game will start at 8:30ET</title>
-    <category lang="en">Sports</category>
+  <programme start="20250923T100000 +0000" stop="20250923T130000 +0000" channel="soccer04">
+    <title lang="en">Levante vs Real Madrid - starts at 3:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Levante</actor>
+      <actor>Real Madrid</actor>
+    </credits>
+    <sub-title lang="en">Venue: Real Madrid Stadium</sub-title>
   </programme>
-  <programme start="20250723020000 -0400" stop="20250723040000 -0400" channel="Soccer 04">
-    <title lang="en"> Game will start at 8:30ET</title>
-    <category lang="en">Sports</category>
+  <programme start="20250923T130000 +0000" stop="20250923T160000 +0000" channel="soccer04">
+    <title lang="en">Levante vs Real Madrid - starts at 3:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Levante</actor>
+      <actor>Real Madrid</actor>
+    </credits>
+    <sub-title lang="en">Venue: Real Madrid Stadium</sub-title>
   </programme>
-  <programme start="20250723040000 -0400" stop="20250723060000 -0400" channel="Soccer 04">
-    <title lang="en"> Game will start at 8:30ET</title>
-    <category lang="en">Sports</category>
+  <programme start="20250923T160000 +0000" stop="20250923T190000 +0000" channel="soccer04">
+    <title lang="en">Levante vs Real Madrid - starts at 3:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Levante</actor>
+      <actor>Real Madrid</actor>
+    </credits>
+    <sub-title lang="en">Venue: Real Madrid Stadium</sub-title>
   </programme>
-  <programme start="20250723060000 -0400" stop="20250723080000 -0400" channel="Soccer 04">
-    <title lang="en"> Game will start at 8:30ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723080000 -0400" stop="20250723100000 -0400" channel="Soccer 04">
-    <title lang="en"> Game will start at 8:30ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723100000 -0400" stop="20250723120000 -0400" channel="Soccer 04">
-    <title lang="en"> Game will start at 8:30ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723120000 -0400" stop="20250723140000 -0400" channel="Soccer 04">
-    <title lang="en"> Game will start at 8:30ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723140000 -0400" stop="20250723160000 -0400" channel="Soccer 04">
-    <title lang="en"> Game will start at 8:30ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723160000 -0400" stop="20250723180000 -0400" channel="Soccer 04">
-    <title lang="en"> Game will start at 8:30ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723180000 -0400" stop="20250723200000 -0400" channel="Soccer 04">
-    <title lang="en"> Game will start at 8:30ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723200000 -0400" stop="20250723203000 -0400" channel="Soccer 04">
-    <title lang="en"> Game will start at 8:30ET</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20250723203000 -0400" stop="20250723223000 -0400" channel="Soccer 04">
-    <title lang="en">Brasileirao: RB Bragantino vs Flamengo</title>
-    <desc lang="en">Live Brasileirao action: RB Bragantino takes on Flamengo.</desc>
+  <programme start="20250923T193000 +0000" stop="20250923T213000 +0000" channel="soccer04">
+    <title lang="en">Levante vs Real Madrid</title>
+    <desc lang="en">League: LaLiga</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
+    <credits>
+      <actor>Levante</actor>
+      <actor>Real Madrid</actor>
+    </credits>
+    <sub-title lang="en">Venue: Real Madrid Stadium</sub-title>
+  </programme>
+  <programme start="20250923T100000 +0000" stop="20250923T130000 +0000" channel="soccer05">
+    <title lang="en">Benfica vs Rio Ave - starts at 3:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Benfica</actor>
+      <actor>Rio Ave</actor>
+    </credits>
+    <sub-title lang="en">Venue: Rio Ave Stadium</sub-title>
+  </programme>
+  <programme start="20250923T130000 +0000" stop="20250923T160000 +0000" channel="soccer05">
+    <title lang="en">Benfica vs Rio Ave - starts at 3:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Benfica</actor>
+      <actor>Rio Ave</actor>
+    </credits>
+    <sub-title lang="en">Venue: Rio Ave Stadium</sub-title>
+  </programme>
+  <programme start="20250923T160000 +0000" stop="20250923T190000 +0000" channel="soccer05">
+    <title lang="en">Benfica vs Rio Ave - starts at 3:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Benfica</actor>
+      <actor>Rio Ave</actor>
+    </credits>
+    <sub-title lang="en">Venue: Rio Ave Stadium</sub-title>
+  </programme>
+  <programme start="20250923T191500 +0000" stop="20250923T211500 +0000" channel="soccer05">
+    <title lang="en">Benfica vs Rio Ave</title>
+    <desc lang="en">League: Betclic</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Benfica</actor>
+      <actor>Rio Ave</actor>
+    </credits>
+    <sub-title lang="en">Venue: Rio Ave Stadium</sub-title>
+  </programme>
+  <programme start="20250923T100000 +0000" stop="20250923T130000 +0000" channel="soccer06">
+    <title lang="en">Wigan vs Wycombe - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Wigan</actor>
+      <actor>Wycombe</actor>
+    </credits>
+    <sub-title lang="en">Venue: Wycombe Stadium</sub-title>
+  </programme>
+  <programme start="20250923T130000 +0000" stop="20250923T160000 +0000" channel="soccer06">
+    <title lang="en">Wigan vs Wycombe - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Wigan</actor>
+      <actor>Wycombe</actor>
+    </credits>
+    <sub-title lang="en">Venue: Wycombe Stadium</sub-title>
+  </programme>
+  <programme start="20250923T184500 +0000" stop="20250923T204500 +0000" channel="soccer06">
+    <title lang="en">Wigan vs Wycombe</title>
+    <desc lang="en">League: Carabao Cup</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Wigan</actor>
+      <actor>Wycombe</actor>
+    </credits>
+    <sub-title lang="en">Venue: Wycombe Stadium</sub-title>
+  </programme>
+  <programme start="20250923T100000 +0000" stop="20250923T130000 +0000" channel="soccer07">
+    <title lang="en">Fulham vs Cambridge United - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Fulham</actor>
+      <actor>Cambridge United</actor>
+    </credits>
+    <sub-title lang="en">Venue: Cambridge United Stadium</sub-title>
+  </programme>
+  <programme start="20250923T130000 +0000" stop="20250923T160000 +0000" channel="soccer07">
+    <title lang="en">Fulham vs Cambridge United - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Fulham</actor>
+      <actor>Cambridge United</actor>
+    </credits>
+    <sub-title lang="en">Venue: Cambridge United Stadium</sub-title>
+  </programme>
+  <programme start="20250923T184500 +0000" stop="20250923T204500 +0000" channel="soccer07">
+    <title lang="en">Fulham vs Cambridge United</title>
+    <desc lang="en">League: Carabao Cup</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Fulham</actor>
+      <actor>Cambridge United</actor>
+    </credits>
+    <sub-title lang="en">Venue: Cambridge United Stadium</sub-title>
+  </programme>
+  <programme start="20250923T100000 +0000" stop="20250923T130000 +0000" channel="soccer08">
+    <title lang="en">Wolves vs Everton - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Wolves</actor>
+      <actor>Everton</actor>
+    </credits>
+    <sub-title lang="en">Venue: Everton Stadium</sub-title>
+  </programme>
+  <programme start="20250923T130000 +0000" stop="20250923T160000 +0000" channel="soccer08">
+    <title lang="en">Wolves vs Everton - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Wolves</actor>
+      <actor>Everton</actor>
+    </credits>
+    <sub-title lang="en">Venue: Everton Stadium</sub-title>
+  </programme>
+  <programme start="20250923T184500 +0000" stop="20250923T204500 +0000" channel="soccer08">
+    <title lang="en">Wolves vs Everton</title>
+    <desc lang="en">League: Carabao Cup</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Wolves</actor>
+      <actor>Everton</actor>
+    </credits>
+    <sub-title lang="en">Venue: Everton Stadium</sub-title>
+  </programme>
+  <programme start="20250923T100000 +0000" stop="20250923T130000 +0000" channel="soccer09">
+    <title lang="en">Burnley vs Cardiff City - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Burnley</actor>
+      <actor>Cardiff City</actor>
+    </credits>
+    <sub-title lang="en">Venue: Cardiff City Stadium</sub-title>
+  </programme>
+  <programme start="20250923T130000 +0000" stop="20250923T160000 +0000" channel="soccer09">
+    <title lang="en">Burnley vs Cardiff City - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Burnley</actor>
+      <actor>Cardiff City</actor>
+    </credits>
+    <sub-title lang="en">Venue: Cardiff City Stadium</sub-title>
+  </programme>
+  <programme start="20250923T184500 +0000" stop="20250923T204500 +0000" channel="soccer09">
+    <title lang="en">Burnley vs Cardiff City</title>
+    <desc lang="en">League: Carabao Cup</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Burnley</actor>
+      <actor>Cardiff City</actor>
+    </credits>
+    <sub-title lang="en">Venue: Cardiff City Stadium</sub-title>
+  </programme>
+  <programme start="20250923T100000 +0000" stop="20250923T130000 +0000" channel="soccer10">
+    <title lang="en">Wrexham vs Reading - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Wrexham</actor>
+      <actor>Reading</actor>
+    </credits>
+    <sub-title lang="en">Venue: Reading Stadium</sub-title>
+  </programme>
+  <programme start="20250923T130000 +0000" stop="20250923T160000 +0000" channel="soccer10">
+    <title lang="en">Wrexham vs Reading - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Wrexham</actor>
+      <actor>Reading</actor>
+    </credits>
+    <sub-title lang="en">Venue: Reading Stadium</sub-title>
+  </programme>
+  <programme start="20250923T184500 +0000" stop="20250923T204500 +0000" channel="soccer10">
+    <title lang="en">Wrexham vs Reading</title>
+    <desc lang="en">League: Carabao Cup</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Wrexham</actor>
+      <actor>Reading</actor>
+    </credits>
+    <sub-title lang="en">Venue: Reading Stadium</sub-title>
+  </programme>
+  <programme start="20250923T100000 +0000" stop="20250923T130000 +0000" channel="soccer11">
+    <title lang="en">Lincoln City vs Chelsea - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Lincoln City</actor>
+      <actor>Chelsea</actor>
+    </credits>
+    <sub-title lang="en">Venue: Chelsea Stadium</sub-title>
+  </programme>
+  <programme start="20250923T130000 +0000" stop="20250923T160000 +0000" channel="soccer11">
+    <title lang="en">Lincoln City vs Chelsea - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Lincoln City</actor>
+      <actor>Chelsea</actor>
+    </credits>
+    <sub-title lang="en">Venue: Chelsea Stadium</sub-title>
+  </programme>
+  <programme start="20250923T184500 +0000" stop="20250923T204500 +0000" channel="soccer11">
+    <title lang="en">Lincoln City vs Chelsea</title>
+    <desc lang="en">League: Carabao Cup</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Lincoln City</actor>
+      <actor>Chelsea</actor>
+    </credits>
+    <sub-title lang="en">Venue: Chelsea Stadium</sub-title>
+  </programme>
+  <programme start="20250923T100000 +0000" stop="20250923T130000 +0000" channel="soccer12">
+    <title lang="en">Barnsley vs Brighton - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Barnsley</actor>
+      <actor>Brighton</actor>
+    </credits>
+    <sub-title lang="en">Venue: Brighton Stadium</sub-title>
+  </programme>
+  <programme start="20250923T130000 +0000" stop="20250923T160000 +0000" channel="soccer12">
+    <title lang="en">Barnsley vs Brighton - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Barnsley</actor>
+      <actor>Brighton</actor>
+    </credits>
+    <sub-title lang="en">Venue: Brighton Stadium</sub-title>
+  </programme>
+  <programme start="20250923T184500 +0000" stop="20250923T204500 +0000" channel="soccer12">
+    <title lang="en">Barnsley vs Brighton</title>
+    <desc lang="en">League: Carabao Cup</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Barnsley</actor>
+      <actor>Brighton</actor>
+    </credits>
+    <sub-title lang="en">Venue: Brighton Stadium</sub-title>
+  </programme>
+  <programme start="20250923T100000 +0000" stop="20250923T130000 +0000" channel="soccer13">
+    <title lang="en">Liverpool vs Southampton - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Liverpool</actor>
+      <actor>Southampton</actor>
+    </credits>
+    <sub-title lang="en">Venue: Southampton Stadium</sub-title>
+  </programme>
+  <programme start="20250923T130000 +0000" stop="20250923T160000 +0000" channel="soccer13">
+    <title lang="en">Liverpool vs Southampton - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Liverpool</actor>
+      <actor>Southampton</actor>
+    </credits>
+    <sub-title lang="en">Venue: Southampton Stadium</sub-title>
+  </programme>
+  <programme start="20250923T160000 +0000" stop="20250923T190000 +0000" channel="soccer13">
+    <title lang="en">Liverpool vs Southampton - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Liverpool</actor>
+      <actor>Southampton</actor>
+    </credits>
+    <sub-title lang="en">Venue: Southampton Stadium</sub-title>
+  </programme>
+  <programme start="20250923T190000 +0000" stop="20250923T210000 +0000" channel="soccer13">
+    <title lang="en">Liverpool vs Southampton</title>
+    <desc lang="en">League: Carabao Cup</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Liverpool</actor>
+      <actor>Southampton</actor>
+    </credits>
+    <sub-title lang="en">Venue: Southampton Stadium</sub-title>
+  </programme>
+  <programme start="20250923T100000 +0000" stop="20250923T130000 +0000" channel="soccer14">
+    <title lang="en">Cagliari vs Frosinone - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Cagliari</actor>
+      <actor>Frosinone</actor>
+    </credits>
+    <sub-title lang="en">Venue: Frosinone Stadium</sub-title>
+  </programme>
+  <programme start="20250923T150000 +0000" stop="20250923T170000 +0000" channel="soccer14">
+    <title lang="en">Cagliari vs Frosinone</title>
+    <desc lang="en">League: Coppa Italia</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Cagliari</actor>
+      <actor>Frosinone</actor>
+    </credits>
+    <sub-title lang="en">Venue: Frosinone Stadium</sub-title>
+  </programme>
+  <programme start="20250923T100000 +0000" stop="20250923T130000 +0000" channel="soccer15">
+    <title lang="en">Udinese vs Palermo - starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Udinese</actor>
+      <actor>Palermo</actor>
+    </credits>
+    <sub-title lang="en">Venue: Palermo Stadium</sub-title>
+  </programme>
+  <programme start="20250923T130000 +0000" stop="20250923T160000 +0000" channel="soccer15">
+    <title lang="en">Udinese vs Palermo - starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Udinese</actor>
+      <actor>Palermo</actor>
+    </credits>
+    <sub-title lang="en">Venue: Palermo Stadium</sub-title>
+  </programme>
+  <programme start="20250923T163000 +0000" stop="20250923T183000 +0000" channel="soccer15">
+    <title lang="en">Udinese vs Palermo</title>
+    <desc lang="en">League: Coppa Italia</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Udinese</actor>
+      <actor>Palermo</actor>
+    </credits>
+    <sub-title lang="en">Venue: Palermo Stadium</sub-title>
+  </programme>
+  <programme start="20250923T100000 +0000" stop="20250923T130000 +0000" channel="soccer16">
+    <title lang="en">Milan vs Lecce - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Milan</actor>
+      <actor>Lecce</actor>
+    </credits>
+    <sub-title lang="en">Venue: Lecce Stadium</sub-title>
+  </programme>
+  <programme start="20250923T130000 +0000" stop="20250923T160000 +0000" channel="soccer16">
+    <title lang="en">Milan vs Lecce - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Milan</actor>
+      <actor>Lecce</actor>
+    </credits>
+    <sub-title lang="en">Venue: Lecce Stadium</sub-title>
+  </programme>
+  <programme start="20250923T160000 +0000" stop="20250923T190000 +0000" channel="soccer16">
+    <title lang="en">Milan vs Lecce - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Milan</actor>
+      <actor>Lecce</actor>
+    </credits>
+    <sub-title lang="en">Venue: Lecce Stadium</sub-title>
+  </programme>
+  <programme start="20250923T190000 +0000" stop="20250923T210000 +0000" channel="soccer16">
+    <title lang="en">Milan vs Lecce</title>
+    <desc lang="en">League: Coppa Italia</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Milan</actor>
+      <actor>Lecce</actor>
+    </credits>
+    <sub-title lang="en">Venue: Lecce Stadium</sub-title>
+  </programme>
+  <programme start="20250923T100000 +0000" stop="20250923T130000 +0000" channel="soccer17">
+    <title lang="en">Falkirk vs Hibernian - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Falkirk</actor>
+      <actor>Hibernian</actor>
+    </credits>
+    <sub-title lang="en">Venue: Hibernian Stadium</sub-title>
+  </programme>
+  <programme start="20250923T130000 +0000" stop="20250923T160000 +0000" channel="soccer17">
+    <title lang="en">Falkirk vs Hibernian - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Falkirk</actor>
+      <actor>Hibernian</actor>
+    </credits>
+    <sub-title lang="en">Venue: Hibernian Stadium</sub-title>
+  </programme>
+  <programme start="20250923T184500 +0000" stop="20250923T204500 +0000" channel="soccer17">
+    <title lang="en">Falkirk vs Hibernian</title>
+    <desc lang="en">League: Premiership</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Falkirk</actor>
+      <actor>Hibernian</actor>
+    </credits>
+    <sub-title lang="en">Venue: Hibernian Stadium</sub-title>
+  </programme>
+  <programme start="20250923T100000 +0000" stop="20250923T130000 +0000" channel="soccer18">
+    <title lang="en">Racing Club vs Vélez Sarsfield - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Racing Club</actor>
+      <actor>Vélez Sarsfield</actor>
+    </credits>
+    <sub-title lang="en">Venue: Vélez Sarsfield Stadium</sub-title>
+  </programme>
+  <programme start="20250923T130000 +0000" stop="20250923T160000 +0000" channel="soccer18">
+    <title lang="en">Racing Club vs Vélez Sarsfield - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Racing Club</actor>
+      <actor>Vélez Sarsfield</actor>
+    </credits>
+    <sub-title lang="en">Venue: Vélez Sarsfield Stadium</sub-title>
+  </programme>
+  <programme start="20250923T160000 +0000" stop="20250923T190000 +0000" channel="soccer18">
+    <title lang="en">Racing Club vs Vélez Sarsfield - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Racing Club</actor>
+      <actor>Vélez Sarsfield</actor>
+    </credits>
+    <sub-title lang="en">Venue: Vélez Sarsfield Stadium</sub-title>
+  </programme>
+  <programme start="20250923T190000 +0000" stop="20250923T220000 +0000" channel="soccer18">
+    <title lang="en">Racing Club vs Vélez Sarsfield - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Racing Club</actor>
+      <actor>Vélez Sarsfield</actor>
+    </credits>
+    <sub-title lang="en">Venue: Vélez Sarsfield Stadium</sub-title>
+  </programme>
+  <programme start="20250923T220000 +0000" stop="20250924T000000 +0000" channel="soccer18">
+    <title lang="en">Racing Club vs Vélez Sarsfield</title>
+    <desc lang="en">League: Libertadores</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Racing Club</actor>
+      <actor>Vélez Sarsfield</actor>
+    </credits>
+    <sub-title lang="en">Venue: Vélez Sarsfield Stadium</sub-title>
+  </programme>
+  <programme start="20250923T100000 +0000" stop="20250923T130000 +0000" channel="soccer19">
+    <title lang="en">Puebla vs Pachuca - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Puebla</actor>
+      <actor>Pachuca</actor>
+    </credits>
+    <sub-title lang="en">Venue: Pachuca Stadium</sub-title>
+  </programme>
+  <programme start="20250923T130000 +0000" stop="20250923T160000 +0000" channel="soccer19">
+    <title lang="en">Puebla vs Pachuca - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Puebla</actor>
+      <actor>Pachuca</actor>
+    </credits>
+    <sub-title lang="en">Venue: Pachuca Stadium</sub-title>
+  </programme>
+  <programme start="20250923T160000 +0000" stop="20250923T190000 +0000" channel="soccer19">
+    <title lang="en">Puebla vs Pachuca - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Puebla</actor>
+      <actor>Pachuca</actor>
+    </credits>
+    <sub-title lang="en">Venue: Pachuca Stadium</sub-title>
+  </programme>
+  <programme start="20250923T190000 +0000" stop="20250923T220000 +0000" channel="soccer19">
+    <title lang="en">Puebla vs Pachuca - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Puebla</actor>
+      <actor>Pachuca</actor>
+    </credits>
+    <sub-title lang="en">Venue: Pachuca Stadium</sub-title>
+  </programme>
+  <programme start="20250923T220000 +0000" stop="20250924T010000 +0000" channel="soccer19">
+    <title lang="en">Puebla vs Pachuca - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Puebla</actor>
+      <actor>Pachuca</actor>
+    </credits>
+    <sub-title lang="en">Venue: Pachuca Stadium</sub-title>
+  </programme>
+  <programme start="20250924T010000 +0000" stop="20250924T030000 +0000" channel="soccer19">
+    <title lang="en">Puebla vs Pachuca</title>
+    <desc lang="en">League: Liga MX</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Puebla</actor>
+      <actor>Pachuca</actor>
+    </credits>
+    <sub-title lang="en">Venue: Pachuca Stadium</sub-title>
+  </programme>
+  <programme start="20250923T100000 +0000" stop="20250923T130000 +0000" channel="soccer20">
+    <title lang="en">Guadalajara vs Necaxa - starts at 9:07 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Guadalajara</actor>
+      <actor>Necaxa</actor>
+    </credits>
+    <sub-title lang="en">Venue: Necaxa Stadium</sub-title>
+  </programme>
+  <programme start="20250923T130000 +0000" stop="20250923T160000 +0000" channel="soccer20">
+    <title lang="en">Guadalajara vs Necaxa - starts at 9:07 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Guadalajara</actor>
+      <actor>Necaxa</actor>
+    </credits>
+    <sub-title lang="en">Venue: Necaxa Stadium</sub-title>
+  </programme>
+  <programme start="20250923T160000 +0000" stop="20250923T190000 +0000" channel="soccer20">
+    <title lang="en">Guadalajara vs Necaxa - starts at 9:07 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Guadalajara</actor>
+      <actor>Necaxa</actor>
+    </credits>
+    <sub-title lang="en">Venue: Necaxa Stadium</sub-title>
+  </programme>
+  <programme start="20250923T190000 +0000" stop="20250923T220000 +0000" channel="soccer20">
+    <title lang="en">Guadalajara vs Necaxa - starts at 9:07 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Guadalajara</actor>
+      <actor>Necaxa</actor>
+    </credits>
+    <sub-title lang="en">Venue: Necaxa Stadium</sub-title>
+  </programme>
+  <programme start="20250923T220000 +0000" stop="20250924T010000 +0000" channel="soccer20">
+    <title lang="en">Guadalajara vs Necaxa - starts at 9:07 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Guadalajara</actor>
+      <actor>Necaxa</actor>
+    </credits>
+    <sub-title lang="en">Venue: Necaxa Stadium</sub-title>
+  </programme>
+  <programme start="20250924T010700 +0000" stop="20250924T030700 +0000" channel="soccer20">
+    <title lang="en">Guadalajara vs Necaxa</title>
+    <desc lang="en">League: Liga MX</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Guadalajara</actor>
+      <actor>Necaxa</actor>
+    </credits>
+    <sub-title lang="en">Venue: Necaxa Stadium</sub-title>
+  </programme>
+  <programme start="20250923T100000 +0000" stop="20250923T130000 +0000" channel="soccer21">
+    <title lang="en">Juárez vs Pumas UNAM - starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Juárez</actor>
+      <actor>Pumas UNAM</actor>
+    </credits>
+    <sub-title lang="en">Venue: Pumas UNAM Stadium</sub-title>
+  </programme>
+  <programme start="20250923T130000 +0000" stop="20250923T160000 +0000" channel="soccer21">
+    <title lang="en">Juárez vs Pumas UNAM - starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Juárez</actor>
+      <actor>Pumas UNAM</actor>
+    </credits>
+    <sub-title lang="en">Venue: Pumas UNAM Stadium</sub-title>
+  </programme>
+  <programme start="20250923T160000 +0000" stop="20250923T190000 +0000" channel="soccer21">
+    <title lang="en">Juárez vs Pumas UNAM - starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Juárez</actor>
+      <actor>Pumas UNAM</actor>
+    </credits>
+    <sub-title lang="en">Venue: Pumas UNAM Stadium</sub-title>
+  </programme>
+  <programme start="20250923T190000 +0000" stop="20250923T220000 +0000" channel="soccer21">
+    <title lang="en">Juárez vs Pumas UNAM - starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Juárez</actor>
+      <actor>Pumas UNAM</actor>
+    </credits>
+    <sub-title lang="en">Venue: Pumas UNAM Stadium</sub-title>
+  </programme>
+  <programme start="20250923T220000 +0000" stop="20250924T010000 +0000" channel="soccer21">
+    <title lang="en">Juárez vs Pumas UNAM - starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Juárez</actor>
+      <actor>Pumas UNAM</actor>
+    </credits>
+    <sub-title lang="en">Venue: Pumas UNAM Stadium</sub-title>
+  </programme>
+  <programme start="20250924T030000 +0000" stop="20250924T050000 +0000" channel="soccer21">
+    <title lang="en">Juárez vs Pumas UNAM</title>
+    <desc lang="en">League: Liga MX</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Juárez</actor>
+      <actor>Pumas UNAM</actor>
+    </credits>
+    <sub-title lang="en">Venue: Pumas UNAM Stadium</sub-title>
+  </programme>
+  <programme start="20250923T100000 +0000" stop="20250923T130000 +0000" channel="soccer22">
+    <title lang="en">León vs Mazatlán - starts at 11:05 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>León</actor>
+      <actor>Mazatlán</actor>
+    </credits>
+    <sub-title lang="en">Venue: Mazatlán Stadium</sub-title>
+  </programme>
+  <programme start="20250923T130000 +0000" stop="20250923T160000 +0000" channel="soccer22">
+    <title lang="en">León vs Mazatlán - starts at 11:05 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>León</actor>
+      <actor>Mazatlán</actor>
+    </credits>
+    <sub-title lang="en">Venue: Mazatlán Stadium</sub-title>
+  </programme>
+  <programme start="20250923T160000 +0000" stop="20250923T190000 +0000" channel="soccer22">
+    <title lang="en">León vs Mazatlán - starts at 11:05 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>León</actor>
+      <actor>Mazatlán</actor>
+    </credits>
+    <sub-title lang="en">Venue: Mazatlán Stadium</sub-title>
+  </programme>
+  <programme start="20250923T190000 +0000" stop="20250923T220000 +0000" channel="soccer22">
+    <title lang="en">León vs Mazatlán - starts at 11:05 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>León</actor>
+      <actor>Mazatlán</actor>
+    </credits>
+    <sub-title lang="en">Venue: Mazatlán Stadium</sub-title>
+  </programme>
+  <programme start="20250923T220000 +0000" stop="20250924T010000 +0000" channel="soccer22">
+    <title lang="en">León vs Mazatlán - starts at 11:05 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>León</actor>
+      <actor>Mazatlán</actor>
+    </credits>
+    <sub-title lang="en">Venue: Mazatlán Stadium</sub-title>
+  </programme>
+  <programme start="20250924T030500 +0000" stop="20250924T050500 +0000" channel="soccer22">
+    <title lang="en">León vs Mazatlán</title>
+    <desc lang="en">League: Liga MX</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>León</actor>
+      <actor>Mazatlán</actor>
+    </credits>
+    <sub-title lang="en">Venue: Mazatlán Stadium</sub-title>
   </programme>
 </tv>
