@@ -1,76 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="EPG Manager" generator-info-url="https://epg-manager.com">
-  <channel id="soccer01">
+  <channel id="soccer 01">
     <display-name>Soccer 01</display-name>
     <icon src="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png" />
   </channel>
-  <channel id="soccer02">
+  <channel id="soccer 02">
     <display-name>Soccer 02</display-name>
     <icon src="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png" />
   </channel>
-  <channel id="soccer03">
+  <channel id="soccer 03">
     <display-name>Soccer 03</display-name>
     <icon src="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png" />
   </channel>
-  <channel id="soccer04">
+  <channel id="soccer 04">
     <display-name>Soccer 04</display-name>
     <icon src="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png" />
   </channel>
-  <channel id="soccer05">
+  <channel id="soccer 05">
     <display-name>Soccer 05</display-name>
   </channel>
-  <channel id="soccer06">
+  <channel id="soccer 06">
     <display-name>Soccer 06</display-name>
   </channel>
-  <channel id="soccer07">
+  <channel id="soccer 07">
     <display-name>Soccer 07</display-name>
   </channel>
-  <channel id="soccer08">
+  <channel id="soccer 08">
     <display-name>Soccer 08</display-name>
   </channel>
-  <channel id="soccer09">
+  <channel id="soccer 09">
     <display-name>Soccer 09</display-name>
   </channel>
-  <channel id="soccer10">
+  <channel id="soccer 10">
     <display-name>Soccer 10</display-name>
   </channel>
-  <channel id="soccer11">
+  <channel id="soccer 11">
     <display-name>Soccer 11</display-name>
   </channel>
-  <channel id="soccer12">
+  <channel id="soccer 12">
     <display-name>Soccer 12</display-name>
   </channel>
-  <channel id="soccer13">
+  <channel id="soccer 13">
     <display-name>Soccer 13</display-name>
   </channel>
-  <channel id="soccer14">
+  <channel id="soccer 14">
     <display-name>Soccer 14</display-name>
   </channel>
-  <channel id="soccer15">
+  <channel id="soccer 15">
     <display-name>Soccer 15</display-name>
   </channel>
-  <channel id="soccer16">
+  <channel id="soccer 16">
     <display-name>Soccer 16</display-name>
   </channel>
-  <channel id="soccer17">
+  <channel id="soccer 17">
     <display-name>Soccer 17</display-name>
   </channel>
-  <channel id="soccer18">
+  <channel id="soccer 18">
     <display-name>Soccer 18</display-name>
   </channel>
-  <channel id="soccer19">
+  <channel id="soccer 19">
     <display-name>Soccer 19</display-name>
   </channel>
-  <channel id="soccer20">
+  <channel id="soccer 20">
     <display-name>Soccer 20</display-name>
   </channel>
-  <channel id="soccer21">
+  <channel id="soccer 21">
     <display-name>Soccer 21</display-name>
   </channel>
-  <channel id="soccer22">
+  <channel id="soccer 22">
     <display-name>Soccer 22</display-name>
   </channel>
-  <programme start="20250923T100000 +0000" stop="20250923T130000 +0000" channel="soccer01">
+  <programme start="20250923T100000 +0000" stop="20250923T130000 +0000" channel="soccer 01">
     <title lang="en">Athletic Club vs Girona - starts at 1:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
@@ -80,7 +80,7 @@
     </credits>
     <sub-title lang="en">Venue: Girona Stadium</sub-title>
   </programme>
-  <programme start="20250923T130000 +0000" stop="20250923T160000 +0000" channel="soccer01">
+  <programme start="20250923T130000 +0000" stop="20250923T160000 +0000" channel="soccer 01">
     <title lang="en">Athletic Club vs Girona - starts at 1:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
@@ -90,7 +90,7 @@
     </credits>
     <sub-title lang="en">Venue: Girona Stadium</sub-title>
   </programme>
-  <programme start="20250923T170000 +0000" stop="20250923T190000 +0000" channel="soccer01">
+  <programme start="20250923T170000 +0000" stop="20250923T190000 +0000" channel="soccer 01">
     <title lang="en">Athletic Club vs Girona</title>
     <desc lang="en">League: LaLiga</desc>
     <category lang="en">Sports</category>
@@ -101,7 +101,7 @@
     </credits>
     <sub-title lang="en">Venue: Girona Stadium</sub-title>
   </programme>
-  <programme start="20250923T100000 +0000" stop="20250923T130000 +0000" channel="soccer02">
+  <programme start="20250923T100000 +0000" stop="20250923T130000 +0000" channel="soccer 02">
     <title lang="en">Espanyol vs Valencia - starts at 1:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
@@ -121,7 +121,7 @@
     </credits>
     <sub-title lang="en">Venue: Valencia Stadium</sub-title>
   </programme>
-  <programme start="20250923T170000 +0000" stop="20250923T190000 +0000" channel="soccer02">
+  <programme start="20250923T170000 +0000" stop="20250923T190000 +0000" channel="soccer 02">
     <title lang="en">Espanyol vs Valencia</title>
     <desc lang="en">League: LaLiga</desc>
     <category lang="en">Sports</category>
@@ -132,7 +132,7 @@
     </credits>
     <sub-title lang="en">Venue: Valencia Stadium</sub-title>
   </programme>
-  <programme start="20250923T100000 +0000" stop="20250923T130000 +0000" channel="soccer03">
+  <programme start="20250923T100000 +0000" stop="20250923T130000 +0000" channel="soccer 03">
     <title lang="en">Sevilla vs Villarreal - starts at 3:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
@@ -142,7 +142,7 @@
     </credits>
     <sub-title lang="en">Venue: Villarreal Stadium</sub-title>
   </programme>
-  <programme start="20250923T130000 +0000" stop="20250923T160000 +0000" channel="soccer03">
+  <programme start="20250923T130000 +0000" stop="20250923T160000 +0000" channel="soccer 03">
     <title lang="en">Sevilla vs Villarreal - starts at 3:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
@@ -152,7 +152,7 @@
     </credits>
     <sub-title lang="en">Venue: Villarreal Stadium</sub-title>
   </programme>
-  <programme start="20250923T160000 +0000" stop="20250923T190000 +0000" channel="soccer03">
+  <programme start="20250923T160000 +0000" stop="20250923T190000 +0000" channel="soccer 03">
     <title lang="en">Sevilla vs Villarreal - starts at 3:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
