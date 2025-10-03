@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="EPG Manager" generator-info-url="https://epg-manager.com">
+  <channel id="ncaaf 001">
+    <display-name>NCAAF 001</display-name>
+  </channel>
+  <channel id="ncaaf 002">
+    <display-name>NCAAF 002</display-name>
+  </channel>
+  <channel id="ncaaf 003">
+    <display-name>NCAAF 003</display-name>
+  </channel>
+  <channel id="ncaaf 004">
+    <display-name>NCAAF 004</display-name>
+  </channel>
+  <channel id="ncaaf 005">
+    <display-name>NCAAF 005</display-name>
+  </channel>
+  <channel id="ncaaf 006">
+    <display-name>NCAAF 006</display-name>
+  </channel>
+  <channel id="ncaaf 007">
+    <display-name>NCAAF 007</display-name>
+  </channel>
   <channel id="soccer 01">
     <display-name>Soccer 01</display-name>
   </channel>
@@ -299,27 +320,6 @@
   </channel>
   <channel id="soccer 100">
     <display-name>Soccer 100</display-name>
-  </channel>
-  <channel id="ncaaf 001">
-    <display-name>NCAAF 001</display-name>
-  </channel>
-  <channel id="ncaaf 002">
-    <display-name>NCAAF 002</display-name>
-  </channel>
-  <channel id="ncaaf 003">
-    <display-name>NCAAF 003</display-name>
-  </channel>
-  <channel id="ncaaf 004">
-    <display-name>NCAAF 004</display-name>
-  </channel>
-  <channel id="ncaaf 005">
-    <display-name>NCAAF 005</display-name>
-  </channel>
-  <channel id="ncaaf 006">
-    <display-name>NCAAF 006</display-name>
-  </channel>
-  <channel id="ncaaf 007">
-    <display-name>NCAAF 007</display-name>
   </channel>
   <channel id="ncaaf 008">
     <display-name>NCAAF 008</display-name>
@@ -1275,1402 +1275,796 @@
   <channel id="seasonal 25">
     <display-name>Seasonal 25</display-name>
   </channel>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 01">
-    <title lang="en">Celtic vs Sporting Braga - starts at 12:45 PM ET</title>
+  <programme start="20251003T100000 +0000" stop="20251003T130000 +0000" channel="ncaaf 001">
+    <title lang="en">WKU @ DELAWARE - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>WKU</actor>
+      <actor>DELAWARE</actor>
+    </credits>
+    <sub-title lang="en">Venue: DELAWARE Stadium</sub-title>
+  </programme>
+  <programme start="20251003T130000 +0000" stop="20251003T160000 +0000" channel="ncaaf 001">
+    <title lang="en">WKU @ DELAWARE - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>WKU</actor>
+      <actor>DELAWARE</actor>
+    </credits>
+    <sub-title lang="en">Venue: DELAWARE Stadium</sub-title>
+  </programme>
+  <programme start="20251003T160000 +0000" stop="20251003T190000 +0000" channel="ncaaf 001">
+    <title lang="en">WKU @ DELAWARE - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>WKU</actor>
+      <actor>DELAWARE</actor>
+    </credits>
+    <sub-title lang="en">Venue: DELAWARE Stadium</sub-title>
+  </programme>
+  <programme start="20251003T190000 +0000" stop="20251003T220000 +0000" channel="ncaaf 001">
+    <title lang="en">WKU @ DELAWARE - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>WKU</actor>
+      <actor>DELAWARE</actor>
+    </credits>
+    <sub-title lang="en">Venue: DELAWARE Stadium</sub-title>
+  </programme>
+  <programme start="20251003T230000 +0000" stop="20251004T023000 +0000" channel="ncaaf 001">
+    <title lang="en">WKU @ DELAWARE</title>
+    <desc lang="en">Network: CBSSN</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>WKU</actor>
+      <actor>DELAWARE</actor>
+    </credits>
+    <sub-title lang="en">Venue: DELAWARE Stadium</sub-title>
+  </programme>
+  <programme start="20251003T100000 +0000" stop="20251003T130000 +0000" channel="ncaaf 002">
+    <title lang="en">CHARLOTTE @ USF - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>CHARLOTTE</actor>
+      <actor>USF</actor>
+    </credits>
+    <sub-title lang="en">Venue: USF Stadium</sub-title>
+  </programme>
+  <programme start="20251003T130000 +0000" stop="20251003T160000 +0000" channel="ncaaf 002">
+    <title lang="en">CHARLOTTE @ USF - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>CHARLOTTE</actor>
+      <actor>USF</actor>
+    </credits>
+    <sub-title lang="en">Venue: USF Stadium</sub-title>
+  </programme>
+  <programme start="20251003T160000 +0000" stop="20251003T190000 +0000" channel="ncaaf 002">
+    <title lang="en">CHARLOTTE @ USF - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>CHARLOTTE</actor>
+      <actor>USF</actor>
+    </credits>
+    <sub-title lang="en">Venue: USF Stadium</sub-title>
+  </programme>
+  <programme start="20251003T190000 +0000" stop="20251003T220000 +0000" channel="ncaaf 002">
+    <title lang="en">CHARLOTTE @ USF - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>CHARLOTTE</actor>
+      <actor>USF</actor>
+    </credits>
+    <sub-title lang="en">Venue: USF Stadium</sub-title>
+  </programme>
+  <programme start="20251003T230000 +0000" stop="20251004T023000 +0000" channel="ncaaf 002">
+    <title lang="en">CHARLOTTE @ USF</title>
+    <desc lang="en">Network: ESPN2</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>CHARLOTTE</actor>
+      <actor>USF</actor>
+    </credits>
+    <sub-title lang="en">Venue: USF Stadium</sub-title>
+  </programme>
+  <programme start="20251003T100000 +0000" stop="20251003T130000 +0000" channel="ncaaf 003">
+    <title lang="en">RHODE ISLAND VS BROWN (IN PAWTUCKET, RI) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+  </programme>
+  <programme start="20251003T130000 +0000" stop="20251003T160000 +0000" channel="ncaaf 003">
+    <title lang="en">RHODE ISLAND VS BROWN (IN PAWTUCKET, RI) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+  </programme>
+  <programme start="20251003T160000 +0000" stop="20251003T190000 +0000" channel="ncaaf 003">
+    <title lang="en">RHODE ISLAND VS BROWN (IN PAWTUCKET, RI) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+  </programme>
+  <programme start="20251003T190000 +0000" stop="20251003T220000 +0000" channel="ncaaf 003">
+    <title lang="en">RHODE ISLAND VS BROWN (IN PAWTUCKET, RI) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+  </programme>
+  <programme start="20251003T230000 +0000" stop="20251004T023000 +0000" channel="ncaaf 003">
+    <title lang="en">RHODE ISLAND VS BROWN (IN PAWTUCKET, RI)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAF</category>
+  </programme>
+  <programme start="20251003T100000 +0000" stop="20251003T130000 +0000" channel="ncaaf 004">
+    <title lang="en">COLUMBIA @ PRINCETON - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>COLUMBIA</actor>
+      <actor>PRINCETON</actor>
+    </credits>
+    <sub-title lang="en">Venue: PRINCETON Stadium</sub-title>
+  </programme>
+  <programme start="20251003T130000 +0000" stop="20251003T160000 +0000" channel="ncaaf 004">
+    <title lang="en">COLUMBIA @ PRINCETON - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>COLUMBIA</actor>
+      <actor>PRINCETON</actor>
+    </credits>
+    <sub-title lang="en">Venue: PRINCETON Stadium</sub-title>
+  </programme>
+  <programme start="20251003T160000 +0000" stop="20251003T190000 +0000" channel="ncaaf 004">
+    <title lang="en">COLUMBIA @ PRINCETON - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>COLUMBIA</actor>
+      <actor>PRINCETON</actor>
+    </credits>
+    <sub-title lang="en">Venue: PRINCETON Stadium</sub-title>
+  </programme>
+  <programme start="20251003T190000 +0000" stop="20251003T220000 +0000" channel="ncaaf 004">
+    <title lang="en">COLUMBIA @ PRINCETON - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>COLUMBIA</actor>
+      <actor>PRINCETON</actor>
+    </credits>
+    <sub-title lang="en">Venue: PRINCETON Stadium</sub-title>
+  </programme>
+  <programme start="20251003T233000 +0000" stop="20251004T030000 +0000" channel="ncaaf 004">
+    <title lang="en">COLUMBIA @ PRINCETON</title>
+    <desc lang="en">Network: ESPNU</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>COLUMBIA</actor>
+      <actor>PRINCETON</actor>
+    </credits>
+    <sub-title lang="en">Venue: PRINCETON Stadium</sub-title>
+  </programme>
+  <programme start="20251003T100000 +0000" stop="20251003T130000 +0000" channel="ncaaf 005">
+    <title lang="en">NEW MEXICO @ SAN JOSE STATE - starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>NEW MEXICO</actor>
+      <actor>SAN JOSE STATE</actor>
+    </credits>
+    <sub-title lang="en">Venue: SAN JOSE STATE Stadium</sub-title>
+  </programme>
+  <programme start="20251003T130000 +0000" stop="20251003T160000 +0000" channel="ncaaf 005">
+    <title lang="en">NEW MEXICO @ SAN JOSE STATE - starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>NEW MEXICO</actor>
+      <actor>SAN JOSE STATE</actor>
+    </credits>
+    <sub-title lang="en">Venue: SAN JOSE STATE Stadium</sub-title>
+  </programme>
+  <programme start="20251003T160000 +0000" stop="20251003T190000 +0000" channel="ncaaf 005">
+    <title lang="en">NEW MEXICO @ SAN JOSE STATE - starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>NEW MEXICO</actor>
+      <actor>SAN JOSE STATE</actor>
+    </credits>
+    <sub-title lang="en">Venue: SAN JOSE STATE Stadium</sub-title>
+  </programme>
+  <programme start="20251003T190000 +0000" stop="20251003T220000 +0000" channel="ncaaf 005">
+    <title lang="en">NEW MEXICO @ SAN JOSE STATE - starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>NEW MEXICO</actor>
+      <actor>SAN JOSE STATE</actor>
+    </credits>
+    <sub-title lang="en">Venue: SAN JOSE STATE Stadium</sub-title>
+  </programme>
+  <programme start="20251003T220000 +0000" stop="20251004T010000 +0000" channel="ncaaf 005">
+    <title lang="en">NEW MEXICO @ SAN JOSE STATE - starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>NEW MEXICO</actor>
+      <actor>SAN JOSE STATE</actor>
+    </credits>
+    <sub-title lang="en">Venue: SAN JOSE STATE Stadium</sub-title>
+  </programme>
+  <programme start="20251004T020000 +0000" stop="20251004T053000 +0000" channel="ncaaf 005">
+    <title lang="en">NEW MEXICO @ SAN JOSE STATE</title>
+    <desc lang="en">Network: FS1</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>NEW MEXICO</actor>
+      <actor>SAN JOSE STATE</actor>
+    </credits>
+    <sub-title lang="en">Venue: SAN JOSE STATE Stadium</sub-title>
+  </programme>
+  <programme start="20251003T100000 +0000" stop="20251003T130000 +0000" channel="ncaaf 006">
+    <title lang="en">WEST VIRGINIA @ 25 BYU - starts at 10:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>WEST VIRGINIA</actor>
+      <actor>25 BYU</actor>
+    </credits>
+    <sub-title lang="en">Venue: 25 BYU Stadium</sub-title>
+  </programme>
+  <programme start="20251003T130000 +0000" stop="20251003T160000 +0000" channel="ncaaf 006">
+    <title lang="en">WEST VIRGINIA @ 25 BYU - starts at 10:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>WEST VIRGINIA</actor>
+      <actor>25 BYU</actor>
+    </credits>
+    <sub-title lang="en">Venue: 25 BYU Stadium</sub-title>
+  </programme>
+  <programme start="20251003T160000 +0000" stop="20251003T190000 +0000" channel="ncaaf 006">
+    <title lang="en">WEST VIRGINIA @ 25 BYU - starts at 10:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>WEST VIRGINIA</actor>
+      <actor>25 BYU</actor>
+    </credits>
+    <sub-title lang="en">Venue: 25 BYU Stadium</sub-title>
+  </programme>
+  <programme start="20251003T190000 +0000" stop="20251003T220000 +0000" channel="ncaaf 006">
+    <title lang="en">WEST VIRGINIA @ 25 BYU - starts at 10:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>WEST VIRGINIA</actor>
+      <actor>25 BYU</actor>
+    </credits>
+    <sub-title lang="en">Venue: 25 BYU Stadium</sub-title>
+  </programme>
+  <programme start="20251003T220000 +0000" stop="20251004T010000 +0000" channel="ncaaf 006">
+    <title lang="en">WEST VIRGINIA @ 25 BYU - starts at 10:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>WEST VIRGINIA</actor>
+      <actor>25 BYU</actor>
+    </credits>
+    <sub-title lang="en">Venue: 25 BYU Stadium</sub-title>
+  </programme>
+  <programme start="20251004T023000 +0000" stop="20251004T060000 +0000" channel="ncaaf 006">
+    <title lang="en">WEST VIRGINIA @ 25 BYU</title>
+    <desc lang="en">Network: ESPN</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>WEST VIRGINIA</actor>
+      <actor>25 BYU</actor>
+    </credits>
+    <sub-title lang="en">Venue: 25 BYU Stadium</sub-title>
+  </programme>
+  <programme start="20251003T100000 +0000" stop="20251003T130000 +0000" channel="ncaaf 007">
+    <title lang="en">COLORADO STATE @ SAN DIEGO STATE - starts at 10:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>COLORADO STATE</actor>
+      <actor>SAN DIEGO STATE</actor>
+    </credits>
+    <sub-title lang="en">Venue: SAN DIEGO STATE Stadium</sub-title>
+  </programme>
+  <programme start="20251003T130000 +0000" stop="20251003T160000 +0000" channel="ncaaf 007">
+    <title lang="en">COLORADO STATE @ SAN DIEGO STATE - starts at 10:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>COLORADO STATE</actor>
+      <actor>SAN DIEGO STATE</actor>
+    </credits>
+    <sub-title lang="en">Venue: SAN DIEGO STATE Stadium</sub-title>
+  </programme>
+  <programme start="20251003T160000 +0000" stop="20251003T190000 +0000" channel="ncaaf 007">
+    <title lang="en">COLORADO STATE @ SAN DIEGO STATE - starts at 10:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>COLORADO STATE</actor>
+      <actor>SAN DIEGO STATE</actor>
+    </credits>
+    <sub-title lang="en">Venue: SAN DIEGO STATE Stadium</sub-title>
+  </programme>
+  <programme start="20251003T190000 +0000" stop="20251003T220000 +0000" channel="ncaaf 007">
+    <title lang="en">COLORADO STATE @ SAN DIEGO STATE - starts at 10:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>COLORADO STATE</actor>
+      <actor>SAN DIEGO STATE</actor>
+    </credits>
+    <sub-title lang="en">Venue: SAN DIEGO STATE Stadium</sub-title>
+  </programme>
+  <programme start="20251003T220000 +0000" stop="20251004T010000 +0000" channel="ncaaf 007">
+    <title lang="en">COLORADO STATE @ SAN DIEGO STATE - starts at 10:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>COLORADO STATE</actor>
+      <actor>SAN DIEGO STATE</actor>
+    </credits>
+    <sub-title lang="en">Venue: SAN DIEGO STATE Stadium</sub-title>
+  </programme>
+  <programme start="20251004T023000 +0000" stop="20251004T060000 +0000" channel="ncaaf 007">
+    <title lang="en">COLORADO STATE @ SAN DIEGO STATE</title>
+    <desc lang="en">Network: CBSSN</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>COLORADO STATE</actor>
+      <actor>SAN DIEGO STATE</actor>
+    </credits>
+    <sub-title lang="en">Venue: SAN DIEGO STATE Stadium</sub-title>
+  </programme>
+  <programme start="20251003T100000 +0000" stop="20251003T130000 +0000" channel="soccer 01">
+    <title lang="en">AFC Bournemouth vs Fulham - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Celtic</actor>
-      <actor>Sporting Braga</actor>
+      <actor>AFC Bournemouth</actor>
+      <actor>Fulham</actor>
     </credits>
-    <sub-title lang="en">Venue: Sporting Braga Stadium</sub-title>
+    <sub-title lang="en">Venue: Fulham Stadium</sub-title>
   </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 01">
-    <title lang="en">Celtic vs Sporting Braga - starts at 12:45 PM ET</title>
+  <programme start="20251003T130000 +0000" stop="20251003T160000 +0000" channel="soccer 01">
+    <title lang="en">AFC Bournemouth vs Fulham - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Celtic</actor>
-      <actor>Sporting Braga</actor>
+      <actor>AFC Bournemouth</actor>
+      <actor>Fulham</actor>
     </credits>
-    <sub-title lang="en">Venue: Sporting Braga Stadium</sub-title>
+    <sub-title lang="en">Venue: Fulham Stadium</sub-title>
   </programme>
-  <programme start="20251002T164500 +0000" stop="20251002T184500 +0000" channel="soccer 01">
-    <title lang="en">Celtic vs Sporting Braga</title>
-    <desc lang="en">League: Europa</desc>
+  <programme start="20251003T160000 +0000" stop="20251003T190000 +0000" channel="soccer 01">
+    <title lang="en">AFC Bournemouth vs Fulham - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>AFC Bournemouth</actor>
+      <actor>Fulham</actor>
+    </credits>
+    <sub-title lang="en">Venue: Fulham Stadium</sub-title>
+  </programme>
+  <programme start="20251003T190000 +0000" stop="20251003T210000 +0000" channel="soccer 01">
+    <title lang="en">AFC Bournemouth vs Fulham</title>
+    <desc lang="en">League: EPL</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Celtic</actor>
-      <actor>Sporting Braga</actor>
+      <actor>AFC Bournemouth</actor>
+      <actor>Fulham</actor>
     </credits>
-    <sub-title lang="en">Venue: Sporting Braga Stadium</sub-title>
+    <sub-title lang="en">Venue: Fulham Stadium</sub-title>
   </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 02">
-    <title lang="en">Roma vs Lille - starts at 12:45 PM ET</title>
+  <programme start="20251003T100000 +0000" stop="20251003T130000 +0000" channel="soccer 02">
+    <title lang="en">Osasuna vs Getafe - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Roma</actor>
-      <actor>Lille</actor>
+      <actor>Osasuna</actor>
+      <actor>Getafe</actor>
     </credits>
-    <sub-title lang="en">Venue: Lille Stadium</sub-title>
+    <sub-title lang="en">Venue: Getafe Stadium</sub-title>
   </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 02">
-    <title lang="en">Roma vs Lille - starts at 12:45 PM ET</title>
+  <programme start="20251003T130000 +0000" stop="20251003T160000 +0000" channel="soccer 02">
+    <title lang="en">Osasuna vs Getafe - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Roma</actor>
-      <actor>Lille</actor>
+      <actor>Osasuna</actor>
+      <actor>Getafe</actor>
     </credits>
-    <sub-title lang="en">Venue: Lille Stadium</sub-title>
+    <sub-title lang="en">Venue: Getafe Stadium</sub-title>
   </programme>
-  <programme start="20251002T164500 +0000" stop="20251002T184500 +0000" channel="soccer 02">
-    <title lang="en">Roma vs Lille</title>
-    <desc lang="en">League: Europa</desc>
+  <programme start="20251003T160000 +0000" stop="20251003T190000 +0000" channel="soccer 02">
+    <title lang="en">Osasuna vs Getafe - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Osasuna</actor>
+      <actor>Getafe</actor>
+    </credits>
+    <sub-title lang="en">Venue: Getafe Stadium</sub-title>
+  </programme>
+  <programme start="20251003T190000 +0000" stop="20251003T210000 +0000" channel="soccer 02">
+    <title lang="en">Osasuna vs Getafe</title>
+    <desc lang="en">League: LaLiga</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Roma</actor>
-      <actor>Lille</actor>
+      <actor>Osasuna</actor>
+      <actor>Getafe</actor>
     </credits>
-    <sub-title lang="en">Venue: Lille Stadium</sub-title>
+    <sub-title lang="en">Venue: Getafe Stadium</sub-title>
   </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 03">
-    <title lang="en">Viktoria Plzeň vs Malmö FF - starts at 12:45 PM ET</title>
+  <programme start="20251003T100000 +0000" stop="20251003T130000 +0000" channel="soccer 03">
+    <title lang="en">Hellas Verona vs Sassuolo - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Viktoria Plzeň</actor>
-      <actor>Malmö FF</actor>
+      <actor>Hellas Verona</actor>
+      <actor>Sassuolo</actor>
     </credits>
-    <sub-title lang="en">Venue: Malmö FF Stadium</sub-title>
+    <sub-title lang="en">Venue: Sassuolo Stadium</sub-title>
   </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 03">
-    <title lang="en">Viktoria Plzeň vs Malmö FF - starts at 12:45 PM ET</title>
+  <programme start="20251003T130000 +0000" stop="20251003T160000 +0000" channel="soccer 03">
+    <title lang="en">Hellas Verona vs Sassuolo - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Viktoria Plzeň</actor>
-      <actor>Malmö FF</actor>
+      <actor>Hellas Verona</actor>
+      <actor>Sassuolo</actor>
     </credits>
-    <sub-title lang="en">Venue: Malmö FF Stadium</sub-title>
+    <sub-title lang="en">Venue: Sassuolo Stadium</sub-title>
   </programme>
-  <programme start="20251002T164500 +0000" stop="20251002T184500 +0000" channel="soccer 03">
-    <title lang="en">Viktoria Plzeň vs Malmö FF</title>
-    <desc lang="en">League: Europa</desc>
+  <programme start="20251003T184500 +0000" stop="20251003T204500 +0000" channel="soccer 03">
+    <title lang="en">Hellas Verona vs Sassuolo</title>
+    <desc lang="en">League: Serie A</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Viktoria Plzeň</actor>
-      <actor>Malmö FF</actor>
+      <actor>Hellas Verona</actor>
+      <actor>Sassuolo</actor>
     </credits>
-    <sub-title lang="en">Venue: Malmö FF Stadium</sub-title>
+    <sub-title lang="en">Venue: Sassuolo Stadium</sub-title>
   </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 04">
-    <title lang="en">FCSB vs Young Boys - starts at 12:45 PM ET</title>
+  <programme start="20251003T100000 +0000" stop="20251003T130000 +0000" channel="soccer 04">
+    <title lang="en">Hoffenheim vs Cologne - starts at 2:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>FCSB</actor>
-      <actor>Young Boys</actor>
+      <actor>Hoffenheim</actor>
+      <actor>Cologne</actor>
     </credits>
-    <sub-title lang="en">Venue: Young Boys Stadium</sub-title>
+    <sub-title lang="en">Venue: Cologne Stadium</sub-title>
   </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 04">
-    <title lang="en">FCSB vs Young Boys - starts at 12:45 PM ET</title>
+  <programme start="20251003T130000 +0000" stop="20251003T160000 +0000" channel="soccer 04">
+    <title lang="en">Hoffenheim vs Cologne - starts at 2:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>FCSB</actor>
-      <actor>Young Boys</actor>
+      <actor>Hoffenheim</actor>
+      <actor>Cologne</actor>
     </credits>
-    <sub-title lang="en">Venue: Young Boys Stadium</sub-title>
+    <sub-title lang="en">Venue: Cologne Stadium</sub-title>
   </programme>
-  <programme start="20251002T164500 +0000" stop="20251002T184500 +0000" channel="soccer 04">
-    <title lang="en">FCSB vs Young Boys</title>
-    <desc lang="en">League: Europa</desc>
+  <programme start="20251003T183000 +0000" stop="20251003T203000 +0000" channel="soccer 04">
+    <title lang="en">Hoffenheim vs Cologne</title>
+    <desc lang="en">League: Bundesliga</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>FCSB</actor>
-      <actor>Young Boys</actor>
+      <actor>Hoffenheim</actor>
+      <actor>Cologne</actor>
     </credits>
-    <sub-title lang="en">Venue: Young Boys Stadium</sub-title>
+    <sub-title lang="en">Venue: Cologne Stadium</sub-title>
   </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 05">
-    <title lang="en">Brann vs Utrecht - starts at 12:45 PM ET</title>
+  <programme start="20251003T100000 +0000" stop="20251003T130000 +0000" channel="soccer 05">
+    <title lang="en">Paris vs Lorient - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Brann</actor>
-      <actor>Utrecht</actor>
+      <actor>Paris</actor>
+      <actor>Lorient</actor>
     </credits>
-    <sub-title lang="en">Venue: Utrecht Stadium</sub-title>
+    <sub-title lang="en">Venue: Lorient Stadium</sub-title>
   </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 05">
-    <title lang="en">Brann vs Utrecht - starts at 12:45 PM ET</title>
+  <programme start="20251003T130000 +0000" stop="20251003T160000 +0000" channel="soccer 05">
+    <title lang="en">Paris vs Lorient - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Brann</actor>
-      <actor>Utrecht</actor>
+      <actor>Paris</actor>
+      <actor>Lorient</actor>
     </credits>
-    <sub-title lang="en">Venue: Utrecht Stadium</sub-title>
+    <sub-title lang="en">Venue: Lorient Stadium</sub-title>
   </programme>
-  <programme start="20251002T164500 +0000" stop="20251002T184500 +0000" channel="soccer 05">
-    <title lang="en">Brann vs Utrecht</title>
-    <desc lang="en">League: Europa</desc>
+  <programme start="20251003T184500 +0000" stop="20251003T204500 +0000" channel="soccer 05">
+    <title lang="en">Paris vs Lorient</title>
+    <desc lang="en">League: Ligue 1</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Brann</actor>
-      <actor>Utrecht</actor>
+      <actor>Paris</actor>
+      <actor>Lorient</actor>
     </credits>
-    <sub-title lang="en">Venue: Utrecht Stadium</sub-title>
+    <sub-title lang="en">Venue: Lorient Stadium</sub-title>
   </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 06">
-    <title lang="en">Fenerbahçe vs Nice - starts at 12:45 PM ET</title>
+  <programme start="20251003T100000 +0000" stop="20251003T130000 +0000" channel="soccer 06">
+    <title lang="en">Casa Pia vs Estoril - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Fenerbahçe</actor>
-      <actor>Nice</actor>
+      <actor>Casa Pia</actor>
+      <actor>Estoril</actor>
     </credits>
-    <sub-title lang="en">Venue: Nice Stadium</sub-title>
+    <sub-title lang="en">Venue: Estoril Stadium</sub-title>
   </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 06">
-    <title lang="en">Fenerbahçe vs Nice - starts at 12:45 PM ET</title>
+  <programme start="20251003T130000 +0000" stop="20251003T160000 +0000" channel="soccer 06">
+    <title lang="en">Casa Pia vs Estoril - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Fenerbahçe</actor>
-      <actor>Nice</actor>
+      <actor>Casa Pia</actor>
+      <actor>Estoril</actor>
     </credits>
-    <sub-title lang="en">Venue: Nice Stadium</sub-title>
+    <sub-title lang="en">Venue: Estoril Stadium</sub-title>
   </programme>
-  <programme start="20251002T164500 +0000" stop="20251002T184500 +0000" channel="soccer 06">
-    <title lang="en">Fenerbahçe vs Nice</title>
-    <desc lang="en">League: Europa</desc>
+  <programme start="20251003T184500 +0000" stop="20251003T204500 +0000" channel="soccer 06">
+    <title lang="en">Casa Pia vs Estoril</title>
+    <desc lang="en">League: Betclic</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Fenerbahçe</actor>
-      <actor>Nice</actor>
+      <actor>Casa Pia</actor>
+      <actor>Estoril</actor>
     </credits>
-    <sub-title lang="en">Venue: Nice Stadium</sub-title>
+    <sub-title lang="en">Venue: Estoril Stadium</sub-title>
   </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 07">
-    <title lang="en">Bologna vs Freiburg - starts at 12:45 PM ET</title>
+  <programme start="20251003T100000 +0000" stop="20251003T130000 +0000" channel="soccer 07">
+    <title lang="en">Wrexham vs Birmingham City - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Bologna</actor>
-      <actor>Freiburg</actor>
+      <actor>Wrexham</actor>
+      <actor>Birmingham City</actor>
     </credits>
-    <sub-title lang="en">Venue: Freiburg Stadium</sub-title>
+    <sub-title lang="en">Venue: Birmingham City Stadium</sub-title>
   </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 07">
-    <title lang="en">Bologna vs Freiburg - starts at 12:45 PM ET</title>
+  <programme start="20251003T130000 +0000" stop="20251003T160000 +0000" channel="soccer 07">
+    <title lang="en">Wrexham vs Birmingham City - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Bologna</actor>
-      <actor>Freiburg</actor>
+      <actor>Wrexham</actor>
+      <actor>Birmingham City</actor>
     </credits>
-    <sub-title lang="en">Venue: Freiburg Stadium</sub-title>
+    <sub-title lang="en">Venue: Birmingham City Stadium</sub-title>
   </programme>
-  <programme start="20251002T164500 +0000" stop="20251002T184500 +0000" channel="soccer 07">
-    <title lang="en">Bologna vs Freiburg</title>
-    <desc lang="en">League: Europa</desc>
+  <programme start="20251003T160000 +0000" stop="20251003T190000 +0000" channel="soccer 07">
+    <title lang="en">Wrexham vs Birmingham City - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Wrexham</actor>
+      <actor>Birmingham City</actor>
+    </credits>
+    <sub-title lang="en">Venue: Birmingham City Stadium</sub-title>
+  </programme>
+  <programme start="20251003T190000 +0000" stop="20251003T210000 +0000" channel="soccer 07">
+    <title lang="en">Wrexham vs Birmingham City</title>
+    <desc lang="en">League: EFL</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Bologna</actor>
-      <actor>Freiburg</actor>
+      <actor>Wrexham</actor>
+      <actor>Birmingham City</actor>
     </credits>
-    <sub-title lang="en">Venue: Freiburg Stadium</sub-title>
+    <sub-title lang="en">Venue: Birmingham City Stadium</sub-title>
   </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 08">
-    <title lang="en">Ludogorets vs Real Betis - starts at 12:45 PM ET</title>
+  <programme start="20251003T100000 +0000" stop="20251003T130000 +0000" channel="soccer 08">
+    <title lang="en">Necaxa vs Pachuca - starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Ludogorets</actor>
-      <actor>Real Betis</actor>
+      <actor>Necaxa</actor>
+      <actor>Pachuca</actor>
     </credits>
-    <sub-title lang="en">Venue: Real Betis Stadium</sub-title>
+    <sub-title lang="en">Venue: Pachuca Stadium</sub-title>
   </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 08">
-    <title lang="en">Ludogorets vs Real Betis - starts at 12:45 PM ET</title>
+  <programme start="20251003T130000 +0000" stop="20251003T160000 +0000" channel="soccer 08">
+    <title lang="en">Necaxa vs Pachuca - starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Ludogorets</actor>
-      <actor>Real Betis</actor>
+      <actor>Necaxa</actor>
+      <actor>Pachuca</actor>
     </credits>
-    <sub-title lang="en">Venue: Real Betis Stadium</sub-title>
+    <sub-title lang="en">Venue: Pachuca Stadium</sub-title>
   </programme>
-  <programme start="20251002T164500 +0000" stop="20251002T184500 +0000" channel="soccer 08">
-    <title lang="en">Ludogorets vs Real Betis</title>
-    <desc lang="en">League: Europa</desc>
+  <programme start="20251003T160000 +0000" stop="20251003T190000 +0000" channel="soccer 08">
+    <title lang="en">Necaxa vs Pachuca - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Necaxa</actor>
+      <actor>Pachuca</actor>
+    </credits>
+    <sub-title lang="en">Venue: Pachuca Stadium</sub-title>
+  </programme>
+  <programme start="20251003T190000 +0000" stop="20251003T220000 +0000" channel="soccer 08">
+    <title lang="en">Necaxa vs Pachuca - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Necaxa</actor>
+      <actor>Pachuca</actor>
+    </credits>
+    <sub-title lang="en">Venue: Pachuca Stadium</sub-title>
+  </programme>
+  <programme start="20251003T220000 +0000" stop="20251004T010000 +0000" channel="soccer 08">
+    <title lang="en">Necaxa vs Pachuca - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Necaxa</actor>
+      <actor>Pachuca</actor>
+    </credits>
+    <sub-title lang="en">Venue: Pachuca Stadium</sub-title>
+  </programme>
+  <programme start="20251004T010000 +0000" stop="20251004T030000 +0000" channel="soccer 08">
+    <title lang="en">Necaxa vs Pachuca</title>
+    <desc lang="en">League: Liga MX</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Ludogorets</actor>
-      <actor>Real Betis</actor>
+      <actor>Necaxa</actor>
+      <actor>Pachuca</actor>
     </credits>
-    <sub-title lang="en">Venue: Real Betis Stadium</sub-title>
+    <sub-title lang="en">Venue: Pachuca Stadium</sub-title>
   </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 09">
-    <title lang="en">Panathinaikos vs Go Ahead Eagles - starts at 12:45 PM ET</title>
+  <programme start="20251003T100000 +0000" stop="20251003T130000 +0000" channel="soccer 09">
+    <title lang="en">Mazatlan vs San Luis - starts at 10:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Panathinaikos</actor>
-      <actor>Go Ahead Eagles</actor>
+      <actor>Mazatlan</actor>
+      <actor>San Luis</actor>
     </credits>
-    <sub-title lang="en">Venue: Go Ahead Eagles Stadium</sub-title>
+    <sub-title lang="en">Venue: San Luis Stadium</sub-title>
   </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 09">
-    <title lang="en">Panathinaikos vs Go Ahead Eagles - starts at 12:45 PM ET</title>
+  <programme start="20251003T130000 +0000" stop="20251003T160000 +0000" channel="soccer 09">
+    <title lang="en">Mazatlan vs San Luis - starts at 10:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Panathinaikos</actor>
-      <actor>Go Ahead Eagles</actor>
+      <actor>Mazatlan</actor>
+      <actor>San Luis</actor>
     </credits>
-    <sub-title lang="en">Venue: Go Ahead Eagles Stadium</sub-title>
+    <sub-title lang="en">Venue: San Luis Stadium</sub-title>
   </programme>
-  <programme start="20251002T164500 +0000" stop="20251002T184500 +0000" channel="soccer 09">
-    <title lang="en">Panathinaikos vs Go Ahead Eagles</title>
-    <desc lang="en">League: Europa</desc>
+  <programme start="20251003T160000 +0000" stop="20251003T190000 +0000" channel="soccer 09">
+    <title lang="en">Mazatlan vs San Luis - starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Mazatlan</actor>
+      <actor>San Luis</actor>
+    </credits>
+    <sub-title lang="en">Venue: San Luis Stadium</sub-title>
+  </programme>
+  <programme start="20251003T190000 +0000" stop="20251003T220000 +0000" channel="soccer 09">
+    <title lang="en">Mazatlan vs San Luis - starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Mazatlan</actor>
+      <actor>San Luis</actor>
+    </credits>
+    <sub-title lang="en">Venue: San Luis Stadium</sub-title>
+  </programme>
+  <programme start="20251003T220000 +0000" stop="20251004T010000 +0000" channel="soccer 09">
+    <title lang="en">Mazatlan vs San Luis - starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Mazatlan</actor>
+      <actor>San Luis</actor>
+    </credits>
+    <sub-title lang="en">Venue: San Luis Stadium</sub-title>
+  </programme>
+  <programme start="20251004T020000 +0000" stop="20251004T040000 +0000" channel="soccer 09">
+    <title lang="en">Mazatlan vs San Luis</title>
+    <desc lang="en">League: Liga MX</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Panathinaikos</actor>
-      <actor>Go Ahead Eagles</actor>
+      <actor>Mazatlan</actor>
+      <actor>San Luis</actor>
     </credits>
-    <sub-title lang="en">Venue: Go Ahead Eagles Stadium</sub-title>
+    <sub-title lang="en">Venue: San Luis Stadium</sub-title>
   </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 10">
-    <title lang="en">Maccabi Tel Aviv vs Dinamo Zagreb - starts at 3:00 PM ET</title>
+  <programme start="20251003T100000 +0000" stop="20251003T130000 +0000" channel="soccer 10">
+    <title lang="en">Atlas vs Juárez - starts at 11:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Maccabi Tel Aviv</actor>
-      <actor>Dinamo Zagreb</actor>
+      <actor>Atlas</actor>
+      <actor>Juárez</actor>
     </credits>
-    <sub-title lang="en">Venue: Dinamo Zagreb Stadium</sub-title>
+    <sub-title lang="en">Venue: Juárez Stadium</sub-title>
   </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 10">
-    <title lang="en">Maccabi Tel Aviv vs Dinamo Zagreb - starts at 3:00 PM ET</title>
+  <programme start="20251003T130000 +0000" stop="20251003T160000 +0000" channel="soccer 10">
+    <title lang="en">Atlas vs Juárez - starts at 11:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Maccabi Tel Aviv</actor>
-      <actor>Dinamo Zagreb</actor>
+      <actor>Atlas</actor>
+      <actor>Juárez</actor>
     </credits>
-    <sub-title lang="en">Venue: Dinamo Zagreb Stadium</sub-title>
+    <sub-title lang="en">Venue: Juárez Stadium</sub-title>
   </programme>
-  <programme start="20251002T160000 +0000" stop="20251002T190000 +0000" channel="soccer 10">
-    <title lang="en">Maccabi Tel Aviv vs Dinamo Zagreb - starts at 3:00 PM ET</title>
+  <programme start="20251003T160000 +0000" stop="20251003T190000 +0000" channel="soccer 10">
+    <title lang="en">Atlas vs Juárez - starts at 11:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Maccabi Tel Aviv</actor>
-      <actor>Dinamo Zagreb</actor>
+      <actor>Atlas</actor>
+      <actor>Juárez</actor>
     </credits>
-    <sub-title lang="en">Venue: Dinamo Zagreb Stadium</sub-title>
+    <sub-title lang="en">Venue: Juárez Stadium</sub-title>
   </programme>
-  <programme start="20251002T190000 +0000" stop="20251002T210000 +0000" channel="soccer 10">
-    <title lang="en">Maccabi Tel Aviv vs Dinamo Zagreb</title>
-    <desc lang="en">League: Europa</desc>
+  <programme start="20251003T190000 +0000" stop="20251003T220000 +0000" channel="soccer 10">
+    <title lang="en">Atlas vs Juárez - starts at 11:05 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Atlas</actor>
+      <actor>Juárez</actor>
+    </credits>
+    <sub-title lang="en">Venue: Juárez Stadium</sub-title>
+  </programme>
+  <programme start="20251003T220000 +0000" stop="20251004T010000 +0000" channel="soccer 10">
+    <title lang="en">Atlas vs Juárez - starts at 11:05 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Atlas</actor>
+      <actor>Juárez</actor>
+    </credits>
+    <sub-title lang="en">Venue: Juárez Stadium</sub-title>
+  </programme>
+  <programme start="20251004T030500 +0000" stop="20251004T050500 +0000" channel="soccer 10">
+    <title lang="en">Atlas vs Juárez</title>
+    <desc lang="en">League: Liga MX</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Maccabi Tel Aviv</actor>
-      <actor>Dinamo Zagreb</actor>
+      <actor>Atlas</actor>
+      <actor>Juárez</actor>
     </credits>
-    <sub-title lang="en">Venue: Dinamo Zagreb Stadium</sub-title>
-  </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 11">
-    <title lang="en">Feyenord vs Aston Villa - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Feyenord</actor>
-      <actor>Aston Villa</actor>
-    </credits>
-    <sub-title lang="en">Venue: Aston Villa Stadium</sub-title>
-  </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 11">
-    <title lang="en">Feyenord vs Aston Villa - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Feyenord</actor>
-      <actor>Aston Villa</actor>
-    </credits>
-    <sub-title lang="en">Venue: Aston Villa Stadium</sub-title>
-  </programme>
-  <programme start="20251002T160000 +0000" stop="20251002T190000 +0000" channel="soccer 11">
-    <title lang="en">Feyenord vs Aston Villa - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Feyenord</actor>
-      <actor>Aston Villa</actor>
-    </credits>
-    <sub-title lang="en">Venue: Aston Villa Stadium</sub-title>
-  </programme>
-  <programme start="20251002T190000 +0000" stop="20251002T210000 +0000" channel="soccer 11">
-    <title lang="en">Feyenord vs Aston Villa</title>
-    <desc lang="en">League: Europa</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Feyenord</actor>
-      <actor>Aston Villa</actor>
-    </credits>
-    <sub-title lang="en">Venue: Aston Villa Stadium</sub-title>
-  </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 12">
-    <title lang="en">Celta de Vigo vs PAOK - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Celta de Vigo</actor>
-      <actor>PAOK</actor>
-    </credits>
-    <sub-title lang="en">Venue: PAOK Stadium</sub-title>
-  </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 12">
-    <title lang="en">Celta de Vigo vs PAOK - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Celta de Vigo</actor>
-      <actor>PAOK</actor>
-    </credits>
-    <sub-title lang="en">Venue: PAOK Stadium</sub-title>
-  </programme>
-  <programme start="20251002T160000 +0000" stop="20251002T190000 +0000" channel="soccer 12">
-    <title lang="en">Celta de Vigo vs PAOK - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Celta de Vigo</actor>
-      <actor>PAOK</actor>
-    </credits>
-    <sub-title lang="en">Venue: PAOK Stadium</sub-title>
-  </programme>
-  <programme start="20251002T190000 +0000" stop="20251002T210000 +0000" channel="soccer 12">
-    <title lang="en">Celta de Vigo vs PAOK</title>
-    <desc lang="en">League: Europa</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Celta de Vigo</actor>
-      <actor>PAOK</actor>
-    </credits>
-    <sub-title lang="en">Venue: PAOK Stadium</sub-title>
-  </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 13">
-    <title lang="en">Sturm Graz vs Rangers - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Sturm Graz</actor>
-      <actor>Rangers</actor>
-    </credits>
-    <sub-title lang="en">Venue: Rangers Stadium</sub-title>
-  </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 13">
-    <title lang="en">Sturm Graz vs Rangers - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Sturm Graz</actor>
-      <actor>Rangers</actor>
-    </credits>
-    <sub-title lang="en">Venue: Rangers Stadium</sub-title>
-  </programme>
-  <programme start="20251002T160000 +0000" stop="20251002T190000 +0000" channel="soccer 13">
-    <title lang="en">Sturm Graz vs Rangers - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Sturm Graz</actor>
-      <actor>Rangers</actor>
-    </credits>
-    <sub-title lang="en">Venue: Rangers Stadium</sub-title>
-  </programme>
-  <programme start="20251002T190000 +0000" stop="20251002T210000 +0000" channel="soccer 13">
-    <title lang="en">Sturm Graz vs Rangers</title>
-    <desc lang="en">League: Europa</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Sturm Graz</actor>
-      <actor>Rangers</actor>
-    </credits>
-    <sub-title lang="en">Venue: Rangers Stadium</sub-title>
-  </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 14">
-    <title lang="en">Nottingham Forrest vs Midtjylland - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Nottingham Forrest</actor>
-      <actor>Midtjylland</actor>
-    </credits>
-    <sub-title lang="en">Venue: Midtjylland Stadium</sub-title>
-  </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 14">
-    <title lang="en">Nottingham Forrest vs Midtjylland - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Nottingham Forrest</actor>
-      <actor>Midtjylland</actor>
-    </credits>
-    <sub-title lang="en">Venue: Midtjylland Stadium</sub-title>
-  </programme>
-  <programme start="20251002T160000 +0000" stop="20251002T190000 +0000" channel="soccer 14">
-    <title lang="en">Nottingham Forrest vs Midtjylland - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Nottingham Forrest</actor>
-      <actor>Midtjylland</actor>
-    </credits>
-    <sub-title lang="en">Venue: Midtjylland Stadium</sub-title>
-  </programme>
-  <programme start="20251002T190000 +0000" stop="20251002T210000 +0000" channel="soccer 14">
-    <title lang="en">Nottingham Forrest vs Midtjylland</title>
-    <desc lang="en">League: Europa</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Nottingham Forrest</actor>
-      <actor>Midtjylland</actor>
-    </credits>
-    <sub-title lang="en">Venue: Midtjylland Stadium</sub-title>
-  </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 15">
-    <title lang="en">Porto vs Crvena Zvezda - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Porto</actor>
-      <actor>Crvena Zvezda</actor>
-    </credits>
-    <sub-title lang="en">Venue: Crvena Zvezda Stadium</sub-title>
-  </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 15">
-    <title lang="en">Porto vs Crvena Zvezda - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Porto</actor>
-      <actor>Crvena Zvezda</actor>
-    </credits>
-    <sub-title lang="en">Venue: Crvena Zvezda Stadium</sub-title>
-  </programme>
-  <programme start="20251002T160000 +0000" stop="20251002T190000 +0000" channel="soccer 15">
-    <title lang="en">Porto vs Crvena Zvezda - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Porto</actor>
-      <actor>Crvena Zvezda</actor>
-    </credits>
-    <sub-title lang="en">Venue: Crvena Zvezda Stadium</sub-title>
-  </programme>
-  <programme start="20251002T190000 +0000" stop="20251002T210000 +0000" channel="soccer 15">
-    <title lang="en">Porto vs Crvena Zvezda</title>
-    <desc lang="en">League: Europa</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Porto</actor>
-      <actor>Crvena Zvezda</actor>
-    </credits>
-    <sub-title lang="en">Venue: Crvena Zvezda Stadium</sub-title>
-  </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 16">
-    <title lang="en">Lyon vs Salzburg - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lyon</actor>
-      <actor>Salzburg</actor>
-    </credits>
-    <sub-title lang="en">Venue: Salzburg Stadium</sub-title>
-  </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 16">
-    <title lang="en">Lyon vs Salzburg - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lyon</actor>
-      <actor>Salzburg</actor>
-    </credits>
-    <sub-title lang="en">Venue: Salzburg Stadium</sub-title>
-  </programme>
-  <programme start="20251002T160000 +0000" stop="20251002T190000 +0000" channel="soccer 16">
-    <title lang="en">Lyon vs Salzburg - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lyon</actor>
-      <actor>Salzburg</actor>
-    </credits>
-    <sub-title lang="en">Venue: Salzburg Stadium</sub-title>
-  </programme>
-  <programme start="20251002T190000 +0000" stop="20251002T210000 +0000" channel="soccer 16">
-    <title lang="en">Lyon vs Salzburg</title>
-    <desc lang="en">League: Europa</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lyon</actor>
-      <actor>Salzburg</actor>
-    </credits>
-    <sub-title lang="en">Venue: Salzburg Stadium</sub-title>
-  </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 17">
-    <title lang="en">Genk vs Ferencvaros - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Genk</actor>
-      <actor>Ferencvaros</actor>
-    </credits>
-    <sub-title lang="en">Venue: Ferencvaros Stadium</sub-title>
-  </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 17">
-    <title lang="en">Genk vs Ferencvaros - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Genk</actor>
-      <actor>Ferencvaros</actor>
-    </credits>
-    <sub-title lang="en">Venue: Ferencvaros Stadium</sub-title>
-  </programme>
-  <programme start="20251002T160000 +0000" stop="20251002T190000 +0000" channel="soccer 17">
-    <title lang="en">Genk vs Ferencvaros - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Genk</actor>
-      <actor>Ferencvaros</actor>
-    </credits>
-    <sub-title lang="en">Venue: Ferencvaros Stadium</sub-title>
-  </programme>
-  <programme start="20251002T190000 +0000" stop="20251002T210000 +0000" channel="soccer 17">
-    <title lang="en">Genk vs Ferencvaros</title>
-    <desc lang="en">League: Europa</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Genk</actor>
-      <actor>Ferencvaros</actor>
-    </credits>
-    <sub-title lang="en">Venue: Ferencvaros Stadium</sub-title>
-  </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 18">
-    <title lang="en">Basel vs Stuttgart - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Basel</actor>
-      <actor>Stuttgart</actor>
-    </credits>
-    <sub-title lang="en">Venue: Stuttgart Stadium</sub-title>
-  </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 18">
-    <title lang="en">Basel vs Stuttgart - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Basel</actor>
-      <actor>Stuttgart</actor>
-    </credits>
-    <sub-title lang="en">Venue: Stuttgart Stadium</sub-title>
-  </programme>
-  <programme start="20251002T160000 +0000" stop="20251002T190000 +0000" channel="soccer 18">
-    <title lang="en">Basel vs Stuttgart - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Basel</actor>
-      <actor>Stuttgart</actor>
-    </credits>
-    <sub-title lang="en">Venue: Stuttgart Stadium</sub-title>
-  </programme>
-  <programme start="20251002T190000 +0000" stop="20251002T210000 +0000" channel="soccer 18">
-    <title lang="en">Basel vs Stuttgart</title>
-    <desc lang="en">League: Europa</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Basel</actor>
-      <actor>Stuttgart</actor>
-    </credits>
-    <sub-title lang="en">Venue: Stuttgart Stadium</sub-title>
-  </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 19">
-    <title lang="en">Lausanne Sport vs Breidablik - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lausanne Sport</actor>
-      <actor>Breidablik</actor>
-    </credits>
-    <sub-title lang="en">Venue: Breidablik Stadium</sub-title>
-  </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 19">
-    <title lang="en">Lausanne Sport vs Breidablik - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lausanne Sport</actor>
-      <actor>Breidablik</actor>
-    </credits>
-    <sub-title lang="en">Venue: Breidablik Stadium</sub-title>
-  </programme>
-  <programme start="20251002T164500 +0000" stop="20251002T184500 +0000" channel="soccer 19">
-    <title lang="en">Lausanne Sport vs Breidablik</title>
-    <desc lang="en">League: Conference</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lausanne Sport</actor>
-      <actor>Breidablik</actor>
-    </credits>
-    <sub-title lang="en">Venue: Breidablik Stadium</sub-title>
-  </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 20">
-    <title lang="en">Rayo Vallecano vs Škendija 79 - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Rayo Vallecano</actor>
-      <actor>Škendija 79</actor>
-    </credits>
-    <sub-title lang="en">Venue: Škendija 79 Stadium</sub-title>
-  </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 20">
-    <title lang="en">Rayo Vallecano vs Škendija 79 - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Rayo Vallecano</actor>
-      <actor>Škendija 79</actor>
-    </credits>
-    <sub-title lang="en">Venue: Škendija 79 Stadium</sub-title>
-  </programme>
-  <programme start="20251002T164500 +0000" stop="20251002T184500 +0000" channel="soccer 20">
-    <title lang="en">Rayo Vallecano vs Škendija 79</title>
-    <desc lang="en">League: Conference</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Rayo Vallecano</actor>
-      <actor>Škendija 79</actor>
-    </credits>
-    <sub-title lang="en">Venue: Škendija 79 Stadium</sub-title>
-  </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 21">
-    <title lang="en">Noah vs Rijeka - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Noah</actor>
-      <actor>Rijeka</actor>
-    </credits>
-    <sub-title lang="en">Venue: Rijeka Stadium</sub-title>
-  </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 21">
-    <title lang="en">Noah vs Rijeka - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Noah</actor>
-      <actor>Rijeka</actor>
-    </credits>
-    <sub-title lang="en">Venue: Rijeka Stadium</sub-title>
-  </programme>
-  <programme start="20251002T164500 +0000" stop="20251002T184500 +0000" channel="soccer 21">
-    <title lang="en">Noah vs Rijeka</title>
-    <desc lang="en">League: Conference</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Noah</actor>
-      <actor>Rijeka</actor>
-    </credits>
-    <sub-title lang="en">Venue: Rijeka Stadium</sub-title>
-  </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 22">
-    <title lang="en">KuPS vs Drita - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>KuPS</actor>
-      <actor>Drita</actor>
-    </credits>
-    <sub-title lang="en">Venue: Drita Stadium</sub-title>
-  </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 22">
-    <title lang="en">KuPS vs Drita - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>KuPS</actor>
-      <actor>Drita</actor>
-    </credits>
-    <sub-title lang="en">Venue: Drita Stadium</sub-title>
-  </programme>
-  <programme start="20251002T164500 +0000" stop="20251002T184500 +0000" channel="soccer 22">
-    <title lang="en">KuPS vs Drita</title>
-    <desc lang="en">League: Conference</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>KuPS</actor>
-      <actor>Drita</actor>
-    </credits>
-    <sub-title lang="en">Venue: Drita Stadium</sub-title>
-  </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 23">
-    <title lang="en">Dynamo Kyiv vs Crystal Palace - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Dynamo Kyiv</actor>
-      <actor>Crystal Palace</actor>
-    </credits>
-    <sub-title lang="en">Venue: Crystal Palace Stadium</sub-title>
-  </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 23">
-    <title lang="en">Dynamo Kyiv vs Crystal Palace - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Dynamo Kyiv</actor>
-      <actor>Crystal Palace</actor>
-    </credits>
-    <sub-title lang="en">Venue: Crystal Palace Stadium</sub-title>
-  </programme>
-  <programme start="20251002T164500 +0000" stop="20251002T184500 +0000" channel="soccer 23">
-    <title lang="en">Dynamo Kyiv vs Crystal Palace</title>
-    <desc lang="en">League: Conference</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Dynamo Kyiv</actor>
-      <actor>Crystal Palace</actor>
-    </credits>
-    <sub-title lang="en">Venue: Crystal Palace Stadium</sub-title>
-  </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 24">
-    <title lang="en">Jagiellonia Białystok vs Hamrun Spartans - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Jagiellonia Białystok</actor>
-      <actor>Hamrun Spartans</actor>
-    </credits>
-    <sub-title lang="en">Venue: Hamrun Spartans Stadium</sub-title>
-  </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 24">
-    <title lang="en">Jagiellonia Białystok vs Hamrun Spartans - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Jagiellonia Białystok</actor>
-      <actor>Hamrun Spartans</actor>
-    </credits>
-    <sub-title lang="en">Venue: Hamrun Spartans Stadium</sub-title>
-  </programme>
-  <programme start="20251002T164500 +0000" stop="20251002T184500 +0000" channel="soccer 24">
-    <title lang="en">Jagiellonia Białystok vs Hamrun Spartans</title>
-    <desc lang="en">League: Conference</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Jagiellonia Białystok</actor>
-      <actor>Hamrun Spartans</actor>
-    </credits>
-    <sub-title lang="en">Venue: Hamrun Spartans Stadium</sub-title>
-  </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 25">
-    <title lang="en">Lech Poznań vs Rapid Wien - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lech Poznań</actor>
-      <actor>Rapid Wien</actor>
-    </credits>
-    <sub-title lang="en">Venue: Rapid Wien Stadium</sub-title>
-  </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 25">
-    <title lang="en">Lech Poznań vs Rapid Wien - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lech Poznań</actor>
-      <actor>Rapid Wien</actor>
-    </credits>
-    <sub-title lang="en">Venue: Rapid Wien Stadium</sub-title>
-  </programme>
-  <programme start="20251002T164500 +0000" stop="20251002T184500 +0000" channel="soccer 25">
-    <title lang="en">Lech Poznań vs Rapid Wien</title>
-    <desc lang="en">League: Conference</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lech Poznań</actor>
-      <actor>Rapid Wien</actor>
-    </credits>
-    <sub-title lang="en">Venue: Rapid Wien Stadium</sub-title>
-  </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 26">
-    <title lang="en">Omonia Nicosia vs Mainz 05 - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Omonia Nicosia</actor>
-      <actor>Mainz 05</actor>
-    </credits>
-    <sub-title lang="en">Venue: Mainz 05 Stadium</sub-title>
-  </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 26">
-    <title lang="en">Omonia Nicosia vs Mainz 05 - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Omonia Nicosia</actor>
-      <actor>Mainz 05</actor>
-    </credits>
-    <sub-title lang="en">Venue: Mainz 05 Stadium</sub-title>
-  </programme>
-  <programme start="20251002T164500 +0000" stop="20251002T184500 +0000" channel="soccer 26">
-    <title lang="en">Omonia Nicosia vs Mainz 05</title>
-    <desc lang="en">League: Conference</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Omonia Nicosia</actor>
-      <actor>Mainz 05</actor>
-    </credits>
-    <sub-title lang="en">Venue: Mainz 05 Stadium</sub-title>
-  </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 27">
-    <title lang="en">Zrinjski vs Lincoln Red Imps - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Zrinjski</actor>
-      <actor>Lincoln Red Imps</actor>
-    </credits>
-    <sub-title lang="en">Venue: Lincoln Red Imps Stadium</sub-title>
-  </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 27">
-    <title lang="en">Zrinjski vs Lincoln Red Imps - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Zrinjski</actor>
-      <actor>Lincoln Red Imps</actor>
-    </credits>
-    <sub-title lang="en">Venue: Lincoln Red Imps Stadium</sub-title>
-  </programme>
-  <programme start="20251002T164500 +0000" stop="20251002T184500 +0000" channel="soccer 27">
-    <title lang="en">Zrinjski vs Lincoln Red Imps</title>
-    <desc lang="en">League: Conference</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Zrinjski</actor>
-      <actor>Lincoln Red Imps</actor>
-    </credits>
-    <sub-title lang="en">Venue: Lincoln Red Imps Stadium</sub-title>
-  </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 28">
-    <title lang="en">Fiorentina vs Sigma Olomouc - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Fiorentina</actor>
-      <actor>Sigma Olomouc</actor>
-    </credits>
-    <sub-title lang="en">Venue: Sigma Olomouc Stadium</sub-title>
-  </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 28">
-    <title lang="en">Fiorentina vs Sigma Olomouc - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Fiorentina</actor>
-      <actor>Sigma Olomouc</actor>
-    </credits>
-    <sub-title lang="en">Venue: Sigma Olomouc Stadium</sub-title>
-  </programme>
-  <programme start="20251002T160000 +0000" stop="20251002T190000 +0000" channel="soccer 28">
-    <title lang="en">Fiorentina vs Sigma Olomouc - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Fiorentina</actor>
-      <actor>Sigma Olomouc</actor>
-    </credits>
-    <sub-title lang="en">Venue: Sigma Olomouc Stadium</sub-title>
-  </programme>
-  <programme start="20251002T190000 +0000" stop="20251002T210000 +0000" channel="soccer 28">
-    <title lang="en">Fiorentina vs Sigma Olomouc</title>
-    <desc lang="en">League: Conference</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Fiorentina</actor>
-      <actor>Sigma Olomouc</actor>
-    </credits>
-    <sub-title lang="en">Venue: Sigma Olomouc Stadium</sub-title>
-  </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 29">
-    <title lang="en">Slovan Bratislava vs Strasbourg - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Slovan Bratislava</actor>
-      <actor>Strasbourg</actor>
-    </credits>
-    <sub-title lang="en">Venue: Strasbourg Stadium</sub-title>
-  </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 29">
-    <title lang="en">Slovan Bratislava vs Strasbourg - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Slovan Bratislava</actor>
-      <actor>Strasbourg</actor>
-    </credits>
-    <sub-title lang="en">Venue: Strasbourg Stadium</sub-title>
-  </programme>
-  <programme start="20251002T160000 +0000" stop="20251002T190000 +0000" channel="soccer 29">
-    <title lang="en">Slovan Bratislava vs Strasbourg - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Slovan Bratislava</actor>
-      <actor>Strasbourg</actor>
-    </credits>
-    <sub-title lang="en">Venue: Strasbourg Stadium</sub-title>
-  </programme>
-  <programme start="20251002T190000 +0000" stop="20251002T210000 +0000" channel="soccer 29">
-    <title lang="en">Slovan Bratislava vs Strasbourg</title>
-    <desc lang="en">League: Conference</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Slovan Bratislava</actor>
-      <actor>Strasbourg</actor>
-    </credits>
-    <sub-title lang="en">Venue: Strasbourg Stadium</sub-title>
-  </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 30">
-    <title lang="en">Sparta Praha vs Shamrock Rovers - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Sparta Praha</actor>
-      <actor>Shamrock Rovers</actor>
-    </credits>
-    <sub-title lang="en">Venue: Shamrock Rovers Stadium</sub-title>
-  </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 30">
-    <title lang="en">Sparta Praha vs Shamrock Rovers - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Sparta Praha</actor>
-      <actor>Shamrock Rovers</actor>
-    </credits>
-    <sub-title lang="en">Venue: Shamrock Rovers Stadium</sub-title>
-  </programme>
-  <programme start="20251002T160000 +0000" stop="20251002T190000 +0000" channel="soccer 30">
-    <title lang="en">Sparta Praha vs Shamrock Rovers - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Sparta Praha</actor>
-      <actor>Shamrock Rovers</actor>
-    </credits>
-    <sub-title lang="en">Venue: Shamrock Rovers Stadium</sub-title>
-  </programme>
-  <programme start="20251002T190000 +0000" stop="20251002T210000 +0000" channel="soccer 30">
-    <title lang="en">Sparta Praha vs Shamrock Rovers</title>
-    <desc lang="en">League: Conference</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Sparta Praha</actor>
-      <actor>Shamrock Rovers</actor>
-    </credits>
-    <sub-title lang="en">Venue: Shamrock Rovers Stadium</sub-title>
-  </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 31">
-    <title lang="en">Celje vs AEK Athens - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Celje</actor>
-      <actor>AEK Athens</actor>
-    </credits>
-    <sub-title lang="en">Venue: AEK Athens Stadium</sub-title>
-  </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 31">
-    <title lang="en">Celje vs AEK Athens - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Celje</actor>
-      <actor>AEK Athens</actor>
-    </credits>
-    <sub-title lang="en">Venue: AEK Athens Stadium</sub-title>
-  </programme>
-  <programme start="20251002T160000 +0000" stop="20251002T190000 +0000" channel="soccer 31">
-    <title lang="en">Celje vs AEK Athens - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Celje</actor>
-      <actor>AEK Athens</actor>
-    </credits>
-    <sub-title lang="en">Venue: AEK Athens Stadium</sub-title>
-  </programme>
-  <programme start="20251002T190000 +0000" stop="20251002T210000 +0000" channel="soccer 31">
-    <title lang="en">Celje vs AEK Athens</title>
-    <desc lang="en">League: Conference</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Celje</actor>
-      <actor>AEK Athens</actor>
-    </credits>
-    <sub-title lang="en">Venue: AEK Athens Stadium</sub-title>
-  </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 32">
-    <title lang="en">AEK Larnaca vs AZ - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>AEK Larnaca</actor>
-      <actor>AZ</actor>
-    </credits>
-    <sub-title lang="en">Venue: AZ Stadium</sub-title>
-  </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 32">
-    <title lang="en">AEK Larnaca vs AZ - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>AEK Larnaca</actor>
-      <actor>AZ</actor>
-    </credits>
-    <sub-title lang="en">Venue: AZ Stadium</sub-title>
-  </programme>
-  <programme start="20251002T160000 +0000" stop="20251002T190000 +0000" channel="soccer 32">
-    <title lang="en">AEK Larnaca vs AZ - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>AEK Larnaca</actor>
-      <actor>AZ</actor>
-    </credits>
-    <sub-title lang="en">Venue: AZ Stadium</sub-title>
-  </programme>
-  <programme start="20251002T190000 +0000" stop="20251002T210000 +0000" channel="soccer 32">
-    <title lang="en">AEK Larnaca vs AZ</title>
-    <desc lang="en">League: Conference</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>AEK Larnaca</actor>
-      <actor>AZ</actor>
-    </credits>
-    <sub-title lang="en">Venue: AZ Stadium</sub-title>
-  </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 33">
-    <title lang="en">Raków Częstochowa vs CSU Craiova - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Raków Częstochowa</actor>
-      <actor>CSU Craiova</actor>
-    </credits>
-    <sub-title lang="en">Venue: CSU Craiova Stadium</sub-title>
-  </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 33">
-    <title lang="en">Raków Częstochowa vs CSU Craiova - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Raków Częstochowa</actor>
-      <actor>CSU Craiova</actor>
-    </credits>
-    <sub-title lang="en">Venue: CSU Craiova Stadium</sub-title>
-  </programme>
-  <programme start="20251002T160000 +0000" stop="20251002T190000 +0000" channel="soccer 33">
-    <title lang="en">Raków Częstochowa vs CSU Craiova - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Raków Częstochowa</actor>
-      <actor>CSU Craiova</actor>
-    </credits>
-    <sub-title lang="en">Venue: CSU Craiova Stadium</sub-title>
-  </programme>
-  <programme start="20251002T190000 +0000" stop="20251002T210000 +0000" channel="soccer 33">
-    <title lang="en">Raków Częstochowa vs CSU Craiova</title>
-    <desc lang="en">League: Conference</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Raków Częstochowa</actor>
-      <actor>CSU Craiova</actor>
-    </credits>
-    <sub-title lang="en">Venue: CSU Craiova Stadium</sub-title>
-  </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 34">
-    <title lang="en">Legia Warszawa vs Samsunspor - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Legia Warszawa</actor>
-      <actor>Samsunspor</actor>
-    </credits>
-    <sub-title lang="en">Venue: Samsunspor Stadium</sub-title>
-  </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 34">
-    <title lang="en">Legia Warszawa vs Samsunspor - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Legia Warszawa</actor>
-      <actor>Samsunspor</actor>
-    </credits>
-    <sub-title lang="en">Venue: Samsunspor Stadium</sub-title>
-  </programme>
-  <programme start="20251002T160000 +0000" stop="20251002T190000 +0000" channel="soccer 34">
-    <title lang="en">Legia Warszawa vs Samsunspor - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Legia Warszawa</actor>
-      <actor>Samsunspor</actor>
-    </credits>
-    <sub-title lang="en">Venue: Samsunspor Stadium</sub-title>
-  </programme>
-  <programme start="20251002T190000 +0000" stop="20251002T210000 +0000" channel="soccer 34">
-    <title lang="en">Legia Warszawa vs Samsunspor</title>
-    <desc lang="en">League: Conference</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Legia Warszawa</actor>
-      <actor>Samsunspor</actor>
-    </credits>
-    <sub-title lang="en">Venue: Samsunspor Stadium</sub-title>
-  </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 35">
-    <title lang="en">Aberdeen vs Shakhtar Donetsk - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Aberdeen</actor>
-      <actor>Shakhtar Donetsk</actor>
-    </credits>
-    <sub-title lang="en">Venue: Shakhtar Donetsk Stadium</sub-title>
-  </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 35">
-    <title lang="en">Aberdeen vs Shakhtar Donetsk - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Aberdeen</actor>
-      <actor>Shakhtar Donetsk</actor>
-    </credits>
-    <sub-title lang="en">Venue: Shakhtar Donetsk Stadium</sub-title>
-  </programme>
-  <programme start="20251002T160000 +0000" stop="20251002T190000 +0000" channel="soccer 35">
-    <title lang="en">Aberdeen vs Shakhtar Donetsk - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Aberdeen</actor>
-      <actor>Shakhtar Donetsk</actor>
-    </credits>
-    <sub-title lang="en">Venue: Shakhtar Donetsk Stadium</sub-title>
-  </programme>
-  <programme start="20251002T190000 +0000" stop="20251002T210000 +0000" channel="soccer 35">
-    <title lang="en">Aberdeen vs Shakhtar Donetsk</title>
-    <desc lang="en">League: Conference</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Aberdeen</actor>
-      <actor>Shakhtar Donetsk</actor>
-    </credits>
-    <sub-title lang="en">Venue: Shakhtar Donetsk Stadium</sub-title>
-  </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 36">
-    <title lang="en">Shelbourne vs Häcken - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Shelbourne</actor>
-      <actor>Häcken</actor>
-    </credits>
-    <sub-title lang="en">Venue: Häcken Stadium</sub-title>
-  </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 36">
-    <title lang="en">Shelbourne vs Häcken - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Shelbourne</actor>
-      <actor>Häcken</actor>
-    </credits>
-    <sub-title lang="en">Venue: Häcken Stadium</sub-title>
-  </programme>
-  <programme start="20251002T160000 +0000" stop="20251002T190000 +0000" channel="soccer 36">
-    <title lang="en">Shelbourne vs Häcken - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Shelbourne</actor>
-      <actor>Häcken</actor>
-    </credits>
-    <sub-title lang="en">Venue: Häcken Stadium</sub-title>
-  </programme>
-  <programme start="20251002T190000 +0000" stop="20251002T210000 +0000" channel="soccer 36">
-    <title lang="en">Shelbourne vs Häcken</title>
-    <desc lang="en">League: Conference</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Shelbourne</actor>
-      <actor>Häcken</actor>
-    </credits>
-    <sub-title lang="en">Venue: Häcken Stadium</sub-title>
-  </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 37">
-    <title lang="en">Fortaleza vs São Paulo - starts at 6:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Fortaleza</actor>
-      <actor>São Paulo</actor>
-    </credits>
-    <sub-title lang="en">Venue: São Paulo Stadium</sub-title>
-  </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 37">
-    <title lang="en">Fortaleza vs São Paulo - starts at 6:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Fortaleza</actor>
-      <actor>São Paulo</actor>
-    </credits>
-    <sub-title lang="en">Venue: São Paulo Stadium</sub-title>
-  </programme>
-  <programme start="20251002T160000 +0000" stop="20251002T190000 +0000" channel="soccer 37">
-    <title lang="en">Fortaleza vs São Paulo - starts at 6:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Fortaleza</actor>
-      <actor>São Paulo</actor>
-    </credits>
-    <sub-title lang="en">Venue: São Paulo Stadium</sub-title>
-  </programme>
-  <programme start="20251002T190000 +0000" stop="20251002T220000 +0000" channel="soccer 37">
-    <title lang="en">Fortaleza vs São Paulo - starts at 6:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Fortaleza</actor>
-      <actor>São Paulo</actor>
-    </credits>
-    <sub-title lang="en">Venue: São Paulo Stadium</sub-title>
-  </programme>
-  <programme start="20251002T223000 +0000" stop="20251003T003000 +0000" channel="soccer 37">
-    <title lang="en">Fortaleza vs São Paulo</title>
-    <desc lang="en">League: Brasileirao</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Fortaleza</actor>
-      <actor>São Paulo</actor>
-    </credits>
-    <sub-title lang="en">Venue: São Paulo Stadium</sub-title>
-  </programme>
-  <programme start="20251002T100000 +0000" stop="20251002T130000 +0000" channel="soccer 38">
-    <title lang="en">Flamengo vs Cruzeiro - starts at 6:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Flamengo</actor>
-      <actor>Cruzeiro</actor>
-    </credits>
-    <sub-title lang="en">Venue: Cruzeiro Stadium</sub-title>
-  </programme>
-  <programme start="20251002T130000 +0000" stop="20251002T160000 +0000" channel="soccer 38">
-    <title lang="en">Flamengo vs Cruzeiro - starts at 6:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Flamengo</actor>
-      <actor>Cruzeiro</actor>
-    </credits>
-    <sub-title lang="en">Venue: Cruzeiro Stadium</sub-title>
-  </programme>
-  <programme start="20251002T160000 +0000" stop="20251002T190000 +0000" channel="soccer 38">
-    <title lang="en">Flamengo vs Cruzeiro - starts at 6:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Flamengo</actor>
-      <actor>Cruzeiro</actor>
-    </credits>
-    <sub-title lang="en">Venue: Cruzeiro Stadium</sub-title>
-  </programme>
-  <programme start="20251002T190000 +0000" stop="20251002T220000 +0000" channel="soccer 38">
-    <title lang="en">Flamengo vs Cruzeiro - starts at 6:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Flamengo</actor>
-      <actor>Cruzeiro</actor>
-    </credits>
-    <sub-title lang="en">Venue: Cruzeiro Stadium</sub-title>
-  </programme>
-  <programme start="20251002T223000 +0000" stop="20251003T003000 +0000" channel="soccer 38">
-    <title lang="en">Flamengo vs Cruzeiro</title>
-    <desc lang="en">League: Brasileirao</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Flamengo</actor>
-      <actor>Cruzeiro</actor>
-    </credits>
-    <sub-title lang="en">Venue: Cruzeiro Stadium</sub-title>
+    <sub-title lang="en">Venue: Juárez Stadium</sub-title>
   </programme>
 </tv>
