@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="EPG Manager" generator-info-url="https://epg-manager.com">
+  <channel id="ncaaf 001">
+    <display-name>NCAAF 001</display-name>
+  </channel>
+  <channel id="ncaaf 002">
+    <display-name>NCAAF 002</display-name>
+  </channel>
   <channel id="soccer 01">
     <display-name>Soccer 01</display-name>
   </channel>
@@ -299,12 +305,6 @@
   </channel>
   <channel id="soccer 100">
     <display-name>Soccer 100</display-name>
-  </channel>
-  <channel id="ncaaf 001">
-    <display-name>NCAAF 001</display-name>
-  </channel>
-  <channel id="ncaaf 002">
-    <display-name>NCAAF 002</display-name>
   </channel>
   <channel id="ncaaf 003">
     <display-name>NCAAF 003</display-name>
@@ -1275,6 +1275,108 @@
   <channel id="seasonal 25">
     <display-name>Seasonal 25</display-name>
   </channel>
+  <programme start="20251008T100000 +0000" stop="20251008T130000 +0000" channel="ncaaf 001">
+    <title lang="en">MISSOURI STATE @ MIDDLE TENNESSEE - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>MISSOURI STATE</actor>
+      <actor>MIDDLE TENNESSEE</actor>
+    </credits>
+    <sub-title lang="en">Venue: MIDDLE TENNESSEE Stadium</sub-title>
+  </programme>
+  <programme start="20251008T130000 +0000" stop="20251008T160000 +0000" channel="ncaaf 001">
+    <title lang="en">MISSOURI STATE @ MIDDLE TENNESSEE - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>MISSOURI STATE</actor>
+      <actor>MIDDLE TENNESSEE</actor>
+    </credits>
+    <sub-title lang="en">Venue: MIDDLE TENNESSEE Stadium</sub-title>
+  </programme>
+  <programme start="20251008T160000 +0000" stop="20251008T190000 +0000" channel="ncaaf 001">
+    <title lang="en">MISSOURI STATE @ MIDDLE TENNESSEE - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>MISSOURI STATE</actor>
+      <actor>MIDDLE TENNESSEE</actor>
+    </credits>
+    <sub-title lang="en">Venue: MIDDLE TENNESSEE Stadium</sub-title>
+  </programme>
+  <programme start="20251008T190000 +0000" stop="20251008T220000 +0000" channel="ncaaf 001">
+    <title lang="en">MISSOURI STATE @ MIDDLE TENNESSEE - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>MISSOURI STATE</actor>
+      <actor>MIDDLE TENNESSEE</actor>
+    </credits>
+    <sub-title lang="en">Venue: MIDDLE TENNESSEE Stadium</sub-title>
+  </programme>
+  <programme start="20251008T233000 +0000" stop="20251009T030000 +0000" channel="ncaaf 001">
+    <title lang="en">MISSOURI STATE @ MIDDLE TENNESSEE</title>
+    <desc lang="en">Network: ESPN2</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>MISSOURI STATE</actor>
+      <actor>MIDDLE TENNESSEE</actor>
+    </credits>
+    <sub-title lang="en">Venue: MIDDLE TENNESSEE Stadium</sub-title>
+  </programme>
+  <programme start="20251008T100000 +0000" stop="20251008T130000 +0000" channel="ncaaf 002">
+    <title lang="en">LIBERTY @ UTEP - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>LIBERTY</actor>
+      <actor>UTEP</actor>
+    </credits>
+    <sub-title lang="en">Venue: UTEP Stadium</sub-title>
+  </programme>
+  <programme start="20251008T130000 +0000" stop="20251008T160000 +0000" channel="ncaaf 002">
+    <title lang="en">LIBERTY @ UTEP - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>LIBERTY</actor>
+      <actor>UTEP</actor>
+    </credits>
+    <sub-title lang="en">Venue: UTEP Stadium</sub-title>
+  </programme>
+  <programme start="20251008T160000 +0000" stop="20251008T190000 +0000" channel="ncaaf 002">
+    <title lang="en">LIBERTY @ UTEP - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>LIBERTY</actor>
+      <actor>UTEP</actor>
+    </credits>
+    <sub-title lang="en">Venue: UTEP Stadium</sub-title>
+  </programme>
+  <programme start="20251008T190000 +0000" stop="20251008T220000 +0000" channel="ncaaf 002">
+    <title lang="en">LIBERTY @ UTEP - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>LIBERTY</actor>
+      <actor>UTEP</actor>
+    </credits>
+    <sub-title lang="en">Venue: UTEP Stadium</sub-title>
+  </programme>
+  <programme start="20251009T000000 +0000" stop="20251009T033000 +0000" channel="ncaaf 002">
+    <title lang="en">LIBERTY @ UTEP</title>
+    <desc lang="en">Network: CBSSN</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>LIBERTY</actor>
+      <actor>UTEP</actor>
+    </credits>
+    <sub-title lang="en">Venue: UTEP Stadium</sub-title>
+  </programme>
   <programme start="20251008T100000 +0000" stop="20251008T130000 +0000" channel="soccer 01">
     <title lang="en">LAFC vs Toronto - starts at 10:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
