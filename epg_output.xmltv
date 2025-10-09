@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="EPG Manager" generator-info-url="https://epg-manager.com">
+  <channel id="ncaaf 001">
+    <display-name>NCAAF 001</display-name>
+  </channel>
+  <channel id="ncaaf 002">
+    <display-name>NCAAF 002</display-name>
+  </channel>
+  <channel id="ncaaf 003">
+    <display-name>NCAAF 003</display-name>
+  </channel>
+  <channel id="ncaaf 004">
+    <display-name>NCAAF 004</display-name>
+  </channel>
   <channel id="soccer 01">
     <display-name>Soccer 01</display-name>
   </channel>
@@ -299,18 +311,6 @@
   </channel>
   <channel id="soccer 100">
     <display-name>Soccer 100</display-name>
-  </channel>
-  <channel id="ncaaf 001">
-    <display-name>NCAAF 001</display-name>
-  </channel>
-  <channel id="ncaaf 002">
-    <display-name>NCAAF 002</display-name>
-  </channel>
-  <channel id="ncaaf 003">
-    <display-name>NCAAF 003</display-name>
-  </channel>
-  <channel id="ncaaf 004">
-    <display-name>NCAAF 004</display-name>
   </channel>
   <channel id="ncaaf 005">
     <display-name>NCAAF 005</display-name>
@@ -1275,6 +1275,210 @@
   <channel id="seasonal 25">
     <display-name>Seasonal 25</display-name>
   </channel>
+  <programme start="20251009T100000 +0000" stop="20251009T130000 +0000" channel="ncaaf 001">
+    <title lang="en">LOUISIANA TECH @ KENNESAW STATE - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>LOUISIANA TECH</actor>
+      <actor>KENNESAW STATE</actor>
+    </credits>
+    <sub-title lang="en">Venue: KENNESAW STATE Stadium</sub-title>
+  </programme>
+  <programme start="20251009T130000 +0000" stop="20251009T160000 +0000" channel="ncaaf 001">
+    <title lang="en">LOUISIANA TECH @ KENNESAW STATE - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>LOUISIANA TECH</actor>
+      <actor>KENNESAW STATE</actor>
+    </credits>
+    <sub-title lang="en">Venue: KENNESAW STATE Stadium</sub-title>
+  </programme>
+  <programme start="20251009T160000 +0000" stop="20251009T190000 +0000" channel="ncaaf 001">
+    <title lang="en">LOUISIANA TECH @ KENNESAW STATE - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>LOUISIANA TECH</actor>
+      <actor>KENNESAW STATE</actor>
+    </credits>
+    <sub-title lang="en">Venue: KENNESAW STATE Stadium</sub-title>
+  </programme>
+  <programme start="20251009T190000 +0000" stop="20251009T220000 +0000" channel="ncaaf 001">
+    <title lang="en">LOUISIANA TECH @ KENNESAW STATE - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>LOUISIANA TECH</actor>
+      <actor>KENNESAW STATE</actor>
+    </credits>
+    <sub-title lang="en">Venue: KENNESAW STATE Stadium</sub-title>
+  </programme>
+  <programme start="20251009T230000 +0000" stop="20251010T023000 +0000" channel="ncaaf 001">
+    <title lang="en">LOUISIANA TECH @ KENNESAW STATE</title>
+    <desc lang="en">Network: ESPNU</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>LOUISIANA TECH</actor>
+      <actor>KENNESAW STATE</actor>
+    </credits>
+    <sub-title lang="en">Venue: KENNESAW STATE Stadium</sub-title>
+  </programme>
+  <programme start="20251009T100000 +0000" stop="20251009T130000 +0000" channel="ncaaf 002">
+    <title lang="en">EAST CAROLINA @ TULANE - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>EAST CAROLINA</actor>
+      <actor>TULANE</actor>
+    </credits>
+    <sub-title lang="en">Venue: TULANE Stadium</sub-title>
+  </programme>
+  <programme start="20251009T130000 +0000" stop="20251009T160000 +0000" channel="ncaaf 002">
+    <title lang="en">EAST CAROLINA @ TULANE - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>EAST CAROLINA</actor>
+      <actor>TULANE</actor>
+    </credits>
+    <sub-title lang="en">Venue: TULANE Stadium</sub-title>
+  </programme>
+  <programme start="20251009T160000 +0000" stop="20251009T190000 +0000" channel="ncaaf 002">
+    <title lang="en">EAST CAROLINA @ TULANE - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>EAST CAROLINA</actor>
+      <actor>TULANE</actor>
+    </credits>
+    <sub-title lang="en">Venue: TULANE Stadium</sub-title>
+  </programme>
+  <programme start="20251009T190000 +0000" stop="20251009T220000 +0000" channel="ncaaf 002">
+    <title lang="en">EAST CAROLINA @ TULANE - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>EAST CAROLINA</actor>
+      <actor>TULANE</actor>
+    </credits>
+    <sub-title lang="en">Venue: TULANE Stadium</sub-title>
+  </programme>
+  <programme start="20251009T233000 +0000" stop="20251010T030000 +0000" channel="ncaaf 002">
+    <title lang="en">EAST CAROLINA @ TULANE</title>
+    <desc lang="en">Network: ESPN</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>EAST CAROLINA</actor>
+      <actor>TULANE</actor>
+    </credits>
+    <sub-title lang="en">Venue: TULANE Stadium</sub-title>
+  </programme>
+  <programme start="20251009T100000 +0000" stop="20251009T130000 +0000" channel="ncaaf 003">
+    <title lang="en">JACKSONVILLE STATE @ SAM HOUSTON - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>JACKSONVILLE STATE</actor>
+      <actor>SAM HOUSTON</actor>
+    </credits>
+    <sub-title lang="en">Venue: SAM HOUSTON Stadium</sub-title>
+  </programme>
+  <programme start="20251009T130000 +0000" stop="20251009T160000 +0000" channel="ncaaf 003">
+    <title lang="en">JACKSONVILLE STATE @ SAM HOUSTON - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>JACKSONVILLE STATE</actor>
+      <actor>SAM HOUSTON</actor>
+    </credits>
+    <sub-title lang="en">Venue: SAM HOUSTON Stadium</sub-title>
+  </programme>
+  <programme start="20251009T160000 +0000" stop="20251009T190000 +0000" channel="ncaaf 003">
+    <title lang="en">JACKSONVILLE STATE @ SAM HOUSTON - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>JACKSONVILLE STATE</actor>
+      <actor>SAM HOUSTON</actor>
+    </credits>
+    <sub-title lang="en">Venue: SAM HOUSTON Stadium</sub-title>
+  </programme>
+  <programme start="20251009T190000 +0000" stop="20251009T220000 +0000" channel="ncaaf 003">
+    <title lang="en">JACKSONVILLE STATE @ SAM HOUSTON - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>JACKSONVILLE STATE</actor>
+      <actor>SAM HOUSTON</actor>
+    </credits>
+    <sub-title lang="en">Venue: SAM HOUSTON Stadium</sub-title>
+  </programme>
+  <programme start="20251010T000000 +0000" stop="20251010T033000 +0000" channel="ncaaf 003">
+    <title lang="en">JACKSONVILLE STATE @ SAM HOUSTON</title>
+    <desc lang="en">Network: CBSSN</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>JACKSONVILLE STATE</actor>
+      <actor>SAM HOUSTON</actor>
+    </credits>
+    <sub-title lang="en">Venue: SAM HOUSTON Stadium</sub-title>
+  </programme>
+  <programme start="20251009T100000 +0000" stop="20251009T130000 +0000" channel="ncaaf 004">
+    <title lang="en">SOUTHERN MISS @ GEORGIA SOUTHERN - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>SOUTHERN MISS</actor>
+      <actor>GEORGIA SOUTHERN</actor>
+    </credits>
+    <sub-title lang="en">Venue: GEORGIA SOUTHERN Stadium</sub-title>
+  </programme>
+  <programme start="20251009T130000 +0000" stop="20251009T160000 +0000" channel="ncaaf 004">
+    <title lang="en">SOUTHERN MISS @ GEORGIA SOUTHERN - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>SOUTHERN MISS</actor>
+      <actor>GEORGIA SOUTHERN</actor>
+    </credits>
+    <sub-title lang="en">Venue: GEORGIA SOUTHERN Stadium</sub-title>
+  </programme>
+  <programme start="20251009T160000 +0000" stop="20251009T190000 +0000" channel="ncaaf 004">
+    <title lang="en">SOUTHERN MISS @ GEORGIA SOUTHERN - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>SOUTHERN MISS</actor>
+      <actor>GEORGIA SOUTHERN</actor>
+    </credits>
+    <sub-title lang="en">Venue: GEORGIA SOUTHERN Stadium</sub-title>
+  </programme>
+  <programme start="20251009T190000 +0000" stop="20251009T220000 +0000" channel="ncaaf 004">
+    <title lang="en">SOUTHERN MISS @ GEORGIA SOUTHERN - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>SOUTHERN MISS</actor>
+      <actor>GEORGIA SOUTHERN</actor>
+    </credits>
+    <sub-title lang="en">Venue: GEORGIA SOUTHERN Stadium</sub-title>
+  </programme>
+  <programme start="20251010T000000 +0000" stop="20251010T033000 +0000" channel="ncaaf 004">
+    <title lang="en">SOUTHERN MISS @ GEORGIA SOUTHERN</title>
+    <desc lang="en">Network: ESPN2</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>SOUTHERN MISS</actor>
+      <actor>GEORGIA SOUTHERN</actor>
+    </credits>
+    <sub-title lang="en">Venue: GEORGIA SOUTHERN Stadium</sub-title>
+  </programme>
   <programme start="20251009T100000 +0000" stop="20251009T130000 +0000" channel="soccer 01">
     <title lang="en">Burundi vs Kenya - starts at 9:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
