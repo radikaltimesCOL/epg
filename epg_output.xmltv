@@ -1275,624 +1275,919 @@
   <channel id="seasonal 25">
     <display-name>Seasonal 25</display-name>
   </channel>
-  <programme start="20251013T100000 +0000" stop="20251013T130000 +0000" channel="soccer 01">
-    <title lang="en">Tunisia vs Namibia - starts at 9:00 AM ET</title>
+  <programme start="20251014T100000 +0000" stop="20251014T130000 +0000" channel="soccer 01">
+    <title lang="en">Seychelles vs Gambia - starts at 9:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Tunisia</actor>
-      <actor>Namibia</actor>
+      <actor>Seychelles</actor>
+      <actor>Gambia</actor>
     </credits>
-    <sub-title lang="en">Venue: Namibia Stadium</sub-title>
+    <sub-title lang="en">Venue: Gambia Stadium</sub-title>
   </programme>
-  <programme start="20251013T130000 +0000" stop="20251013T150000 +0000" channel="soccer 01">
-    <title lang="en">Tunisia vs Namibia</title>
+  <programme start="20251014T130000 +0000" stop="20251014T150000 +0000" channel="soccer 01">
+    <title lang="en">Seychelles vs Gambia</title>
     <desc lang="en">League: WC Qualy.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Tunisia</actor>
-      <actor>Namibia</actor>
+      <actor>Seychelles</actor>
+      <actor>Gambia</actor>
     </credits>
-    <sub-title lang="en">Venue: Namibia Stadium</sub-title>
+    <sub-title lang="en">Venue: Gambia Stadium</sub-title>
   </programme>
-  <programme start="20251013T100000 +0000" stop="20251013T130000 +0000" channel="soccer 02">
-    <title lang="en">South Sudan vs Togo - starts at 9:00 AM ET</title>
+  <programme start="20251014T100000 +0000" stop="20251014T130000 +0000" channel="soccer 02">
+    <title lang="en">Estonia vs Moldova - starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>South Sudan</actor>
-      <actor>Togo</actor>
+      <actor>Estonia</actor>
+      <actor>Moldova</actor>
     </credits>
-    <sub-title lang="en">Venue: Togo Stadium</sub-title>
+    <sub-title lang="en">Venue: Moldova Stadium</sub-title>
   </programme>
-  <programme start="20251013T130000 +0000" stop="20251013T150000 +0000" channel="soccer 02">
-    <title lang="en">South Sudan vs Togo</title>
+  <programme start="20251014T130000 +0000" stop="20251014T160000 +0000" channel="soccer 02">
+    <title lang="en">Estonia vs Moldova - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Estonia</actor>
+      <actor>Moldova</actor>
+    </credits>
+    <sub-title lang="en">Venue: Moldova Stadium</sub-title>
+  </programme>
+  <programme start="20251014T160000 +0000" stop="20251014T180000 +0000" channel="soccer 02">
+    <title lang="en">Estonia vs Moldova</title>
     <desc lang="en">League: WC Qualy.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>South Sudan</actor>
-      <actor>Togo</actor>
+      <actor>Estonia</actor>
+      <actor>Moldova</actor>
     </credits>
-    <sub-title lang="en">Venue: Togo Stadium</sub-title>
+    <sub-title lang="en">Venue: Moldova Stadium</sub-title>
   </programme>
-  <programme start="20251013T100000 +0000" stop="20251013T130000 +0000" channel="soccer 03">
-    <title lang="en">Equatorial Guinea vs Liberia - starts at 9:00 AM ET</title>
+  <programme start="20251014T100000 +0000" stop="20251014T130000 +0000" channel="soccer 03">
+    <title lang="en">Algeria vs Uganda - starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Equatorial Guinea</actor>
-      <actor>Liberia</actor>
+      <actor>Algeria</actor>
+      <actor>Uganda</actor>
     </credits>
-    <sub-title lang="en">Venue: Liberia Stadium</sub-title>
+    <sub-title lang="en">Venue: Uganda Stadium</sub-title>
   </programme>
-  <programme start="20251013T130000 +0000" stop="20251013T150000 +0000" channel="soccer 03">
-    <title lang="en">Equatorial Guinea vs Liberia</title>
+  <programme start="20251014T130000 +0000" stop="20251014T160000 +0000" channel="soccer 03">
+    <title lang="en">Algeria vs Uganda - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Algeria</actor>
+      <actor>Uganda</actor>
+    </credits>
+    <sub-title lang="en">Venue: Uganda Stadium</sub-title>
+  </programme>
+  <programme start="20251014T160000 +0000" stop="20251014T180000 +0000" channel="soccer 03">
+    <title lang="en">Algeria vs Uganda</title>
     <desc lang="en">League: WC Qualy.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Equatorial Guinea</actor>
-      <actor>Liberia</actor>
+      <actor>Algeria</actor>
+      <actor>Uganda</actor>
     </credits>
-    <sub-title lang="en">Venue: Liberia Stadium</sub-title>
+    <sub-title lang="en">Venue: Uganda Stadium</sub-title>
   </programme>
-  <programme start="20251013T100000 +0000" stop="20251013T130000 +0000" channel="soccer 04">
-    <title lang="en">Sao Tome e Principe vs Malawi - starts at 9:00 AM ET</title>
+  <programme start="20251014T100000 +0000" stop="20251014T130000 +0000" channel="soccer 04">
+    <title lang="en">Somalia vs Mozambique - starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Sao Tome e Principe</actor>
-      <actor>Malawi</actor>
+      <actor>Somalia</actor>
+      <actor>Mozambique</actor>
     </credits>
-    <sub-title lang="en">Venue: Malawi Stadium</sub-title>
+    <sub-title lang="en">Venue: Mozambique Stadium</sub-title>
   </programme>
-  <programme start="20251013T130000 +0000" stop="20251013T150000 +0000" channel="soccer 04">
-    <title lang="en">Sao Tome e Principe vs Malawi</title>
+  <programme start="20251014T130000 +0000" stop="20251014T160000 +0000" channel="soccer 04">
+    <title lang="en">Somalia vs Mozambique - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Somalia</actor>
+      <actor>Mozambique</actor>
+    </credits>
+    <sub-title lang="en">Venue: Mozambique Stadium</sub-title>
+  </programme>
+  <programme start="20251014T160000 +0000" stop="20251014T180000 +0000" channel="soccer 04">
+    <title lang="en">Somalia vs Mozambique</title>
     <desc lang="en">League: WC Qualy.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Sao Tome e Principe</actor>
-      <actor>Malawi</actor>
+      <actor>Somalia</actor>
+      <actor>Mozambique</actor>
     </credits>
-    <sub-title lang="en">Venue: Malawi Stadium</sub-title>
+    <sub-title lang="en">Venue: Mozambique Stadium</sub-title>
   </programme>
-  <programme start="20251013T100000 +0000" stop="20251013T130000 +0000" channel="soccer 05">
-    <title lang="en">Lesotho vs Zimbabwe - starts at 12:00 PM ET</title>
+  <programme start="20251014T100000 +0000" stop="20251014T130000 +0000" channel="soccer 05">
+    <title lang="en">Guinea vs Botswana - starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Lesotho</actor>
-      <actor>Zimbabwe</actor>
+      <actor>Guinea</actor>
+      <actor>Botswana</actor>
     </credits>
-    <sub-title lang="en">Venue: Zimbabwe Stadium</sub-title>
+    <sub-title lang="en">Venue: Botswana Stadium</sub-title>
   </programme>
-  <programme start="20251013T130000 +0000" stop="20251013T160000 +0000" channel="soccer 05">
-    <title lang="en">Lesotho vs Zimbabwe - starts at 12:00 PM ET</title>
+  <programme start="20251014T130000 +0000" stop="20251014T160000 +0000" channel="soccer 05">
+    <title lang="en">Guinea vs Botswana - starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Lesotho</actor>
-      <actor>Zimbabwe</actor>
+      <actor>Guinea</actor>
+      <actor>Botswana</actor>
     </credits>
-    <sub-title lang="en">Venue: Zimbabwe Stadium</sub-title>
+    <sub-title lang="en">Venue: Botswana Stadium</sub-title>
   </programme>
-  <programme start="20251013T160000 +0000" stop="20251013T180000 +0000" channel="soccer 05">
-    <title lang="en">Lesotho vs Zimbabwe</title>
+  <programme start="20251014T160000 +0000" stop="20251014T180000 +0000" channel="soccer 05">
+    <title lang="en">Guinea vs Botswana</title>
     <desc lang="en">League: WC Qualy.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Lesotho</actor>
-      <actor>Zimbabwe</actor>
+      <actor>Guinea</actor>
+      <actor>Botswana</actor>
     </credits>
-    <sub-title lang="en">Venue: Zimbabwe Stadium</sub-title>
+    <sub-title lang="en">Venue: Botswana Stadium</sub-title>
   </programme>
-  <programme start="20251013T100000 +0000" stop="20251013T130000 +0000" channel="soccer 06">
-    <title lang="en">Mauritius vs Libya - starts at 12:00 PM ET</title>
+  <programme start="20251014T100000 +0000" stop="20251014T130000 +0000" channel="soccer 06">
+    <title lang="en">Nigeria vs Benin - starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Mauritius</actor>
-      <actor>Libya</actor>
+      <actor>Nigeria</actor>
+      <actor>Benin</actor>
     </credits>
-    <sub-title lang="en">Venue: Libya Stadium</sub-title>
+    <sub-title lang="en">Venue: Benin Stadium</sub-title>
   </programme>
-  <programme start="20251013T130000 +0000" stop="20251013T160000 +0000" channel="soccer 06">
-    <title lang="en">Mauritius vs Libya - starts at 12:00 PM ET</title>
+  <programme start="20251014T130000 +0000" stop="20251014T160000 +0000" channel="soccer 06">
+    <title lang="en">Nigeria vs Benin - starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Mauritius</actor>
-      <actor>Libya</actor>
+      <actor>Nigeria</actor>
+      <actor>Benin</actor>
     </credits>
-    <sub-title lang="en">Venue: Libya Stadium</sub-title>
+    <sub-title lang="en">Venue: Benin Stadium</sub-title>
   </programme>
-  <programme start="20251013T160000 +0000" stop="20251013T180000 +0000" channel="soccer 06">
-    <title lang="en">Mauritius vs Libya</title>
+  <programme start="20251014T160000 +0000" stop="20251014T180000 +0000" channel="soccer 06">
+    <title lang="en">Nigeria vs Benin</title>
     <desc lang="en">League: WC Qualy.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Mauritius</actor>
-      <actor>Libya</actor>
+      <actor>Nigeria</actor>
+      <actor>Benin</actor>
     </credits>
-    <sub-title lang="en">Venue: Libya Stadium</sub-title>
+    <sub-title lang="en">Venue: Benin Stadium</sub-title>
   </programme>
-  <programme start="20251013T100000 +0000" stop="20251013T130000 +0000" channel="soccer 07">
-    <title lang="en">Cameroon vs Angola - starts at 12:00 PM ET</title>
+  <programme start="20251014T100000 +0000" stop="20251014T130000 +0000" channel="soccer 07">
+    <title lang="en">South Africa vs Rwanda - starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Cameroon</actor>
-      <actor>Angola</actor>
+      <actor>South Africa</actor>
+      <actor>Rwanda</actor>
     </credits>
-    <sub-title lang="en">Venue: Angola Stadium</sub-title>
+    <sub-title lang="en">Venue: Rwanda Stadium</sub-title>
   </programme>
-  <programme start="20251013T130000 +0000" stop="20251013T160000 +0000" channel="soccer 07">
-    <title lang="en">Cameroon vs Angola - starts at 12:00 PM ET</title>
+  <programme start="20251014T130000 +0000" stop="20251014T160000 +0000" channel="soccer 07">
+    <title lang="en">South Africa vs Rwanda - starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Cameroon</actor>
-      <actor>Angola</actor>
+      <actor>South Africa</actor>
+      <actor>Rwanda</actor>
     </credits>
-    <sub-title lang="en">Venue: Angola Stadium</sub-title>
+    <sub-title lang="en">Venue: Rwanda Stadium</sub-title>
   </programme>
-  <programme start="20251013T160000 +0000" stop="20251013T180000 +0000" channel="soccer 07">
-    <title lang="en">Cameroon vs Angola</title>
+  <programme start="20251014T160000 +0000" stop="20251014T180000 +0000" channel="soccer 07">
+    <title lang="en">South Africa vs Rwanda</title>
     <desc lang="en">League: WC Qualy.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Cameroon</actor>
-      <actor>Angola</actor>
+      <actor>South Africa</actor>
+      <actor>Rwanda</actor>
     </credits>
-    <sub-title lang="en">Venue: Angola Stadium</sub-title>
+    <sub-title lang="en">Venue: Rwanda Stadium</sub-title>
   </programme>
-  <programme start="20251013T100000 +0000" stop="20251013T130000 +0000" channel="soccer 08">
-    <title lang="en">Cape Verde Islands vs Eswatini - starts at 12:00 PM ET</title>
+  <programme start="20251014T100000 +0000" stop="20251014T130000 +0000" channel="soccer 08">
+    <title lang="en">Qatar vs United Arab Emirates - starts at 1:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Cape Verde Islands</actor>
-      <actor>Eswatini</actor>
+      <actor>Qatar</actor>
+      <actor>United Arab Emirates</actor>
     </credits>
-    <sub-title lang="en">Venue: Eswatini Stadium</sub-title>
+    <sub-title lang="en">Venue: United Arab Emirates Stadium</sub-title>
   </programme>
-  <programme start="20251013T130000 +0000" stop="20251013T160000 +0000" channel="soccer 08">
-    <title lang="en">Cape Verde Islands vs Eswatini - starts at 12:00 PM ET</title>
+  <programme start="20251014T130000 +0000" stop="20251014T160000 +0000" channel="soccer 08">
+    <title lang="en">Qatar vs United Arab Emirates - starts at 1:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Cape Verde Islands</actor>
-      <actor>Eswatini</actor>
+      <actor>Qatar</actor>
+      <actor>United Arab Emirates</actor>
     </credits>
-    <sub-title lang="en">Venue: Eswatini Stadium</sub-title>
+    <sub-title lang="en">Venue: United Arab Emirates Stadium</sub-title>
   </programme>
-  <programme start="20251013T160000 +0000" stop="20251013T180000 +0000" channel="soccer 08">
-    <title lang="en">Cape Verde Islands vs Eswatini</title>
+  <programme start="20251014T170000 +0000" stop="20251014T190000 +0000" channel="soccer 08">
+    <title lang="en">Qatar vs United Arab Emirates</title>
     <desc lang="en">League: WC Qualy.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Cape Verde Islands</actor>
-      <actor>Eswatini</actor>
+      <actor>Qatar</actor>
+      <actor>United Arab Emirates</actor>
     </credits>
-    <sub-title lang="en">Venue: Eswatini Stadium</sub-title>
+    <sub-title lang="en">Venue: United Arab Emirates Stadium</sub-title>
   </programme>
-  <programme start="20251013T100000 +0000" stop="20251013T130000 +0000" channel="soccer 09">
-    <title lang="en">Sweden vs Kosovo - starts at 2:45 PM ET</title>
+  <programme start="20251014T100000 +0000" stop="20251014T130000 +0000" channel="soccer 09">
+    <title lang="en">Andorra vs Serbia - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Sweden</actor>
-      <actor>Kosovo</actor>
+      <actor>Andorra</actor>
+      <actor>Serbia</actor>
     </credits>
-    <sub-title lang="en">Venue: Kosovo Stadium</sub-title>
+    <sub-title lang="en">Venue: Serbia Stadium</sub-title>
   </programme>
-  <programme start="20251013T130000 +0000" stop="20251013T160000 +0000" channel="soccer 09">
-    <title lang="en">Sweden vs Kosovo - starts at 2:45 PM ET</title>
+  <programme start="20251014T130000 +0000" stop="20251014T160000 +0000" channel="soccer 09">
+    <title lang="en">Andorra vs Serbia - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Sweden</actor>
-      <actor>Kosovo</actor>
+      <actor>Andorra</actor>
+      <actor>Serbia</actor>
     </credits>
-    <sub-title lang="en">Venue: Kosovo Stadium</sub-title>
+    <sub-title lang="en">Venue: Serbia Stadium</sub-title>
   </programme>
-  <programme start="20251013T184500 +0000" stop="20251013T204500 +0000" channel="soccer 09">
-    <title lang="en">Sweden vs Kosovo</title>
+  <programme start="20251014T184500 +0000" stop="20251014T204500 +0000" channel="soccer 09">
+    <title lang="en">Andorra vs Serbia</title>
     <desc lang="en">League: WC Qualy.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Sweden</actor>
-      <actor>Kosovo</actor>
+      <actor>Andorra</actor>
+      <actor>Serbia</actor>
     </credits>
-    <sub-title lang="en">Venue: Kosovo Stadium</sub-title>
+    <sub-title lang="en">Venue: Serbia Stadium</sub-title>
   </programme>
-  <programme start="20251013T100000 +0000" stop="20251013T130000 +0000" channel="soccer 10">
-    <title lang="en">Iceland vs France - starts at 2:45 PM ET</title>
+  <programme start="20251014T100000 +0000" stop="20251014T130000 +0000" channel="soccer 10">
+    <title lang="en">Turkey vs Georgia - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Iceland</actor>
-      <actor>France</actor>
+      <actor>Turkey</actor>
+      <actor>Georgia</actor>
     </credits>
-    <sub-title lang="en">Venue: France Stadium</sub-title>
+    <sub-title lang="en">Venue: Georgia Stadium</sub-title>
   </programme>
-  <programme start="20251013T130000 +0000" stop="20251013T160000 +0000" channel="soccer 10">
-    <title lang="en">Iceland vs France - starts at 2:45 PM ET</title>
+  <programme start="20251014T130000 +0000" stop="20251014T160000 +0000" channel="soccer 10">
+    <title lang="en">Turkey vs Georgia - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Iceland</actor>
-      <actor>France</actor>
+      <actor>Turkey</actor>
+      <actor>Georgia</actor>
     </credits>
-    <sub-title lang="en">Venue: France Stadium</sub-title>
+    <sub-title lang="en">Venue: Georgia Stadium</sub-title>
   </programme>
-  <programme start="20251013T184500 +0000" stop="20251013T204500 +0000" channel="soccer 10">
-    <title lang="en">Iceland vs France</title>
+  <programme start="20251014T184500 +0000" stop="20251014T204500 +0000" channel="soccer 10">
+    <title lang="en">Turkey vs Georgia</title>
     <desc lang="en">League: WC Qualy.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Iceland</actor>
-      <actor>France</actor>
+      <actor>Turkey</actor>
+      <actor>Georgia</actor>
     </credits>
-    <sub-title lang="en">Venue: France Stadium</sub-title>
+    <sub-title lang="en">Venue: Georgia Stadium</sub-title>
   </programme>
-  <programme start="20251013T100000 +0000" stop="20251013T130000 +0000" channel="soccer 11">
-    <title lang="en">Northern Ireland vs Germany - starts at 2:45 PM ET</title>
+  <programme start="20251014T100000 +0000" stop="20251014T130000 +0000" channel="soccer 11">
+    <title lang="en">Latvia vs England - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Northern Ireland</actor>
-      <actor>Germany</actor>
+      <actor>Latvia</actor>
+      <actor>England</actor>
     </credits>
-    <sub-title lang="en">Venue: Germany Stadium</sub-title>
+    <sub-title lang="en">Venue: England Stadium</sub-title>
   </programme>
-  <programme start="20251013T130000 +0000" stop="20251013T160000 +0000" channel="soccer 11">
-    <title lang="en">Northern Ireland vs Germany - starts at 2:45 PM ET</title>
+  <programme start="20251014T130000 +0000" stop="20251014T160000 +0000" channel="soccer 11">
+    <title lang="en">Latvia vs England - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Northern Ireland</actor>
-      <actor>Germany</actor>
+      <actor>Latvia</actor>
+      <actor>England</actor>
     </credits>
-    <sub-title lang="en">Venue: Germany Stadium</sub-title>
+    <sub-title lang="en">Venue: England Stadium</sub-title>
   </programme>
-  <programme start="20251013T184500 +0000" stop="20251013T204500 +0000" channel="soccer 11">
-    <title lang="en">Northern Ireland vs Germany</title>
+  <programme start="20251014T184500 +0000" stop="20251014T204500 +0000" channel="soccer 11">
+    <title lang="en">Latvia vs England</title>
     <desc lang="en">League: WC Qualy.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Northern Ireland</actor>
-      <actor>Germany</actor>
+      <actor>Latvia</actor>
+      <actor>England</actor>
     </credits>
-    <sub-title lang="en">Venue: Germany Stadium</sub-title>
+    <sub-title lang="en">Venue: England Stadium</sub-title>
   </programme>
-  <programme start="20251013T100000 +0000" stop="20251013T130000 +0000" channel="soccer 12">
-    <title lang="en">Wales vs Belgium - starts at 2:45 PM ET</title>
+  <programme start="20251014T100000 +0000" stop="20251014T130000 +0000" channel="soccer 12">
+    <title lang="en">Spain vs Bulgaria - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Wales</actor>
-      <actor>Belgium</actor>
+      <actor>Spain</actor>
+      <actor>Bulgaria</actor>
     </credits>
-    <sub-title lang="en">Venue: Belgium Stadium</sub-title>
+    <sub-title lang="en">Venue: Bulgaria Stadium</sub-title>
   </programme>
-  <programme start="20251013T130000 +0000" stop="20251013T160000 +0000" channel="soccer 12">
-    <title lang="en">Wales vs Belgium - starts at 2:45 PM ET</title>
+  <programme start="20251014T130000 +0000" stop="20251014T160000 +0000" channel="soccer 12">
+    <title lang="en">Spain vs Bulgaria - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Wales</actor>
-      <actor>Belgium</actor>
+      <actor>Spain</actor>
+      <actor>Bulgaria</actor>
     </credits>
-    <sub-title lang="en">Venue: Belgium Stadium</sub-title>
+    <sub-title lang="en">Venue: Bulgaria Stadium</sub-title>
   </programme>
-  <programme start="20251013T184500 +0000" stop="20251013T204500 +0000" channel="soccer 12">
-    <title lang="en">Wales vs Belgium</title>
+  <programme start="20251014T184500 +0000" stop="20251014T204500 +0000" channel="soccer 12">
+    <title lang="en">Spain vs Bulgaria</title>
     <desc lang="en">League: WC Qualy.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Wales</actor>
-      <actor>Belgium</actor>
+      <actor>Spain</actor>
+      <actor>Bulgaria</actor>
     </credits>
-    <sub-title lang="en">Venue: Belgium Stadium</sub-title>
+    <sub-title lang="en">Venue: Bulgaria Stadium</sub-title>
   </programme>
-  <programme start="20251013T100000 +0000" stop="20251013T130000 +0000" channel="soccer 13">
-    <title lang="en">North Macedonia vs Kazakhstan - starts at 2:45 PM ET</title>
+  <programme start="20251014T100000 +0000" stop="20251014T130000 +0000" channel="soccer 13">
+    <title lang="en">Italy vs Israel - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>North Macedonia</actor>
-      <actor>Kazakhstan</actor>
+      <actor>Italy</actor>
+      <actor>Israel</actor>
     </credits>
-    <sub-title lang="en">Venue: Kazakhstan Stadium</sub-title>
+    <sub-title lang="en">Venue: Israel Stadium</sub-title>
   </programme>
-  <programme start="20251013T130000 +0000" stop="20251013T160000 +0000" channel="soccer 13">
-    <title lang="en">North Macedonia vs Kazakhstan - starts at 2:45 PM ET</title>
+  <programme start="20251014T130000 +0000" stop="20251014T160000 +0000" channel="soccer 13">
+    <title lang="en">Italy vs Israel - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>North Macedonia</actor>
-      <actor>Kazakhstan</actor>
+      <actor>Italy</actor>
+      <actor>Israel</actor>
     </credits>
-    <sub-title lang="en">Venue: Kazakhstan Stadium</sub-title>
+    <sub-title lang="en">Venue: Israel Stadium</sub-title>
   </programme>
-  <programme start="20251013T184500 +0000" stop="20251013T204500 +0000" channel="soccer 13">
-    <title lang="en">North Macedonia vs Kazakhstan</title>
+  <programme start="20251014T184500 +0000" stop="20251014T204500 +0000" channel="soccer 13">
+    <title lang="en">Italy vs Israel</title>
     <desc lang="en">League: WC Qualy.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>North Macedonia</actor>
-      <actor>Kazakhstan</actor>
+      <actor>Italy</actor>
+      <actor>Israel</actor>
     </credits>
-    <sub-title lang="en">Venue: Kazakhstan Stadium</sub-title>
+    <sub-title lang="en">Venue: Israel Stadium</sub-title>
   </programme>
-  <programme start="20251013T100000 +0000" stop="20251013T130000 +0000" channel="soccer 14">
-    <title lang="en">Ukraine vs Azerbaijan - starts at 2:45 PM ET</title>
+  <programme start="20251014T100000 +0000" stop="20251014T130000 +0000" channel="soccer 14">
+    <title lang="en">Ireland Republic vs Armenia - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Ukraine</actor>
-      <actor>Azerbaijan</actor>
+      <actor>Ireland Republic</actor>
+      <actor>Armenia</actor>
     </credits>
-    <sub-title lang="en">Venue: Azerbaijan Stadium</sub-title>
+    <sub-title lang="en">Venue: Armenia Stadium</sub-title>
   </programme>
-  <programme start="20251013T130000 +0000" stop="20251013T160000 +0000" channel="soccer 14">
-    <title lang="en">Ukraine vs Azerbaijan - starts at 2:45 PM ET</title>
+  <programme start="20251014T130000 +0000" stop="20251014T160000 +0000" channel="soccer 14">
+    <title lang="en">Ireland Republic vs Armenia - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Ukraine</actor>
-      <actor>Azerbaijan</actor>
+      <actor>Ireland Republic</actor>
+      <actor>Armenia</actor>
     </credits>
-    <sub-title lang="en">Venue: Azerbaijan Stadium</sub-title>
+    <sub-title lang="en">Venue: Armenia Stadium</sub-title>
   </programme>
-  <programme start="20251013T184500 +0000" stop="20251013T204500 +0000" channel="soccer 14">
-    <title lang="en">Ukraine vs Azerbaijan</title>
+  <programme start="20251014T184500 +0000" stop="20251014T204500 +0000" channel="soccer 14">
+    <title lang="en">Ireland Republic vs Armenia</title>
     <desc lang="en">League: WC Qualy.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Ukraine</actor>
-      <actor>Azerbaijan</actor>
+      <actor>Ireland Republic</actor>
+      <actor>Armenia</actor>
     </credits>
-    <sub-title lang="en">Venue: Azerbaijan Stadium</sub-title>
+    <sub-title lang="en">Venue: Armenia Stadium</sub-title>
   </programme>
-  <programme start="20251013T100000 +0000" stop="20251013T130000 +0000" channel="soccer 15">
-    <title lang="en">Slovenia vs Switzerland - starts at 2:45 PM ET</title>
+  <programme start="20251014T100000 +0000" stop="20251014T130000 +0000" channel="soccer 15">
+    <title lang="en">Portugal vs Hungary - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Slovenia</actor>
-      <actor>Switzerland</actor>
+      <actor>Portugal</actor>
+      <actor>Hungary</actor>
     </credits>
-    <sub-title lang="en">Venue: Switzerland Stadium</sub-title>
+    <sub-title lang="en">Venue: Hungary Stadium</sub-title>
   </programme>
-  <programme start="20251013T130000 +0000" stop="20251013T160000 +0000" channel="soccer 15">
-    <title lang="en">Slovenia vs Switzerland - starts at 2:45 PM ET</title>
+  <programme start="20251014T130000 +0000" stop="20251014T160000 +0000" channel="soccer 15">
+    <title lang="en">Portugal vs Hungary - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Slovenia</actor>
-      <actor>Switzerland</actor>
+      <actor>Portugal</actor>
+      <actor>Hungary</actor>
     </credits>
-    <sub-title lang="en">Venue: Switzerland Stadium</sub-title>
+    <sub-title lang="en">Venue: Hungary Stadium</sub-title>
   </programme>
-  <programme start="20251013T184500 +0000" stop="20251013T204500 +0000" channel="soccer 15">
-    <title lang="en">Slovenia vs Switzerland</title>
+  <programme start="20251014T184500 +0000" stop="20251014T204500 +0000" channel="soccer 15">
+    <title lang="en">Portugal vs Hungary</title>
     <desc lang="en">League: WC Qualy.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Slovenia</actor>
-      <actor>Switzerland</actor>
+      <actor>Portugal</actor>
+      <actor>Hungary</actor>
     </credits>
-    <sub-title lang="en">Venue: Switzerland Stadium</sub-title>
+    <sub-title lang="en">Venue: Hungary Stadium</sub-title>
   </programme>
-  <programme start="20251013T100000 +0000" stop="20251013T130000 +0000" channel="soccer 16">
-    <title lang="en">Slovakia vs Luxembourg - starts at 2:45 PM ET</title>
+  <programme start="20251014T100000 +0000" stop="20251014T130000 +0000" channel="soccer 16">
+    <title lang="en">Saudi Arabia vs Iraq - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Slovakia</actor>
-      <actor>Luxembourg</actor>
+      <actor>Saudi Arabia</actor>
+      <actor>Iraq</actor>
     </credits>
-    <sub-title lang="en">Venue: Luxembourg Stadium</sub-title>
+    <sub-title lang="en">Venue: Iraq Stadium</sub-title>
   </programme>
-  <programme start="20251013T130000 +0000" stop="20251013T160000 +0000" channel="soccer 16">
-    <title lang="en">Slovakia vs Luxembourg - starts at 2:45 PM ET</title>
+  <programme start="20251014T130000 +0000" stop="20251014T160000 +0000" channel="soccer 16">
+    <title lang="en">Saudi Arabia vs Iraq - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Slovakia</actor>
-      <actor>Luxembourg</actor>
+      <actor>Saudi Arabia</actor>
+      <actor>Iraq</actor>
     </credits>
-    <sub-title lang="en">Venue: Luxembourg Stadium</sub-title>
+    <sub-title lang="en">Venue: Iraq Stadium</sub-title>
   </programme>
-  <programme start="20251013T184500 +0000" stop="20251013T204500 +0000" channel="soccer 16">
-    <title lang="en">Slovakia vs Luxembourg</title>
+  <programme start="20251014T184500 +0000" stop="20251014T204500 +0000" channel="soccer 16">
+    <title lang="en">Saudi Arabia vs Iraq</title>
     <desc lang="en">League: WC Qualy.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Slovakia</actor>
-      <actor>Luxembourg</actor>
+      <actor>Saudi Arabia</actor>
+      <actor>Iraq</actor>
     </credits>
-    <sub-title lang="en">Venue: Luxembourg Stadium</sub-title>
+    <sub-title lang="en">Venue: Iraq Stadium</sub-title>
   </programme>
-  <programme start="20251013T100000 +0000" stop="20251013T130000 +0000" channel="soccer 17">
-    <title lang="en">Honduras vs Haiti - starts at 8:00 PM ET</title>
+  <programme start="20251014T100000 +0000" stop="20251014T130000 +0000" channel="soccer 17">
+    <title lang="en">Senegal vs Mauritania - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Honduras</actor>
-      <actor>Haiti</actor>
+      <actor>Senegal</actor>
+      <actor>Mauritania</actor>
     </credits>
-    <sub-title lang="en">Venue: Haiti Stadium</sub-title>
+    <sub-title lang="en">Venue: Mauritania Stadium</sub-title>
   </programme>
-  <programme start="20251013T130000 +0000" stop="20251013T160000 +0000" channel="soccer 17">
-    <title lang="en">Honduras vs Haiti - starts at 8:00 PM ET</title>
+  <programme start="20251014T130000 +0000" stop="20251014T160000 +0000" channel="soccer 17">
+    <title lang="en">Senegal vs Mauritania - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Honduras</actor>
-      <actor>Haiti</actor>
+      <actor>Senegal</actor>
+      <actor>Mauritania</actor>
     </credits>
-    <sub-title lang="en">Venue: Haiti Stadium</sub-title>
+    <sub-title lang="en">Venue: Mauritania Stadium</sub-title>
   </programme>
-  <programme start="20251013T160000 +0000" stop="20251013T190000 +0000" channel="soccer 17">
-    <title lang="en">Honduras vs Haiti - starts at 8:00 PM ET</title>
+  <programme start="20251014T160000 +0000" stop="20251014T190000 +0000" channel="soccer 17">
+    <title lang="en">Senegal vs Mauritania - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Honduras</actor>
-      <actor>Haiti</actor>
+      <actor>Senegal</actor>
+      <actor>Mauritania</actor>
     </credits>
-    <sub-title lang="en">Venue: Haiti Stadium</sub-title>
+    <sub-title lang="en">Venue: Mauritania Stadium</sub-title>
   </programme>
-  <programme start="20251013T190000 +0000" stop="20251013T220000 +0000" channel="soccer 17">
-    <title lang="en">Honduras vs Haiti - starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Honduras</actor>
-      <actor>Haiti</actor>
-    </credits>
-    <sub-title lang="en">Venue: Haiti Stadium</sub-title>
-  </programme>
-  <programme start="20251014T000000 +0000" stop="20251014T020000 +0000" channel="soccer 17">
-    <title lang="en">Honduras vs Haiti</title>
+  <programme start="20251014T190000 +0000" stop="20251014T210000 +0000" channel="soccer 17">
+    <title lang="en">Senegal vs Mauritania</title>
     <desc lang="en">League: WC Qualy.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Honduras</actor>
-      <actor>Haiti</actor>
+      <actor>Senegal</actor>
+      <actor>Mauritania</actor>
     </credits>
-    <sub-title lang="en">Venue: Haiti Stadium</sub-title>
+    <sub-title lang="en">Venue: Mauritania Stadium</sub-title>
   </programme>
-  <programme start="20251013T100000 +0000" stop="20251013T130000 +0000" channel="soccer 18">
-    <title lang="en">Costa Rica vs Nicaragua - starts at 10:00 PM ET</title>
+  <programme start="20251014T100000 +0000" stop="20251014T130000 +0000" channel="soccer 18">
+    <title lang="en">Morocco vs Congo - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Costa Rica</actor>
-      <actor>Nicaragua</actor>
+      <actor>Morocco</actor>
+      <actor>Congo</actor>
     </credits>
-    <sub-title lang="en">Venue: Nicaragua Stadium</sub-title>
+    <sub-title lang="en">Venue: Congo Stadium</sub-title>
   </programme>
-  <programme start="20251013T130000 +0000" stop="20251013T160000 +0000" channel="soccer 18">
-    <title lang="en">Costa Rica vs Nicaragua - starts at 10:00 PM ET</title>
+  <programme start="20251014T130000 +0000" stop="20251014T160000 +0000" channel="soccer 18">
+    <title lang="en">Morocco vs Congo - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Costa Rica</actor>
-      <actor>Nicaragua</actor>
+      <actor>Morocco</actor>
+      <actor>Congo</actor>
     </credits>
-    <sub-title lang="en">Venue: Nicaragua Stadium</sub-title>
+    <sub-title lang="en">Venue: Congo Stadium</sub-title>
   </programme>
-  <programme start="20251013T160000 +0000" stop="20251013T190000 +0000" channel="soccer 18">
-    <title lang="en">Costa Rica vs Nicaragua - starts at 10:00 PM ET</title>
+  <programme start="20251014T160000 +0000" stop="20251014T190000 +0000" channel="soccer 18">
+    <title lang="en">Morocco vs Congo - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Costa Rica</actor>
-      <actor>Nicaragua</actor>
+      <actor>Morocco</actor>
+      <actor>Congo</actor>
     </credits>
-    <sub-title lang="en">Venue: Nicaragua Stadium</sub-title>
+    <sub-title lang="en">Venue: Congo Stadium</sub-title>
   </programme>
-  <programme start="20251013T190000 +0000" stop="20251013T220000 +0000" channel="soccer 18">
-    <title lang="en">Costa Rica vs Nicaragua - starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Costa Rica</actor>
-      <actor>Nicaragua</actor>
-    </credits>
-    <sub-title lang="en">Venue: Nicaragua Stadium</sub-title>
-  </programme>
-  <programme start="20251013T220000 +0000" stop="20251014T010000 +0000" channel="soccer 18">
-    <title lang="en">Costa Rica vs Nicaragua - starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Costa Rica</actor>
-      <actor>Nicaragua</actor>
-    </credits>
-    <sub-title lang="en">Venue: Nicaragua Stadium</sub-title>
-  </programme>
-  <programme start="20251014T020000 +0000" stop="20251014T040000 +0000" channel="soccer 18">
-    <title lang="en">Costa Rica vs Nicaragua</title>
+  <programme start="20251014T190000 +0000" stop="20251014T210000 +0000" channel="soccer 18">
+    <title lang="en">Morocco vs Congo</title>
     <desc lang="en">League: WC Qualy.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Costa Rica</actor>
-      <actor>Nicaragua</actor>
+      <actor>Morocco</actor>
+      <actor>Congo</actor>
     </credits>
-    <sub-title lang="en">Venue: Nicaragua Stadium</sub-title>
+    <sub-title lang="en">Venue: Congo Stadium</sub-title>
   </programme>
-  <programme start="20251013T100000 +0000" stop="20251013T130000 +0000" channel="soccer 19">
-    <title lang="en">Puerto Rico vs Argentina - starts at 11:00 AM ET</title>
+  <programme start="20251014T100000 +0000" stop="20251014T130000 +0000" channel="soccer 19">
+    <title lang="en">Gabon vs Burundi - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Puerto Rico</actor>
-      <actor>Argentina</actor>
+      <actor>Gabon</actor>
+      <actor>Burundi</actor>
     </credits>
-    <sub-title lang="en">Venue: Argentina Stadium</sub-title>
+    <sub-title lang="en">Venue: Burundi Stadium</sub-title>
   </programme>
-  <programme start="20251013T150000 +0000" stop="20251013T170000 +0000" channel="soccer 19">
-    <title lang="en">Puerto Rico vs Argentina</title>
-    <desc lang="en">League: Friendly</desc>
+  <programme start="20251014T130000 +0000" stop="20251014T160000 +0000" channel="soccer 19">
+    <title lang="en">Gabon vs Burundi - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Gabon</actor>
+      <actor>Burundi</actor>
+    </credits>
+    <sub-title lang="en">Venue: Burundi Stadium</sub-title>
+  </programme>
+  <programme start="20251014T160000 +0000" stop="20251014T190000 +0000" channel="soccer 19">
+    <title lang="en">Gabon vs Burundi - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Gabon</actor>
+      <actor>Burundi</actor>
+    </credits>
+    <sub-title lang="en">Venue: Burundi Stadium</sub-title>
+  </programme>
+  <programme start="20251014T190000 +0000" stop="20251014T210000 +0000" channel="soccer 19">
+    <title lang="en">Gabon vs Burundi</title>
+    <desc lang="en">League: WC Qualy.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Puerto Rico</actor>
-      <actor>Argentina</actor>
+      <actor>Gabon</actor>
+      <actor>Burundi</actor>
     </credits>
-    <sub-title lang="en">Venue: Argentina Stadium</sub-title>
+    <sub-title lang="en">Venue: Burundi Stadium</sub-title>
   </programme>
-  <programme start="20251013T100000 +0000" stop="20251013T130000 +0000" channel="soccer 20">
-    <title lang="en">Montenegro vs Liechtenstein - starts at 12:00 PM ET</title>
+  <programme start="20251014T100000 +0000" stop="20251014T130000 +0000" channel="soccer 20">
+    <title lang="en">Ivory Coast vs Kenya - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Montenegro</actor>
-      <actor>Liechtenstein</actor>
+      <actor>Ivory Coast</actor>
+      <actor>Kenya</actor>
     </credits>
-    <sub-title lang="en">Venue: Liechtenstein Stadium</sub-title>
+    <sub-title lang="en">Venue: Kenya Stadium</sub-title>
   </programme>
-  <programme start="20251013T130000 +0000" stop="20251013T160000 +0000" channel="soccer 20">
-    <title lang="en">Montenegro vs Liechtenstein - starts at 12:00 PM ET</title>
+  <programme start="20251014T130000 +0000" stop="20251014T160000 +0000" channel="soccer 20">
+    <title lang="en">Ivory Coast vs Kenya - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Montenegro</actor>
-      <actor>Liechtenstein</actor>
+      <actor>Ivory Coast</actor>
+      <actor>Kenya</actor>
     </credits>
-    <sub-title lang="en">Venue: Liechtenstein Stadium</sub-title>
+    <sub-title lang="en">Venue: Kenya Stadium</sub-title>
   </programme>
-  <programme start="20251013T160000 +0000" stop="20251013T180000 +0000" channel="soccer 20">
-    <title lang="en">Montenegro vs Liechtenstein</title>
-    <desc lang="en">League: Friendly</desc>
+  <programme start="20251014T160000 +0000" stop="20251014T190000 +0000" channel="soccer 20">
+    <title lang="en">Ivory Coast vs Kenya - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Ivory Coast</actor>
+      <actor>Kenya</actor>
+    </credits>
+    <sub-title lang="en">Venue: Kenya Stadium</sub-title>
+  </programme>
+  <programme start="20251014T190000 +0000" stop="20251014T210000 +0000" channel="soccer 20">
+    <title lang="en">Ivory Coast vs Kenya</title>
+    <desc lang="en">League: WC Qualy.</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Montenegro</actor>
-      <actor>Liechtenstein</actor>
+      <actor>Ivory Coast</actor>
+      <actor>Kenya</actor>
     </credits>
-    <sub-title lang="en">Venue: Liechtenstein Stadium</sub-title>
+    <sub-title lang="en">Venue: Kenya Stadium</sub-title>
+  </programme>
+  <programme start="20251014T100000 +0000" stop="20251014T130000 +0000" channel="soccer 21">
+    <title lang="en">Congo DR vs Sudan - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Congo DR</actor>
+      <actor>Sudan</actor>
+    </credits>
+    <sub-title lang="en">Venue: Sudan Stadium</sub-title>
+  </programme>
+  <programme start="20251014T130000 +0000" stop="20251014T160000 +0000" channel="soccer 21">
+    <title lang="en">Congo DR vs Sudan - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Congo DR</actor>
+      <actor>Sudan</actor>
+    </credits>
+    <sub-title lang="en">Venue: Sudan Stadium</sub-title>
+  </programme>
+  <programme start="20251014T160000 +0000" stop="20251014T190000 +0000" channel="soccer 21">
+    <title lang="en">Congo DR vs Sudan - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Congo DR</actor>
+      <actor>Sudan</actor>
+    </credits>
+    <sub-title lang="en">Venue: Sudan Stadium</sub-title>
+  </programme>
+  <programme start="20251014T190000 +0000" stop="20251014T210000 +0000" channel="soccer 21">
+    <title lang="en">Congo DR vs Sudan</title>
+    <desc lang="en">League: WC Qualy.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Congo DR</actor>
+      <actor>Sudan</actor>
+    </credits>
+    <sub-title lang="en">Venue: Sudan Stadium</sub-title>
+  </programme>
+  <programme start="20251014T100000 +0000" stop="20251014T130000 +0000" channel="soccer 22">
+    <title lang="en">Curaçao vs Trinidad and Tobago - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Curaçao</actor>
+      <actor>Trinidad and Tobago</actor>
+    </credits>
+    <sub-title lang="en">Venue: Trinidad and Tobago Stadium</sub-title>
+  </programme>
+  <programme start="20251014T130000 +0000" stop="20251014T160000 +0000" channel="soccer 22">
+    <title lang="en">Curaçao vs Trinidad and Tobago - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Curaçao</actor>
+      <actor>Trinidad and Tobago</actor>
+    </credits>
+    <sub-title lang="en">Venue: Trinidad and Tobago Stadium</sub-title>
+  </programme>
+  <programme start="20251014T160000 +0000" stop="20251014T190000 +0000" channel="soccer 22">
+    <title lang="en">Curaçao vs Trinidad and Tobago - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Curaçao</actor>
+      <actor>Trinidad and Tobago</actor>
+    </credits>
+    <sub-title lang="en">Venue: Trinidad and Tobago Stadium</sub-title>
+  </programme>
+  <programme start="20251014T190000 +0000" stop="20251014T220000 +0000" channel="soccer 22">
+    <title lang="en">Curaçao vs Trinidad and Tobago - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Curaçao</actor>
+      <actor>Trinidad and Tobago</actor>
+    </credits>
+    <sub-title lang="en">Venue: Trinidad and Tobago Stadium</sub-title>
+  </programme>
+  <programme start="20251014T230000 +0000" stop="20251015T010000 +0000" channel="soccer 22">
+    <title lang="en">Curaçao vs Trinidad and Tobago</title>
+    <desc lang="en">League: WC Qualy.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Curaçao</actor>
+      <actor>Trinidad and Tobago</actor>
+    </credits>
+    <sub-title lang="en">Venue: Trinidad and Tobago Stadium</sub-title>
+  </programme>
+  <programme start="20251014T100000 +0000" stop="20251014T130000 +0000" channel="soccer 23">
+    <title lang="en">Jamaica vs Bermuda - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Jamaica</actor>
+      <actor>Bermuda</actor>
+    </credits>
+    <sub-title lang="en">Venue: Bermuda Stadium</sub-title>
+  </programme>
+  <programme start="20251014T130000 +0000" stop="20251014T160000 +0000" channel="soccer 23">
+    <title lang="en">Jamaica vs Bermuda - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Jamaica</actor>
+      <actor>Bermuda</actor>
+    </credits>
+    <sub-title lang="en">Venue: Bermuda Stadium</sub-title>
+  </programme>
+  <programme start="20251014T160000 +0000" stop="20251014T190000 +0000" channel="soccer 23">
+    <title lang="en">Jamaica vs Bermuda - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Jamaica</actor>
+      <actor>Bermuda</actor>
+    </credits>
+    <sub-title lang="en">Venue: Bermuda Stadium</sub-title>
+  </programme>
+  <programme start="20251014T190000 +0000" stop="20251014T220000 +0000" channel="soccer 23">
+    <title lang="en">Jamaica vs Bermuda - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Jamaica</actor>
+      <actor>Bermuda</actor>
+    </credits>
+    <sub-title lang="en">Venue: Bermuda Stadium</sub-title>
+  </programme>
+  <programme start="20251015T000000 +0000" stop="20251015T020000 +0000" channel="soccer 23">
+    <title lang="en">Jamaica vs Bermuda</title>
+    <desc lang="en">League: WC Qualy.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Jamaica</actor>
+      <actor>Bermuda</actor>
+    </credits>
+    <sub-title lang="en">Venue: Bermuda Stadium</sub-title>
+  </programme>
+  <programme start="20251014T100000 +0000" stop="20251014T130000 +0000" channel="soccer 24">
+    <title lang="en">Panama vs Suriname - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Panama</actor>
+      <actor>Suriname</actor>
+    </credits>
+    <sub-title lang="en">Venue: Suriname Stadium</sub-title>
+  </programme>
+  <programme start="20251014T130000 +0000" stop="20251014T160000 +0000" channel="soccer 24">
+    <title lang="en">Panama vs Suriname - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Panama</actor>
+      <actor>Suriname</actor>
+    </credits>
+    <sub-title lang="en">Venue: Suriname Stadium</sub-title>
+  </programme>
+  <programme start="20251014T160000 +0000" stop="20251014T190000 +0000" channel="soccer 24">
+    <title lang="en">Panama vs Suriname - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Panama</actor>
+      <actor>Suriname</actor>
+    </credits>
+    <sub-title lang="en">Venue: Suriname Stadium</sub-title>
+  </programme>
+  <programme start="20251014T190000 +0000" stop="20251014T220000 +0000" channel="soccer 24">
+    <title lang="en">Panama vs Suriname - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Panama</actor>
+      <actor>Suriname</actor>
+    </credits>
+    <sub-title lang="en">Venue: Suriname Stadium</sub-title>
+  </programme>
+  <programme start="20251014T220000 +0000" stop="20251015T010000 +0000" channel="soccer 24">
+    <title lang="en">Panama vs Suriname - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Panama</actor>
+      <actor>Suriname</actor>
+    </credits>
+    <sub-title lang="en">Venue: Suriname Stadium</sub-title>
+  </programme>
+  <programme start="20251015T010000 +0000" stop="20251015T030000 +0000" channel="soccer 24">
+    <title lang="en">Panama vs Suriname</title>
+    <desc lang="en">League: WC Qualy.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Panama</actor>
+      <actor>Suriname</actor>
+    </credits>
+    <sub-title lang="en">Venue: Suriname Stadium</sub-title>
+  </programme>
+  <programme start="20251014T100000 +0000" stop="20251014T130000 +0000" channel="soccer 25">
+    <title lang="en">El Salvador vs Guatemala - starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>El Salvador</actor>
+      <actor>Guatemala</actor>
+    </credits>
+    <sub-title lang="en">Venue: Guatemala Stadium</sub-title>
+  </programme>
+  <programme start="20251014T130000 +0000" stop="20251014T160000 +0000" channel="soccer 25">
+    <title lang="en">El Salvador vs Guatemala - starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>El Salvador</actor>
+      <actor>Guatemala</actor>
+    </credits>
+    <sub-title lang="en">Venue: Guatemala Stadium</sub-title>
+  </programme>
+  <programme start="20251014T160000 +0000" stop="20251014T190000 +0000" channel="soccer 25">
+    <title lang="en">El Salvador vs Guatemala - starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>El Salvador</actor>
+      <actor>Guatemala</actor>
+    </credits>
+    <sub-title lang="en">Venue: Guatemala Stadium</sub-title>
+  </programme>
+  <programme start="20251014T190000 +0000" stop="20251014T220000 +0000" channel="soccer 25">
+    <title lang="en">El Salvador vs Guatemala - starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>El Salvador</actor>
+      <actor>Guatemala</actor>
+    </credits>
+    <sub-title lang="en">Venue: Guatemala Stadium</sub-title>
+  </programme>
+  <programme start="20251014T220000 +0000" stop="20251015T010000 +0000" channel="soccer 25">
+    <title lang="en">El Salvador vs Guatemala - starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>El Salvador</actor>
+      <actor>Guatemala</actor>
+    </credits>
+    <sub-title lang="en">Venue: Guatemala Stadium</sub-title>
+  </programme>
+  <programme start="20251015T020000 +0000" stop="20251015T040000 +0000" channel="soccer 25">
+    <title lang="en">El Salvador vs Guatemala</title>
+    <desc lang="en">League: WC Qualy.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>El Salvador</actor>
+      <actor>Guatemala</actor>
+    </credits>
+    <sub-title lang="en">Venue: Guatemala Stadium</sub-title>
   </programme>
 </tv>
