@@ -1275,1254 +1275,229 @@
   <channel id="seasonal 25">
     <display-name>Seasonal 25</display-name>
   </channel>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 01">
-    <title lang="en">Arsenal vs Crystal Palace - starts at 10:00 AM ET</title>
+  <programme start="20251027T100000 +0000" stop="20251027T130000 +0000" channel="soccer 01">
+    <title lang="en">Real Betis vs Atlético Madrid - starts at 4:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Arsenal</actor>
-      <actor>Crystal Palace</actor>
+      <actor>Real Betis</actor>
+      <actor>Atlético Madrid</actor>
     </credits>
-    <sub-title lang="en">Venue: Crystal Palace Stadium</sub-title>
+    <sub-title lang="en">Venue: Atlético Madrid Stadium</sub-title>
   </programme>
-  <programme start="20251026T140000 +0000" stop="20251026T160000 +0000" channel="soccer 01">
-    <title lang="en">Arsenal vs Crystal Palace</title>
-    <desc lang="en">League: EPL</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Arsenal</actor>
-      <actor>Crystal Palace</actor>
-    </credits>
-    <sub-title lang="en">Venue: Crystal Palace Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 02">
-    <title lang="en">Wolves vs Burnley - starts at 10:00 AM ET</title>
+  <programme start="20251027T130000 +0000" stop="20251027T160000 +0000" channel="soccer 01">
+    <title lang="en">Real Betis vs Atlético Madrid - starts at 4:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Wolves</actor>
-      <actor>Burnley</actor>
+      <actor>Real Betis</actor>
+      <actor>Atlético Madrid</actor>
     </credits>
-    <sub-title lang="en">Venue: Burnley Stadium</sub-title>
+    <sub-title lang="en">Venue: Atlético Madrid Stadium</sub-title>
   </programme>
-  <programme start="20251026T140000 +0000" stop="20251026T160000 +0000" channel="soccer 02">
-    <title lang="en">Wolves vs Burnley</title>
-    <desc lang="en">League: EPL</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Wolves</actor>
-      <actor>Burnley</actor>
-    </credits>
-    <sub-title lang="en">Venue: Burnley Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 03">
-    <title lang="en">Aston Villa vs Manchester City - starts at 10:00 AM ET</title>
+  <programme start="20251027T160000 +0000" stop="20251027T190000 +0000" channel="soccer 01">
+    <title lang="en">Real Betis vs Atlético Madrid - starts at 4:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Aston Villa</actor>
-      <actor>Manchester City</actor>
+      <actor>Real Betis</actor>
+      <actor>Atlético Madrid</actor>
     </credits>
-    <sub-title lang="en">Venue: Manchester City Stadium</sub-title>
+    <sub-title lang="en">Venue: Atlético Madrid Stadium</sub-title>
   </programme>
-  <programme start="20251026T140000 +0000" stop="20251026T160000 +0000" channel="soccer 03">
-    <title lang="en">Aston Villa vs Manchester City</title>
-    <desc lang="en">League: EPL</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Aston Villa</actor>
-      <actor>Manchester City</actor>
-    </credits>
-    <sub-title lang="en">Venue: Manchester City Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 04">
-    <title lang="en">Bournemouth vs Nottingham Forest - starts at 10:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Bournemouth</actor>
-      <actor>Nottingham Forest</actor>
-    </credits>
-    <sub-title lang="en">Venue: Nottingham Forest Stadium</sub-title>
-  </programme>
-  <programme start="20251026T140000 +0000" stop="20251026T160000 +0000" channel="soccer 04">
-    <title lang="en">Bournemouth vs Nottingham Forest</title>
-    <desc lang="en">League: EPL</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Bournemouth</actor>
-      <actor>Nottingham Forest</actor>
-    </credits>
-    <sub-title lang="en">Venue: Nottingham Forest Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 05">
-    <title lang="en">Everton vs Tottenham - starts at 12:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Everton</actor>
-      <actor>Tottenham</actor>
-    </credits>
-    <sub-title lang="en">Venue: Tottenham Stadium</sub-title>
-  </programme>
-  <programme start="20251026T130000 +0000" stop="20251026T160000 +0000" channel="soccer 05">
-    <title lang="en">Everton vs Tottenham - starts at 12:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Everton</actor>
-      <actor>Tottenham</actor>
-    </credits>
-    <sub-title lang="en">Venue: Tottenham Stadium</sub-title>
-  </programme>
-  <programme start="20251026T163000 +0000" stop="20251026T183000 +0000" channel="soccer 05">
-    <title lang="en">Everton vs Tottenham</title>
-    <desc lang="en">League: EPL</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Everton</actor>
-      <actor>Tottenham</actor>
-    </credits>
-    <sub-title lang="en">Venue: Tottenham Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 06">
-    <title lang="en">Mallorca vs Levante - starts at 9:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Mallorca</actor>
-      <actor>Levante</actor>
-    </credits>
-    <sub-title lang="en">Venue: Levante Stadium</sub-title>
-  </programme>
-  <programme start="20251026T130000 +0000" stop="20251026T150000 +0000" channel="soccer 06">
-    <title lang="en">Mallorca vs Levante</title>
+  <programme start="20251027T200000 +0000" stop="20251027T220000 +0000" channel="soccer 01">
+    <title lang="en">Real Betis vs Atlético Madrid</title>
     <desc lang="en">League: LaLiga</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Mallorca</actor>
-      <actor>Levante</actor>
+      <actor>Real Betis</actor>
+      <actor>Atlético Madrid</actor>
     </credits>
-    <sub-title lang="en">Venue: Levante Stadium</sub-title>
+    <sub-title lang="en">Venue: Atlético Madrid Stadium</sub-title>
   </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 07">
-    <title lang="en">Real Madrid vs Barcelona - starts at 11:15 AM ET</title>
+  <programme start="20251027T100000 +0000" stop="20251027T130000 +0000" channel="soccer 02">
+    <title lang="en">Moreirense vs Porto - starts at 4:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Real Madrid</actor>
-      <actor>Barcelona</actor>
+      <actor>Moreirense</actor>
+      <actor>Porto</actor>
     </credits>
-    <sub-title lang="en">Venue: Barcelona Stadium</sub-title>
+    <sub-title lang="en">Venue: Porto Stadium</sub-title>
   </programme>
-  <programme start="20251026T151500 +0000" stop="20251026T171500 +0000" channel="soccer 07">
-    <title lang="en">Real Madrid vs Barcelona</title>
-    <desc lang="en">League: LaLiga</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Real Madrid</actor>
-      <actor>Barcelona</actor>
-    </credits>
-    <sub-title lang="en">Venue: Barcelona Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 08">
-    <title lang="en">Osasuna vs Celta de Vigo - starts at 1:30 PM ET</title>
+  <programme start="20251027T130000 +0000" stop="20251027T160000 +0000" channel="soccer 02">
+    <title lang="en">Moreirense vs Porto - starts at 4:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Osasuna</actor>
-      <actor>Celta de Vigo</actor>
+      <actor>Moreirense</actor>
+      <actor>Porto</actor>
     </credits>
-    <sub-title lang="en">Venue: Celta de Vigo Stadium</sub-title>
+    <sub-title lang="en">Venue: Porto Stadium</sub-title>
   </programme>
-  <programme start="20251026T130000 +0000" stop="20251026T160000 +0000" channel="soccer 08">
-    <title lang="en">Osasuna vs Celta de Vigo - starts at 1:30 PM ET</title>
+  <programme start="20251027T160000 +0000" stop="20251027T190000 +0000" channel="soccer 02">
+    <title lang="en">Moreirense vs Porto - starts at 4:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Osasuna</actor>
-      <actor>Celta de Vigo</actor>
+      <actor>Moreirense</actor>
+      <actor>Porto</actor>
     </credits>
-    <sub-title lang="en">Venue: Celta de Vigo Stadium</sub-title>
+    <sub-title lang="en">Venue: Porto Stadium</sub-title>
   </programme>
-  <programme start="20251026T173000 +0000" stop="20251026T193000 +0000" channel="soccer 08">
-    <title lang="en">Osasuna vs Celta de Vigo</title>
-    <desc lang="en">League: LaLiga</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Osasuna</actor>
-      <actor>Celta de Vigo</actor>
-    </credits>
-    <sub-title lang="en">Venue: Celta de Vigo Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 09">
-    <title lang="en">Rayo Vallecano vs Deportivo Alavés - starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Rayo Vallecano</actor>
-      <actor>Deportivo Alavés</actor>
-    </credits>
-    <sub-title lang="en">Venue: Deportivo Alavés Stadium</sub-title>
-  </programme>
-  <programme start="20251026T130000 +0000" stop="20251026T160000 +0000" channel="soccer 09">
-    <title lang="en">Rayo Vallecano vs Deportivo Alavés - starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Rayo Vallecano</actor>
-      <actor>Deportivo Alavés</actor>
-    </credits>
-    <sub-title lang="en">Venue: Deportivo Alavés Stadium</sub-title>
-  </programme>
-  <programme start="20251026T160000 +0000" stop="20251026T190000 +0000" channel="soccer 09">
-    <title lang="en">Rayo Vallecano vs Deportivo Alavés - starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Rayo Vallecano</actor>
-      <actor>Deportivo Alavés</actor>
-    </credits>
-    <sub-title lang="en">Venue: Deportivo Alavés Stadium</sub-title>
-  </programme>
-  <programme start="20251026T200000 +0000" stop="20251026T220000 +0000" channel="soccer 09">
-    <title lang="en">Rayo Vallecano vs Deportivo Alavés</title>
-    <desc lang="en">League: LaLiga</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Rayo Vallecano</actor>
-      <actor>Deportivo Alavés</actor>
-    </credits>
-    <sub-title lang="en">Venue: Deportivo Alavés Stadium</sub-title>
-  </programme>
-  <programme start="20251026T113000 +0000" stop="20251026T133000 +0000" channel="soccer 10">
-    <title lang="en">Torino vs Genoa</title>
-    <desc lang="en">League: Serie A</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Torino</actor>
-      <actor>Genoa</actor>
-    </credits>
-    <sub-title lang="en">Venue: Genoa Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 11">
-    <title lang="en">Sassuolo vs Roma - starts at 10:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Sassuolo</actor>
-      <actor>Roma</actor>
-    </credits>
-    <sub-title lang="en">Venue: Roma Stadium</sub-title>
-  </programme>
-  <programme start="20251026T140000 +0000" stop="20251026T160000 +0000" channel="soccer 11">
-    <title lang="en">Sassuolo vs Roma</title>
-    <desc lang="en">League: Serie A</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Sassuolo</actor>
-      <actor>Roma</actor>
-    </credits>
-    <sub-title lang="en">Venue: Roma Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 12">
-    <title lang="en">Hellas Verona vs Cagliari - starts at 10:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Hellas Verona</actor>
-      <actor>Cagliari</actor>
-    </credits>
-    <sub-title lang="en">Venue: Cagliari Stadium</sub-title>
-  </programme>
-  <programme start="20251026T140000 +0000" stop="20251026T160000 +0000" channel="soccer 12">
-    <title lang="en">Hellas Verona vs Cagliari</title>
-    <desc lang="en">League: Serie A</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Hellas Verona</actor>
-      <actor>Cagliari</actor>
-    </credits>
-    <sub-title lang="en">Venue: Cagliari Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 13">
-    <title lang="en">Fiorentina vs Bologna - starts at 1:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Fiorentina</actor>
-      <actor>Bologna</actor>
-    </credits>
-    <sub-title lang="en">Venue: Bologna Stadium</sub-title>
-  </programme>
-  <programme start="20251026T130000 +0000" stop="20251026T160000 +0000" channel="soccer 13">
-    <title lang="en">Fiorentina vs Bologna - starts at 1:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Fiorentina</actor>
-      <actor>Bologna</actor>
-    </credits>
-    <sub-title lang="en">Venue: Bologna Stadium</sub-title>
-  </programme>
-  <programme start="20251026T170000 +0000" stop="20251026T190000 +0000" channel="soccer 13">
-    <title lang="en">Fiorentina vs Bologna</title>
-    <desc lang="en">League: Serie A</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Fiorentina</actor>
-      <actor>Bologna</actor>
-    </credits>
-    <sub-title lang="en">Venue: Bologna Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 14">
-    <title lang="en">Lazio vs Juventus - starts at 3:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lazio</actor>
-      <actor>Juventus</actor>
-    </credits>
-    <sub-title lang="en">Venue: Juventus Stadium</sub-title>
-  </programme>
-  <programme start="20251026T130000 +0000" stop="20251026T160000 +0000" channel="soccer 14">
-    <title lang="en">Lazio vs Juventus - starts at 3:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lazio</actor>
-      <actor>Juventus</actor>
-    </credits>
-    <sub-title lang="en">Venue: Juventus Stadium</sub-title>
-  </programme>
-  <programme start="20251026T160000 +0000" stop="20251026T190000 +0000" channel="soccer 14">
-    <title lang="en">Lazio vs Juventus - starts at 3:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lazio</actor>
-      <actor>Juventus</actor>
-    </credits>
-    <sub-title lang="en">Venue: Juventus Stadium</sub-title>
-  </programme>
-  <programme start="20251026T194500 +0000" stop="20251026T214500 +0000" channel="soccer 14">
-    <title lang="en">Lazio vs Juventus</title>
-    <desc lang="en">League: Serie A</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lazio</actor>
-      <actor>Juventus</actor>
-    </credits>
-    <sub-title lang="en">Venue: Juventus Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 15">
-    <title lang="en">Bayer Leverkusen vs Freiburg - starts at 10:30 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Bayer Leverkusen</actor>
-      <actor>Freiburg</actor>
-    </credits>
-    <sub-title lang="en">Venue: Freiburg Stadium</sub-title>
-  </programme>
-  <programme start="20251026T143000 +0000" stop="20251026T163000 +0000" channel="soccer 15">
-    <title lang="en">Bayer Leverkusen vs Freiburg</title>
-    <desc lang="en">League: Bundesliga</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Bayer Leverkusen</actor>
-      <actor>Freiburg</actor>
-    </credits>
-    <sub-title lang="en">Venue: Freiburg Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 16">
-    <title lang="en">Stuttgart vs Mainz 05 - starts at 12:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Stuttgart</actor>
-      <actor>Mainz 05</actor>
-    </credits>
-    <sub-title lang="en">Venue: Mainz 05 Stadium</sub-title>
-  </programme>
-  <programme start="20251026T130000 +0000" stop="20251026T160000 +0000" channel="soccer 16">
-    <title lang="en">Stuttgart vs Mainz 05 - starts at 12:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Stuttgart</actor>
-      <actor>Mainz 05</actor>
-    </credits>
-    <sub-title lang="en">Venue: Mainz 05 Stadium</sub-title>
-  </programme>
-  <programme start="20251026T163000 +0000" stop="20251026T183000 +0000" channel="soccer 16">
-    <title lang="en">Stuttgart vs Mainz 05</title>
-    <desc lang="en">League: Bundesliga</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Stuttgart</actor>
-      <actor>Mainz 05</actor>
-    </credits>
-    <sub-title lang="en">Venue: Mainz 05 Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 17">
-    <title lang="en">Lille vs Metz - starts at 10:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lille</actor>
-      <actor>Metz</actor>
-    </credits>
-    <sub-title lang="en">Venue: Metz Stadium</sub-title>
-  </programme>
-  <programme start="20251026T140000 +0000" stop="20251026T160000 +0000" channel="soccer 17">
-    <title lang="en">Lille vs Metz</title>
-    <desc lang="en">League: Ligue 1</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lille</actor>
-      <actor>Metz</actor>
-    </credits>
-    <sub-title lang="en">Venue: Metz Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 18">
-    <title lang="en">Rennes vs Nice - starts at 12:15 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Rennes</actor>
-      <actor>Nice</actor>
-    </credits>
-    <sub-title lang="en">Venue: Nice Stadium</sub-title>
-  </programme>
-  <programme start="20251026T130000 +0000" stop="20251026T160000 +0000" channel="soccer 18">
-    <title lang="en">Rennes vs Nice - starts at 12:15 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Rennes</actor>
-      <actor>Nice</actor>
-    </credits>
-    <sub-title lang="en">Venue: Nice Stadium</sub-title>
-  </programme>
-  <programme start="20251026T161500 +0000" stop="20251026T181500 +0000" channel="soccer 18">
-    <title lang="en">Rennes vs Nice</title>
-    <desc lang="en">League: Ligue 1</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Rennes</actor>
-      <actor>Nice</actor>
-    </credits>
-    <sub-title lang="en">Venue: Nice Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 19">
-    <title lang="en">Lyon vs Strasbourg - starts at 3:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lyon</actor>
-      <actor>Strasbourg</actor>
-    </credits>
-    <sub-title lang="en">Venue: Strasbourg Stadium</sub-title>
-  </programme>
-  <programme start="20251026T130000 +0000" stop="20251026T160000 +0000" channel="soccer 19">
-    <title lang="en">Lyon vs Strasbourg - starts at 3:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lyon</actor>
-      <actor>Strasbourg</actor>
-    </credits>
-    <sub-title lang="en">Venue: Strasbourg Stadium</sub-title>
-  </programme>
-  <programme start="20251026T160000 +0000" stop="20251026T190000 +0000" channel="soccer 19">
-    <title lang="en">Lyon vs Strasbourg - starts at 3:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lyon</actor>
-      <actor>Strasbourg</actor>
-    </credits>
-    <sub-title lang="en">Venue: Strasbourg Stadium</sub-title>
-  </programme>
-  <programme start="20251026T194500 +0000" stop="20251026T214500 +0000" channel="soccer 19">
-    <title lang="en">Lyon vs Strasbourg</title>
-    <desc lang="en">League: Ligue 1</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lyon</actor>
-      <actor>Strasbourg</actor>
-    </credits>
-    <sub-title lang="en">Venue: Strasbourg Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 20">
-    <title lang="en">Famalicão vs Guimarães - starts at 11:30 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Famalicão</actor>
-      <actor>Guimarães</actor>
-    </credits>
-    <sub-title lang="en">Venue: Guimarães Stadium</sub-title>
-  </programme>
-  <programme start="20251026T153000 +0000" stop="20251026T173000 +0000" channel="soccer 20">
-    <title lang="en">Famalicão vs Guimarães</title>
+  <programme start="20251027T201500 +0000" stop="20251027T221500 +0000" channel="soccer 02">
+    <title lang="en">Moreirense vs Porto</title>
     <desc lang="en">League: Betclic</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Famalicão</actor>
-      <actor>Guimarães</actor>
+      <actor>Moreirense</actor>
+      <actor>Porto</actor>
     </credits>
-    <sub-title lang="en">Venue: Guimarães Stadium</sub-title>
+    <sub-title lang="en">Venue: Porto Stadium</sub-title>
   </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 21">
-    <title lang="en">Estoril vs Nacional - starts at 11:30 AM ET</title>
+  <programme start="20251027T100000 +0000" stop="20251027T130000 +0000" channel="soccer 03">
+    <title lang="en">Gaziantep FK vs Fenerbahçe - starts at 1:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Estoril</actor>
-      <actor>Nacional</actor>
+      <actor>Gaziantep FK</actor>
+      <actor>Fenerbahçe</actor>
     </credits>
-    <sub-title lang="en">Venue: Nacional Stadium</sub-title>
+    <sub-title lang="en">Venue: Fenerbahçe Stadium</sub-title>
   </programme>
-  <programme start="20251026T153000 +0000" stop="20251026T173000 +0000" channel="soccer 21">
-    <title lang="en">Estoril vs Nacional</title>
-    <desc lang="en">League: Betclic</desc>
+  <programme start="20251027T130000 +0000" stop="20251027T160000 +0000" channel="soccer 03">
+    <title lang="en">Gaziantep FK vs Fenerbahçe - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Gaziantep FK</actor>
+      <actor>Fenerbahçe</actor>
+    </credits>
+    <sub-title lang="en">Venue: Fenerbahçe Stadium</sub-title>
+  </programme>
+  <programme start="20251027T170000 +0000" stop="20251027T190000 +0000" channel="soccer 03">
+    <title lang="en">Gaziantep FK vs Fenerbahçe</title>
+    <desc lang="en">League: Super Lig</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Estoril</actor>
-      <actor>Nacional</actor>
+      <actor>Gaziantep FK</actor>
+      <actor>Fenerbahçe</actor>
     </credits>
-    <sub-title lang="en">Venue: Nacional Stadium</sub-title>
+    <sub-title lang="en">Venue: Fenerbahçe Stadium</sub-title>
   </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 22">
-    <title lang="en">Tondela vs Sporting - starts at 2:00 PM ET</title>
+  <programme start="20251027T100000 +0000" stop="20251027T130000 +0000" channel="soccer 04">
+    <title lang="en">Cincinnati vs Columbus Crew - starts at 6:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Tondela</actor>
-      <actor>Sporting</actor>
+      <actor>Cincinnati</actor>
+      <actor>Columbus Crew</actor>
     </credits>
-    <sub-title lang="en">Venue: Sporting Stadium</sub-title>
+    <sub-title lang="en">Venue: Columbus Crew Stadium</sub-title>
   </programme>
-  <programme start="20251026T130000 +0000" stop="20251026T160000 +0000" channel="soccer 22">
-    <title lang="en">Tondela vs Sporting - starts at 2:00 PM ET</title>
+  <programme start="20251027T130000 +0000" stop="20251027T160000 +0000" channel="soccer 04">
+    <title lang="en">Cincinnati vs Columbus Crew - starts at 6:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Tondela</actor>
-      <actor>Sporting</actor>
+      <actor>Cincinnati</actor>
+      <actor>Columbus Crew</actor>
     </credits>
-    <sub-title lang="en">Venue: Sporting Stadium</sub-title>
+    <sub-title lang="en">Venue: Columbus Crew Stadium</sub-title>
   </programme>
-  <programme start="20251026T180000 +0000" stop="20251026T200000 +0000" channel="soccer 22">
-    <title lang="en">Tondela vs Sporting</title>
-    <desc lang="en">League: Betclic</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Tondela</actor>
-      <actor>Sporting</actor>
-    </credits>
-    <sub-title lang="en">Venue: Sporting Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 23">
-    <title lang="en">Braga vs Casa Pia - starts at 4:30 PM ET</title>
+  <programme start="20251027T160000 +0000" stop="20251027T190000 +0000" channel="soccer 04">
+    <title lang="en">Cincinnati vs Columbus Crew - starts at 6:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Braga</actor>
-      <actor>Casa Pia</actor>
+      <actor>Cincinnati</actor>
+      <actor>Columbus Crew</actor>
     </credits>
-    <sub-title lang="en">Venue: Casa Pia Stadium</sub-title>
+    <sub-title lang="en">Venue: Columbus Crew Stadium</sub-title>
   </programme>
-  <programme start="20251026T130000 +0000" stop="20251026T160000 +0000" channel="soccer 23">
-    <title lang="en">Braga vs Casa Pia - starts at 4:30 PM ET</title>
+  <programme start="20251027T190000 +0000" stop="20251027T220000 +0000" channel="soccer 04">
+    <title lang="en">Cincinnati vs Columbus Crew - starts at 6:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Braga</actor>
-      <actor>Casa Pia</actor>
+      <actor>Cincinnati</actor>
+      <actor>Columbus Crew</actor>
     </credits>
-    <sub-title lang="en">Venue: Casa Pia Stadium</sub-title>
+    <sub-title lang="en">Venue: Columbus Crew Stadium</sub-title>
   </programme>
-  <programme start="20251026T160000 +0000" stop="20251026T190000 +0000" channel="soccer 23">
-    <title lang="en">Braga vs Casa Pia - starts at 4:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Braga</actor>
-      <actor>Casa Pia</actor>
-    </credits>
-    <sub-title lang="en">Venue: Casa Pia Stadium</sub-title>
-  </programme>
-  <programme start="20251026T203000 +0000" stop="20251026T223000 +0000" channel="soccer 23">
-    <title lang="en">Braga vs Casa Pia</title>
-    <desc lang="en">League: Betclic</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Braga</actor>
-      <actor>Casa Pia</actor>
-    </credits>
-    <sub-title lang="en">Venue: Casa Pia Stadium</sub-title>
-  </programme>
-  <programme start="20251026T123000 +0000" stop="20251026T143000 +0000" channel="soccer 24">
-    <title lang="en">Antwerp vs Club Brugge</title>
-    <desc lang="en">League: Jupiler</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Antwerp</actor>
-      <actor>Club Brugge</actor>
-    </credits>
-    <sub-title lang="en">Venue: Club Brugge Stadium</sub-title>
-  </programme>
-  <programme start="20251026T111500 +0000" stop="20251026T131500 +0000" channel="soccer 25">
-    <title lang="en">Twente vs Ajax</title>
-    <desc lang="en">League: Eredivisie</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Twente</actor>
-      <actor>Ajax</actor>
-    </credits>
-    <sub-title lang="en">Venue: Ajax Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 26">
-    <title lang="en">Feyenord vs PSV - starts at 9:30 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Feyenord</actor>
-      <actor>PSV</actor>
-    </credits>
-    <sub-title lang="en">Venue: PSV Stadium</sub-title>
-  </programme>
-  <programme start="20251026T133000 +0000" stop="20251026T153000 +0000" channel="soccer 26">
-    <title lang="en">Feyenord vs PSV</title>
-    <desc lang="en">League: Eredivisie</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Feyenord</actor>
-      <actor>PSV</actor>
-    </credits>
-    <sub-title lang="en">Venue: PSV Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 27">
-    <title lang="en">AZ vs Utrecht - starts at 11:45 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>AZ</actor>
-      <actor>Utrecht</actor>
-    </credits>
-    <sub-title lang="en">Venue: Utrecht Stadium</sub-title>
-  </programme>
-  <programme start="20251026T154500 +0000" stop="20251026T174500 +0000" channel="soccer 27">
-    <title lang="en">AZ vs Utrecht</title>
-    <desc lang="en">League: Eredivisie</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>AZ</actor>
-      <actor>Utrecht</actor>
-    </credits>
-    <sub-title lang="en">Venue: Utrecht Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 28">
-    <title lang="en">Go Ahead Eagles vs Excelsior - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Go Ahead Eagles</actor>
-      <actor>Excelsior</actor>
-    </credits>
-    <sub-title lang="en">Venue: Excelsior Stadium</sub-title>
-  </programme>
-  <programme start="20251026T130000 +0000" stop="20251026T160000 +0000" channel="soccer 28">
-    <title lang="en">Go Ahead Eagles vs Excelsior - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Go Ahead Eagles</actor>
-      <actor>Excelsior</actor>
-    </credits>
-    <sub-title lang="en">Venue: Excelsior Stadium</sub-title>
-  </programme>
-  <programme start="20251026T160000 +0000" stop="20251026T190000 +0000" channel="soccer 28">
-    <title lang="en">Go Ahead Eagles vs Excelsior - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Go Ahead Eagles</actor>
-      <actor>Excelsior</actor>
-    </credits>
-    <sub-title lang="en">Venue: Excelsior Stadium</sub-title>
-  </programme>
-  <programme start="20251026T190000 +0000" stop="20251026T210000 +0000" channel="soccer 28">
-    <title lang="en">Go Ahead Eagles vs Excelsior</title>
-    <desc lang="en">League: Eredivisie</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Go Ahead Eagles</actor>
-      <actor>Excelsior</actor>
-    </credits>
-    <sub-title lang="en">Venue: Excelsior Stadium</sub-title>
-  </programme>
-  <programme start="20251026T120000 +0000" stop="20251026T140000 +0000" channel="soccer 29">
-    <title lang="en">Hearts vs Celtic</title>
-    <desc lang="en">League: Premiership</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Hearts</actor>
-      <actor>Celtic</actor>
-    </credits>
-    <sub-title lang="en">Venue: Celtic Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 30">
-    <title lang="en">Aberdeen vs Hibernian - starts at 10:30 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Aberdeen</actor>
-      <actor>Hibernian</actor>
-    </credits>
-    <sub-title lang="en">Venue: Hibernian Stadium</sub-title>
-  </programme>
-  <programme start="20251026T143000 +0000" stop="20251026T163000 +0000" channel="soccer 30">
-    <title lang="en">Aberdeen vs Hibernian</title>
-    <desc lang="en">League: Premiership</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Aberdeen</actor>
-      <actor>Hibernian</actor>
-    </credits>
-    <sub-title lang="en">Venue: Hibernian Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 31">
-    <title lang="en">Botafogo vs Santos - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Botafogo</actor>
-      <actor>Santos</actor>
-    </credits>
-    <sub-title lang="en">Venue: Santos Stadium</sub-title>
-  </programme>
-  <programme start="20251026T130000 +0000" stop="20251026T160000 +0000" channel="soccer 31">
-    <title lang="en">Botafogo vs Santos - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Botafogo</actor>
-      <actor>Santos</actor>
-    </credits>
-    <sub-title lang="en">Venue: Santos Stadium</sub-title>
-  </programme>
-  <programme start="20251026T160000 +0000" stop="20251026T190000 +0000" channel="soccer 31">
-    <title lang="en">Botafogo vs Santos - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Botafogo</actor>
-      <actor>Santos</actor>
-    </credits>
-    <sub-title lang="en">Venue: Santos Stadium</sub-title>
-  </programme>
-  <programme start="20251026T190000 +0000" stop="20251026T210000 +0000" channel="soccer 31">
-    <title lang="en">Botafogo vs Santos</title>
-    <desc lang="en">League: Brasileirao</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Botafogo</actor>
-      <actor>Santos</actor>
-    </credits>
-    <sub-title lang="en">Venue: Santos Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 32">
-    <title lang="en">Grêmio vs Juventude - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Grêmio</actor>
-      <actor>Juventude</actor>
-    </credits>
-    <sub-title lang="en">Venue: Juventude Stadium</sub-title>
-  </programme>
-  <programme start="20251026T130000 +0000" stop="20251026T160000 +0000" channel="soccer 32">
-    <title lang="en">Grêmio vs Juventude - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Grêmio</actor>
-      <actor>Juventude</actor>
-    </credits>
-    <sub-title lang="en">Venue: Juventude Stadium</sub-title>
-  </programme>
-  <programme start="20251026T160000 +0000" stop="20251026T190000 +0000" channel="soccer 32">
-    <title lang="en">Grêmio vs Juventude - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Grêmio</actor>
-      <actor>Juventude</actor>
-    </credits>
-    <sub-title lang="en">Venue: Juventude Stadium</sub-title>
-  </programme>
-  <programme start="20251026T190000 +0000" stop="20251026T210000 +0000" channel="soccer 32">
-    <title lang="en">Grêmio vs Juventude</title>
-    <desc lang="en">League: Brasileirao</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Grêmio</actor>
-      <actor>Juventude</actor>
-    </credits>
-    <sub-title lang="en">Venue: Juventude Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 33">
-    <title lang="en">Bragantino vs Vasco - starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Bragantino</actor>
-      <actor>Vasco</actor>
-    </credits>
-    <sub-title lang="en">Venue: Vasco Stadium</sub-title>
-  </programme>
-  <programme start="20251026T130000 +0000" stop="20251026T160000 +0000" channel="soccer 33">
-    <title lang="en">Bragantino vs Vasco - starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Bragantino</actor>
-      <actor>Vasco</actor>
-    </credits>
-    <sub-title lang="en">Venue: Vasco Stadium</sub-title>
-  </programme>
-  <programme start="20251026T160000 +0000" stop="20251026T190000 +0000" channel="soccer 33">
-    <title lang="en">Bragantino vs Vasco - starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Bragantino</actor>
-      <actor>Vasco</actor>
-    </credits>
-    <sub-title lang="en">Venue: Vasco Stadium</sub-title>
-  </programme>
-  <programme start="20251026T213000 +0000" stop="20251026T233000 +0000" channel="soccer 33">
-    <title lang="en">Bragantino vs Vasco</title>
-    <desc lang="en">League: Brasileirao</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Bragantino</actor>
-      <actor>Vasco</actor>
-    </credits>
-    <sub-title lang="en">Venue: Vasco Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 34">
-    <title lang="en">Palmeiras vs Cruzeiro - starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Palmeiras</actor>
-      <actor>Cruzeiro</actor>
-    </credits>
-    <sub-title lang="en">Venue: Cruzeiro Stadium</sub-title>
-  </programme>
-  <programme start="20251026T130000 +0000" stop="20251026T160000 +0000" channel="soccer 34">
-    <title lang="en">Palmeiras vs Cruzeiro - starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Palmeiras</actor>
-      <actor>Cruzeiro</actor>
-    </credits>
-    <sub-title lang="en">Venue: Cruzeiro Stadium</sub-title>
-  </programme>
-  <programme start="20251026T160000 +0000" stop="20251026T190000 +0000" channel="soccer 34">
-    <title lang="en">Palmeiras vs Cruzeiro - starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Palmeiras</actor>
-      <actor>Cruzeiro</actor>
-    </credits>
-    <sub-title lang="en">Venue: Cruzeiro Stadium</sub-title>
-  </programme>
-  <programme start="20251026T190000 +0000" stop="20251026T220000 +0000" channel="soccer 34">
-    <title lang="en">Palmeiras vs Cruzeiro - starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Palmeiras</actor>
-      <actor>Cruzeiro</actor>
-    </credits>
-    <sub-title lang="en">Venue: Cruzeiro Stadium</sub-title>
-  </programme>
-  <programme start="20251026T233000 +0000" stop="20251027T013000 +0000" channel="soccer 34">
-    <title lang="en">Palmeiras vs Cruzeiro</title>
-    <desc lang="en">League: Brasileirao</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Palmeiras</actor>
-      <actor>Cruzeiro</actor>
-    </credits>
-    <sub-title lang="en">Venue: Cruzeiro Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 35">
-    <title lang="en">Philadelphia vs Chicago - starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Philadelphia</actor>
-      <actor>Chicago</actor>
-    </credits>
-    <sub-title lang="en">Venue: Chicago Stadium</sub-title>
-  </programme>
-  <programme start="20251026T130000 +0000" stop="20251026T160000 +0000" channel="soccer 35">
-    <title lang="en">Philadelphia vs Chicago - starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Philadelphia</actor>
-      <actor>Chicago</actor>
-    </credits>
-    <sub-title lang="en">Venue: Chicago Stadium</sub-title>
-  </programme>
-  <programme start="20251026T160000 +0000" stop="20251026T190000 +0000" channel="soccer 35">
-    <title lang="en">Philadelphia vs Chicago - starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Philadelphia</actor>
-      <actor>Chicago</actor>
-    </credits>
-    <sub-title lang="en">Venue: Chicago Stadium</sub-title>
-  </programme>
-  <programme start="20251026T213000 +0000" stop="20251026T233000 +0000" channel="soccer 35">
-    <title lang="en">Philadelphia vs Chicago</title>
+  <programme start="20251027T224500 +0000" stop="20251028T004500 +0000" channel="soccer 04">
+    <title lang="en">Cincinnati vs Columbus Crew</title>
     <desc lang="en">League: MLS</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Philadelphia</actor>
-      <actor>Chicago</actor>
+      <actor>Cincinnati</actor>
+      <actor>Columbus Crew</actor>
     </credits>
-    <sub-title lang="en">Venue: Chicago Stadium</sub-title>
+    <sub-title lang="en">Venue: Columbus Crew Stadium</sub-title>
   </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 36">
-    <title lang="en">Vancouver vs Dallas - starts at 7:30 PM ET</title>
+  <programme start="20251027T100000 +0000" stop="20251027T130000 +0000" channel="soccer 05">
+    <title lang="en">Minnesota vs Seattle - starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Vancouver</actor>
-      <actor>Dallas</actor>
+      <actor>Minnesota</actor>
+      <actor>Seattle</actor>
     </credits>
-    <sub-title lang="en">Venue: Dallas Stadium</sub-title>
+    <sub-title lang="en">Venue: Seattle Stadium</sub-title>
   </programme>
-  <programme start="20251026T130000 +0000" stop="20251026T160000 +0000" channel="soccer 36">
-    <title lang="en">Vancouver vs Dallas - starts at 7:30 PM ET</title>
+  <programme start="20251027T130000 +0000" stop="20251027T160000 +0000" channel="soccer 05">
+    <title lang="en">Minnesota vs Seattle - starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Vancouver</actor>
-      <actor>Dallas</actor>
+      <actor>Minnesota</actor>
+      <actor>Seattle</actor>
     </credits>
-    <sub-title lang="en">Venue: Dallas Stadium</sub-title>
+    <sub-title lang="en">Venue: Seattle Stadium</sub-title>
   </programme>
-  <programme start="20251026T160000 +0000" stop="20251026T190000 +0000" channel="soccer 36">
-    <title lang="en">Vancouver vs Dallas - starts at 7:30 PM ET</title>
+  <programme start="20251027T160000 +0000" stop="20251027T190000 +0000" channel="soccer 05">
+    <title lang="en">Minnesota vs Seattle - starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Vancouver</actor>
-      <actor>Dallas</actor>
+      <actor>Minnesota</actor>
+      <actor>Seattle</actor>
     </credits>
-    <sub-title lang="en">Venue: Dallas Stadium</sub-title>
+    <sub-title lang="en">Venue: Seattle Stadium</sub-title>
   </programme>
-  <programme start="20251026T190000 +0000" stop="20251026T220000 +0000" channel="soccer 36">
-    <title lang="en">Vancouver vs Dallas - starts at 7:30 PM ET</title>
+  <programme start="20251027T190000 +0000" stop="20251027T220000 +0000" channel="soccer 05">
+    <title lang="en">Minnesota vs Seattle - starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Vancouver</actor>
-      <actor>Dallas</actor>
+      <actor>Minnesota</actor>
+      <actor>Seattle</actor>
     </credits>
-    <sub-title lang="en">Venue: Dallas Stadium</sub-title>
+    <sub-title lang="en">Venue: Seattle Stadium</sub-title>
   </programme>
-  <programme start="20251026T233000 +0000" stop="20251027T013000 +0000" channel="soccer 36">
-    <title lang="en">Vancouver vs Dallas</title>
+  <programme start="20251027T220000 +0000" stop="20251028T010000 +0000" channel="soccer 05">
+    <title lang="en">Minnesota vs Seattle - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Minnesota</actor>
+      <actor>Seattle</actor>
+    </credits>
+    <sub-title lang="en">Venue: Seattle Stadium</sub-title>
+  </programme>
+  <programme start="20251028T010000 +0000" stop="20251028T030000 +0000" channel="soccer 05">
+    <title lang="en">Minnesota vs Seattle</title>
     <desc lang="en">League: MLS</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Vancouver</actor>
-      <actor>Dallas</actor>
+      <actor>Minnesota</actor>
+      <actor>Seattle</actor>
     </credits>
-    <sub-title lang="en">Venue: Dallas Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 37">
-    <title lang="en">San Diego vs Portland - starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>San Diego</actor>
-      <actor>Portland</actor>
-    </credits>
-    <sub-title lang="en">Venue: Portland Stadium</sub-title>
-  </programme>
-  <programme start="20251026T130000 +0000" stop="20251026T160000 +0000" channel="soccer 37">
-    <title lang="en">San Diego vs Portland - starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>San Diego</actor>
-      <actor>Portland</actor>
-    </credits>
-    <sub-title lang="en">Venue: Portland Stadium</sub-title>
-  </programme>
-  <programme start="20251026T160000 +0000" stop="20251026T190000 +0000" channel="soccer 37">
-    <title lang="en">San Diego vs Portland - starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>San Diego</actor>
-      <actor>Portland</actor>
-    </credits>
-    <sub-title lang="en">Venue: Portland Stadium</sub-title>
-  </programme>
-  <programme start="20251026T190000 +0000" stop="20251026T220000 +0000" channel="soccer 37">
-    <title lang="en">San Diego vs Portland - starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>San Diego</actor>
-      <actor>Portland</actor>
-    </credits>
-    <sub-title lang="en">Venue: Portland Stadium</sub-title>
-  </programme>
-  <programme start="20251026T220000 +0000" stop="20251027T010000 +0000" channel="soccer 37">
-    <title lang="en">San Diego vs Portland - starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>San Diego</actor>
-      <actor>Portland</actor>
-    </credits>
-    <sub-title lang="en">Venue: Portland Stadium</sub-title>
-  </programme>
-  <programme start="20251027T013000 +0000" stop="20251027T033000 +0000" channel="soccer 37">
-    <title lang="en">San Diego vs Portland</title>
-    <desc lang="en">League: MLS</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>San Diego</actor>
-      <actor>Portland</actor>
-    </credits>
-    <sub-title lang="en">Venue: Portland Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 38">
-    <title lang="en">Santos Laguna vs Querétaro - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Santos Laguna</actor>
-      <actor>Querétaro</actor>
-    </credits>
-    <sub-title lang="en">Venue: Querétaro Stadium</sub-title>
-  </programme>
-  <programme start="20251026T130000 +0000" stop="20251026T160000 +0000" channel="soccer 38">
-    <title lang="en">Santos Laguna vs Querétaro - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Santos Laguna</actor>
-      <actor>Querétaro</actor>
-    </credits>
-    <sub-title lang="en">Venue: Querétaro Stadium</sub-title>
-  </programme>
-  <programme start="20251026T160000 +0000" stop="20251026T190000 +0000" channel="soccer 38">
-    <title lang="en">Santos Laguna vs Querétaro - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Santos Laguna</actor>
-      <actor>Querétaro</actor>
-    </credits>
-    <sub-title lang="en">Venue: Querétaro Stadium</sub-title>
-  </programme>
-  <programme start="20251026T190000 +0000" stop="20251026T220000 +0000" channel="soccer 38">
-    <title lang="en">Santos Laguna vs Querétaro - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Santos Laguna</actor>
-      <actor>Querétaro</actor>
-    </credits>
-    <sub-title lang="en">Venue: Querétaro Stadium</sub-title>
-  </programme>
-  <programme start="20251026T230000 +0000" stop="20251027T010000 +0000" channel="soccer 38">
-    <title lang="en">Santos Laguna vs Querétaro</title>
-    <desc lang="en">League: Liga MX</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Santos Laguna</actor>
-      <actor>Querétaro</actor>
-    </credits>
-    <sub-title lang="en">Venue: Querétaro Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 39">
-    <title lang="en">Atlético San Luis vs Necaxa - starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Atlético San Luis</actor>
-      <actor>Necaxa</actor>
-    </credits>
-    <sub-title lang="en">Venue: Necaxa Stadium</sub-title>
-  </programme>
-  <programme start="20251026T130000 +0000" stop="20251026T160000 +0000" channel="soccer 39">
-    <title lang="en">Atlético San Luis vs Necaxa - starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Atlético San Luis</actor>
-      <actor>Necaxa</actor>
-    </credits>
-    <sub-title lang="en">Venue: Necaxa Stadium</sub-title>
-  </programme>
-  <programme start="20251026T160000 +0000" stop="20251026T190000 +0000" channel="soccer 39">
-    <title lang="en">Atlético San Luis vs Necaxa - starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Atlético San Luis</actor>
-      <actor>Necaxa</actor>
-    </credits>
-    <sub-title lang="en">Venue: Necaxa Stadium</sub-title>
-  </programme>
-  <programme start="20251026T190000 +0000" stop="20251026T220000 +0000" channel="soccer 39">
-    <title lang="en">Atlético San Luis vs Necaxa - starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Atlético San Luis</actor>
-      <actor>Necaxa</actor>
-    </credits>
-    <sub-title lang="en">Venue: Necaxa Stadium</sub-title>
-  </programme>
-  <programme start="20251026T220000 +0000" stop="20251027T010000 +0000" channel="soccer 39">
-    <title lang="en">Atlético San Luis vs Necaxa - starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Atlético San Luis</actor>
-      <actor>Necaxa</actor>
-    </credits>
-    <sub-title lang="en">Venue: Necaxa Stadium</sub-title>
-  </programme>
-  <programme start="20251027T010000 +0000" stop="20251027T030000 +0000" channel="soccer 39">
-    <title lang="en">Atlético San Luis vs Necaxa</title>
-    <desc lang="en">League: Liga MX</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Atlético San Luis</actor>
-      <actor>Necaxa</actor>
-    </credits>
-    <sub-title lang="en">Venue: Necaxa Stadium</sub-title>
-  </programme>
-  <programme start="20251026T100000 +0000" stop="20251026T130000 +0000" channel="soccer 40">
-    <title lang="en">Toluca vs Pachuca - starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Toluca</actor>
-      <actor>Pachuca</actor>
-    </credits>
-    <sub-title lang="en">Venue: Pachuca Stadium</sub-title>
-  </programme>
-  <programme start="20251026T130000 +0000" stop="20251026T160000 +0000" channel="soccer 40">
-    <title lang="en">Toluca vs Pachuca - starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Toluca</actor>
-      <actor>Pachuca</actor>
-    </credits>
-    <sub-title lang="en">Venue: Pachuca Stadium</sub-title>
-  </programme>
-  <programme start="20251026T160000 +0000" stop="20251026T190000 +0000" channel="soccer 40">
-    <title lang="en">Toluca vs Pachuca - starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Toluca</actor>
-      <actor>Pachuca</actor>
-    </credits>
-    <sub-title lang="en">Venue: Pachuca Stadium</sub-title>
-  </programme>
-  <programme start="20251026T190000 +0000" stop="20251026T220000 +0000" channel="soccer 40">
-    <title lang="en">Toluca vs Pachuca - starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Toluca</actor>
-      <actor>Pachuca</actor>
-    </credits>
-    <sub-title lang="en">Venue: Pachuca Stadium</sub-title>
-  </programme>
-  <programme start="20251026T220000 +0000" stop="20251027T010000 +0000" channel="soccer 40">
-    <title lang="en">Toluca vs Pachuca - starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Toluca</actor>
-      <actor>Pachuca</actor>
-    </credits>
-    <sub-title lang="en">Venue: Pachuca Stadium</sub-title>
-  </programme>
-  <programme start="20251027T010000 +0000" stop="20251027T030000 +0000" channel="soccer 40">
-    <title lang="en">Toluca vs Pachuca</title>
-    <desc lang="en">League: Liga MX</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Toluca</actor>
-      <actor>Pachuca</actor>
-    </credits>
-    <sub-title lang="en">Venue: Pachuca Stadium</sub-title>
+    <sub-title lang="en">Venue: Seattle Stadium</sub-title>
   </programme>
 </tv>
