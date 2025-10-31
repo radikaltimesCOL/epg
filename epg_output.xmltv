@@ -9,6 +9,12 @@
   <channel id="ncaaf 003">
     <display-name>NCAAF 003</display-name>
   </channel>
+  <channel id="ncaaf 004">
+    <display-name>NCAAF 004</display-name>
+  </channel>
+  <channel id="ncaaf 005">
+    <display-name>NCAAF 005</display-name>
+  </channel>
   <channel id="soccer 01">
     <display-name>Soccer 01</display-name>
   </channel>
@@ -308,12 +314,6 @@
   </channel>
   <channel id="soccer 100">
     <display-name>Soccer 100</display-name>
-  </channel>
-  <channel id="ncaaf 004">
-    <display-name>NCAAF 004</display-name>
-  </channel>
-  <channel id="ncaaf 005">
-    <display-name>NCAAF 005</display-name>
   </channel>
   <channel id="ncaaf 006">
     <display-name>NCAAF 006</display-name>
@@ -1275,547 +1275,608 @@
   <channel id="seasonal 25">
     <display-name>Seasonal 25</display-name>
   </channel>
-  <programme start="20251030T100000 +0000" stop="20251030T130000 +0000" channel="ncaaf 001">
-    <title lang="en">NORFOLK STATE @ DELAWARE STATE - starts at 7:00 PM ET</title>
+  <programme start="20251031T100000 +0000" stop="20251031T130000 +0000" channel="ncaaf 001">
+    <title lang="en">BROWN @ PENN - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAF</category>
     <credits>
-      <actor>NORFOLK STATE</actor>
-      <actor>DELAWARE STATE</actor>
+      <actor>BROWN</actor>
+      <actor>PENN</actor>
     </credits>
-    <sub-title lang="en">Venue: DELAWARE STATE Stadium</sub-title>
+    <sub-title lang="en">Venue: PENN Stadium</sub-title>
   </programme>
-  <programme start="20251030T130000 +0000" stop="20251030T160000 +0000" channel="ncaaf 001">
-    <title lang="en">NORFOLK STATE @ DELAWARE STATE - starts at 7:00 PM ET</title>
+  <programme start="20251031T130000 +0000" stop="20251031T160000 +0000" channel="ncaaf 001">
+    <title lang="en">BROWN @ PENN - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAF</category>
     <credits>
-      <actor>NORFOLK STATE</actor>
-      <actor>DELAWARE STATE</actor>
+      <actor>BROWN</actor>
+      <actor>PENN</actor>
     </credits>
-    <sub-title lang="en">Venue: DELAWARE STATE Stadium</sub-title>
+    <sub-title lang="en">Venue: PENN Stadium</sub-title>
   </programme>
-  <programme start="20251030T160000 +0000" stop="20251030T190000 +0000" channel="ncaaf 001">
-    <title lang="en">NORFOLK STATE @ DELAWARE STATE - starts at 7:00 PM ET</title>
+  <programme start="20251031T160000 +0000" stop="20251031T190000 +0000" channel="ncaaf 001">
+    <title lang="en">BROWN @ PENN - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAF</category>
     <credits>
-      <actor>NORFOLK STATE</actor>
-      <actor>DELAWARE STATE</actor>
+      <actor>BROWN</actor>
+      <actor>PENN</actor>
     </credits>
-    <sub-title lang="en">Venue: DELAWARE STATE Stadium</sub-title>
+    <sub-title lang="en">Venue: PENN Stadium</sub-title>
   </programme>
-  <programme start="20251030T190000 +0000" stop="20251030T220000 +0000" channel="ncaaf 001">
-    <title lang="en">NORFOLK STATE @ DELAWARE STATE - starts at 7:00 PM ET</title>
+  <programme start="20251031T190000 +0000" stop="20251031T220000 +0000" channel="ncaaf 001">
+    <title lang="en">BROWN @ PENN - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAF</category>
     <credits>
-      <actor>NORFOLK STATE</actor>
-      <actor>DELAWARE STATE</actor>
+      <actor>BROWN</actor>
+      <actor>PENN</actor>
     </credits>
-    <sub-title lang="en">Venue: DELAWARE STATE Stadium</sub-title>
+    <sub-title lang="en">Venue: PENN Stadium</sub-title>
   </programme>
-  <programme start="20251030T230000 +0000" stop="20251031T023000 +0000" channel="ncaaf 001">
-    <title lang="en">NORFOLK STATE @ DELAWARE STATE</title>
+  <programme start="20251031T230000 +0000" stop="20251101T023000 +0000" channel="ncaaf 001">
+    <title lang="en">BROWN @ PENN</title>
     <desc lang="en">Network: ESPNU</desc>
     <category lang="en">Sports</category>
     <category lang="en">NCAAF</category>
     <credits>
-      <actor>NORFOLK STATE</actor>
-      <actor>DELAWARE STATE</actor>
+      <actor>BROWN</actor>
+      <actor>PENN</actor>
     </credits>
-    <sub-title lang="en">Venue: DELAWARE STATE Stadium</sub-title>
+    <sub-title lang="en">Venue: PENN Stadium</sub-title>
   </programme>
-  <programme start="20251030T100000 +0000" stop="20251030T130000 +0000" channel="ncaaf 002">
-    <title lang="en">MARSHALL @ COASTAL CAROLINA - starts at 7:30 PM ET</title>
+  <programme start="20251031T100000 +0000" stop="20251031T130000 +0000" channel="ncaaf 002">
+    <title lang="en">MEMPHIS @ RICE - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAF</category>
     <credits>
-      <actor>MARSHALL</actor>
-      <actor>COASTAL CAROLINA</actor>
+      <actor>MEMPHIS</actor>
+      <actor>RICE</actor>
     </credits>
-    <sub-title lang="en">Venue: COASTAL CAROLINA Stadium</sub-title>
+    <sub-title lang="en">Venue: RICE Stadium</sub-title>
   </programme>
-  <programme start="20251030T130000 +0000" stop="20251030T160000 +0000" channel="ncaaf 002">
-    <title lang="en">MARSHALL @ COASTAL CAROLINA - starts at 7:30 PM ET</title>
+  <programme start="20251031T130000 +0000" stop="20251031T160000 +0000" channel="ncaaf 002">
+    <title lang="en">MEMPHIS @ RICE - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAF</category>
     <credits>
-      <actor>MARSHALL</actor>
-      <actor>COASTAL CAROLINA</actor>
+      <actor>MEMPHIS</actor>
+      <actor>RICE</actor>
     </credits>
-    <sub-title lang="en">Venue: COASTAL CAROLINA Stadium</sub-title>
+    <sub-title lang="en">Venue: RICE Stadium</sub-title>
   </programme>
-  <programme start="20251030T160000 +0000" stop="20251030T190000 +0000" channel="ncaaf 002">
-    <title lang="en">MARSHALL @ COASTAL CAROLINA - starts at 7:30 PM ET</title>
+  <programme start="20251031T160000 +0000" stop="20251031T190000 +0000" channel="ncaaf 002">
+    <title lang="en">MEMPHIS @ RICE - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAF</category>
     <credits>
-      <actor>MARSHALL</actor>
-      <actor>COASTAL CAROLINA</actor>
+      <actor>MEMPHIS</actor>
+      <actor>RICE</actor>
     </credits>
-    <sub-title lang="en">Venue: COASTAL CAROLINA Stadium</sub-title>
+    <sub-title lang="en">Venue: RICE Stadium</sub-title>
   </programme>
-  <programme start="20251030T190000 +0000" stop="20251030T220000 +0000" channel="ncaaf 002">
-    <title lang="en">MARSHALL @ COASTAL CAROLINA - starts at 7:30 PM ET</title>
+  <programme start="20251031T190000 +0000" stop="20251031T220000 +0000" channel="ncaaf 002">
+    <title lang="en">MEMPHIS @ RICE - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAF</category>
     <credits>
-      <actor>MARSHALL</actor>
-      <actor>COASTAL CAROLINA</actor>
+      <actor>MEMPHIS</actor>
+      <actor>RICE</actor>
     </credits>
-    <sub-title lang="en">Venue: COASTAL CAROLINA Stadium</sub-title>
+    <sub-title lang="en">Venue: RICE Stadium</sub-title>
   </programme>
-  <programme start="20251030T233000 +0000" stop="20251031T030000 +0000" channel="ncaaf 002">
-    <title lang="en">MARSHALL @ COASTAL CAROLINA</title>
+  <programme start="20251031T230000 +0000" stop="20251101T023000 +0000" channel="ncaaf 002">
+    <title lang="en">MEMPHIS @ RICE</title>
     <desc lang="en">Network: ESPN2</desc>
     <category lang="en">Sports</category>
     <category lang="en">NCAAF</category>
     <credits>
-      <actor>MARSHALL</actor>
-      <actor>COASTAL CAROLINA</actor>
+      <actor>MEMPHIS</actor>
+      <actor>RICE</actor>
     </credits>
-    <sub-title lang="en">Venue: COASTAL CAROLINA Stadium</sub-title>
+    <sub-title lang="en">Venue: RICE Stadium</sub-title>
   </programme>
-  <programme start="20251030T100000 +0000" stop="20251030T130000 +0000" channel="ncaaf 003">
-    <title lang="en">TULANE @ UTSA - starts at 7:30 PM ET</title>
+  <programme start="20251031T100000 +0000" stop="20251031T130000 +0000" channel="ncaaf 003">
+    <title lang="en">NORTH CAROLINA @ SYRACUSE - starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAF</category>
     <credits>
-      <actor>TULANE</actor>
-      <actor>UTSA</actor>
+      <actor>NORTH CAROLINA</actor>
+      <actor>SYRACUSE</actor>
     </credits>
-    <sub-title lang="en">Venue: UTSA Stadium</sub-title>
+    <sub-title lang="en">Venue: SYRACUSE Stadium</sub-title>
   </programme>
-  <programme start="20251030T130000 +0000" stop="20251030T160000 +0000" channel="ncaaf 003">
-    <title lang="en">TULANE @ UTSA - starts at 7:30 PM ET</title>
+  <programme start="20251031T130000 +0000" stop="20251031T160000 +0000" channel="ncaaf 003">
+    <title lang="en">NORTH CAROLINA @ SYRACUSE - starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAF</category>
     <credits>
-      <actor>TULANE</actor>
-      <actor>UTSA</actor>
+      <actor>NORTH CAROLINA</actor>
+      <actor>SYRACUSE</actor>
     </credits>
-    <sub-title lang="en">Venue: UTSA Stadium</sub-title>
+    <sub-title lang="en">Venue: SYRACUSE Stadium</sub-title>
   </programme>
-  <programme start="20251030T160000 +0000" stop="20251030T190000 +0000" channel="ncaaf 003">
-    <title lang="en">TULANE @ UTSA - starts at 7:30 PM ET</title>
+  <programme start="20251031T160000 +0000" stop="20251031T190000 +0000" channel="ncaaf 003">
+    <title lang="en">NORTH CAROLINA @ SYRACUSE - starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAF</category>
     <credits>
-      <actor>TULANE</actor>
-      <actor>UTSA</actor>
+      <actor>NORTH CAROLINA</actor>
+      <actor>SYRACUSE</actor>
     </credits>
-    <sub-title lang="en">Venue: UTSA Stadium</sub-title>
+    <sub-title lang="en">Venue: SYRACUSE Stadium</sub-title>
   </programme>
-  <programme start="20251030T190000 +0000" stop="20251030T220000 +0000" channel="ncaaf 003">
-    <title lang="en">TULANE @ UTSA - starts at 7:30 PM ET</title>
+  <programme start="20251031T190000 +0000" stop="20251031T220000 +0000" channel="ncaaf 003">
+    <title lang="en">NORTH CAROLINA @ SYRACUSE - starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAF</category>
     <credits>
-      <actor>TULANE</actor>
-      <actor>UTSA</actor>
+      <actor>NORTH CAROLINA</actor>
+      <actor>SYRACUSE</actor>
     </credits>
-    <sub-title lang="en">Venue: UTSA Stadium</sub-title>
+    <sub-title lang="en">Venue: SYRACUSE Stadium</sub-title>
   </programme>
-  <programme start="20251030T233000 +0000" stop="20251031T030000 +0000" channel="ncaaf 003">
-    <title lang="en">TULANE @ UTSA</title>
+  <programme start="20251031T233000 +0000" stop="20251101T030000 +0000" channel="ncaaf 003">
+    <title lang="en">NORTH CAROLINA @ SYRACUSE</title>
     <desc lang="en">Network: ESPN</desc>
     <category lang="en">Sports</category>
     <category lang="en">NCAAF</category>
     <credits>
-      <actor>TULANE</actor>
-      <actor>UTSA</actor>
+      <actor>NORTH CAROLINA</actor>
+      <actor>SYRACUSE</actor>
     </credits>
-    <sub-title lang="en">Venue: UTSA Stadium</sub-title>
+    <sub-title lang="en">Venue: SYRACUSE Stadium</sub-title>
   </programme>
-  <programme start="20251030T100000 +0000" stop="20251030T130000 +0000" channel="soccer 01">
-    <title lang="en">Cagliari vs Sassuolo - starts at 1:30 PM ET</title>
+  <programme start="20251031T100000 +0000" stop="20251031T130000 +0000" channel="ncaaf 004">
+    <title lang="en">SAM HOUSTON @ LOUISIANA TECH - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>SAM HOUSTON</actor>
+      <actor>LOUISIANA TECH</actor>
+    </credits>
+    <sub-title lang="en">Venue: LOUISIANA TECH Stadium</sub-title>
+  </programme>
+  <programme start="20251031T130000 +0000" stop="20251031T160000 +0000" channel="ncaaf 004">
+    <title lang="en">SAM HOUSTON @ LOUISIANA TECH - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>SAM HOUSTON</actor>
+      <actor>LOUISIANA TECH</actor>
+    </credits>
+    <sub-title lang="en">Venue: LOUISIANA TECH Stadium</sub-title>
+  </programme>
+  <programme start="20251031T160000 +0000" stop="20251031T190000 +0000" channel="ncaaf 004">
+    <title lang="en">SAM HOUSTON @ LOUISIANA TECH - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>SAM HOUSTON</actor>
+      <actor>LOUISIANA TECH</actor>
+    </credits>
+    <sub-title lang="en">Venue: LOUISIANA TECH Stadium</sub-title>
+  </programme>
+  <programme start="20251031T190000 +0000" stop="20251031T220000 +0000" channel="ncaaf 004">
+    <title lang="en">SAM HOUSTON @ LOUISIANA TECH - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>SAM HOUSTON</actor>
+      <actor>LOUISIANA TECH</actor>
+    </credits>
+    <sub-title lang="en">Venue: LOUISIANA TECH Stadium</sub-title>
+  </programme>
+  <programme start="20251101T000000 +0000" stop="20251101T033000 +0000" channel="ncaaf 004">
+    <title lang="en">SAM HOUSTON @ LOUISIANA TECH</title>
+    <desc lang="en">Network: CBSSN</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>SAM HOUSTON</actor>
+      <actor>LOUISIANA TECH</actor>
+    </credits>
+    <sub-title lang="en">Venue: LOUISIANA TECH Stadium</sub-title>
+  </programme>
+  <programme start="20251031T100000 +0000" stop="20251031T130000 +0000" channel="ncaaf 005">
+    <title lang="en">IDAHO @ NORTHERN ARIZONA - starts at 10:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>IDAHO</actor>
+      <actor>NORTHERN ARIZONA</actor>
+    </credits>
+    <sub-title lang="en">Venue: NORTHERN ARIZONA Stadium</sub-title>
+  </programme>
+  <programme start="20251031T130000 +0000" stop="20251031T160000 +0000" channel="ncaaf 005">
+    <title lang="en">IDAHO @ NORTHERN ARIZONA - starts at 10:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>IDAHO</actor>
+      <actor>NORTHERN ARIZONA</actor>
+    </credits>
+    <sub-title lang="en">Venue: NORTHERN ARIZONA Stadium</sub-title>
+  </programme>
+  <programme start="20251031T160000 +0000" stop="20251031T190000 +0000" channel="ncaaf 005">
+    <title lang="en">IDAHO @ NORTHERN ARIZONA - starts at 10:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>IDAHO</actor>
+      <actor>NORTHERN ARIZONA</actor>
+    </credits>
+    <sub-title lang="en">Venue: NORTHERN ARIZONA Stadium</sub-title>
+  </programme>
+  <programme start="20251031T190000 +0000" stop="20251031T220000 +0000" channel="ncaaf 005">
+    <title lang="en">IDAHO @ NORTHERN ARIZONA - starts at 10:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>IDAHO</actor>
+      <actor>NORTHERN ARIZONA</actor>
+    </credits>
+    <sub-title lang="en">Venue: NORTHERN ARIZONA Stadium</sub-title>
+  </programme>
+  <programme start="20251031T220000 +0000" stop="20251101T010000 +0000" channel="ncaaf 005">
+    <title lang="en">IDAHO @ NORTHERN ARIZONA - starts at 10:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>IDAHO</actor>
+      <actor>NORTHERN ARIZONA</actor>
+    </credits>
+    <sub-title lang="en">Venue: NORTHERN ARIZONA Stadium</sub-title>
+  </programme>
+  <programme start="20251101T023000 +0000" stop="20251101T060000 +0000" channel="ncaaf 005">
+    <title lang="en">IDAHO @ NORTHERN ARIZONA</title>
+    <desc lang="en">Network: ESPN2</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>IDAHO</actor>
+      <actor>NORTHERN ARIZONA</actor>
+    </credits>
+    <sub-title lang="en">Venue: NORTHERN ARIZONA Stadium</sub-title>
+  </programme>
+  <programme start="20251031T100000 +0000" stop="20251031T130000 +0000" channel="soccer 01">
+    <title lang="en">Getafe vs Girona - starts at 4:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Cagliari</actor>
-      <actor>Sassuolo</actor>
+      <actor>Getafe</actor>
+      <actor>Girona</actor>
     </credits>
-    <sub-title lang="en">Venue: Sassuolo Stadium</sub-title>
+    <sub-title lang="en">Venue: Girona Stadium</sub-title>
   </programme>
-  <programme start="20251030T130000 +0000" stop="20251030T160000 +0000" channel="soccer 01">
-    <title lang="en">Cagliari vs Sassuolo - starts at 1:30 PM ET</title>
+  <programme start="20251031T130000 +0000" stop="20251031T160000 +0000" channel="soccer 01">
+    <title lang="en">Getafe vs Girona - starts at 4:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Cagliari</actor>
-      <actor>Sassuolo</actor>
+      <actor>Getafe</actor>
+      <actor>Girona</actor>
     </credits>
-    <sub-title lang="en">Venue: Sassuolo Stadium</sub-title>
+    <sub-title lang="en">Venue: Girona Stadium</sub-title>
   </programme>
-  <programme start="20251030T173000 +0000" stop="20251030T193000 +0000" channel="soccer 01">
-    <title lang="en">Cagliari vs Sassuolo</title>
-    <desc lang="en">League: Serie A</desc>
+  <programme start="20251031T160000 +0000" stop="20251031T190000 +0000" channel="soccer 01">
+    <title lang="en">Getafe vs Girona - starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Getafe</actor>
+      <actor>Girona</actor>
+    </credits>
+    <sub-title lang="en">Venue: Girona Stadium</sub-title>
+  </programme>
+  <programme start="20251031T200000 +0000" stop="20251031T220000 +0000" channel="soccer 01">
+    <title lang="en">Getafe vs Girona</title>
+    <desc lang="en">League: LaLiga</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Cagliari</actor>
-      <actor>Sassuolo</actor>
+      <actor>Getafe</actor>
+      <actor>Girona</actor>
     </credits>
-    <sub-title lang="en">Venue: Sassuolo Stadium</sub-title>
+    <sub-title lang="en">Venue: Girona Stadium</sub-title>
   </programme>
-  <programme start="20251030T100000 +0000" stop="20251030T130000 +0000" channel="soccer 02">
-    <title lang="en">Pisa vs Lazio - starts at 3:45 PM ET</title>
+  <programme start="20251031T100000 +0000" stop="20251031T130000 +0000" channel="soccer 02">
+    <title lang="en">Augsburg vs Borussia Dortmund - starts at 3:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Pisa</actor>
-      <actor>Lazio</actor>
+      <actor>Augsburg</actor>
+      <actor>Borussia Dortmund</actor>
     </credits>
-    <sub-title lang="en">Venue: Lazio Stadium</sub-title>
+    <sub-title lang="en">Venue: Borussia Dortmund Stadium</sub-title>
   </programme>
-  <programme start="20251030T130000 +0000" stop="20251030T160000 +0000" channel="soccer 02">
-    <title lang="en">Pisa vs Lazio - starts at 3:45 PM ET</title>
+  <programme start="20251031T130000 +0000" stop="20251031T160000 +0000" channel="soccer 02">
+    <title lang="en">Augsburg vs Borussia Dortmund - starts at 3:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Pisa</actor>
-      <actor>Lazio</actor>
+      <actor>Augsburg</actor>
+      <actor>Borussia Dortmund</actor>
     </credits>
-    <sub-title lang="en">Venue: Lazio Stadium</sub-title>
+    <sub-title lang="en">Venue: Borussia Dortmund Stadium</sub-title>
   </programme>
-  <programme start="20251030T160000 +0000" stop="20251030T190000 +0000" channel="soccer 02">
-    <title lang="en">Pisa vs Lazio - starts at 3:45 PM ET</title>
+  <programme start="20251031T160000 +0000" stop="20251031T190000 +0000" channel="soccer 02">
+    <title lang="en">Augsburg vs Borussia Dortmund - starts at 3:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Pisa</actor>
-      <actor>Lazio</actor>
+      <actor>Augsburg</actor>
+      <actor>Borussia Dortmund</actor>
     </credits>
-    <sub-title lang="en">Venue: Lazio Stadium</sub-title>
+    <sub-title lang="en">Venue: Borussia Dortmund Stadium</sub-title>
   </programme>
-  <programme start="20251030T194500 +0000" stop="20251030T214500 +0000" channel="soccer 02">
-    <title lang="en">Pisa vs Lazio</title>
-    <desc lang="en">League: Serie A</desc>
+  <programme start="20251031T193000 +0000" stop="20251031T213000 +0000" channel="soccer 02">
+    <title lang="en">Augsburg vs Borussia Dortmund</title>
+    <desc lang="en">League: Bundesliga</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Pisa</actor>
-      <actor>Lazio</actor>
+      <actor>Augsburg</actor>
+      <actor>Borussia Dortmund</actor>
     </credits>
-    <sub-title lang="en">Venue: Lazio Stadium</sub-title>
+    <sub-title lang="en">Venue: Borussia Dortmund Stadium</sub-title>
   </programme>
-  <programme start="20251030T100000 +0000" stop="20251030T130000 +0000" channel="soccer 03">
-    <title lang="en">Orihuela vs Levante - starts at 2:00 PM ET</title>
+  <programme start="20251031T100000 +0000" stop="20251031T130000 +0000" channel="soccer 03">
+    <title lang="en">Sporting vs Alverca - starts at 4:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Orihuela</actor>
-      <actor>Levante</actor>
+      <actor>Sporting</actor>
+      <actor>Alverca</actor>
     </credits>
-    <sub-title lang="en">Venue: Levante Stadium</sub-title>
+    <sub-title lang="en">Venue: Alverca Stadium</sub-title>
   </programme>
-  <programme start="20251030T130000 +0000" stop="20251030T160000 +0000" channel="soccer 03">
-    <title lang="en">Orihuela vs Levante - starts at 2:00 PM ET</title>
+  <programme start="20251031T130000 +0000" stop="20251031T160000 +0000" channel="soccer 03">
+    <title lang="en">Sporting vs Alverca - starts at 4:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Orihuela</actor>
-      <actor>Levante</actor>
+      <actor>Sporting</actor>
+      <actor>Alverca</actor>
     </credits>
-    <sub-title lang="en">Venue: Levante Stadium</sub-title>
+    <sub-title lang="en">Venue: Alverca Stadium</sub-title>
   </programme>
-  <programme start="20251030T180000 +0000" stop="20251030T200000 +0000" channel="soccer 03">
-    <title lang="en">Orihuela vs Levante</title>
-    <desc lang="en">League: Copa del Rey</desc>
+  <programme start="20251031T160000 +0000" stop="20251031T190000 +0000" channel="soccer 03">
+    <title lang="en">Sporting vs Alverca - starts at 4:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Sporting</actor>
+      <actor>Alverca</actor>
+    </credits>
+    <sub-title lang="en">Venue: Alverca Stadium</sub-title>
+  </programme>
+  <programme start="20251031T201500 +0000" stop="20251031T221500 +0000" channel="soccer 03">
+    <title lang="en">Sporting vs Alverca</title>
+    <desc lang="en">League: Betclic</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Orihuela</actor>
-      <actor>Levante</actor>
+      <actor>Sporting</actor>
+      <actor>Alverca</actor>
     </credits>
-    <sub-title lang="en">Venue: Levante Stadium</sub-title>
+    <sub-title lang="en">Venue: Alverca Stadium</sub-title>
   </programme>
-  <programme start="20251030T100000 +0000" stop="20251030T130000 +0000" channel="soccer 04">
-    <title lang="en">Puerto de Vega vs Celta de Vigo - starts at 2:00 PM ET</title>
+  <programme start="20251031T100000 +0000" stop="20251031T130000 +0000" channel="soccer 04">
+    <title lang="en">Wrexham vs Coventry City - starts at 4:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Puerto de Vega</actor>
-      <actor>Celta de Vigo</actor>
+      <actor>Wrexham</actor>
+      <actor>Coventry City</actor>
     </credits>
-    <sub-title lang="en">Venue: Celta de Vigo Stadium</sub-title>
+    <sub-title lang="en">Venue: Coventry City Stadium</sub-title>
   </programme>
-  <programme start="20251030T130000 +0000" stop="20251030T160000 +0000" channel="soccer 04">
-    <title lang="en">Puerto de Vega vs Celta de Vigo - starts at 2:00 PM ET</title>
+  <programme start="20251031T130000 +0000" stop="20251031T160000 +0000" channel="soccer 04">
+    <title lang="en">Wrexham vs Coventry City - starts at 4:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Puerto de Vega</actor>
-      <actor>Celta de Vigo</actor>
+      <actor>Wrexham</actor>
+      <actor>Coventry City</actor>
     </credits>
-    <sub-title lang="en">Venue: Celta de Vigo Stadium</sub-title>
+    <sub-title lang="en">Venue: Coventry City Stadium</sub-title>
   </programme>
-  <programme start="20251030T180000 +0000" stop="20251030T200000 +0000" channel="soccer 04">
-    <title lang="en">Puerto de Vega vs Celta de Vigo</title>
-    <desc lang="en">League: Copa del Rey</desc>
+  <programme start="20251031T160000 +0000" stop="20251031T190000 +0000" channel="soccer 04">
+    <title lang="en">Wrexham vs Coventry City - starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Wrexham</actor>
+      <actor>Coventry City</actor>
+    </credits>
+    <sub-title lang="en">Venue: Coventry City Stadium</sub-title>
+  </programme>
+  <programme start="20251031T200000 +0000" stop="20251031T220000 +0000" channel="soccer 04">
+    <title lang="en">Wrexham vs Coventry City</title>
+    <desc lang="en">League: EFL</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Puerto de Vega</actor>
-      <actor>Celta de Vigo</actor>
+      <actor>Wrexham</actor>
+      <actor>Coventry City</actor>
     </credits>
-    <sub-title lang="en">Venue: Celta de Vigo Stadium</sub-title>
+    <sub-title lang="en">Venue: Coventry City Stadium</sub-title>
   </programme>
-  <programme start="20251030T100000 +0000" stop="20251030T130000 +0000" channel="soccer 05">
-    <title lang="en">Getxo vs Deportivo Alavés - starts at 3:00 PM ET</title>
+  <programme start="20251031T100000 +0000" stop="20251031T130000 +0000" channel="soccer 05">
+    <title lang="en">Luton Town vs Forest Green Rovers - starts at 3:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Getxo</actor>
-      <actor>Deportivo Alavés</actor>
+      <actor>Luton Town</actor>
+      <actor>Forest Green Rovers</actor>
     </credits>
-    <sub-title lang="en">Venue: Deportivo Alavés Stadium</sub-title>
+    <sub-title lang="en">Venue: Forest Green Rovers Stadium</sub-title>
   </programme>
-  <programme start="20251030T130000 +0000" stop="20251030T160000 +0000" channel="soccer 05">
-    <title lang="en">Getxo vs Deportivo Alavés - starts at 3:00 PM ET</title>
+  <programme start="20251031T130000 +0000" stop="20251031T160000 +0000" channel="soccer 05">
+    <title lang="en">Luton Town vs Forest Green Rovers - starts at 3:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Getxo</actor>
-      <actor>Deportivo Alavés</actor>
+      <actor>Luton Town</actor>
+      <actor>Forest Green Rovers</actor>
     </credits>
-    <sub-title lang="en">Venue: Deportivo Alavés Stadium</sub-title>
+    <sub-title lang="en">Venue: Forest Green Rovers Stadium</sub-title>
   </programme>
-  <programme start="20251030T160000 +0000" stop="20251030T190000 +0000" channel="soccer 05">
-    <title lang="en">Getxo vs Deportivo Alavés - starts at 3:00 PM ET</title>
+  <programme start="20251031T160000 +0000" stop="20251031T190000 +0000" channel="soccer 05">
+    <title lang="en">Luton Town vs Forest Green Rovers - starts at 3:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Getxo</actor>
-      <actor>Deportivo Alavés</actor>
+      <actor>Luton Town</actor>
+      <actor>Forest Green Rovers</actor>
     </credits>
-    <sub-title lang="en">Venue: Deportivo Alavés Stadium</sub-title>
+    <sub-title lang="en">Venue: Forest Green Rovers Stadium</sub-title>
   </programme>
-  <programme start="20251030T190000 +0000" stop="20251030T210000 +0000" channel="soccer 05">
-    <title lang="en">Getxo vs Deportivo Alavés</title>
-    <desc lang="en">League: Copa del Rey</desc>
+  <programme start="20251031T193000 +0000" stop="20251031T213000 +0000" channel="soccer 05">
+    <title lang="en">Luton Town vs Forest Green Rovers</title>
+    <desc lang="en">League: Carabao</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Getxo</actor>
-      <actor>Deportivo Alavés</actor>
+      <actor>Luton Town</actor>
+      <actor>Forest Green Rovers</actor>
     </credits>
-    <sub-title lang="en">Venue: Deportivo Alavés Stadium</sub-title>
+    <sub-title lang="en">Venue: Forest Green Rovers Stadium</sub-title>
   </programme>
-  <programme start="20251030T100000 +0000" stop="20251030T130000 +0000" channel="soccer 06">
-    <title lang="en">Palma del Rio vs Real Betis - starts at 4:00 PM ET</title>
+  <programme start="20251031T100000 +0000" stop="20251031T130000 +0000" channel="soccer 06">
+    <title lang="en">Standard Liège vs Sporting Charleroi - starts at 3:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Palma del Rio</actor>
-      <actor>Real Betis</actor>
+      <actor>Standard Liège</actor>
+      <actor>Sporting Charleroi</actor>
     </credits>
-    <sub-title lang="en">Venue: Real Betis Stadium</sub-title>
+    <sub-title lang="en">Venue: Sporting Charleroi Stadium</sub-title>
   </programme>
-  <programme start="20251030T130000 +0000" stop="20251030T160000 +0000" channel="soccer 06">
-    <title lang="en">Palma del Rio vs Real Betis - starts at 4:00 PM ET</title>
+  <programme start="20251031T130000 +0000" stop="20251031T160000 +0000" channel="soccer 06">
+    <title lang="en">Standard Liège vs Sporting Charleroi - starts at 3:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Palma del Rio</actor>
-      <actor>Real Betis</actor>
+      <actor>Standard Liège</actor>
+      <actor>Sporting Charleroi</actor>
     </credits>
-    <sub-title lang="en">Venue: Real Betis Stadium</sub-title>
+    <sub-title lang="en">Venue: Sporting Charleroi Stadium</sub-title>
   </programme>
-  <programme start="20251030T160000 +0000" stop="20251030T190000 +0000" channel="soccer 06">
-    <title lang="en">Palma del Rio vs Real Betis - starts at 4:00 PM ET</title>
+  <programme start="20251031T160000 +0000" stop="20251031T190000 +0000" channel="soccer 06">
+    <title lang="en">Standard Liège vs Sporting Charleroi - starts at 3:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Palma del Rio</actor>
-      <actor>Real Betis</actor>
+      <actor>Standard Liège</actor>
+      <actor>Sporting Charleroi</actor>
     </credits>
-    <sub-title lang="en">Venue: Real Betis Stadium</sub-title>
+    <sub-title lang="en">Venue: Sporting Charleroi Stadium</sub-title>
   </programme>
-  <programme start="20251030T200000 +0000" stop="20251030T220000 +0000" channel="soccer 06">
-    <title lang="en">Palma del Rio vs Real Betis</title>
-    <desc lang="en">League: Copa del Rey</desc>
+  <programme start="20251031T194500 +0000" stop="20251031T214500 +0000" channel="soccer 06">
+    <title lang="en">Standard Liège vs Sporting Charleroi</title>
+    <desc lang="en">League: Jupiler</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Palma del Rio</actor>
-      <actor>Real Betis</actor>
+      <actor>Standard Liège</actor>
+      <actor>Sporting Charleroi</actor>
     </credits>
-    <sub-title lang="en">Venue: Real Betis Stadium</sub-title>
+    <sub-title lang="en">Venue: Sporting Charleroi Stadium</sub-title>
   </programme>
-  <programme start="20251030T100000 +0000" stop="20251030T130000 +0000" channel="soccer 07">
-    <title lang="en">Atlètic Lleida vs Espanyol - starts at 4:00 PM ET</title>
+  <programme start="20251031T100000 +0000" stop="20251031T130000 +0000" channel="soccer 07">
+    <title lang="en">PSV vs Fortuna Sittard - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Atlètic Lleida</actor>
-      <actor>Espanyol</actor>
+      <actor>PSV</actor>
+      <actor>Fortuna Sittard</actor>
     </credits>
-    <sub-title lang="en">Venue: Espanyol Stadium</sub-title>
+    <sub-title lang="en">Venue: Fortuna Sittard Stadium</sub-title>
   </programme>
-  <programme start="20251030T130000 +0000" stop="20251030T160000 +0000" channel="soccer 07">
-    <title lang="en">Atlètic Lleida vs Espanyol - starts at 4:00 PM ET</title>
+  <programme start="20251031T130000 +0000" stop="20251031T160000 +0000" channel="soccer 07">
+    <title lang="en">PSV vs Fortuna Sittard - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Atlètic Lleida</actor>
-      <actor>Espanyol</actor>
+      <actor>PSV</actor>
+      <actor>Fortuna Sittard</actor>
     </credits>
-    <sub-title lang="en">Venue: Espanyol Stadium</sub-title>
+    <sub-title lang="en">Venue: Fortuna Sittard Stadium</sub-title>
   </programme>
-  <programme start="20251030T160000 +0000" stop="20251030T190000 +0000" channel="soccer 07">
-    <title lang="en">Atlètic Lleida vs Espanyol - starts at 4:00 PM ET</title>
+  <programme start="20251031T160000 +0000" stop="20251031T190000 +0000" channel="soccer 07">
+    <title lang="en">PSV vs Fortuna Sittard - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Atlètic Lleida</actor>
-      <actor>Espanyol</actor>
+      <actor>PSV</actor>
+      <actor>Fortuna Sittard</actor>
     </credits>
-    <sub-title lang="en">Venue: Espanyol Stadium</sub-title>
+    <sub-title lang="en">Venue: Fortuna Sittard Stadium</sub-title>
   </programme>
-  <programme start="20251030T200000 +0000" stop="20251030T220000 +0000" channel="soccer 07">
-    <title lang="en">Atlètic Lleida vs Espanyol</title>
-    <desc lang="en">League: Copa del Rey</desc>
+  <programme start="20251031T190000 +0000" stop="20251031T210000 +0000" channel="soccer 07">
+    <title lang="en">PSV vs Fortuna Sittard</title>
+    <desc lang="en">League: Eredivisie</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Atlètic Lleida</actor>
-      <actor>Espanyol</actor>
+      <actor>PSV</actor>
+      <actor>Fortuna Sittard</actor>
     </credits>
-    <sub-title lang="en">Venue: Espanyol Stadium</sub-title>
+    <sub-title lang="en">Venue: Fortuna Sittard Stadium</sub-title>
   </programme>
-  <programme start="20251030T100000 +0000" stop="20251030T130000 +0000" channel="soccer 08">
-    <title lang="en">Palmeiras vs LDU Quito - starts at 8:30 PM ET</title>
+  <programme start="20251031T100000 +0000" stop="20251031T130000 +0000" channel="soccer 08">
+    <title lang="en">Al Hilal vs Al Shabab - starts at 10:50 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Palmeiras</actor>
-      <actor>LDU Quito</actor>
+      <actor>Al Hilal</actor>
+      <actor>Al Shabab</actor>
     </credits>
-    <sub-title lang="en">Venue: LDU Quito Stadium</sub-title>
+    <sub-title lang="en">Venue: Al Shabab Stadium</sub-title>
   </programme>
-  <programme start="20251030T130000 +0000" stop="20251030T160000 +0000" channel="soccer 08">
-    <title lang="en">Palmeiras vs LDU Quito - starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Palmeiras</actor>
-      <actor>LDU Quito</actor>
-    </credits>
-    <sub-title lang="en">Venue: LDU Quito Stadium</sub-title>
-  </programme>
-  <programme start="20251030T160000 +0000" stop="20251030T190000 +0000" channel="soccer 08">
-    <title lang="en">Palmeiras vs LDU Quito - starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Palmeiras</actor>
-      <actor>LDU Quito</actor>
-    </credits>
-    <sub-title lang="en">Venue: LDU Quito Stadium</sub-title>
-  </programme>
-  <programme start="20251030T190000 +0000" stop="20251030T220000 +0000" channel="soccer 08">
-    <title lang="en">Palmeiras vs LDU Quito - starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Palmeiras</actor>
-      <actor>LDU Quito</actor>
-    </credits>
-    <sub-title lang="en">Venue: LDU Quito Stadium</sub-title>
-  </programme>
-  <programme start="20251031T003000 +0000" stop="20251031T023000 +0000" channel="soccer 08">
-    <title lang="en">Palmeiras vs LDU Quito</title>
-    <desc lang="en">League: Libertadores</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Palmeiras</actor>
-      <actor>LDU Quito</actor>
-    </credits>
-    <sub-title lang="en">Venue: LDU Quito Stadium</sub-title>
-  </programme>
-  <programme start="20251030T100000 +0000" stop="20251030T130000 +0000" channel="soccer 09">
-    <title lang="en">Lanús vs Universidad Chile - starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lanús</actor>
-      <actor>Universidad Chile</actor>
-    </credits>
-    <sub-title lang="en">Venue: Universidad Chile Stadium</sub-title>
-  </programme>
-  <programme start="20251030T130000 +0000" stop="20251030T160000 +0000" channel="soccer 09">
-    <title lang="en">Lanús vs Universidad Chile - starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lanús</actor>
-      <actor>Universidad Chile</actor>
-    </credits>
-    <sub-title lang="en">Venue: Universidad Chile Stadium</sub-title>
-  </programme>
-  <programme start="20251030T160000 +0000" stop="20251030T190000 +0000" channel="soccer 09">
-    <title lang="en">Lanús vs Universidad Chile - starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lanús</actor>
-      <actor>Universidad Chile</actor>
-    </credits>
-    <sub-title lang="en">Venue: Universidad Chile Stadium</sub-title>
-  </programme>
-  <programme start="20251030T190000 +0000" stop="20251030T220000 +0000" channel="soccer 09">
-    <title lang="en">Lanús vs Universidad Chile - starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lanús</actor>
-      <actor>Universidad Chile</actor>
-    </credits>
-    <sub-title lang="en">Venue: Universidad Chile Stadium</sub-title>
-  </programme>
-  <programme start="20251030T220000 +0000" stop="20251031T000000 +0000" channel="soccer 09">
-    <title lang="en">Lanús vs Universidad Chile</title>
-    <desc lang="en">League: Sudamericana</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lanús</actor>
-      <actor>Universidad Chile</actor>
-    </credits>
-    <sub-title lang="en">Venue: Universidad Chile Stadium</sub-title>
-  </programme>
-  <programme start="20251030T100000 +0000" stop="20251030T130000 +0000" channel="soccer 10">
-    <title lang="en">Al-Ahli vs Al Riyadh - starts at 1:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Al-Ahli</actor>
-      <actor>Al Riyadh</actor>
-    </credits>
-    <sub-title lang="en">Venue: Al Riyadh Stadium</sub-title>
-  </programme>
-  <programme start="20251030T130000 +0000" stop="20251030T160000 +0000" channel="soccer 10">
-    <title lang="en">Al-Ahli vs Al Riyadh - starts at 1:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Al-Ahli</actor>
-      <actor>Al Riyadh</actor>
-    </credits>
-    <sub-title lang="en">Venue: Al Riyadh Stadium</sub-title>
-  </programme>
-  <programme start="20251030T173000 +0000" stop="20251030T193000 +0000" channel="soccer 10">
-    <title lang="en">Al-Ahli vs Al Riyadh</title>
+  <programme start="20251031T145000 +0000" stop="20251031T165000 +0000" channel="soccer 08">
+    <title lang="en">Al Hilal vs Al Shabab</title>
     <desc lang="en">League: Saudi Pro</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Al-Ahli</actor>
-      <actor>Al Riyadh</actor>
+      <actor>Al Hilal</actor>
+      <actor>Al Shabab</actor>
     </credits>
-    <sub-title lang="en">Venue: Al Riyadh Stadium</sub-title>
+    <sub-title lang="en">Venue: Al Shabab Stadium</sub-title>
+  </programme>
+  <programme start="20251031T100000 +0000" stop="20251031T130000 +0000" channel="soccer 09">
+    <title lang="en">Başakşehir vs Kocaelispor - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Başakşehir</actor>
+      <actor>Kocaelispor</actor>
+    </credits>
+    <sub-title lang="en">Venue: Kocaelispor Stadium</sub-title>
+  </programme>
+  <programme start="20251031T130000 +0000" stop="20251031T160000 +0000" channel="soccer 09">
+    <title lang="en">Başakşehir vs Kocaelispor - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Başakşehir</actor>
+      <actor>Kocaelispor</actor>
+    </credits>
+    <sub-title lang="en">Venue: Kocaelispor Stadium</sub-title>
+  </programme>
+  <programme start="20251031T170000 +0000" stop="20251031T190000 +0000" channel="soccer 09">
+    <title lang="en">Başakşehir vs Kocaelispor</title>
+    <desc lang="en">League: Super Lig</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Başakşehir</actor>
+      <actor>Kocaelispor</actor>
+    </credits>
+    <sub-title lang="en">Venue: Kocaelispor Stadium</sub-title>
   </programme>
 </tv>
