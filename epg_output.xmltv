@@ -6,6 +6,9 @@
   <channel id="ncaaf 002">
     <display-name>NCAAF 002</display-name>
   </channel>
+  <channel id="ncaaf 003">
+    <display-name>NCAAF 003</display-name>
+  </channel>
   <channel id="soccer 01">
     <display-name>Soccer 01</display-name>
   </channel>
@@ -305,9 +308,6 @@
   </channel>
   <channel id="soccer 100">
     <display-name>Soccer 100</display-name>
-  </channel>
-  <channel id="ncaaf 003">
-    <display-name>NCAAF 003</display-name>
   </channel>
   <channel id="ncaaf 004">
     <display-name>NCAAF 004</display-name>
@@ -1275,54 +1275,80 @@
   <channel id="seasonal 25">
     <display-name>Seasonal 25</display-name>
   </channel>
-  <programme start="20251111T110000 +0000" stop="20251111T140000 +0000" channel="ncaaf 001">
-    <title lang="en">KENT STATE AT AKRON - starts at 7:30 PM ET</title>
+  <programme start="20251112T110000 +0000" stop="20251112T140000 +0000" channel="ncaaf 001">
+    <title lang="en">BUFFALO AT CENTRAL MICHIGAN - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAF</category>
   </programme>
-  <programme start="20251111T140000 +0000" stop="20251111T170000 +0000" channel="ncaaf 001">
-    <title lang="en">KENT STATE AT AKRON - starts at 7:30 PM ET</title>
+  <programme start="20251112T140000 +0000" stop="20251112T170000 +0000" channel="ncaaf 001">
+    <title lang="en">BUFFALO AT CENTRAL MICHIGAN - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAF</category>
   </programme>
-  <programme start="20251111T170000 +0000" stop="20251111T200000 +0000" channel="ncaaf 001">
-    <title lang="en">KENT STATE AT AKRON - starts at 7:30 PM ET</title>
+  <programme start="20251112T170000 +0000" stop="20251112T200000 +0000" channel="ncaaf 001">
+    <title lang="en">BUFFALO AT CENTRAL MICHIGAN - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAF</category>
   </programme>
-  <programme start="20251111T200000 +0000" stop="20251111T230000 +0000" channel="ncaaf 001">
-    <title lang="en">KENT STATE AT AKRON - starts at 7:30 PM ET</title>
+  <programme start="20251112T200000 +0000" stop="20251112T230000 +0000" channel="ncaaf 001">
+    <title lang="en">BUFFALO AT CENTRAL MICHIGAN - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAF</category>
   </programme>
-  <programme start="20251112T003000 +0000" stop="20251112T040000 +0000" channel="ncaaf 001">
-    <title lang="en">KENT STATE AT AKRON</title>
+  <programme start="20251113T000000 +0000" stop="20251113T033000 +0000" channel="ncaaf 001">
+    <title lang="en">BUFFALO AT CENTRAL MICHIGAN</title>
+    <desc lang="en">Network: CBSSN</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAF</category>
+  </programme>
+  <programme start="20251112T110000 +0000" stop="20251112T140000 +0000" channel="ncaaf 002">
+    <title lang="en">NIU AT UMASS - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+  </programme>
+  <programme start="20251112T140000 +0000" stop="20251112T170000 +0000" channel="ncaaf 002">
+    <title lang="en">NIU AT UMASS - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+  </programme>
+  <programme start="20251112T170000 +0000" stop="20251112T200000 +0000" channel="ncaaf 002">
+    <title lang="en">NIU AT UMASS - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+  </programme>
+  <programme start="20251112T200000 +0000" stop="20251112T230000 +0000" channel="ncaaf 002">
+    <title lang="en">NIU AT UMASS - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+  </programme>
+  <programme start="20251113T000000 +0000" stop="20251113T033000 +0000" channel="ncaaf 002">
+    <title lang="en">NIU AT UMASS</title>
     <desc lang="en">Network: ESPNU</desc>
     <category lang="en">Sports</category>
     <category lang="en">NCAAF</category>
   </programme>
-  <programme start="20251111T110000 +0000" stop="20251111T140000 +0000" channel="ncaaf 002">
-    <title lang="en">OHIO AT WESTERN MICHIGAN - starts at 8:00 PM ET</title>
+  <programme start="20251112T110000 +0000" stop="20251112T140000 +0000" channel="ncaaf 003">
+    <title lang="en">TOLEDO AT MIAMI (OHIO) - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAF</category>
   </programme>
-  <programme start="20251111T140000 +0000" stop="20251111T170000 +0000" channel="ncaaf 002">
-    <title lang="en">OHIO AT WESTERN MICHIGAN - starts at 8:00 PM ET</title>
+  <programme start="20251112T140000 +0000" stop="20251112T170000 +0000" channel="ncaaf 003">
+    <title lang="en">TOLEDO AT MIAMI (OHIO) - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAF</category>
   </programme>
-  <programme start="20251111T170000 +0000" stop="20251111T200000 +0000" channel="ncaaf 002">
-    <title lang="en">OHIO AT WESTERN MICHIGAN - starts at 8:00 PM ET</title>
+  <programme start="20251112T170000 +0000" stop="20251112T200000 +0000" channel="ncaaf 003">
+    <title lang="en">TOLEDO AT MIAMI (OHIO) - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAF</category>
   </programme>
-  <programme start="20251111T200000 +0000" stop="20251111T230000 +0000" channel="ncaaf 002">
-    <title lang="en">OHIO AT WESTERN MICHIGAN - starts at 8:00 PM ET</title>
+  <programme start="20251112T200000 +0000" stop="20251112T230000 +0000" channel="ncaaf 003">
+    <title lang="en">TOLEDO AT MIAMI (OHIO) - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAF</category>
   </programme>
-  <programme start="20251112T010000 +0000" stop="20251112T043000 +0000" channel="ncaaf 002">
-    <title lang="en">OHIO AT WESTERN MICHIGAN</title>
+  <programme start="20251113T000000 +0000" stop="20251113T033000 +0000" channel="ncaaf 003">
+    <title lang="en">TOLEDO AT MIAMI (OHIO)</title>
     <desc lang="en">Network: ESPN2</desc>
     <category lang="en">Sports</category>
     <category lang="en">NCAAF</category>
