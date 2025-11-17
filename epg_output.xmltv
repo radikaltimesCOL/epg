@@ -1275,273 +1275,221 @@
   <channel id="seasonal 25">
     <display-name>Seasonal 25</display-name>
   </channel>
-  <programme start="20251116T110000 +0000" stop="20251116T140000 +0000" channel="soccer 01">
-    <title lang="en">Portugal vs Armenia - starts at 9:00 AM ET</title>
+  <programme start="20251117T110000 +0000" stop="20251117T140000 +0000" channel="soccer 01">
+    <title lang="en">Czech Republic vs Gibraltar - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Portugal</actor>
-      <actor>Armenia</actor>
+      <actor>Czech Republic</actor>
+      <actor>Gibraltar</actor>
     </credits>
-    <sub-title lang="en">Venue: Armenia Stadium</sub-title>
+    <sub-title lang="en">Venue: Gibraltar Stadium</sub-title>
   </programme>
-  <programme start="20251116T140000 +0000" stop="20251116T160000 +0000" channel="soccer 01">
-    <title lang="en">Portugal vs Armenia</title>
+  <programme start="20251117T140000 +0000" stop="20251117T170000 +0000" channel="soccer 01">
+    <title lang="en">Czech Republic vs Gibraltar - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Czech Republic</actor>
+      <actor>Gibraltar</actor>
+    </credits>
+    <sub-title lang="en">Venue: Gibraltar Stadium</sub-title>
+  </programme>
+  <programme start="20251117T194500 +0000" stop="20251117T214500 +0000" channel="soccer 01">
+    <title lang="en">Czech Republic vs Gibraltar</title>
     <desc lang="en">League: WC Qualifiers</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Portugal</actor>
-      <actor>Armenia</actor>
+      <actor>Czech Republic</actor>
+      <actor>Gibraltar</actor>
     </credits>
-    <sub-title lang="en">Venue: Armenia Stadium</sub-title>
+    <sub-title lang="en">Venue: Gibraltar Stadium</sub-title>
   </programme>
-  <programme start="20251116T110000 +0000" stop="20251116T140000 +0000" channel="soccer 02">
-    <title lang="en">Hungary vs Ireland - starts at 9:00 AM ET</title>
+  <programme start="20251117T110000 +0000" stop="20251117T140000 +0000" channel="soccer 02">
+    <title lang="en">Netherlands vs Lithuania - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Hungary</actor>
-      <actor>Ireland</actor>
+      <actor>Netherlands</actor>
+      <actor>Lithuania</actor>
     </credits>
-    <sub-title lang="en">Venue: Ireland Stadium</sub-title>
+    <sub-title lang="en">Venue: Lithuania Stadium</sub-title>
   </programme>
-  <programme start="20251116T140000 +0000" stop="20251116T160000 +0000" channel="soccer 02">
-    <title lang="en">Hungary vs Ireland</title>
+  <programme start="20251117T140000 +0000" stop="20251117T170000 +0000" channel="soccer 02">
+    <title lang="en">Netherlands vs Lithuania - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Netherlands</actor>
+      <actor>Lithuania</actor>
+    </credits>
+    <sub-title lang="en">Venue: Lithuania Stadium</sub-title>
+  </programme>
+  <programme start="20251117T194500 +0000" stop="20251117T214500 +0000" channel="soccer 02">
+    <title lang="en">Netherlands vs Lithuania</title>
     <desc lang="en">League: WC Qualifiers</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Hungary</actor>
-      <actor>Ireland</actor>
+      <actor>Netherlands</actor>
+      <actor>Lithuania</actor>
     </credits>
-    <sub-title lang="en">Venue: Ireland Stadium</sub-title>
+    <sub-title lang="en">Venue: Lithuania Stadium</sub-title>
   </programme>
-  <programme start="20251116T110000 +0000" stop="20251116T140000 +0000" channel="soccer 03">
-    <title lang="en">Ukraine vs Iceland - starts at 12:00 PM ET</title>
+  <programme start="20251117T110000 +0000" stop="20251117T140000 +0000" channel="soccer 03">
+    <title lang="en">Germany vs Slovakia - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Ukraine</actor>
-      <actor>Iceland</actor>
+      <actor>Germany</actor>
+      <actor>Slovakia</actor>
     </credits>
-    <sub-title lang="en">Venue: Iceland Stadium</sub-title>
+    <sub-title lang="en">Venue: Slovakia Stadium</sub-title>
   </programme>
-  <programme start="20251116T140000 +0000" stop="20251116T170000 +0000" channel="soccer 03">
-    <title lang="en">Ukraine vs Iceland - starts at 12:00 PM ET</title>
+  <programme start="20251117T140000 +0000" stop="20251117T170000 +0000" channel="soccer 03">
+    <title lang="en">Germany vs Slovakia - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Ukraine</actor>
-      <actor>Iceland</actor>
+      <actor>Germany</actor>
+      <actor>Slovakia</actor>
     </credits>
-    <sub-title lang="en">Venue: Iceland Stadium</sub-title>
+    <sub-title lang="en">Venue: Slovakia Stadium</sub-title>
   </programme>
-  <programme start="20251116T170000 +0000" stop="20251116T190000 +0000" channel="soccer 03">
-    <title lang="en">Ukraine vs Iceland</title>
+  <programme start="20251117T194500 +0000" stop="20251117T214500 +0000" channel="soccer 03">
+    <title lang="en">Germany vs Slovakia</title>
     <desc lang="en">League: WC Qualifiers</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Ukraine</actor>
-      <actor>Iceland</actor>
+      <actor>Germany</actor>
+      <actor>Slovakia</actor>
     </credits>
-    <sub-title lang="en">Venue: Iceland Stadium</sub-title>
+    <sub-title lang="en">Venue: Slovakia Stadium</sub-title>
   </programme>
-  <programme start="20251116T110000 +0000" stop="20251116T140000 +0000" channel="soccer 04">
-    <title lang="en">Albania vs England - starts at 12:00 PM ET</title>
+  <programme start="20251117T110000 +0000" stop="20251117T140000 +0000" channel="soccer 04">
+    <title lang="en">N.Ireland vs Luxembourg - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Albania</actor>
-      <actor>England</actor>
+      <actor>N.Ireland</actor>
+      <actor>Luxembourg</actor>
     </credits>
-    <sub-title lang="en">Venue: England Stadium</sub-title>
+    <sub-title lang="en">Venue: Luxembourg Stadium</sub-title>
   </programme>
-  <programme start="20251116T140000 +0000" stop="20251116T170000 +0000" channel="soccer 04">
-    <title lang="en">Albania vs England - starts at 12:00 PM ET</title>
+  <programme start="20251117T140000 +0000" stop="20251117T170000 +0000" channel="soccer 04">
+    <title lang="en">N.Ireland vs Luxembourg - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Albania</actor>
-      <actor>England</actor>
+      <actor>N.Ireland</actor>
+      <actor>Luxembourg</actor>
     </credits>
-    <sub-title lang="en">Venue: England Stadium</sub-title>
+    <sub-title lang="en">Venue: Luxembourg Stadium</sub-title>
   </programme>
-  <programme start="20251116T170000 +0000" stop="20251116T190000 +0000" channel="soccer 04">
-    <title lang="en">Albania vs England</title>
+  <programme start="20251117T194500 +0000" stop="20251117T214500 +0000" channel="soccer 04">
+    <title lang="en">N.Ireland vs Luxembourg</title>
     <desc lang="en">League: WC Qualifiers</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Albania</actor>
-      <actor>England</actor>
+      <actor>N.Ireland</actor>
+      <actor>Luxembourg</actor>
     </credits>
-    <sub-title lang="en">Venue: England Stadium</sub-title>
+    <sub-title lang="en">Venue: Luxembourg Stadium</sub-title>
   </programme>
-  <programme start="20251116T110000 +0000" stop="20251116T140000 +0000" channel="soccer 05">
-    <title lang="en">Serbia vs Latvia - starts at 12:00 PM ET</title>
+  <programme start="20251117T110000 +0000" stop="20251117T140000 +0000" channel="soccer 05">
+    <title lang="en">Montenegro vs Croatia - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Serbia</actor>
-      <actor>Latvia</actor>
+      <actor>Montenegro</actor>
+      <actor>Croatia</actor>
     </credits>
-    <sub-title lang="en">Venue: Latvia Stadium</sub-title>
+    <sub-title lang="en">Venue: Croatia Stadium</sub-title>
   </programme>
-  <programme start="20251116T140000 +0000" stop="20251116T170000 +0000" channel="soccer 05">
-    <title lang="en">Serbia vs Latvia - starts at 12:00 PM ET</title>
+  <programme start="20251117T140000 +0000" stop="20251117T170000 +0000" channel="soccer 05">
+    <title lang="en">Montenegro vs Croatia - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Serbia</actor>
-      <actor>Latvia</actor>
+      <actor>Montenegro</actor>
+      <actor>Croatia</actor>
     </credits>
-    <sub-title lang="en">Venue: Latvia Stadium</sub-title>
+    <sub-title lang="en">Venue: Croatia Stadium</sub-title>
   </programme>
-  <programme start="20251116T170000 +0000" stop="20251116T190000 +0000" channel="soccer 05">
-    <title lang="en">Serbia vs Latvia</title>
+  <programme start="20251117T194500 +0000" stop="20251117T214500 +0000" channel="soccer 05">
+    <title lang="en">Montenegro vs Croatia</title>
     <desc lang="en">League: WC Qualifiers</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Serbia</actor>
-      <actor>Latvia</actor>
+      <actor>Montenegro</actor>
+      <actor>Croatia</actor>
     </credits>
-    <sub-title lang="en">Venue: Latvia Stadium</sub-title>
+    <sub-title lang="en">Venue: Croatia Stadium</sub-title>
   </programme>
-  <programme start="20251116T110000 +0000" stop="20251116T140000 +0000" channel="soccer 06">
-    <title lang="en">Azerbaijan vs France - starts at 12:00 PM ET</title>
+  <programme start="20251117T110000 +0000" stop="20251117T140000 +0000" channel="soccer 06">
+    <title lang="en">Malta vs Poland - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Azerbaijan</actor>
-      <actor>France</actor>
+      <actor>Malta</actor>
+      <actor>Poland</actor>
     </credits>
-    <sub-title lang="en">Venue: France Stadium</sub-title>
+    <sub-title lang="en">Venue: Poland Stadium</sub-title>
   </programme>
-  <programme start="20251116T140000 +0000" stop="20251116T170000 +0000" channel="soccer 06">
-    <title lang="en">Azerbaijan vs France - starts at 12:00 PM ET</title>
+  <programme start="20251117T140000 +0000" stop="20251117T170000 +0000" channel="soccer 06">
+    <title lang="en">Malta vs Poland - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Azerbaijan</actor>
-      <actor>France</actor>
+      <actor>Malta</actor>
+      <actor>Poland</actor>
     </credits>
-    <sub-title lang="en">Venue: France Stadium</sub-title>
+    <sub-title lang="en">Venue: Poland Stadium</sub-title>
   </programme>
-  <programme start="20251116T170000 +0000" stop="20251116T190000 +0000" channel="soccer 06">
-    <title lang="en">Azerbaijan vs France</title>
+  <programme start="20251117T194500 +0000" stop="20251117T214500 +0000" channel="soccer 06">
+    <title lang="en">Malta vs Poland</title>
     <desc lang="en">League: WC Qualifiers</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Azerbaijan</actor>
-      <actor>France</actor>
+      <actor>Malta</actor>
+      <actor>Poland</actor>
     </credits>
-    <sub-title lang="en">Venue: France Stadium</sub-title>
+    <sub-title lang="en">Venue: Poland Stadium</sub-title>
   </programme>
-  <programme start="20251116T110000 +0000" stop="20251116T140000 +0000" channel="soccer 07">
-    <title lang="en">Italy vs Norway - starts at 2:45 PM ET</title>
+  <programme start="20251117T110000 +0000" stop="20251117T140000 +0000" channel="soccer 07">
+    <title lang="en">Finland vs Andorra - starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Italy</actor>
-      <actor>Norway</actor>
+      <actor>Finland</actor>
+      <actor>Andorra</actor>
     </credits>
-    <sub-title lang="en">Venue: Norway Stadium</sub-title>
+    <sub-title lang="en">Venue: Andorra Stadium</sub-title>
   </programme>
-  <programme start="20251116T140000 +0000" stop="20251116T170000 +0000" channel="soccer 07">
-    <title lang="en">Italy vs Norway - starts at 2:45 PM ET</title>
+  <programme start="20251117T140000 +0000" stop="20251117T170000 +0000" channel="soccer 07">
+    <title lang="en">Finland vs Andorra - starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Italy</actor>
-      <actor>Norway</actor>
+      <actor>Finland</actor>
+      <actor>Andorra</actor>
     </credits>
-    <sub-title lang="en">Venue: Norway Stadium</sub-title>
+    <sub-title lang="en">Venue: Andorra Stadium</sub-title>
   </programme>
-  <programme start="20251116T194500 +0000" stop="20251116T214500 +0000" channel="soccer 07">
-    <title lang="en">Italy vs Norway</title>
-    <desc lang="en">League: WC Qualifiers</desc>
+  <programme start="20251117T170000 +0000" stop="20251117T190000 +0000" channel="soccer 07">
+    <title lang="en">Finland vs Andorra</title>
+    <desc lang="en">League: Friendly</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Italy</actor>
-      <actor>Norway</actor>
+      <actor>Finland</actor>
+      <actor>Andorra</actor>
     </credits>
-    <sub-title lang="en">Venue: Norway Stadium</sub-title>
-  </programme>
-  <programme start="20251116T110000 +0000" stop="20251116T140000 +0000" channel="soccer 08">
-    <title lang="en">Israel vs Moldova - starts at 2:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Israel</actor>
-      <actor>Moldova</actor>
-    </credits>
-    <sub-title lang="en">Venue: Moldova Stadium</sub-title>
-  </programme>
-  <programme start="20251116T140000 +0000" stop="20251116T170000 +0000" channel="soccer 08">
-    <title lang="en">Israel vs Moldova - starts at 2:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Israel</actor>
-      <actor>Moldova</actor>
-    </credits>
-    <sub-title lang="en">Venue: Moldova Stadium</sub-title>
-  </programme>
-  <programme start="20251116T194500 +0000" stop="20251116T214500 +0000" channel="soccer 08">
-    <title lang="en">Israel vs Moldova</title>
-    <desc lang="en">League: WC Qualifiers</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Israel</actor>
-      <actor>Moldova</actor>
-    </credits>
-    <sub-title lang="en">Venue: Moldova Stadium</sub-title>
-  </programme>
-  <programme start="20251116T110000 +0000" stop="20251116T140000 +0000" channel="soccer 09">
-    <title lang="en">Bragantino vs Atlético Mineiro - starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Bragantino</actor>
-      <actor>Atlético Mineiro</actor>
-    </credits>
-    <sub-title lang="en">Venue: Atlético Mineiro Stadium</sub-title>
-  </programme>
-  <programme start="20251116T140000 +0000" stop="20251116T170000 +0000" channel="soccer 09">
-    <title lang="en">Bragantino vs Atlético Mineiro - starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Bragantino</actor>
-      <actor>Atlético Mineiro</actor>
-    </credits>
-    <sub-title lang="en">Venue: Atlético Mineiro Stadium</sub-title>
-  </programme>
-  <programme start="20251116T170000 +0000" stop="20251116T200000 +0000" channel="soccer 09">
-    <title lang="en">Bragantino vs Atlético Mineiro - starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Bragantino</actor>
-      <actor>Atlético Mineiro</actor>
-    </credits>
-    <sub-title lang="en">Venue: Atlético Mineiro Stadium</sub-title>
-  </programme>
-  <programme start="20251116T220000 +0000" stop="20251117T000000 +0000" channel="soccer 09">
-    <title lang="en">Bragantino vs Atlético Mineiro</title>
-    <desc lang="en">League: Brasileirao</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Bragantino</actor>
-      <actor>Atlético Mineiro</actor>
-    </credits>
-    <sub-title lang="en">Venue: Atlético Mineiro Stadium</sub-title>
+    <sub-title lang="en">Venue: Andorra Stadium</sub-title>
   </programme>
 </tv>
