@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="EPG Manager" generator-info-url="https://epg-manager.com">
+  <channel id="ncaaf 001">
+    <display-name>NCAAF 001</display-name>
+  </channel>
+  <channel id="ncaaf 002">
+    <display-name>NCAAF 002</display-name>
+  </channel>
   <channel id="soccer 01">
     <display-name>Soccer 01</display-name>
   </channel>
@@ -299,12 +305,6 @@
   </channel>
   <channel id="soccer 100">
     <display-name>Soccer 100</display-name>
-  </channel>
-  <channel id="ncaaf 001">
-    <display-name>NCAAF 001</display-name>
-  </channel>
-  <channel id="ncaaf 002">
-    <display-name>NCAAF 002</display-name>
   </channel>
   <channel id="ncaaf 003">
     <display-name>NCAAF 003</display-name>
@@ -1275,221 +1275,300 @@
   <channel id="seasonal 25">
     <display-name>Seasonal 25</display-name>
   </channel>
-  <programme start="20251117T110000 +0000" stop="20251117T140000 +0000" channel="soccer 01">
-    <title lang="en">Czech Republic vs Gibraltar - starts at 2:45 PM ET</title>
+  <programme start="20251119T110000 +0000" stop="20251119T140000 +0000" channel="ncaaf 001">
+    <title lang="en">CENTRAL MICHIGAN @ KENT STATE - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>CENTRAL MICHIGAN</actor>
+      <actor>KENT STATE</actor>
+    </credits>
+    <sub-title lang="en">Venue: KENT STATE Stadium</sub-title>
+  </programme>
+  <programme start="20251119T140000 +0000" stop="20251119T170000 +0000" channel="ncaaf 001">
+    <title lang="en">CENTRAL MICHIGAN @ KENT STATE - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>CENTRAL MICHIGAN</actor>
+      <actor>KENT STATE</actor>
+    </credits>
+    <sub-title lang="en">Venue: KENT STATE Stadium</sub-title>
+  </programme>
+  <programme start="20251119T170000 +0000" stop="20251119T200000 +0000" channel="ncaaf 001">
+    <title lang="en">CENTRAL MICHIGAN @ KENT STATE - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>CENTRAL MICHIGAN</actor>
+      <actor>KENT STATE</actor>
+    </credits>
+    <sub-title lang="en">Venue: KENT STATE Stadium</sub-title>
+  </programme>
+  <programme start="20251119T200000 +0000" stop="20251119T230000 +0000" channel="ncaaf 001">
+    <title lang="en">CENTRAL MICHIGAN @ KENT STATE - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>CENTRAL MICHIGAN</actor>
+      <actor>KENT STATE</actor>
+    </credits>
+    <sub-title lang="en">Venue: KENT STATE Stadium</sub-title>
+  </programme>
+  <programme start="20251120T000000 +0000" stop="20251120T033000 +0000" channel="ncaaf 001">
+    <title lang="en">CENTRAL MICHIGAN @ KENT STATE</title>
+    <desc lang="en">Network: ESPNU</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>CENTRAL MICHIGAN</actor>
+      <actor>KENT STATE</actor>
+    </credits>
+    <sub-title lang="en">Venue: KENT STATE Stadium</sub-title>
+  </programme>
+  <programme start="20251119T110000 +0000" stop="20251119T140000 +0000" channel="ncaaf 002">
+    <title lang="en">MIAMI (OHIO) @ BUFFALO - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>MIAMI (OHIO)</actor>
+      <actor>BUFFALO</actor>
+    </credits>
+    <sub-title lang="en">Venue: BUFFALO Stadium</sub-title>
+  </programme>
+  <programme start="20251119T140000 +0000" stop="20251119T170000 +0000" channel="ncaaf 002">
+    <title lang="en">MIAMI (OHIO) @ BUFFALO - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>MIAMI (OHIO)</actor>
+      <actor>BUFFALO</actor>
+    </credits>
+    <sub-title lang="en">Venue: BUFFALO Stadium</sub-title>
+  </programme>
+  <programme start="20251119T170000 +0000" stop="20251119T200000 +0000" channel="ncaaf 002">
+    <title lang="en">MIAMI (OHIO) @ BUFFALO - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>MIAMI (OHIO)</actor>
+      <actor>BUFFALO</actor>
+    </credits>
+    <sub-title lang="en">Venue: BUFFALO Stadium</sub-title>
+  </programme>
+  <programme start="20251119T200000 +0000" stop="20251119T230000 +0000" channel="ncaaf 002">
+    <title lang="en">MIAMI (OHIO) @ BUFFALO - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>MIAMI (OHIO)</actor>
+      <actor>BUFFALO</actor>
+    </credits>
+    <sub-title lang="en">Venue: BUFFALO Stadium</sub-title>
+  </programme>
+  <programme start="20251120T000000 +0000" stop="20251120T033000 +0000" channel="ncaaf 002">
+    <title lang="en">MIAMI (OHIO) @ BUFFALO</title>
+    <desc lang="en">Network: ESPN2</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>MIAMI (OHIO)</actor>
+      <actor>BUFFALO</actor>
+    </credits>
+    <sub-title lang="en">Venue: BUFFALO Stadium</sub-title>
+  </programme>
+  <programme start="20251119T110000 +0000" stop="20251119T140000 +0000" channel="soccer 01">
+    <title lang="en">Palmeiras vs Vitória - starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Czech Republic</actor>
-      <actor>Gibraltar</actor>
+      <actor>Palmeiras</actor>
+      <actor>Vitória</actor>
     </credits>
-    <sub-title lang="en">Venue: Gibraltar Stadium</sub-title>
+    <sub-title lang="en">Venue: Vitória Stadium</sub-title>
   </programme>
-  <programme start="20251117T140000 +0000" stop="20251117T170000 +0000" channel="soccer 01">
-    <title lang="en">Czech Republic vs Gibraltar - starts at 2:45 PM ET</title>
+  <programme start="20251119T140000 +0000" stop="20251119T170000 +0000" channel="soccer 01">
+    <title lang="en">Palmeiras vs Vitória - starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Czech Republic</actor>
-      <actor>Gibraltar</actor>
+      <actor>Palmeiras</actor>
+      <actor>Vitória</actor>
     </credits>
-    <sub-title lang="en">Venue: Gibraltar Stadium</sub-title>
+    <sub-title lang="en">Venue: Vitória Stadium</sub-title>
   </programme>
-  <programme start="20251117T194500 +0000" stop="20251117T214500 +0000" channel="soccer 01">
-    <title lang="en">Czech Republic vs Gibraltar</title>
-    <desc lang="en">League: WC Qualifiers</desc>
+  <programme start="20251119T170000 +0000" stop="20251119T200000 +0000" channel="soccer 01">
+    <title lang="en">Palmeiras vs Vitória - starts at 5:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Palmeiras</actor>
+      <actor>Vitória</actor>
+    </credits>
+    <sub-title lang="en">Venue: Vitória Stadium</sub-title>
+  </programme>
+  <programme start="20251119T223000 +0000" stop="20251120T003000 +0000" channel="soccer 01">
+    <title lang="en">Palmeiras vs Vitória</title>
+    <desc lang="en">League: Brasileirao</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Czech Republic</actor>
-      <actor>Gibraltar</actor>
+      <actor>Palmeiras</actor>
+      <actor>Vitória</actor>
     </credits>
-    <sub-title lang="en">Venue: Gibraltar Stadium</sub-title>
+    <sub-title lang="en">Venue: Vitória Stadium</sub-title>
   </programme>
-  <programme start="20251117T110000 +0000" stop="20251117T140000 +0000" channel="soccer 02">
-    <title lang="en">Netherlands vs Lithuania - starts at 2:45 PM ET</title>
+  <programme start="20251119T110000 +0000" stop="20251119T140000 +0000" channel="soccer 02">
+    <title lang="en">Santos vs Mirassol - starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Netherlands</actor>
-      <actor>Lithuania</actor>
+      <actor>Santos</actor>
+      <actor>Mirassol</actor>
     </credits>
-    <sub-title lang="en">Venue: Lithuania Stadium</sub-title>
+    <sub-title lang="en">Venue: Mirassol Stadium</sub-title>
   </programme>
-  <programme start="20251117T140000 +0000" stop="20251117T170000 +0000" channel="soccer 02">
-    <title lang="en">Netherlands vs Lithuania - starts at 2:45 PM ET</title>
+  <programme start="20251119T140000 +0000" stop="20251119T170000 +0000" channel="soccer 02">
+    <title lang="en">Santos vs Mirassol - starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Netherlands</actor>
-      <actor>Lithuania</actor>
+      <actor>Santos</actor>
+      <actor>Mirassol</actor>
     </credits>
-    <sub-title lang="en">Venue: Lithuania Stadium</sub-title>
+    <sub-title lang="en">Venue: Mirassol Stadium</sub-title>
   </programme>
-  <programme start="20251117T194500 +0000" stop="20251117T214500 +0000" channel="soccer 02">
-    <title lang="en">Netherlands vs Lithuania</title>
-    <desc lang="en">League: WC Qualifiers</desc>
+  <programme start="20251119T170000 +0000" stop="20251119T200000 +0000" channel="soccer 02">
+    <title lang="en">Santos vs Mirassol - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Santos</actor>
+      <actor>Mirassol</actor>
+    </credits>
+    <sub-title lang="en">Venue: Mirassol Stadium</sub-title>
+  </programme>
+  <programme start="20251119T200000 +0000" stop="20251119T230000 +0000" channel="soccer 02">
+    <title lang="en">Santos vs Mirassol - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Santos</actor>
+      <actor>Mirassol</actor>
+    </credits>
+    <sub-title lang="en">Venue: Mirassol Stadium</sub-title>
+  </programme>
+  <programme start="20251120T003000 +0000" stop="20251120T023000 +0000" channel="soccer 02">
+    <title lang="en">Santos vs Mirassol</title>
+    <desc lang="en">League: Brasileirao</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Netherlands</actor>
-      <actor>Lithuania</actor>
+      <actor>Santos</actor>
+      <actor>Mirassol</actor>
     </credits>
-    <sub-title lang="en">Venue: Lithuania Stadium</sub-title>
+    <sub-title lang="en">Venue: Mirassol Stadium</sub-title>
   </programme>
-  <programme start="20251117T110000 +0000" stop="20251117T140000 +0000" channel="soccer 03">
-    <title lang="en">Germany vs Slovakia - starts at 2:45 PM ET</title>
+  <programme start="20251119T110000 +0000" stop="20251119T140000 +0000" channel="soccer 03">
+    <title lang="en">Grêmio vs Vasco da Gama - starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Germany</actor>
-      <actor>Slovakia</actor>
+      <actor>Grêmio</actor>
+      <actor>Vasco da Gama</actor>
     </credits>
-    <sub-title lang="en">Venue: Slovakia Stadium</sub-title>
+    <sub-title lang="en">Venue: Vasco da Gama Stadium</sub-title>
   </programme>
-  <programme start="20251117T140000 +0000" stop="20251117T170000 +0000" channel="soccer 03">
-    <title lang="en">Germany vs Slovakia - starts at 2:45 PM ET</title>
+  <programme start="20251119T140000 +0000" stop="20251119T170000 +0000" channel="soccer 03">
+    <title lang="en">Grêmio vs Vasco da Gama - starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Germany</actor>
-      <actor>Slovakia</actor>
+      <actor>Grêmio</actor>
+      <actor>Vasco da Gama</actor>
     </credits>
-    <sub-title lang="en">Venue: Slovakia Stadium</sub-title>
+    <sub-title lang="en">Venue: Vasco da Gama Stadium</sub-title>
   </programme>
-  <programme start="20251117T194500 +0000" stop="20251117T214500 +0000" channel="soccer 03">
-    <title lang="en">Germany vs Slovakia</title>
-    <desc lang="en">League: WC Qualifiers</desc>
+  <programme start="20251119T170000 +0000" stop="20251119T200000 +0000" channel="soccer 03">
+    <title lang="en">Grêmio vs Vasco da Gama - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Grêmio</actor>
+      <actor>Vasco da Gama</actor>
+    </credits>
+    <sub-title lang="en">Venue: Vasco da Gama Stadium</sub-title>
+  </programme>
+  <programme start="20251119T200000 +0000" stop="20251119T230000 +0000" channel="soccer 03">
+    <title lang="en">Grêmio vs Vasco da Gama - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Grêmio</actor>
+      <actor>Vasco da Gama</actor>
+    </credits>
+    <sub-title lang="en">Venue: Vasco da Gama Stadium</sub-title>
+  </programme>
+  <programme start="20251120T003000 +0000" stop="20251120T023000 +0000" channel="soccer 03">
+    <title lang="en">Grêmio vs Vasco da Gama</title>
+    <desc lang="en">League: Brasileirao</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Germany</actor>
-      <actor>Slovakia</actor>
+      <actor>Grêmio</actor>
+      <actor>Vasco da Gama</actor>
     </credits>
-    <sub-title lang="en">Venue: Slovakia Stadium</sub-title>
+    <sub-title lang="en">Venue: Vasco da Gama Stadium</sub-title>
   </programme>
-  <programme start="20251117T110000 +0000" stop="20251117T140000 +0000" channel="soccer 04">
-    <title lang="en">N.Ireland vs Luxembourg - starts at 2:45 PM ET</title>
+  <programme start="20251119T110000 +0000" stop="20251119T140000 +0000" channel="soccer 04">
+    <title lang="en">Fluminense vs Flamengo - starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>N.Ireland</actor>
-      <actor>Luxembourg</actor>
+      <actor>Fluminense</actor>
+      <actor>Flamengo</actor>
     </credits>
-    <sub-title lang="en">Venue: Luxembourg Stadium</sub-title>
+    <sub-title lang="en">Venue: Flamengo Stadium</sub-title>
   </programme>
-  <programme start="20251117T140000 +0000" stop="20251117T170000 +0000" channel="soccer 04">
-    <title lang="en">N.Ireland vs Luxembourg - starts at 2:45 PM ET</title>
+  <programme start="20251119T140000 +0000" stop="20251119T170000 +0000" channel="soccer 04">
+    <title lang="en">Fluminense vs Flamengo - starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>N.Ireland</actor>
-      <actor>Luxembourg</actor>
+      <actor>Fluminense</actor>
+      <actor>Flamengo</actor>
     </credits>
-    <sub-title lang="en">Venue: Luxembourg Stadium</sub-title>
+    <sub-title lang="en">Venue: Flamengo Stadium</sub-title>
   </programme>
-  <programme start="20251117T194500 +0000" stop="20251117T214500 +0000" channel="soccer 04">
-    <title lang="en">N.Ireland vs Luxembourg</title>
-    <desc lang="en">League: WC Qualifiers</desc>
+  <programme start="20251119T170000 +0000" stop="20251119T200000 +0000" channel="soccer 04">
+    <title lang="en">Fluminense vs Flamengo - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Fluminense</actor>
+      <actor>Flamengo</actor>
+    </credits>
+    <sub-title lang="en">Venue: Flamengo Stadium</sub-title>
+  </programme>
+  <programme start="20251119T200000 +0000" stop="20251119T230000 +0000" channel="soccer 04">
+    <title lang="en">Fluminense vs Flamengo - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Fluminense</actor>
+      <actor>Flamengo</actor>
+    </credits>
+    <sub-title lang="en">Venue: Flamengo Stadium</sub-title>
+  </programme>
+  <programme start="20251120T003000 +0000" stop="20251120T023000 +0000" channel="soccer 04">
+    <title lang="en">Fluminense vs Flamengo</title>
+    <desc lang="en">League: Brasileirao</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>N.Ireland</actor>
-      <actor>Luxembourg</actor>
+      <actor>Fluminense</actor>
+      <actor>Flamengo</actor>
     </credits>
-    <sub-title lang="en">Venue: Luxembourg Stadium</sub-title>
-  </programme>
-  <programme start="20251117T110000 +0000" stop="20251117T140000 +0000" channel="soccer 05">
-    <title lang="en">Montenegro vs Croatia - starts at 2:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Montenegro</actor>
-      <actor>Croatia</actor>
-    </credits>
-    <sub-title lang="en">Venue: Croatia Stadium</sub-title>
-  </programme>
-  <programme start="20251117T140000 +0000" stop="20251117T170000 +0000" channel="soccer 05">
-    <title lang="en">Montenegro vs Croatia - starts at 2:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Montenegro</actor>
-      <actor>Croatia</actor>
-    </credits>
-    <sub-title lang="en">Venue: Croatia Stadium</sub-title>
-  </programme>
-  <programme start="20251117T194500 +0000" stop="20251117T214500 +0000" channel="soccer 05">
-    <title lang="en">Montenegro vs Croatia</title>
-    <desc lang="en">League: WC Qualifiers</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Montenegro</actor>
-      <actor>Croatia</actor>
-    </credits>
-    <sub-title lang="en">Venue: Croatia Stadium</sub-title>
-  </programme>
-  <programme start="20251117T110000 +0000" stop="20251117T140000 +0000" channel="soccer 06">
-    <title lang="en">Malta vs Poland - starts at 2:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Malta</actor>
-      <actor>Poland</actor>
-    </credits>
-    <sub-title lang="en">Venue: Poland Stadium</sub-title>
-  </programme>
-  <programme start="20251117T140000 +0000" stop="20251117T170000 +0000" channel="soccer 06">
-    <title lang="en">Malta vs Poland - starts at 2:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Malta</actor>
-      <actor>Poland</actor>
-    </credits>
-    <sub-title lang="en">Venue: Poland Stadium</sub-title>
-  </programme>
-  <programme start="20251117T194500 +0000" stop="20251117T214500 +0000" channel="soccer 06">
-    <title lang="en">Malta vs Poland</title>
-    <desc lang="en">League: WC Qualifiers</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Malta</actor>
-      <actor>Poland</actor>
-    </credits>
-    <sub-title lang="en">Venue: Poland Stadium</sub-title>
-  </programme>
-  <programme start="20251117T110000 +0000" stop="20251117T140000 +0000" channel="soccer 07">
-    <title lang="en">Finland vs Andorra - starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Finland</actor>
-      <actor>Andorra</actor>
-    </credits>
-    <sub-title lang="en">Venue: Andorra Stadium</sub-title>
-  </programme>
-  <programme start="20251117T140000 +0000" stop="20251117T170000 +0000" channel="soccer 07">
-    <title lang="en">Finland vs Andorra - starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Finland</actor>
-      <actor>Andorra</actor>
-    </credits>
-    <sub-title lang="en">Venue: Andorra Stadium</sub-title>
-  </programme>
-  <programme start="20251117T170000 +0000" stop="20251117T190000 +0000" channel="soccer 07">
-    <title lang="en">Finland vs Andorra</title>
-    <desc lang="en">League: Friendly</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Finland</actor>
-      <actor>Andorra</actor>
-    </credits>
-    <sub-title lang="en">Venue: Andorra Stadium</sub-title>
+    <sub-title lang="en">Venue: Flamengo Stadium</sub-title>
   </programme>
 </tv>
