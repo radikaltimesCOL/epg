@@ -417,8 +417,14 @@
   <programme start="20251206160000 -0500" stop="20251206235959 -0500" channel="EVENT 25">
     <title lang="en">EVENT 25: Millbridge Speedway has ended. Thank you for watching.</title>
   </programme>
-  <programme start="20251206080000 -0500" stop="20251206110000 -0500" channel="EVENT 26">
-    <title lang="en">No Event scheduled</title>
+  <programme start="20251206080000 -0500" stop="20251206190000 -0500" channel="EVENT 26">
+    <title lang="en">EVENT 26: NXT Deadline starts at 7:00 PM ET</title>
+  </programme>
+  <programme start="20251206190000 -0500" stop="20251206220000 -0500" channel="EVENT 26">
+    <title lang="en">EVENT 26: NXT Deadline (12.6 7:00 PM ET)</title>
+  </programme>
+  <programme start="20251206220000 -0500" stop="20251206235959 -0500" channel="EVENT 26">
+    <title lang="en">EVENT 26: NXT Deadline has ended. Thank you for watching.</title>
   </programme>
   <programme start="20251206080000 -0500" stop="20251206110000 -0500" channel="EVENT 27">
     <title lang="en">No Event scheduled</title>
