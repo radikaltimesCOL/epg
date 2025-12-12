@@ -57,33 +57,6 @@
   <channel id="ncaab 019">
     <display-name>NCAAB 019</display-name>
   </channel>
-  <channel id="ncaab 020">
-    <display-name>NCAAB 020</display-name>
-  </channel>
-  <channel id="ncaab 021">
-    <display-name>NCAAB 021</display-name>
-  </channel>
-  <channel id="ncaab 022">
-    <display-name>NCAAB 022</display-name>
-  </channel>
-  <channel id="ncaab 023">
-    <display-name>NCAAB 023</display-name>
-  </channel>
-  <channel id="ncaab 024">
-    <display-name>NCAAB 024</display-name>
-  </channel>
-  <channel id="ncaab 025">
-    <display-name>NCAAB 025</display-name>
-  </channel>
-  <channel id="ncaab 026">
-    <display-name>NCAAB 026</display-name>
-  </channel>
-  <channel id="ncaab 027">
-    <display-name>NCAAB 027</display-name>
-  </channel>
-  <channel id="ncaab 028">
-    <display-name>NCAAB 028</display-name>
-  </channel>
   <channel id="soccer 01">
     <display-name>Soccer 01</display-name>
   </channel>
@@ -791,6 +764,33 @@
   </channel>
   <channel id="ncaaf 136">
     <display-name>NCAAF 136</display-name>
+  </channel>
+  <channel id="ncaab 020">
+    <display-name>NCAAB 020</display-name>
+  </channel>
+  <channel id="ncaab 021">
+    <display-name>NCAAB 021</display-name>
+  </channel>
+  <channel id="ncaab 022">
+    <display-name>NCAAB 022</display-name>
+  </channel>
+  <channel id="ncaab 023">
+    <display-name>NCAAB 023</display-name>
+  </channel>
+  <channel id="ncaab 024">
+    <display-name>NCAAB 024</display-name>
+  </channel>
+  <channel id="ncaab 025">
+    <display-name>NCAAB 025</display-name>
+  </channel>
+  <channel id="ncaab 026">
+    <display-name>NCAAB 026</display-name>
+  </channel>
+  <channel id="ncaab 027">
+    <display-name>NCAAB 027</display-name>
+  </channel>
+  <channel id="ncaab 028">
+    <display-name>NCAAB 028</display-name>
   </channel>
   <channel id="ncaab 029">
     <display-name>NCAAB 029</display-name>
@@ -1815,2810 +1815,1088 @@
   <channel id="seasonal 25">
     <display-name>Seasonal 25</display-name>
   </channel>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="ncaab 001">
-    <title lang="en">DILLARD @ NORFOLK STATE (W) - starts at 11:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>DILLARD</actor>
-      <actor>NORFOLK STATE (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: NORFOLK STATE (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T160000 +0000" stop="20251211T180000 +0000" channel="ncaab 001">
-    <title lang="en">DILLARD @ NORFOLK STATE (W)</title>
-    <desc lang="en">Network: ESPN+</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>DILLARD</actor>
-      <actor>NORFOLK STATE (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: NORFOLK STATE (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="ncaab 002">
-    <title lang="en">LIPSCOMB @ PURDUE (W) - starts at 11:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>LIPSCOMB</actor>
-      <actor>PURDUE (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: PURDUE (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T160000 +0000" stop="20251211T180000 +0000" channel="ncaab 002">
-    <title lang="en">LIPSCOMB @ PURDUE (W)</title>
-    <desc lang="en">Network: B1G+</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>LIPSCOMB</actor>
-      <actor>PURDUE (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: PURDUE (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="ncaab 003">
-    <title lang="en">ST. MARYS (TX) @ INCARNATE WORD (W) - starts at 2:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>ST. MARYS (TX)</actor>
-      <actor>INCARNATE WORD (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: INCARNATE WORD (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="ncaab 003">
-    <title lang="en">ST. MARYS (TX) @ INCARNATE WORD (W) - starts at 2:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>ST. MARYS (TX)</actor>
-      <actor>INCARNATE WORD (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: INCARNATE WORD (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T190000 +0000" stop="20251211T210000 +0000" channel="ncaab 003">
-    <title lang="en">ST. MARYS (TX) @ INCARNATE WORD (W)</title>
-    <desc lang="en">Network: ESPN+</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>ST. MARYS (TX)</actor>
-      <actor>INCARNATE WORD (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: INCARNATE WORD (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="ncaab 004">
-    <title lang="en">DARTMOUTH @ NJIT (W) - starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>DARTMOUTH</actor>
-      <actor>NJIT (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: NJIT (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="ncaab 004">
-    <title lang="en">DARTMOUTH @ NJIT (W) - starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>DARTMOUTH</actor>
-      <actor>NJIT (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: NJIT (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="ncaab 004">
-    <title lang="en">DARTMOUTH @ NJIT (W) - starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>DARTMOUTH</actor>
-      <actor>NJIT (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: NJIT (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T230000 +0000" channel="ncaab 004">
-    <title lang="en">DARTMOUTH @ NJIT (W) - starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>DARTMOUTH</actor>
-      <actor>NJIT (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: NJIT (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T230000 +0000" stop="20251212T010000 +0000" channel="ncaab 004">
-    <title lang="en">DARTMOUTH @ NJIT (W)</title>
-    <desc lang="en">Network: ESPN+</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>DARTMOUTH</actor>
-      <actor>NJIT (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: NJIT (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="ncaab 005">
-    <title lang="en">DAVIS &amp; ELKINS @ MARSHALL (W) - starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>DAVIS &amp; ELKINS</actor>
-      <actor>MARSHALL (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: MARSHALL (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="ncaab 005">
-    <title lang="en">DAVIS &amp; ELKINS @ MARSHALL (W) - starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>DAVIS &amp; ELKINS</actor>
-      <actor>MARSHALL (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: MARSHALL (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="ncaab 005">
-    <title lang="en">DAVIS &amp; ELKINS @ MARSHALL (W) - starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>DAVIS &amp; ELKINS</actor>
-      <actor>MARSHALL (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: MARSHALL (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T230000 +0000" channel="ncaab 005">
-    <title lang="en">DAVIS &amp; ELKINS @ MARSHALL (W) - starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>DAVIS &amp; ELKINS</actor>
-      <actor>MARSHALL (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: MARSHALL (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T230000 +0000" stop="20251212T010000 +0000" channel="ncaab 005">
-    <title lang="en">DAVIS &amp; ELKINS @ MARSHALL (W)</title>
-    <desc lang="en">Network: ESPN+</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>DAVIS &amp; ELKINS</actor>
-      <actor>MARSHALL (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: MARSHALL (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="ncaab 006">
-    <title lang="en">GREEN BAY @ IU INDIANAPOLIS (M) - starts at 6:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>GREEN BAY</actor>
-      <actor>IU INDIANAPOLIS (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: IU INDIANAPOLIS (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="ncaab 006">
-    <title lang="en">GREEN BAY @ IU INDIANAPOLIS (M) - starts at 6:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>GREEN BAY</actor>
-      <actor>IU INDIANAPOLIS (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: IU INDIANAPOLIS (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="ncaab 006">
-    <title lang="en">GREEN BAY @ IU INDIANAPOLIS (M) - starts at 6:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>GREEN BAY</actor>
-      <actor>IU INDIANAPOLIS (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: IU INDIANAPOLIS (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T230000 +0000" channel="ncaab 006">
-    <title lang="en">GREEN BAY @ IU INDIANAPOLIS (M) - starts at 6:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>GREEN BAY</actor>
-      <actor>IU INDIANAPOLIS (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: IU INDIANAPOLIS (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T233000 +0000" stop="20251212T013000 +0000" channel="ncaab 006">
-    <title lang="en">GREEN BAY @ IU INDIANAPOLIS (M)</title>
-    <desc lang="en">Network: ESPN+</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>GREEN BAY</actor>
-      <actor>IU INDIANAPOLIS (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: IU INDIANAPOLIS (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="ncaab 007">
-    <title lang="en">NORTHERN KENTUCKY @ 21 OHIO STATE (W) - starts at 6:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>NORTHERN KENTUCKY</actor>
-      <actor>21 OHIO STATE (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: 21 OHIO STATE (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="ncaab 007">
-    <title lang="en">NORTHERN KENTUCKY @ 21 OHIO STATE (W) - starts at 6:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>NORTHERN KENTUCKY</actor>
-      <actor>21 OHIO STATE (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: 21 OHIO STATE (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="ncaab 007">
-    <title lang="en">NORTHERN KENTUCKY @ 21 OHIO STATE (W) - starts at 6:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>NORTHERN KENTUCKY</actor>
-      <actor>21 OHIO STATE (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: 21 OHIO STATE (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T230000 +0000" channel="ncaab 007">
-    <title lang="en">NORTHERN KENTUCKY @ 21 OHIO STATE (W) - starts at 6:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>NORTHERN KENTUCKY</actor>
-      <actor>21 OHIO STATE (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: 21 OHIO STATE (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T233000 +0000" stop="20251212T013000 +0000" channel="ncaab 007">
-    <title lang="en">NORTHERN KENTUCKY @ 21 OHIO STATE (W)</title>
-    <desc lang="en">Network: B1G+</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>NORTHERN KENTUCKY</actor>
-      <actor>21 OHIO STATE (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: 21 OHIO STATE (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="ncaab 008">
-    <title lang="en">APP STATE @ EAST CAROLINA (M) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>APP STATE</actor>
-      <actor>EAST CAROLINA (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: EAST CAROLINA (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="ncaab 008">
-    <title lang="en">APP STATE @ EAST CAROLINA (M) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>APP STATE</actor>
-      <actor>EAST CAROLINA (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: EAST CAROLINA (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="ncaab 008">
-    <title lang="en">APP STATE @ EAST CAROLINA (M) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>APP STATE</actor>
-      <actor>EAST CAROLINA (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: EAST CAROLINA (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T230000 +0000" channel="ncaab 008">
-    <title lang="en">APP STATE @ EAST CAROLINA (M) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>APP STATE</actor>
-      <actor>EAST CAROLINA (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: EAST CAROLINA (M) Arena</sub-title>
-  </programme>
-  <programme start="20251212T000000 +0000" stop="20251212T020000 +0000" channel="ncaab 008">
-    <title lang="en">APP STATE @ EAST CAROLINA (M)</title>
-    <desc lang="en">Network: ESPN+</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>APP STATE</actor>
-      <actor>EAST CAROLINA (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: EAST CAROLINA (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="ncaab 009">
-    <title lang="en">CHATTANOOGA @ TENNESSEE STATE (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>CHATTANOOGA</actor>
-      <actor>TENNESSEE STATE (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: TENNESSEE STATE (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="ncaab 009">
-    <title lang="en">CHATTANOOGA @ TENNESSEE STATE (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>CHATTANOOGA</actor>
-      <actor>TENNESSEE STATE (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: TENNESSEE STATE (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="ncaab 009">
-    <title lang="en">CHATTANOOGA @ TENNESSEE STATE (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>CHATTANOOGA</actor>
-      <actor>TENNESSEE STATE (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: TENNESSEE STATE (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T230000 +0000" channel="ncaab 009">
-    <title lang="en">CHATTANOOGA @ TENNESSEE STATE (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>CHATTANOOGA</actor>
-      <actor>TENNESSEE STATE (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: TENNESSEE STATE (W) Arena</sub-title>
-  </programme>
-  <programme start="20251212T000000 +0000" stop="20251212T020000 +0000" channel="ncaab 009">
-    <title lang="en">CHATTANOOGA @ TENNESSEE STATE (W)</title>
-    <desc lang="en">Network: ESPN+</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>CHATTANOOGA</actor>
-      <actor>TENNESSEE STATE (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: TENNESSEE STATE (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="ncaab 010">
-    <title lang="en">COASTAL GEORGIA @ GEORGIA SOUTHERN (M) - starts at 7:00 PM ET</title>
+  <programme start="20251212T110000 +0000" stop="20251212T140000 +0000" channel="ncaab 001">
+    <title lang="en">COASTAL GEORGIA @ GEORGIA SOUTHERN (W) - starts at 11:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
       <actor>COASTAL GEORGIA</actor>
-      <actor>GEORGIA SOUTHERN (M)</actor>
+      <actor>GEORGIA SOUTHERN (W)</actor>
     </credits>
-    <sub-title lang="en">Venue: GEORGIA SOUTHERN (M) Arena</sub-title>
+    <sub-title lang="en">Venue: GEORGIA SOUTHERN (W) Arena</sub-title>
   </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="ncaab 010">
-    <title lang="en">COASTAL GEORGIA @ GEORGIA SOUTHERN (M) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>COASTAL GEORGIA</actor>
-      <actor>GEORGIA SOUTHERN (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: GEORGIA SOUTHERN (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="ncaab 010">
-    <title lang="en">COASTAL GEORGIA @ GEORGIA SOUTHERN (M) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>COASTAL GEORGIA</actor>
-      <actor>GEORGIA SOUTHERN (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: GEORGIA SOUTHERN (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T230000 +0000" channel="ncaab 010">
-    <title lang="en">COASTAL GEORGIA @ GEORGIA SOUTHERN (M) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>COASTAL GEORGIA</actor>
-      <actor>GEORGIA SOUTHERN (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: GEORGIA SOUTHERN (M) Arena</sub-title>
-  </programme>
-  <programme start="20251212T000000 +0000" stop="20251212T020000 +0000" channel="ncaab 010">
-    <title lang="en">COASTAL GEORGIA @ GEORGIA SOUTHERN (M)</title>
+  <programme start="20251212T160000 +0000" stop="20251212T180000 +0000" channel="ncaab 001">
+    <title lang="en">COASTAL GEORGIA @ GEORGIA SOUTHERN (W)</title>
     <desc lang="en">Network: ESPN+</desc>
     <category lang="en">Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
       <actor>COASTAL GEORGIA</actor>
-      <actor>GEORGIA SOUTHERN (M)</actor>
+      <actor>GEORGIA SOUTHERN (W)</actor>
     </credits>
-    <sub-title lang="en">Venue: GEORGIA SOUTHERN (M) Arena</sub-title>
+    <sub-title lang="en">Venue: GEORGIA SOUTHERN (W) Arena</sub-title>
   </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="ncaab 011">
-    <title lang="en">GEORGIA TECH @ WEST VIRGINIA (W) - starts at 7:00 PM ET</title>
+  <programme start="20251212T110000 +0000" stop="20251212T140000 +0000" channel="ncaab 002">
+    <title lang="en">FLORIDA GULF COAST @ FLORIDA ATLANTIC (W) - starts at 11:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>GEORGIA TECH</actor>
-      <actor>WEST VIRGINIA (W)</actor>
+      <actor>FLORIDA GULF COAST</actor>
+      <actor>FLORIDA ATLANTIC (W)</actor>
     </credits>
-    <sub-title lang="en">Venue: WEST VIRGINIA (W) Arena</sub-title>
+    <sub-title lang="en">Venue: FLORIDA ATLANTIC (W) Arena</sub-title>
   </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="ncaab 011">
-    <title lang="en">GEORGIA TECH @ WEST VIRGINIA (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>GEORGIA TECH</actor>
-      <actor>WEST VIRGINIA (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: WEST VIRGINIA (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="ncaab 011">
-    <title lang="en">GEORGIA TECH @ WEST VIRGINIA (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>GEORGIA TECH</actor>
-      <actor>WEST VIRGINIA (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: WEST VIRGINIA (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T230000 +0000" channel="ncaab 011">
-    <title lang="en">GEORGIA TECH @ WEST VIRGINIA (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>GEORGIA TECH</actor>
-      <actor>WEST VIRGINIA (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: WEST VIRGINIA (W) Arena</sub-title>
-  </programme>
-  <programme start="20251212T000000 +0000" stop="20251212T020000 +0000" channel="ncaab 011">
-    <title lang="en">GEORGIA TECH @ WEST VIRGINIA (W)</title>
+  <programme start="20251212T160000 +0000" stop="20251212T180000 +0000" channel="ncaab 002">
+    <title lang="en">FLORIDA GULF COAST @ FLORIDA ATLANTIC (W)</title>
     <desc lang="en">Network: ESPN+</desc>
     <category lang="en">Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>GEORGIA TECH</actor>
-      <actor>WEST VIRGINIA (W)</actor>
+      <actor>FLORIDA GULF COAST</actor>
+      <actor>FLORIDA ATLANTIC (W)</actor>
     </credits>
-    <sub-title lang="en">Venue: WEST VIRGINIA (W) Arena</sub-title>
+    <sub-title lang="en">Venue: FLORIDA ATLANTIC (W) Arena</sub-title>
   </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="ncaab 012">
-    <title lang="en">INDIANA STATE @ BUTLER (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>INDIANA STATE</actor>
-      <actor>BUTLER (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: BUTLER (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="ncaab 012">
-    <title lang="en">INDIANA STATE @ BUTLER (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>INDIANA STATE</actor>
-      <actor>BUTLER (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: BUTLER (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="ncaab 012">
-    <title lang="en">INDIANA STATE @ BUTLER (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>INDIANA STATE</actor>
-      <actor>BUTLER (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: BUTLER (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T230000 +0000" channel="ncaab 012">
-    <title lang="en">INDIANA STATE @ BUTLER (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>INDIANA STATE</actor>
-      <actor>BUTLER (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: BUTLER (W) Arena</sub-title>
-  </programme>
-  <programme start="20251212T000000 +0000" stop="20251212T020000 +0000" channel="ncaab 012">
-    <title lang="en">INDIANA STATE @ BUTLER (W)</title>
-    <desc lang="en">Network: ESPN+</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>INDIANA STATE</actor>
-      <actor>BUTLER (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: BUTLER (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="ncaab 013">
-    <title lang="en">LITTLE ROCK @ 9 OKLAHOMA (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>LITTLE ROCK</actor>
-      <actor>9 OKLAHOMA (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: 9 OKLAHOMA (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="ncaab 013">
-    <title lang="en">LITTLE ROCK @ 9 OKLAHOMA (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>LITTLE ROCK</actor>
-      <actor>9 OKLAHOMA (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: 9 OKLAHOMA (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="ncaab 013">
-    <title lang="en">LITTLE ROCK @ 9 OKLAHOMA (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>LITTLE ROCK</actor>
-      <actor>9 OKLAHOMA (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: 9 OKLAHOMA (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T230000 +0000" channel="ncaab 013">
-    <title lang="en">LITTLE ROCK @ 9 OKLAHOMA (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>LITTLE ROCK</actor>
-      <actor>9 OKLAHOMA (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: 9 OKLAHOMA (W) Arena</sub-title>
-  </programme>
-  <programme start="20251212T000000 +0000" stop="20251212T020000 +0000" channel="ncaab 013">
-    <title lang="en">LITTLE ROCK @ 9 OKLAHOMA (W)</title>
-    <desc lang="en">Network: SECN+</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>LITTLE ROCK</actor>
-      <actor>9 OKLAHOMA (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: 9 OKLAHOMA (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="ncaab 014">
-    <title lang="en">MOREHEAD STATE @ 19 NOTRE DAME (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>MOREHEAD STATE</actor>
-      <actor>19 NOTRE DAME (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: 19 NOTRE DAME (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="ncaab 014">
-    <title lang="en">MOREHEAD STATE @ 19 NOTRE DAME (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>MOREHEAD STATE</actor>
-      <actor>19 NOTRE DAME (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: 19 NOTRE DAME (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="ncaab 014">
-    <title lang="en">MOREHEAD STATE @ 19 NOTRE DAME (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>MOREHEAD STATE</actor>
-      <actor>19 NOTRE DAME (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: 19 NOTRE DAME (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T230000 +0000" channel="ncaab 014">
-    <title lang="en">MOREHEAD STATE @ 19 NOTRE DAME (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>MOREHEAD STATE</actor>
-      <actor>19 NOTRE DAME (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: 19 NOTRE DAME (W) Arena</sub-title>
-  </programme>
-  <programme start="20251212T000000 +0000" stop="20251212T020000 +0000" channel="ncaab 014">
-    <title lang="en">MOREHEAD STATE @ 19 NOTRE DAME (W)</title>
-    <desc lang="en">Network: ACC EXTRA</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>MOREHEAD STATE</actor>
-      <actor>19 NOTRE DAME (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: 19 NOTRE DAME (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="ncaab 015">
-    <title lang="en">NORTH DAKOTA STATE @ EASTERN ILLINOIS (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>NORTH DAKOTA STATE</actor>
-      <actor>EASTERN ILLINOIS (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: EASTERN ILLINOIS (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="ncaab 015">
-    <title lang="en">NORTH DAKOTA STATE @ EASTERN ILLINOIS (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>NORTH DAKOTA STATE</actor>
-      <actor>EASTERN ILLINOIS (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: EASTERN ILLINOIS (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="ncaab 015">
-    <title lang="en">NORTH DAKOTA STATE @ EASTERN ILLINOIS (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>NORTH DAKOTA STATE</actor>
-      <actor>EASTERN ILLINOIS (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: EASTERN ILLINOIS (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T230000 +0000" channel="ncaab 015">
-    <title lang="en">NORTH DAKOTA STATE @ EASTERN ILLINOIS (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>NORTH DAKOTA STATE</actor>
-      <actor>EASTERN ILLINOIS (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: EASTERN ILLINOIS (W) Arena</sub-title>
-  </programme>
-  <programme start="20251212T000000 +0000" stop="20251212T020000 +0000" channel="ncaab 015">
-    <title lang="en">NORTH DAKOTA STATE @ EASTERN ILLINOIS (W)</title>
-    <desc lang="en">Network: ESPN+</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>NORTH DAKOTA STATE</actor>
-      <actor>EASTERN ILLINOIS (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: EASTERN ILLINOIS (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="ncaab 016">
-    <title lang="en">TRINITY COLLEGE OF JACKSONVILLE @ JACKSONVILLE (M) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>TRINITY COLLEGE OF JACKSONVILLE</actor>
-      <actor>JACKSONVILLE (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: JACKSONVILLE (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="ncaab 016">
-    <title lang="en">TRINITY COLLEGE OF JACKSONVILLE @ JACKSONVILLE (M) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>TRINITY COLLEGE OF JACKSONVILLE</actor>
-      <actor>JACKSONVILLE (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: JACKSONVILLE (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="ncaab 016">
-    <title lang="en">TRINITY COLLEGE OF JACKSONVILLE @ JACKSONVILLE (M) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>TRINITY COLLEGE OF JACKSONVILLE</actor>
-      <actor>JACKSONVILLE (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: JACKSONVILLE (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T230000 +0000" channel="ncaab 016">
-    <title lang="en">TRINITY COLLEGE OF JACKSONVILLE @ JACKSONVILLE (M) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>TRINITY COLLEGE OF JACKSONVILLE</actor>
-      <actor>JACKSONVILLE (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: JACKSONVILLE (M) Arena</sub-title>
-  </programme>
-  <programme start="20251212T000000 +0000" stop="20251212T020000 +0000" channel="ncaab 016">
-    <title lang="en">TRINITY COLLEGE OF JACKSONVILLE @ JACKSONVILLE (M)</title>
-    <desc lang="en">Network: ESPN+</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>TRINITY COLLEGE OF JACKSONVILLE</actor>
-      <actor>JACKSONVILLE (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: JACKSONVILLE (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="ncaab 017">
-    <title lang="en">UL MONROE @ INDIANA (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>UL MONROE</actor>
-      <actor>INDIANA (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: INDIANA (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="ncaab 017">
-    <title lang="en">UL MONROE @ INDIANA (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>UL MONROE</actor>
-      <actor>INDIANA (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: INDIANA (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="ncaab 017">
-    <title lang="en">UL MONROE @ INDIANA (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>UL MONROE</actor>
-      <actor>INDIANA (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: INDIANA (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T230000 +0000" channel="ncaab 017">
-    <title lang="en">UL MONROE @ INDIANA (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>UL MONROE</actor>
-      <actor>INDIANA (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: INDIANA (W) Arena</sub-title>
-  </programme>
-  <programme start="20251212T000000 +0000" stop="20251212T020000 +0000" channel="ncaab 017">
-    <title lang="en">UL MONROE @ INDIANA (W)</title>
-    <desc lang="en">Network: B1G+</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>UL MONROE</actor>
-      <actor>INDIANA (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: INDIANA (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="ncaab 018">
-    <title lang="en">UMASS LOWELL @ DEPAUL (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>UMASS LOWELL</actor>
-      <actor>DEPAUL (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: DEPAUL (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="ncaab 018">
-    <title lang="en">UMASS LOWELL @ DEPAUL (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>UMASS LOWELL</actor>
-      <actor>DEPAUL (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: DEPAUL (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="ncaab 018">
-    <title lang="en">UMASS LOWELL @ DEPAUL (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>UMASS LOWELL</actor>
-      <actor>DEPAUL (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: DEPAUL (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T230000 +0000" channel="ncaab 018">
-    <title lang="en">UMASS LOWELL @ DEPAUL (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>UMASS LOWELL</actor>
-      <actor>DEPAUL (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: DEPAUL (W) Arena</sub-title>
-  </programme>
-  <programme start="20251212T000000 +0000" stop="20251212T020000 +0000" channel="ncaab 018">
-    <title lang="en">UMASS LOWELL @ DEPAUL (W)</title>
-    <desc lang="en">Network: ESPN+</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>UMASS LOWELL</actor>
-      <actor>DEPAUL (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: DEPAUL (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="ncaab 019">
-    <title lang="en">UNC ASHEVILLE @ EAST TENNESSEE STATE (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>UNC ASHEVILLE</actor>
-      <actor>EAST TENNESSEE STATE (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: EAST TENNESSEE STATE (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="ncaab 019">
-    <title lang="en">UNC ASHEVILLE @ EAST TENNESSEE STATE (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>UNC ASHEVILLE</actor>
-      <actor>EAST TENNESSEE STATE (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: EAST TENNESSEE STATE (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="ncaab 019">
-    <title lang="en">UNC ASHEVILLE @ EAST TENNESSEE STATE (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>UNC ASHEVILLE</actor>
-      <actor>EAST TENNESSEE STATE (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: EAST TENNESSEE STATE (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T230000 +0000" channel="ncaab 019">
-    <title lang="en">UNC ASHEVILLE @ EAST TENNESSEE STATE (W) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>UNC ASHEVILLE</actor>
-      <actor>EAST TENNESSEE STATE (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: EAST TENNESSEE STATE (W) Arena</sub-title>
-  </programme>
-  <programme start="20251212T000000 +0000" stop="20251212T020000 +0000" channel="ncaab 019">
-    <title lang="en">UNC ASHEVILLE @ EAST TENNESSEE STATE (W)</title>
-    <desc lang="en">Network: ESPN+</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>UNC ASHEVILLE</actor>
-      <actor>EAST TENNESSEE STATE (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: EAST TENNESSEE STATE (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="ncaab 020">
-    <title lang="en">WESTERN CAROLINA @ VIRGINIA TECH (M) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>WESTERN CAROLINA</actor>
-      <actor>VIRGINIA TECH (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: VIRGINIA TECH (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="ncaab 020">
-    <title lang="en">WESTERN CAROLINA @ VIRGINIA TECH (M) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>WESTERN CAROLINA</actor>
-      <actor>VIRGINIA TECH (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: VIRGINIA TECH (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="ncaab 020">
-    <title lang="en">WESTERN CAROLINA @ VIRGINIA TECH (M) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>WESTERN CAROLINA</actor>
-      <actor>VIRGINIA TECH (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: VIRGINIA TECH (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T230000 +0000" channel="ncaab 020">
-    <title lang="en">WESTERN CAROLINA @ VIRGINIA TECH (M) - starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>WESTERN CAROLINA</actor>
-      <actor>VIRGINIA TECH (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: VIRGINIA TECH (M) Arena</sub-title>
-  </programme>
-  <programme start="20251212T000000 +0000" stop="20251212T020000 +0000" channel="ncaab 020">
-    <title lang="en">WESTERN CAROLINA @ VIRGINIA TECH (M)</title>
-    <desc lang="en">Network: ACC EXTRA</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>WESTERN CAROLINA</actor>
-      <actor>VIRGINIA TECH (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: VIRGINIA TECH (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="ncaab 021">
-    <title lang="en">UT ARLINGTON @ UT RIO GRANDE VALLEY (M) - starts at 7:30 PM ET</title>
+  <programme start="20251212T110000 +0000" stop="20251212T140000 +0000" channel="ncaab 003">
+    <title lang="en">UT ARLINGTON @ RICE (W) - starts at 12:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
       <actor>UT ARLINGTON</actor>
-      <actor>UT RIO GRANDE VALLEY (M)</actor>
+      <actor>RICE (W)</actor>
     </credits>
-    <sub-title lang="en">Venue: UT RIO GRANDE VALLEY (M) Arena</sub-title>
+    <sub-title lang="en">Venue: RICE (W) Arena</sub-title>
   </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="ncaab 021">
-    <title lang="en">UT ARLINGTON @ UT RIO GRANDE VALLEY (M) - starts at 7:30 PM ET</title>
+  <programme start="20251212T140000 +0000" stop="20251212T170000 +0000" channel="ncaab 003">
+    <title lang="en">UT ARLINGTON @ RICE (W) - starts at 12:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
       <actor>UT ARLINGTON</actor>
-      <actor>UT RIO GRANDE VALLEY (M)</actor>
+      <actor>RICE (W)</actor>
     </credits>
-    <sub-title lang="en">Venue: UT RIO GRANDE VALLEY (M) Arena</sub-title>
+    <sub-title lang="en">Venue: RICE (W) Arena</sub-title>
   </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="ncaab 021">
-    <title lang="en">UT ARLINGTON @ UT RIO GRANDE VALLEY (M) - starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>UT ARLINGTON</actor>
-      <actor>UT RIO GRANDE VALLEY (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: UT RIO GRANDE VALLEY (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T230000 +0000" channel="ncaab 021">
-    <title lang="en">UT ARLINGTON @ UT RIO GRANDE VALLEY (M) - starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>UT ARLINGTON</actor>
-      <actor>UT RIO GRANDE VALLEY (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: UT RIO GRANDE VALLEY (M) Arena</sub-title>
-  </programme>
-  <programme start="20251212T003000 +0000" stop="20251212T023000 +0000" channel="ncaab 021">
-    <title lang="en">UT ARLINGTON @ UT RIO GRANDE VALLEY (M)</title>
+  <programme start="20251212T171500 +0000" stop="20251212T191500 +0000" channel="ncaab 003">
+    <title lang="en">UT ARLINGTON @ RICE (W)</title>
     <desc lang="en">Network: ESPN+</desc>
     <category lang="en">Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
       <actor>UT ARLINGTON</actor>
-      <actor>UT RIO GRANDE VALLEY (M)</actor>
+      <actor>RICE (W)</actor>
     </credits>
-    <sub-title lang="en">Venue: UT RIO GRANDE VALLEY (M) Arena</sub-title>
+    <sub-title lang="en">Venue: RICE (W) Arena</sub-title>
   </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="ncaab 022">
-    <title lang="en">ALABAMA STATE @ MISSOURI (M) - starts at 8:00 PM ET</title>
+  <programme start="20251212T110000 +0000" stop="20251212T140000 +0000" channel="ncaab 004">
+    <title lang="en">ARMY @ UMBC (M) - starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>ALABAMA STATE</actor>
-      <actor>MISSOURI (M)</actor>
+      <actor>ARMY</actor>
+      <actor>UMBC (M)</actor>
     </credits>
-    <sub-title lang="en">Venue: MISSOURI (M) Arena</sub-title>
+    <sub-title lang="en">Venue: UMBC (M) Arena</sub-title>
   </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="ncaab 022">
-    <title lang="en">ALABAMA STATE @ MISSOURI (M) - starts at 8:00 PM ET</title>
+  <programme start="20251212T140000 +0000" stop="20251212T170000 +0000" channel="ncaab 004">
+    <title lang="en">ARMY @ UMBC (M) - starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>ALABAMA STATE</actor>
-      <actor>MISSOURI (M)</actor>
+      <actor>ARMY</actor>
+      <actor>UMBC (M)</actor>
     </credits>
-    <sub-title lang="en">Venue: MISSOURI (M) Arena</sub-title>
+    <sub-title lang="en">Venue: UMBC (M) Arena</sub-title>
   </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="ncaab 022">
-    <title lang="en">ALABAMA STATE @ MISSOURI (M) - starts at 8:00 PM ET</title>
+  <programme start="20251212T170000 +0000" stop="20251212T200000 +0000" channel="ncaab 004">
+    <title lang="en">ARMY @ UMBC (M) - starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>ALABAMA STATE</actor>
-      <actor>MISSOURI (M)</actor>
+      <actor>ARMY</actor>
+      <actor>UMBC (M)</actor>
     </credits>
-    <sub-title lang="en">Venue: MISSOURI (M) Arena</sub-title>
+    <sub-title lang="en">Venue: UMBC (M) Arena</sub-title>
   </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T230000 +0000" channel="ncaab 022">
-    <title lang="en">ALABAMA STATE @ MISSOURI (M) - starts at 8:00 PM ET</title>
+  <programme start="20251212T200000 +0000" stop="20251212T230000 +0000" channel="ncaab 004">
+    <title lang="en">ARMY @ UMBC (M) - starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>ALABAMA STATE</actor>
-      <actor>MISSOURI (M)</actor>
+      <actor>ARMY</actor>
+      <actor>UMBC (M)</actor>
     </credits>
-    <sub-title lang="en">Venue: MISSOURI (M) Arena</sub-title>
+    <sub-title lang="en">Venue: UMBC (M) Arena</sub-title>
   </programme>
-  <programme start="20251212T010000 +0000" stop="20251212T030000 +0000" channel="ncaab 022">
-    <title lang="en">ALABAMA STATE @ MISSOURI (M)</title>
-    <desc lang="en">Network: SECN+</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>ALABAMA STATE</actor>
-      <actor>MISSOURI (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: MISSOURI (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="ncaab 023">
-    <title lang="en">IOWA @ 4 IOWA STATE (M) - starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>IOWA</actor>
-      <actor>4 IOWA STATE (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: 4 IOWA STATE (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="ncaab 023">
-    <title lang="en">IOWA @ 4 IOWA STATE (M) - starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>IOWA</actor>
-      <actor>4 IOWA STATE (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: 4 IOWA STATE (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="ncaab 023">
-    <title lang="en">IOWA @ 4 IOWA STATE (M) - starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>IOWA</actor>
-      <actor>4 IOWA STATE (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: 4 IOWA STATE (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T230000 +0000" channel="ncaab 023">
-    <title lang="en">IOWA @ 4 IOWA STATE (M) - starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>IOWA</actor>
-      <actor>4 IOWA STATE (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: 4 IOWA STATE (M) Arena</sub-title>
-  </programme>
-  <programme start="20251212T010000 +0000" stop="20251212T030000 +0000" channel="ncaab 023">
-    <title lang="en">IOWA @ 4 IOWA STATE (M)</title>
-    <desc lang="en">Network: FS1</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>IOWA</actor>
-      <actor>4 IOWA STATE (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: 4 IOWA STATE (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="ncaab 024">
-    <title lang="en">IDAHO STATE @ BYU (W) - starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>IDAHO STATE</actor>
-      <actor>BYU (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: BYU (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="ncaab 024">
-    <title lang="en">IDAHO STATE @ BYU (W) - starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>IDAHO STATE</actor>
-      <actor>BYU (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: BYU (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="ncaab 024">
-    <title lang="en">IDAHO STATE @ BYU (W) - starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>IDAHO STATE</actor>
-      <actor>BYU (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: BYU (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T230000 +0000" channel="ncaab 024">
-    <title lang="en">IDAHO STATE @ BYU (W) - starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>IDAHO STATE</actor>
-      <actor>BYU (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: BYU (W) Arena</sub-title>
-  </programme>
-  <programme start="20251211T230000 +0000" stop="20251212T020000 +0000" channel="ncaab 024">
-    <title lang="en">IDAHO STATE @ BYU (W) - starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>IDAHO STATE</actor>
-      <actor>BYU (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: BYU (W) Arena</sub-title>
-  </programme>
-  <programme start="20251212T020000 +0000" stop="20251212T040000 +0000" channel="ncaab 024">
-    <title lang="en">IDAHO STATE @ BYU (W)</title>
+  <programme start="20251212T230000 +0000" stop="20251213T010000 +0000" channel="ncaab 004">
+    <title lang="en">ARMY @ UMBC (M)</title>
     <desc lang="en">Network: ESPN+</desc>
     <category lang="en">Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>IDAHO STATE</actor>
-      <actor>BYU (W)</actor>
+      <actor>ARMY</actor>
+      <actor>UMBC (M)</actor>
     </credits>
-    <sub-title lang="en">Venue: BYU (W) Arena</sub-title>
+    <sub-title lang="en">Venue: UMBC (M) Arena</sub-title>
   </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="ncaab 025">
-    <title lang="en">PORTLAND @ LONG BEACH STATE (W) - starts at 9:00 PM ET</title>
+  <programme start="20251212T110000 +0000" stop="20251212T140000 +0000" channel="ncaab 005">
+    <title lang="en">EAST TEXAS A&amp;M @ MCNEESE (W) - starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>PORTLAND</actor>
-      <actor>LONG BEACH STATE (W)</actor>
+      <actor>EAST TEXAS A&amp;M</actor>
+      <actor>MCNEESE (W)</actor>
     </credits>
-    <sub-title lang="en">Venue: LONG BEACH STATE (W) Arena</sub-title>
+    <sub-title lang="en">Venue: MCNEESE (W) Arena</sub-title>
   </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="ncaab 025">
-    <title lang="en">PORTLAND @ LONG BEACH STATE (W) - starts at 9:00 PM ET</title>
+  <programme start="20251212T140000 +0000" stop="20251212T170000 +0000" channel="ncaab 005">
+    <title lang="en">EAST TEXAS A&amp;M @ MCNEESE (W) - starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>PORTLAND</actor>
-      <actor>LONG BEACH STATE (W)</actor>
+      <actor>EAST TEXAS A&amp;M</actor>
+      <actor>MCNEESE (W)</actor>
     </credits>
-    <sub-title lang="en">Venue: LONG BEACH STATE (W) Arena</sub-title>
+    <sub-title lang="en">Venue: MCNEESE (W) Arena</sub-title>
   </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="ncaab 025">
-    <title lang="en">PORTLAND @ LONG BEACH STATE (W) - starts at 9:00 PM ET</title>
+  <programme start="20251212T170000 +0000" stop="20251212T200000 +0000" channel="ncaab 005">
+    <title lang="en">EAST TEXAS A&amp;M @ MCNEESE (W) - starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>PORTLAND</actor>
-      <actor>LONG BEACH STATE (W)</actor>
+      <actor>EAST TEXAS A&amp;M</actor>
+      <actor>MCNEESE (W)</actor>
     </credits>
-    <sub-title lang="en">Venue: LONG BEACH STATE (W) Arena</sub-title>
+    <sub-title lang="en">Venue: MCNEESE (W) Arena</sub-title>
   </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T230000 +0000" channel="ncaab 025">
-    <title lang="en">PORTLAND @ LONG BEACH STATE (W) - starts at 9:00 PM ET</title>
+  <programme start="20251212T200000 +0000" stop="20251212T230000 +0000" channel="ncaab 005">
+    <title lang="en">EAST TEXAS A&amp;M @ MCNEESE (W) - starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>PORTLAND</actor>
-      <actor>LONG BEACH STATE (W)</actor>
+      <actor>EAST TEXAS A&amp;M</actor>
+      <actor>MCNEESE (W)</actor>
     </credits>
-    <sub-title lang="en">Venue: LONG BEACH STATE (W) Arena</sub-title>
+    <sub-title lang="en">Venue: MCNEESE (W) Arena</sub-title>
   </programme>
-  <programme start="20251211T230000 +0000" stop="20251212T020000 +0000" channel="ncaab 025">
-    <title lang="en">PORTLAND @ LONG BEACH STATE (W) - starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>PORTLAND</actor>
-      <actor>LONG BEACH STATE (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: LONG BEACH STATE (W) Arena</sub-title>
-  </programme>
-  <programme start="20251212T020000 +0000" stop="20251212T040000 +0000" channel="ncaab 025">
-    <title lang="en">PORTLAND @ LONG BEACH STATE (W)</title>
+  <programme start="20251212T230000 +0000" stop="20251213T010000 +0000" channel="ncaab 005">
+    <title lang="en">EAST TEXAS A&amp;M @ MCNEESE (W)</title>
     <desc lang="en">Network: ESPN+</desc>
     <category lang="en">Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>PORTLAND</actor>
-      <actor>LONG BEACH STATE (W)</actor>
+      <actor>EAST TEXAS A&amp;M</actor>
+      <actor>MCNEESE (W)</actor>
     </credits>
-    <sub-title lang="en">Venue: LONG BEACH STATE (W) Arena</sub-title>
+    <sub-title lang="en">Venue: MCNEESE (W) Arena</sub-title>
   </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="ncaab 026">
-    <title lang="en">SAINT JOSEPHS @ SYRACUSE (M) - starts at 9:00 PM ET</title>
+  <programme start="20251212T110000 +0000" stop="20251212T140000 +0000" channel="ncaab 006">
+    <title lang="en">WRIGHT STATE @ CANISIUS (W) - starts at 6:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>SAINT JOSEPHS</actor>
-      <actor>SYRACUSE (M)</actor>
+      <actor>WRIGHT STATE</actor>
+      <actor>CANISIUS (W)</actor>
     </credits>
-    <sub-title lang="en">Venue: SYRACUSE (M) Arena</sub-title>
+    <sub-title lang="en">Venue: CANISIUS (W) Arena</sub-title>
   </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="ncaab 026">
-    <title lang="en">SAINT JOSEPHS @ SYRACUSE (M) - starts at 9:00 PM ET</title>
+  <programme start="20251212T140000 +0000" stop="20251212T170000 +0000" channel="ncaab 006">
+    <title lang="en">WRIGHT STATE @ CANISIUS (W) - starts at 6:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>SAINT JOSEPHS</actor>
-      <actor>SYRACUSE (M)</actor>
+      <actor>WRIGHT STATE</actor>
+      <actor>CANISIUS (W)</actor>
     </credits>
-    <sub-title lang="en">Venue: SYRACUSE (M) Arena</sub-title>
+    <sub-title lang="en">Venue: CANISIUS (W) Arena</sub-title>
   </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="ncaab 026">
-    <title lang="en">SAINT JOSEPHS @ SYRACUSE (M) - starts at 9:00 PM ET</title>
+  <programme start="20251212T170000 +0000" stop="20251212T200000 +0000" channel="ncaab 006">
+    <title lang="en">WRIGHT STATE @ CANISIUS (W) - starts at 6:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>SAINT JOSEPHS</actor>
-      <actor>SYRACUSE (M)</actor>
+      <actor>WRIGHT STATE</actor>
+      <actor>CANISIUS (W)</actor>
     </credits>
-    <sub-title lang="en">Venue: SYRACUSE (M) Arena</sub-title>
+    <sub-title lang="en">Venue: CANISIUS (W) Arena</sub-title>
   </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T230000 +0000" channel="ncaab 026">
-    <title lang="en">SAINT JOSEPHS @ SYRACUSE (M) - starts at 9:00 PM ET</title>
+  <programme start="20251212T200000 +0000" stop="20251212T230000 +0000" channel="ncaab 006">
+    <title lang="en">WRIGHT STATE @ CANISIUS (W) - starts at 6:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>SAINT JOSEPHS</actor>
-      <actor>SYRACUSE (M)</actor>
+      <actor>WRIGHT STATE</actor>
+      <actor>CANISIUS (W)</actor>
     </credits>
-    <sub-title lang="en">Venue: SYRACUSE (M) Arena</sub-title>
+    <sub-title lang="en">Venue: CANISIUS (W) Arena</sub-title>
   </programme>
-  <programme start="20251211T230000 +0000" stop="20251212T020000 +0000" channel="ncaab 026">
-    <title lang="en">SAINT JOSEPHS @ SYRACUSE (M) - starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>SAINT JOSEPHS</actor>
-      <actor>SYRACUSE (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: SYRACUSE (M) Arena</sub-title>
-  </programme>
-  <programme start="20251212T020000 +0000" stop="20251212T040000 +0000" channel="ncaab 026">
-    <title lang="en">SAINT JOSEPHS @ SYRACUSE (M)</title>
-    <desc lang="en">Network: ACC NETWORK</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>SAINT JOSEPHS</actor>
-      <actor>SYRACUSE (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: SYRACUSE (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="ncaab 027">
-    <title lang="en">NORTH DAKOTA STATE @ CAL STATE BAKERSFIELD (M) - starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>NORTH DAKOTA STATE</actor>
-      <actor>CAL STATE BAKERSFIELD (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: CAL STATE BAKERSFIELD (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="ncaab 027">
-    <title lang="en">NORTH DAKOTA STATE @ CAL STATE BAKERSFIELD (M) - starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>NORTH DAKOTA STATE</actor>
-      <actor>CAL STATE BAKERSFIELD (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: CAL STATE BAKERSFIELD (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="ncaab 027">
-    <title lang="en">NORTH DAKOTA STATE @ CAL STATE BAKERSFIELD (M) - starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>NORTH DAKOTA STATE</actor>
-      <actor>CAL STATE BAKERSFIELD (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: CAL STATE BAKERSFIELD (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T230000 +0000" channel="ncaab 027">
-    <title lang="en">NORTH DAKOTA STATE @ CAL STATE BAKERSFIELD (M) - starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>NORTH DAKOTA STATE</actor>
-      <actor>CAL STATE BAKERSFIELD (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: CAL STATE BAKERSFIELD (M) Arena</sub-title>
-  </programme>
-  <programme start="20251211T230000 +0000" stop="20251212T020000 +0000" channel="ncaab 027">
-    <title lang="en">NORTH DAKOTA STATE @ CAL STATE BAKERSFIELD (M) - starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>NORTH DAKOTA STATE</actor>
-      <actor>CAL STATE BAKERSFIELD (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: CAL STATE BAKERSFIELD (M) Arena</sub-title>
-  </programme>
-  <programme start="20251212T023000 +0000" stop="20251212T043000 +0000" channel="ncaab 027">
-    <title lang="en">NORTH DAKOTA STATE @ CAL STATE BAKERSFIELD (M)</title>
+  <programme start="20251212T233000 +0000" stop="20251213T013000 +0000" channel="ncaab 006">
+    <title lang="en">WRIGHT STATE @ CANISIUS (W)</title>
     <desc lang="en">Network: ESPN+</desc>
     <category lang="en">Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>NORTH DAKOTA STATE</actor>
-      <actor>CAL STATE BAKERSFIELD (M)</actor>
+      <actor>WRIGHT STATE</actor>
+      <actor>CANISIUS (W)</actor>
     </credits>
-    <sub-title lang="en">Venue: CAL STATE BAKERSFIELD (M) Arena</sub-title>
+    <sub-title lang="en">Venue: CANISIUS (W) Arena</sub-title>
   </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="ncaab 028">
-    <title lang="en">HAWAII HILO @ HAWAII (W) - starts at 11:59 PM ET</title>
+  <programme start="20251212T110000 +0000" stop="20251212T140000 +0000" channel="ncaab 007">
+    <title lang="en">BREVARD @ GARDNER-WEBB (M) - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>HAWAII HILO</actor>
-      <actor>HAWAII (W)</actor>
+      <actor>BREVARD</actor>
+      <actor>GARDNER-WEBB (M)</actor>
     </credits>
-    <sub-title lang="en">Venue: HAWAII (W) Arena</sub-title>
+    <sub-title lang="en">Venue: GARDNER-WEBB (M) Arena</sub-title>
   </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="ncaab 028">
-    <title lang="en">HAWAII HILO @ HAWAII (W) - starts at 11:59 PM ET</title>
+  <programme start="20251212T140000 +0000" stop="20251212T170000 +0000" channel="ncaab 007">
+    <title lang="en">BREVARD @ GARDNER-WEBB (M) - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>HAWAII HILO</actor>
-      <actor>HAWAII (W)</actor>
+      <actor>BREVARD</actor>
+      <actor>GARDNER-WEBB (M)</actor>
     </credits>
-    <sub-title lang="en">Venue: HAWAII (W) Arena</sub-title>
+    <sub-title lang="en">Venue: GARDNER-WEBB (M) Arena</sub-title>
   </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="ncaab 028">
-    <title lang="en">HAWAII HILO @ HAWAII (W) - starts at 11:59 PM ET</title>
+  <programme start="20251212T170000 +0000" stop="20251212T200000 +0000" channel="ncaab 007">
+    <title lang="en">BREVARD @ GARDNER-WEBB (M) - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>HAWAII HILO</actor>
-      <actor>HAWAII (W)</actor>
+      <actor>BREVARD</actor>
+      <actor>GARDNER-WEBB (M)</actor>
     </credits>
-    <sub-title lang="en">Venue: HAWAII (W) Arena</sub-title>
+    <sub-title lang="en">Venue: GARDNER-WEBB (M) Arena</sub-title>
   </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T230000 +0000" channel="ncaab 028">
-    <title lang="en">HAWAII HILO @ HAWAII (W) - starts at 11:59 PM ET</title>
+  <programme start="20251212T200000 +0000" stop="20251212T230000 +0000" channel="ncaab 007">
+    <title lang="en">BREVARD @ GARDNER-WEBB (M) - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>HAWAII HILO</actor>
-      <actor>HAWAII (W)</actor>
+      <actor>BREVARD</actor>
+      <actor>GARDNER-WEBB (M)</actor>
     </credits>
-    <sub-title lang="en">Venue: HAWAII (W) Arena</sub-title>
+    <sub-title lang="en">Venue: GARDNER-WEBB (M) Arena</sub-title>
   </programme>
-  <programme start="20251211T230000 +0000" stop="20251212T020000 +0000" channel="ncaab 028">
-    <title lang="en">HAWAII HILO @ HAWAII (W) - starts at 11:59 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>HAWAII HILO</actor>
-      <actor>HAWAII (W)</actor>
-    </credits>
-    <sub-title lang="en">Venue: HAWAII (W) Arena</sub-title>
-  </programme>
-  <programme start="20251212T045900 +0000" stop="20251212T065900 +0000" channel="ncaab 028">
-    <title lang="en">HAWAII HILO @ HAWAII (W)</title>
+  <programme start="20251213T000000 +0000" stop="20251213T020000 +0000" channel="ncaab 007">
+    <title lang="en">BREVARD @ GARDNER-WEBB (M)</title>
     <desc lang="en">Network: ESPN+</desc>
     <category lang="en">Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>HAWAII HILO</actor>
-      <actor>HAWAII (W)</actor>
+      <actor>BREVARD</actor>
+      <actor>GARDNER-WEBB (M)</actor>
     </credits>
-    <sub-title lang="en">Venue: HAWAII (W) Arena</sub-title>
+    <sub-title lang="en">Venue: GARDNER-WEBB (M) Arena</sub-title>
   </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 01">
-    <title lang="en">Fiorentina vs Dynamo Kyiv - starts at 12:45 PM ET</title>
+  <programme start="20251212T110000 +0000" stop="20251212T140000 +0000" channel="ncaab 008">
+    <title lang="en">MAINE @ FAIRFIELD (W) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MAINE</actor>
+      <actor>FAIRFIELD (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: FAIRFIELD (W) Arena</sub-title>
+  </programme>
+  <programme start="20251212T140000 +0000" stop="20251212T170000 +0000" channel="ncaab 008">
+    <title lang="en">MAINE @ FAIRFIELD (W) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MAINE</actor>
+      <actor>FAIRFIELD (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: FAIRFIELD (W) Arena</sub-title>
+  </programme>
+  <programme start="20251212T170000 +0000" stop="20251212T200000 +0000" channel="ncaab 008">
+    <title lang="en">MAINE @ FAIRFIELD (W) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MAINE</actor>
+      <actor>FAIRFIELD (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: FAIRFIELD (W) Arena</sub-title>
+  </programme>
+  <programme start="20251212T200000 +0000" stop="20251212T230000 +0000" channel="ncaab 008">
+    <title lang="en">MAINE @ FAIRFIELD (W) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MAINE</actor>
+      <actor>FAIRFIELD (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: FAIRFIELD (W) Arena</sub-title>
+  </programme>
+  <programme start="20251213T000000 +0000" stop="20251213T020000 +0000" channel="ncaab 008">
+    <title lang="en">MAINE @ FAIRFIELD (W)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MAINE</actor>
+      <actor>FAIRFIELD (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: FAIRFIELD (W) Arena</sub-title>
+  </programme>
+  <programme start="20251212T110000 +0000" stop="20251212T140000 +0000" channel="ncaab 009">
+    <title lang="en">MISSOURI STATE @ XAVIER (M) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MISSOURI STATE</actor>
+      <actor>XAVIER (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: XAVIER (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T140000 +0000" stop="20251212T170000 +0000" channel="ncaab 009">
+    <title lang="en">MISSOURI STATE @ XAVIER (M) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MISSOURI STATE</actor>
+      <actor>XAVIER (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: XAVIER (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T170000 +0000" stop="20251212T200000 +0000" channel="ncaab 009">
+    <title lang="en">MISSOURI STATE @ XAVIER (M) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MISSOURI STATE</actor>
+      <actor>XAVIER (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: XAVIER (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T200000 +0000" stop="20251212T230000 +0000" channel="ncaab 009">
+    <title lang="en">MISSOURI STATE @ XAVIER (M) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MISSOURI STATE</actor>
+      <actor>XAVIER (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: XAVIER (M) Arena</sub-title>
+  </programme>
+  <programme start="20251213T000000 +0000" stop="20251213T020000 +0000" channel="ncaab 009">
+    <title lang="en">MISSOURI STATE @ XAVIER (M)</title>
+    <desc lang="en">Network: TRUTV</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MISSOURI STATE</actor>
+      <actor>XAVIER (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: XAVIER (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T110000 +0000" stop="20251212T140000 +0000" channel="ncaab 010">
+    <title lang="en">SE LOUISIANA @ HOUSTON CHRISTIAN (W) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SE LOUISIANA</actor>
+      <actor>HOUSTON CHRISTIAN (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: HOUSTON CHRISTIAN (W) Arena</sub-title>
+  </programme>
+  <programme start="20251212T140000 +0000" stop="20251212T170000 +0000" channel="ncaab 010">
+    <title lang="en">SE LOUISIANA @ HOUSTON CHRISTIAN (W) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SE LOUISIANA</actor>
+      <actor>HOUSTON CHRISTIAN (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: HOUSTON CHRISTIAN (W) Arena</sub-title>
+  </programme>
+  <programme start="20251212T170000 +0000" stop="20251212T200000 +0000" channel="ncaab 010">
+    <title lang="en">SE LOUISIANA @ HOUSTON CHRISTIAN (W) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SE LOUISIANA</actor>
+      <actor>HOUSTON CHRISTIAN (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: HOUSTON CHRISTIAN (W) Arena</sub-title>
+  </programme>
+  <programme start="20251212T200000 +0000" stop="20251212T230000 +0000" channel="ncaab 010">
+    <title lang="en">SE LOUISIANA @ HOUSTON CHRISTIAN (W) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SE LOUISIANA</actor>
+      <actor>HOUSTON CHRISTIAN (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: HOUSTON CHRISTIAN (W) Arena</sub-title>
+  </programme>
+  <programme start="20251213T000000 +0000" stop="20251213T020000 +0000" channel="ncaab 010">
+    <title lang="en">SE LOUISIANA @ HOUSTON CHRISTIAN (W)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SE LOUISIANA</actor>
+      <actor>HOUSTON CHRISTIAN (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: HOUSTON CHRISTIAN (W) Arena</sub-title>
+  </programme>
+  <programme start="20251212T110000 +0000" stop="20251212T140000 +0000" channel="ncaab 011">
+    <title lang="en">SIU EDWARDSVILLE @ VALPARAISO (W) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SIU EDWARDSVILLE</actor>
+      <actor>VALPARAISO (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: VALPARAISO (W) Arena</sub-title>
+  </programme>
+  <programme start="20251212T140000 +0000" stop="20251212T170000 +0000" channel="ncaab 011">
+    <title lang="en">SIU EDWARDSVILLE @ VALPARAISO (W) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SIU EDWARDSVILLE</actor>
+      <actor>VALPARAISO (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: VALPARAISO (W) Arena</sub-title>
+  </programme>
+  <programme start="20251212T170000 +0000" stop="20251212T200000 +0000" channel="ncaab 011">
+    <title lang="en">SIU EDWARDSVILLE @ VALPARAISO (W) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SIU EDWARDSVILLE</actor>
+      <actor>VALPARAISO (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: VALPARAISO (W) Arena</sub-title>
+  </programme>
+  <programme start="20251212T200000 +0000" stop="20251212T230000 +0000" channel="ncaab 011">
+    <title lang="en">SIU EDWARDSVILLE @ VALPARAISO (W) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SIU EDWARDSVILLE</actor>
+      <actor>VALPARAISO (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: VALPARAISO (W) Arena</sub-title>
+  </programme>
+  <programme start="20251213T000000 +0000" stop="20251213T020000 +0000" channel="ncaab 011">
+    <title lang="en">SIU EDWARDSVILLE @ VALPARAISO (W)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SIU EDWARDSVILLE</actor>
+      <actor>VALPARAISO (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: VALPARAISO (W) Arena</sub-title>
+  </programme>
+  <programme start="20251212T110000 +0000" stop="20251212T140000 +0000" channel="ncaab 012">
+    <title lang="en">SOUTH CAROLINA STATE @ QUEENS UNIVERSITY (M) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SOUTH CAROLINA STATE</actor>
+      <actor>QUEENS UNIVERSITY (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: QUEENS UNIVERSITY (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T140000 +0000" stop="20251212T170000 +0000" channel="ncaab 012">
+    <title lang="en">SOUTH CAROLINA STATE @ QUEENS UNIVERSITY (M) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SOUTH CAROLINA STATE</actor>
+      <actor>QUEENS UNIVERSITY (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: QUEENS UNIVERSITY (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T170000 +0000" stop="20251212T200000 +0000" channel="ncaab 012">
+    <title lang="en">SOUTH CAROLINA STATE @ QUEENS UNIVERSITY (M) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SOUTH CAROLINA STATE</actor>
+      <actor>QUEENS UNIVERSITY (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: QUEENS UNIVERSITY (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T200000 +0000" stop="20251212T230000 +0000" channel="ncaab 012">
+    <title lang="en">SOUTH CAROLINA STATE @ QUEENS UNIVERSITY (M) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SOUTH CAROLINA STATE</actor>
+      <actor>QUEENS UNIVERSITY (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: QUEENS UNIVERSITY (M) Arena</sub-title>
+  </programme>
+  <programme start="20251213T000000 +0000" stop="20251213T020000 +0000" channel="ncaab 012">
+    <title lang="en">SOUTH CAROLINA STATE @ QUEENS UNIVERSITY (M)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SOUTH CAROLINA STATE</actor>
+      <actor>QUEENS UNIVERSITY (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: QUEENS UNIVERSITY (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T110000 +0000" stop="20251212T140000 +0000" channel="ncaab 013">
+    <title lang="en">WILLIAM PEACE @ UNC GREENSBORO (M) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WILLIAM PEACE</actor>
+      <actor>UNC GREENSBORO (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: UNC GREENSBORO (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T140000 +0000" stop="20251212T170000 +0000" channel="ncaab 013">
+    <title lang="en">WILLIAM PEACE @ UNC GREENSBORO (M) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WILLIAM PEACE</actor>
+      <actor>UNC GREENSBORO (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: UNC GREENSBORO (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T170000 +0000" stop="20251212T200000 +0000" channel="ncaab 013">
+    <title lang="en">WILLIAM PEACE @ UNC GREENSBORO (M) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WILLIAM PEACE</actor>
+      <actor>UNC GREENSBORO (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: UNC GREENSBORO (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T200000 +0000" stop="20251212T230000 +0000" channel="ncaab 013">
+    <title lang="en">WILLIAM PEACE @ UNC GREENSBORO (M) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WILLIAM PEACE</actor>
+      <actor>UNC GREENSBORO (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: UNC GREENSBORO (M) Arena</sub-title>
+  </programme>
+  <programme start="20251213T000000 +0000" stop="20251213T020000 +0000" channel="ncaab 013">
+    <title lang="en">WILLIAM PEACE @ UNC GREENSBORO (M)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WILLIAM PEACE</actor>
+      <actor>UNC GREENSBORO (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: UNC GREENSBORO (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T110000 +0000" stop="20251212T140000 +0000" channel="ncaab 014">
+    <title lang="en">DALLAS CHRISTIAN @ TEXAS A&amp;M-CORPUS CHRISTI (M) - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>DALLAS CHRISTIAN</actor>
+      <actor>TEXAS A&amp;M-CORPUS CHRISTI (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: TEXAS A&amp;M-CORPUS CHRISTI (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T140000 +0000" stop="20251212T170000 +0000" channel="ncaab 014">
+    <title lang="en">DALLAS CHRISTIAN @ TEXAS A&amp;M-CORPUS CHRISTI (M) - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>DALLAS CHRISTIAN</actor>
+      <actor>TEXAS A&amp;M-CORPUS CHRISTI (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: TEXAS A&amp;M-CORPUS CHRISTI (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T170000 +0000" stop="20251212T200000 +0000" channel="ncaab 014">
+    <title lang="en">DALLAS CHRISTIAN @ TEXAS A&amp;M-CORPUS CHRISTI (M) - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>DALLAS CHRISTIAN</actor>
+      <actor>TEXAS A&amp;M-CORPUS CHRISTI (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: TEXAS A&amp;M-CORPUS CHRISTI (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T200000 +0000" stop="20251212T230000 +0000" channel="ncaab 014">
+    <title lang="en">DALLAS CHRISTIAN @ TEXAS A&amp;M-CORPUS CHRISTI (M) - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>DALLAS CHRISTIAN</actor>
+      <actor>TEXAS A&amp;M-CORPUS CHRISTI (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: TEXAS A&amp;M-CORPUS CHRISTI (M) Arena</sub-title>
+  </programme>
+  <programme start="20251213T010000 +0000" stop="20251213T030000 +0000" channel="ncaab 014">
+    <title lang="en">DALLAS CHRISTIAN @ TEXAS A&amp;M-CORPUS CHRISTI (M)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>DALLAS CHRISTIAN</actor>
+      <actor>TEXAS A&amp;M-CORPUS CHRISTI (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: TEXAS A&amp;M-CORPUS CHRISTI (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T110000 +0000" stop="20251212T140000 +0000" channel="ncaab 015">
+    <title lang="en">EAST TENNESSEE STATE @ AUSTIN PEAY (M) - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>EAST TENNESSEE STATE</actor>
+      <actor>AUSTIN PEAY (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: AUSTIN PEAY (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T140000 +0000" stop="20251212T170000 +0000" channel="ncaab 015">
+    <title lang="en">EAST TENNESSEE STATE @ AUSTIN PEAY (M) - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>EAST TENNESSEE STATE</actor>
+      <actor>AUSTIN PEAY (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: AUSTIN PEAY (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T170000 +0000" stop="20251212T200000 +0000" channel="ncaab 015">
+    <title lang="en">EAST TENNESSEE STATE @ AUSTIN PEAY (M) - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>EAST TENNESSEE STATE</actor>
+      <actor>AUSTIN PEAY (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: AUSTIN PEAY (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T200000 +0000" stop="20251212T230000 +0000" channel="ncaab 015">
+    <title lang="en">EAST TENNESSEE STATE @ AUSTIN PEAY (M) - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>EAST TENNESSEE STATE</actor>
+      <actor>AUSTIN PEAY (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: AUSTIN PEAY (M) Arena</sub-title>
+  </programme>
+  <programme start="20251213T010000 +0000" stop="20251213T030000 +0000" channel="ncaab 015">
+    <title lang="en">EAST TENNESSEE STATE @ AUSTIN PEAY (M)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>EAST TENNESSEE STATE</actor>
+      <actor>AUSTIN PEAY (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: AUSTIN PEAY (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T110000 +0000" stop="20251212T140000 +0000" channel="ncaab 016">
+    <title lang="en">TEXAS @ 5 UCONN (M) - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>TEXAS</actor>
+      <actor>5 UCONN (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: 5 UCONN (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T140000 +0000" stop="20251212T170000 +0000" channel="ncaab 016">
+    <title lang="en">TEXAS @ 5 UCONN (M) - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>TEXAS</actor>
+      <actor>5 UCONN (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: 5 UCONN (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T170000 +0000" stop="20251212T200000 +0000" channel="ncaab 016">
+    <title lang="en">TEXAS @ 5 UCONN (M) - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>TEXAS</actor>
+      <actor>5 UCONN (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: 5 UCONN (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T200000 +0000" stop="20251212T230000 +0000" channel="ncaab 016">
+    <title lang="en">TEXAS @ 5 UCONN (M) - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>TEXAS</actor>
+      <actor>5 UCONN (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: 5 UCONN (M) Arena</sub-title>
+  </programme>
+  <programme start="20251213T010000 +0000" stop="20251213T030000 +0000" channel="ncaab 016">
+    <title lang="en">TEXAS @ 5 UCONN (M)</title>
+    <desc lang="en">Network: FOX</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>TEXAS</actor>
+      <actor>5 UCONN (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: 5 UCONN (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T110000 +0000" stop="20251212T140000 +0000" channel="ncaab 017">
+    <title lang="en">EAST TEXAS A&amp;M @ MCNEESE (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>EAST TEXAS A&amp;M</actor>
+      <actor>MCNEESE (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: MCNEESE (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T140000 +0000" stop="20251212T170000 +0000" channel="ncaab 017">
+    <title lang="en">EAST TEXAS A&amp;M @ MCNEESE (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>EAST TEXAS A&amp;M</actor>
+      <actor>MCNEESE (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: MCNEESE (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T170000 +0000" stop="20251212T200000 +0000" channel="ncaab 017">
+    <title lang="en">EAST TEXAS A&amp;M @ MCNEESE (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>EAST TEXAS A&amp;M</actor>
+      <actor>MCNEESE (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: MCNEESE (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T200000 +0000" stop="20251212T230000 +0000" channel="ncaab 017">
+    <title lang="en">EAST TEXAS A&amp;M @ MCNEESE (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>EAST TEXAS A&amp;M</actor>
+      <actor>MCNEESE (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: MCNEESE (M) Arena</sub-title>
+  </programme>
+  <programme start="20251213T013000 +0000" stop="20251213T033000 +0000" channel="ncaab 017">
+    <title lang="en">EAST TEXAS A&amp;M @ MCNEESE (M)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>EAST TEXAS A&amp;M</actor>
+      <actor>MCNEESE (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: MCNEESE (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T110000 +0000" stop="20251212T140000 +0000" channel="ncaab 018">
+    <title lang="en">CALIFORNIA BAPTIST @ EASTERN WASHINGTON (M) - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CALIFORNIA BAPTIST</actor>
+      <actor>EASTERN WASHINGTON (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: EASTERN WASHINGTON (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T140000 +0000" stop="20251212T170000 +0000" channel="ncaab 018">
+    <title lang="en">CALIFORNIA BAPTIST @ EASTERN WASHINGTON (M) - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CALIFORNIA BAPTIST</actor>
+      <actor>EASTERN WASHINGTON (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: EASTERN WASHINGTON (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T170000 +0000" stop="20251212T200000 +0000" channel="ncaab 018">
+    <title lang="en">CALIFORNIA BAPTIST @ EASTERN WASHINGTON (M) - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CALIFORNIA BAPTIST</actor>
+      <actor>EASTERN WASHINGTON (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: EASTERN WASHINGTON (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T200000 +0000" stop="20251212T230000 +0000" channel="ncaab 018">
+    <title lang="en">CALIFORNIA BAPTIST @ EASTERN WASHINGTON (M) - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CALIFORNIA BAPTIST</actor>
+      <actor>EASTERN WASHINGTON (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: EASTERN WASHINGTON (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T230000 +0000" stop="20251213T020000 +0000" channel="ncaab 018">
+    <title lang="en">CALIFORNIA BAPTIST @ EASTERN WASHINGTON (M) - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CALIFORNIA BAPTIST</actor>
+      <actor>EASTERN WASHINGTON (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: EASTERN WASHINGTON (M) Arena</sub-title>
+  </programme>
+  <programme start="20251213T020000 +0000" stop="20251213T040000 +0000" channel="ncaab 018">
+    <title lang="en">CALIFORNIA BAPTIST @ EASTERN WASHINGTON (M)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CALIFORNIA BAPTIST</actor>
+      <actor>EASTERN WASHINGTON (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: EASTERN WASHINGTON (M) Arena</sub-title>
+  </programme>
+  <programme start="20251212T110000 +0000" stop="20251212T140000 +0000" channel="ncaab 019">
+    <title lang="en">TEXAS TECH @ WASHINGTON STATE (W) - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>TEXAS TECH</actor>
+      <actor>WASHINGTON STATE (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: WASHINGTON STATE (W) Arena</sub-title>
+  </programme>
+  <programme start="20251212T140000 +0000" stop="20251212T170000 +0000" channel="ncaab 019">
+    <title lang="en">TEXAS TECH @ WASHINGTON STATE (W) - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>TEXAS TECH</actor>
+      <actor>WASHINGTON STATE (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: WASHINGTON STATE (W) Arena</sub-title>
+  </programme>
+  <programme start="20251212T170000 +0000" stop="20251212T200000 +0000" channel="ncaab 019">
+    <title lang="en">TEXAS TECH @ WASHINGTON STATE (W) - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>TEXAS TECH</actor>
+      <actor>WASHINGTON STATE (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: WASHINGTON STATE (W) Arena</sub-title>
+  </programme>
+  <programme start="20251212T200000 +0000" stop="20251212T230000 +0000" channel="ncaab 019">
+    <title lang="en">TEXAS TECH @ WASHINGTON STATE (W) - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>TEXAS TECH</actor>
+      <actor>WASHINGTON STATE (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: WASHINGTON STATE (W) Arena</sub-title>
+  </programme>
+  <programme start="20251212T230000 +0000" stop="20251213T020000 +0000" channel="ncaab 019">
+    <title lang="en">TEXAS TECH @ WASHINGTON STATE (W) - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>TEXAS TECH</actor>
+      <actor>WASHINGTON STATE (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: WASHINGTON STATE (W) Arena</sub-title>
+  </programme>
+  <programme start="20251213T020000 +0000" stop="20251213T040000 +0000" channel="ncaab 019">
+    <title lang="en">TEXAS TECH @ WASHINGTON STATE (W)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>TEXAS TECH</actor>
+      <actor>WASHINGTON STATE (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: WASHINGTON STATE (W) Arena</sub-title>
+  </programme>
+  <programme start="20251212T110000 +0000" stop="20251212T140000 +0000" channel="soccer 01">
+    <title lang="en">West Bromwich Albion vs Sheffield United - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Fiorentina</actor>
-      <actor>Dynamo Kyiv</actor>
+      <actor>West Bromwich Albion</actor>
+      <actor>Sheffield United</actor>
     </credits>
-    <sub-title lang="en">Venue: Dynamo Kyiv Stadium</sub-title>
+    <sub-title lang="en">Venue: Sheffield United Stadium</sub-title>
   </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 01">
-    <title lang="en">Fiorentina vs Dynamo Kyiv - starts at 12:45 PM ET</title>
+  <programme start="20251212T140000 +0000" stop="20251212T170000 +0000" channel="soccer 01">
+    <title lang="en">West Bromwich Albion vs Sheffield United - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Fiorentina</actor>
-      <actor>Dynamo Kyiv</actor>
+      <actor>West Bromwich Albion</actor>
+      <actor>Sheffield United</actor>
     </credits>
-    <sub-title lang="en">Venue: Dynamo Kyiv Stadium</sub-title>
+    <sub-title lang="en">Venue: Sheffield United Stadium</sub-title>
   </programme>
-  <programme start="20251211T174500 +0000" stop="20251211T194500 +0000" channel="soccer 01">
-    <title lang="en">Fiorentina vs Dynamo Kyiv</title>
-    <desc lang="en">League: UEFA Conference League</desc>
+  <programme start="20251212T170000 +0000" stop="20251212T200000 +0000" channel="soccer 01">
+    <title lang="en">West Bromwich Albion vs Sheffield United - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>West Bromwich Albion</actor>
+      <actor>Sheffield United</actor>
+    </credits>
+    <sub-title lang="en">Venue: Sheffield United Stadium</sub-title>
+  </programme>
+  <programme start="20251212T200000 +0000" stop="20251212T220000 +0000" channel="soccer 01">
+    <title lang="en">West Bromwich Albion vs Sheffield United</title>
+    <desc lang="en">League: EFL</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Fiorentina</actor>
-      <actor>Dynamo Kyiv</actor>
+      <actor>West Bromwich Albion</actor>
+      <actor>Sheffield United</actor>
     </credits>
-    <sub-title lang="en">Venue: Dynamo Kyiv Stadium</sub-title>
+    <sub-title lang="en">Venue: Sheffield United Stadium</sub-title>
   </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 02">
-    <title lang="en">Samsunspor vs AEK Athens - starts at 12:45 PM ET</title>
+  <programme start="20251212T110000 +0000" stop="20251212T140000 +0000" channel="soccer 02">
+    <title lang="en">Real Sociedad vs Girona - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Samsunspor</actor>
-      <actor>AEK Athens</actor>
+      <actor>Real Sociedad</actor>
+      <actor>Girona</actor>
     </credits>
-    <sub-title lang="en">Venue: AEK Athens Stadium</sub-title>
+    <sub-title lang="en">Venue: Girona Stadium</sub-title>
   </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 02">
-    <title lang="en">Samsunspor vs AEK Athens - starts at 12:45 PM ET</title>
+  <programme start="20251212T140000 +0000" stop="20251212T170000 +0000" channel="soccer 02">
+    <title lang="en">Real Sociedad vs Girona - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Samsunspor</actor>
-      <actor>AEK Athens</actor>
+      <actor>Real Sociedad</actor>
+      <actor>Girona</actor>
     </credits>
-    <sub-title lang="en">Venue: AEK Athens Stadium</sub-title>
+    <sub-title lang="en">Venue: Girona Stadium</sub-title>
   </programme>
-  <programme start="20251211T174500 +0000" stop="20251211T194500 +0000" channel="soccer 02">
-    <title lang="en">Samsunspor vs AEK Athens</title>
-    <desc lang="en">League: UEFA Conference League</desc>
+  <programme start="20251212T170000 +0000" stop="20251212T200000 +0000" channel="soccer 02">
+    <title lang="en">Real Sociedad vs Girona - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Real Sociedad</actor>
+      <actor>Girona</actor>
+    </credits>
+    <sub-title lang="en">Venue: Girona Stadium</sub-title>
+  </programme>
+  <programme start="20251212T200000 +0000" stop="20251212T220000 +0000" channel="soccer 02">
+    <title lang="en">Real Sociedad vs Girona</title>
+    <desc lang="en">League: La Liga</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Samsunspor</actor>
-      <actor>AEK Athens</actor>
+      <actor>Real Sociedad</actor>
+      <actor>Girona</actor>
     </credits>
-    <sub-title lang="en">Venue: AEK Athens Stadium</sub-title>
+    <sub-title lang="en">Venue: Girona Stadium</sub-title>
   </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 03">
-    <title lang="en">Shkëndija vs Slovan Bratislava - starts at 12:45 PM ET</title>
+  <programme start="20251212T110000 +0000" stop="20251212T140000 +0000" channel="soccer 03">
+    <title lang="en">Union Berlin vs RB Leipzig - starts at 2:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Shkëndija</actor>
-      <actor>Slovan Bratislava</actor>
+      <actor>Union Berlin</actor>
+      <actor>RB Leipzig</actor>
     </credits>
-    <sub-title lang="en">Venue: Slovan Bratislava Stadium</sub-title>
+    <sub-title lang="en">Venue: RB Leipzig Stadium</sub-title>
   </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 03">
-    <title lang="en">Shkëndija vs Slovan Bratislava - starts at 12:45 PM ET</title>
+  <programme start="20251212T140000 +0000" stop="20251212T170000 +0000" channel="soccer 03">
+    <title lang="en">Union Berlin vs RB Leipzig - starts at 2:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Shkëndija</actor>
-      <actor>Slovan Bratislava</actor>
+      <actor>Union Berlin</actor>
+      <actor>RB Leipzig</actor>
     </credits>
-    <sub-title lang="en">Venue: Slovan Bratislava Stadium</sub-title>
+    <sub-title lang="en">Venue: RB Leipzig Stadium</sub-title>
   </programme>
-  <programme start="20251211T174500 +0000" stop="20251211T194500 +0000" channel="soccer 03">
-    <title lang="en">Shkëndija vs Slovan Bratislava</title>
-    <desc lang="en">League: UEFA Conference League</desc>
+  <programme start="20251212T193000 +0000" stop="20251212T213000 +0000" channel="soccer 03">
+    <title lang="en">Union Berlin vs RB Leipzig</title>
+    <desc lang="en">League: Bundesliga</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Shkëndija</actor>
-      <actor>Slovan Bratislava</actor>
+      <actor>Union Berlin</actor>
+      <actor>RB Leipzig</actor>
     </credits>
-    <sub-title lang="en">Venue: Slovan Bratislava Stadium</sub-title>
+    <sub-title lang="en">Venue: RB Leipzig Stadium</sub-title>
   </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 04">
-    <title lang="en">Hacken vs AEK Larnaca - starts at 12:45 PM ET</title>
+  <programme start="20251212T110000 +0000" stop="20251212T140000 +0000" channel="soccer 04">
+    <title lang="en">Lecce vs Pisa - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Hacken</actor>
-      <actor>AEK Larnaca</actor>
+      <actor>Lecce</actor>
+      <actor>Pisa</actor>
     </credits>
-    <sub-title lang="en">Venue: AEK Larnaca Stadium</sub-title>
+    <sub-title lang="en">Venue: Pisa Stadium</sub-title>
   </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 04">
-    <title lang="en">Hacken vs AEK Larnaca - starts at 12:45 PM ET</title>
+  <programme start="20251212T140000 +0000" stop="20251212T170000 +0000" channel="soccer 04">
+    <title lang="en">Lecce vs Pisa - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Hacken</actor>
-      <actor>AEK Larnaca</actor>
+      <actor>Lecce</actor>
+      <actor>Pisa</actor>
     </credits>
-    <sub-title lang="en">Venue: AEK Larnaca Stadium</sub-title>
+    <sub-title lang="en">Venue: Pisa Stadium</sub-title>
   </programme>
-  <programme start="20251211T174500 +0000" stop="20251211T194500 +0000" channel="soccer 04">
-    <title lang="en">Hacken vs AEK Larnaca</title>
-    <desc lang="en">League: UEFA Conference League</desc>
+  <programme start="20251212T194500 +0000" stop="20251212T214500 +0000" channel="soccer 04">
+    <title lang="en">Lecce vs Pisa</title>
+    <desc lang="en">League: Serie A</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Hacken</actor>
-      <actor>AEK Larnaca</actor>
+      <actor>Lecce</actor>
+      <actor>Pisa</actor>
     </credits>
-    <sub-title lang="en">Venue: AEK Larnaca Stadium</sub-title>
+    <sub-title lang="en">Venue: Pisa Stadium</sub-title>
   </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 05">
-    <title lang="en">Breiðablik vs Shamrock Rovers - starts at 12:45 PM ET</title>
+  <programme start="20251212T110000 +0000" stop="20251212T140000 +0000" channel="soccer 05">
+    <title lang="en">Angers vs Nantes - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Breiðablik</actor>
-      <actor>Shamrock Rovers</actor>
+      <actor>Angers</actor>
+      <actor>Nantes</actor>
     </credits>
-    <sub-title lang="en">Venue: Shamrock Rovers Stadium</sub-title>
+    <sub-title lang="en">Venue: Nantes Stadium</sub-title>
   </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 05">
-    <title lang="en">Breiðablik vs Shamrock Rovers - starts at 12:45 PM ET</title>
+  <programme start="20251212T140000 +0000" stop="20251212T170000 +0000" channel="soccer 05">
+    <title lang="en">Angers vs Nantes - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Breiðablik</actor>
-      <actor>Shamrock Rovers</actor>
+      <actor>Angers</actor>
+      <actor>Nantes</actor>
     </credits>
-    <sub-title lang="en">Venue: Shamrock Rovers Stadium</sub-title>
+    <sub-title lang="en">Venue: Nantes Stadium</sub-title>
   </programme>
-  <programme start="20251211T174500 +0000" stop="20251211T194500 +0000" channel="soccer 05">
-    <title lang="en">Breiðablik vs Shamrock Rovers</title>
-    <desc lang="en">League: UEFA Conference League</desc>
+  <programme start="20251212T194500 +0000" stop="20251212T214500 +0000" channel="soccer 05">
+    <title lang="en">Angers vs Nantes</title>
+    <desc lang="en">League: Ligue 1</desc>
     <category lang="en">Sports</category>
     <category lang="en">Soccer</category>
     <credits>
-      <actor>Breiðablik</actor>
-      <actor>Shamrock Rovers</actor>
+      <actor>Angers</actor>
+      <actor>Nantes</actor>
     </credits>
-    <sub-title lang="en">Venue: Shamrock Rovers Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 06">
-    <title lang="en">Jagiellonia Białystok vs Rayo Vallecano - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Jagiellonia Białystok</actor>
-      <actor>Rayo Vallecano</actor>
-    </credits>
-    <sub-title lang="en">Venue: Rayo Vallecano Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 06">
-    <title lang="en">Jagiellonia Białystok vs Rayo Vallecano - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Jagiellonia Białystok</actor>
-      <actor>Rayo Vallecano</actor>
-    </credits>
-    <sub-title lang="en">Venue: Rayo Vallecano Stadium</sub-title>
-  </programme>
-  <programme start="20251211T174500 +0000" stop="20251211T194500 +0000" channel="soccer 06">
-    <title lang="en">Jagiellonia Białystok vs Rayo Vallecano</title>
-    <desc lang="en">League: UEFA Conference League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Jagiellonia Białystok</actor>
-      <actor>Rayo Vallecano</actor>
-    </credits>
-    <sub-title lang="en">Venue: Rayo Vallecano Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 07">
-    <title lang="en">Noah vs Legia Warsaw - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Noah</actor>
-      <actor>Legia Warsaw</actor>
-    </credits>
-    <sub-title lang="en">Venue: Legia Warsaw Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 07">
-    <title lang="en">Noah vs Legia Warsaw - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Noah</actor>
-      <actor>Legia Warsaw</actor>
-    </credits>
-    <sub-title lang="en">Venue: Legia Warsaw Stadium</sub-title>
-  </programme>
-  <programme start="20251211T174500 +0000" stop="20251211T194500 +0000" channel="soccer 07">
-    <title lang="en">Noah vs Legia Warsaw</title>
-    <desc lang="en">League: UEFA Conference League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Noah</actor>
-      <actor>Legia Warsaw</actor>
-    </credits>
-    <sub-title lang="en">Venue: Legia Warsaw Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 08">
-    <title lang="en">Universitatea Craiova vs Sparta Prague - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Universitatea Craiova</actor>
-      <actor>Sparta Prague</actor>
-    </credits>
-    <sub-title lang="en">Venue: Sparta Prague Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 08">
-    <title lang="en">Universitatea Craiova vs Sparta Prague - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Universitatea Craiova</actor>
-      <actor>Sparta Prague</actor>
-    </credits>
-    <sub-title lang="en">Venue: Sparta Prague Stadium</sub-title>
-  </programme>
-  <programme start="20251211T174500 +0000" stop="20251211T194500 +0000" channel="soccer 08">
-    <title lang="en">Universitatea Craiova vs Sparta Prague</title>
-    <desc lang="en">League: UEFA Conference League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Universitatea Craiova</actor>
-      <actor>Sparta Prague</actor>
-    </credits>
-    <sub-title lang="en">Venue: Sparta Prague Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 09">
-    <title lang="en">Drita vs AZ Alkmaar - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Drita</actor>
-      <actor>AZ Alkmaar</actor>
-    </credits>
-    <sub-title lang="en">Venue: AZ Alkmaar Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 09">
-    <title lang="en">Drita vs AZ Alkmaar - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Drita</actor>
-      <actor>AZ Alkmaar</actor>
-    </credits>
-    <sub-title lang="en">Venue: AZ Alkmaar Stadium</sub-title>
-  </programme>
-  <programme start="20251211T174500 +0000" stop="20251211T194500 +0000" channel="soccer 09">
-    <title lang="en">Drita vs AZ Alkmaar</title>
-    <desc lang="en">League: UEFA Conference League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Drita</actor>
-      <actor>AZ Alkmaar</actor>
-    </credits>
-    <sub-title lang="en">Venue: AZ Alkmaar Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 10">
-    <title lang="en">Aberdeen vs Strasbourg - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Aberdeen</actor>
-      <actor>Strasbourg</actor>
-    </credits>
-    <sub-title lang="en">Venue: Strasbourg Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 10">
-    <title lang="en">Aberdeen vs Strasbourg - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Aberdeen</actor>
-      <actor>Strasbourg</actor>
-    </credits>
-    <sub-title lang="en">Venue: Strasbourg Stadium</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="soccer 10">
-    <title lang="en">Aberdeen vs Strasbourg - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Aberdeen</actor>
-      <actor>Strasbourg</actor>
-    </credits>
-    <sub-title lang="en">Venue: Strasbourg Stadium</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T220000 +0000" channel="soccer 10">
-    <title lang="en">Aberdeen vs Strasbourg</title>
-    <desc lang="en">League: UEFA Conference League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Aberdeen</actor>
-      <actor>Strasbourg</actor>
-    </credits>
-    <sub-title lang="en">Venue: Strasbourg Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 11">
-    <title lang="en">Lech Poznań vs Mainz - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lech Poznań</actor>
-      <actor>Mainz</actor>
-    </credits>
-    <sub-title lang="en">Venue: Mainz Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 11">
-    <title lang="en">Lech Poznań vs Mainz - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lech Poznań</actor>
-      <actor>Mainz</actor>
-    </credits>
-    <sub-title lang="en">Venue: Mainz Stadium</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="soccer 11">
-    <title lang="en">Lech Poznań vs Mainz - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lech Poznań</actor>
-      <actor>Mainz</actor>
-    </credits>
-    <sub-title lang="en">Venue: Mainz Stadium</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T220000 +0000" channel="soccer 11">
-    <title lang="en">Lech Poznań vs Mainz</title>
-    <desc lang="en">League: UEFA Conference League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lech Poznań</actor>
-      <actor>Mainz</actor>
-    </credits>
-    <sub-title lang="en">Venue: Mainz Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 12">
-    <title lang="en">KuPS vs Lausanne-Sport - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>KuPS</actor>
-      <actor>Lausanne-Sport</actor>
-    </credits>
-    <sub-title lang="en">Venue: Lausanne-Sport Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 12">
-    <title lang="en">KuPS vs Lausanne-Sport - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>KuPS</actor>
-      <actor>Lausanne-Sport</actor>
-    </credits>
-    <sub-title lang="en">Venue: Lausanne-Sport Stadium</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="soccer 12">
-    <title lang="en">KuPS vs Lausanne-Sport - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>KuPS</actor>
-      <actor>Lausanne-Sport</actor>
-    </credits>
-    <sub-title lang="en">Venue: Lausanne-Sport Stadium</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T220000 +0000" channel="soccer 12">
-    <title lang="en">KuPS vs Lausanne-Sport</title>
-    <desc lang="en">League: UEFA Conference League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>KuPS</actor>
-      <actor>Lausanne-Sport</actor>
-    </credits>
-    <sub-title lang="en">Venue: Lausanne-Sport Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 13">
-    <title lang="en">Rapid Vienna vs Omonia Nicosia - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Rapid Vienna</actor>
-      <actor>Omonia Nicosia</actor>
-    </credits>
-    <sub-title lang="en">Venue: Omonia Nicosia Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 13">
-    <title lang="en">Rapid Vienna vs Omonia Nicosia - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Rapid Vienna</actor>
-      <actor>Omonia Nicosia</actor>
-    </credits>
-    <sub-title lang="en">Venue: Omonia Nicosia Stadium</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="soccer 13">
-    <title lang="en">Rapid Vienna vs Omonia Nicosia - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Rapid Vienna</actor>
-      <actor>Omonia Nicosia</actor>
-    </credits>
-    <sub-title lang="en">Venue: Omonia Nicosia Stadium</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T220000 +0000" channel="soccer 13">
-    <title lang="en">Rapid Vienna vs Omonia Nicosia</title>
-    <desc lang="en">League: UEFA Conference League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Rapid Vienna</actor>
-      <actor>Omonia Nicosia</actor>
-    </credits>
-    <sub-title lang="en">Venue: Omonia Nicosia Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 14">
-    <title lang="en">Rijeka vs Celje - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Rijeka</actor>
-      <actor>Celje</actor>
-    </credits>
-    <sub-title lang="en">Venue: Celje Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 14">
-    <title lang="en">Rijeka vs Celje - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Rijeka</actor>
-      <actor>Celje</actor>
-    </credits>
-    <sub-title lang="en">Venue: Celje Stadium</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="soccer 14">
-    <title lang="en">Rijeka vs Celje - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Rijeka</actor>
-      <actor>Celje</actor>
-    </credits>
-    <sub-title lang="en">Venue: Celje Stadium</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T220000 +0000" channel="soccer 14">
-    <title lang="en">Rijeka vs Celje</title>
-    <desc lang="en">League: UEFA Conference League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Rijeka</actor>
-      <actor>Celje</actor>
-    </credits>
-    <sub-title lang="en">Venue: Celje Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 15">
-    <title lang="en">Raków Częstochowa vs Zrinjski Mostar - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Raków Częstochowa</actor>
-      <actor>Zrinjski Mostar</actor>
-    </credits>
-    <sub-title lang="en">Venue: Zrinjski Mostar Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 15">
-    <title lang="en">Raków Częstochowa vs Zrinjski Mostar - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Raków Częstochowa</actor>
-      <actor>Zrinjski Mostar</actor>
-    </credits>
-    <sub-title lang="en">Venue: Zrinjski Mostar Stadium</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="soccer 15">
-    <title lang="en">Raków Częstochowa vs Zrinjski Mostar - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Raków Częstochowa</actor>
-      <actor>Zrinjski Mostar</actor>
-    </credits>
-    <sub-title lang="en">Venue: Zrinjski Mostar Stadium</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T220000 +0000" channel="soccer 15">
-    <title lang="en">Raków Częstochowa vs Zrinjski Mostar</title>
-    <desc lang="en">League: UEFA Conference League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Raków Częstochowa</actor>
-      <actor>Zrinjski Mostar</actor>
-    </credits>
-    <sub-title lang="en">Venue: Zrinjski Mostar Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 16">
-    <title lang="en">Shelbourne vs Crystal Palace - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Shelbourne</actor>
-      <actor>Crystal Palace</actor>
-    </credits>
-    <sub-title lang="en">Venue: Crystal Palace Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 16">
-    <title lang="en">Shelbourne vs Crystal Palace - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Shelbourne</actor>
-      <actor>Crystal Palace</actor>
-    </credits>
-    <sub-title lang="en">Venue: Crystal Palace Stadium</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="soccer 16">
-    <title lang="en">Shelbourne vs Crystal Palace - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Shelbourne</actor>
-      <actor>Crystal Palace</actor>
-    </credits>
-    <sub-title lang="en">Venue: Crystal Palace Stadium</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T220000 +0000" channel="soccer 16">
-    <title lang="en">Shelbourne vs Crystal Palace</title>
-    <desc lang="en">League: UEFA Conference League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Shelbourne</actor>
-      <actor>Crystal Palace</actor>
-    </credits>
-    <sub-title lang="en">Venue: Crystal Palace Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 17">
-    <title lang="en">Ħamrun Spartans vs Shakhtar Donetsk - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Ħamrun Spartans</actor>
-      <actor>Shakhtar Donetsk</actor>
-    </credits>
-    <sub-title lang="en">Venue: Shakhtar Donetsk Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 17">
-    <title lang="en">Ħamrun Spartans vs Shakhtar Donetsk - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Ħamrun Spartans</actor>
-      <actor>Shakhtar Donetsk</actor>
-    </credits>
-    <sub-title lang="en">Venue: Shakhtar Donetsk Stadium</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="soccer 17">
-    <title lang="en">Ħamrun Spartans vs Shakhtar Donetsk - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Ħamrun Spartans</actor>
-      <actor>Shakhtar Donetsk</actor>
-    </credits>
-    <sub-title lang="en">Venue: Shakhtar Donetsk Stadium</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T220000 +0000" channel="soccer 17">
-    <title lang="en">Ħamrun Spartans vs Shakhtar Donetsk</title>
-    <desc lang="en">League: UEFA Conference League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Ħamrun Spartans</actor>
-      <actor>Shakhtar Donetsk</actor>
-    </credits>
-    <sub-title lang="en">Venue: Shakhtar Donetsk Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 18">
-    <title lang="en">Lincoln Red Imps vs Sigma Olomouc - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lincoln Red Imps</actor>
-      <actor>Sigma Olomouc</actor>
-    </credits>
-    <sub-title lang="en">Venue: Sigma Olomouc Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 18">
-    <title lang="en">Lincoln Red Imps vs Sigma Olomouc - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lincoln Red Imps</actor>
-      <actor>Sigma Olomouc</actor>
-    </credits>
-    <sub-title lang="en">Venue: Sigma Olomouc Stadium</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="soccer 18">
-    <title lang="en">Lincoln Red Imps vs Sigma Olomouc - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lincoln Red Imps</actor>
-      <actor>Sigma Olomouc</actor>
-    </credits>
-    <sub-title lang="en">Venue: Sigma Olomouc Stadium</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T220000 +0000" channel="soccer 18">
-    <title lang="en">Lincoln Red Imps vs Sigma Olomouc</title>
-    <desc lang="en">League: UEFA Conference League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lincoln Red Imps</actor>
-      <actor>Sigma Olomouc</actor>
-    </credits>
-    <sub-title lang="en">Venue: Sigma Olomouc Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 19">
-    <title lang="en">Stuttgart vs Maccabi Tel Aviv - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Stuttgart</actor>
-      <actor>Maccabi Tel Aviv</actor>
-    </credits>
-    <sub-title lang="en">Venue: Maccabi Tel Aviv Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 19">
-    <title lang="en">Stuttgart vs Maccabi Tel Aviv - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Stuttgart</actor>
-      <actor>Maccabi Tel Aviv</actor>
-    </credits>
-    <sub-title lang="en">Venue: Maccabi Tel Aviv Stadium</sub-title>
-  </programme>
-  <programme start="20251211T174500 +0000" stop="20251211T194500 +0000" channel="soccer 19">
-    <title lang="en">Stuttgart vs Maccabi Tel Aviv</title>
-    <desc lang="en">League: UEFA Europa League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Stuttgart</actor>
-      <actor>Maccabi Tel Aviv</actor>
-    </credits>
-    <sub-title lang="en">Venue: Maccabi Tel Aviv Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 20">
-    <title lang="en">Nice vs Braga - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Nice</actor>
-      <actor>Braga</actor>
-    </credits>
-    <sub-title lang="en">Venue: Braga Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 20">
-    <title lang="en">Nice vs Braga - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Nice</actor>
-      <actor>Braga</actor>
-    </credits>
-    <sub-title lang="en">Venue: Braga Stadium</sub-title>
-  </programme>
-  <programme start="20251211T174500 +0000" stop="20251211T194500 +0000" channel="soccer 20">
-    <title lang="en">Nice vs Braga</title>
-    <desc lang="en">League: UEFA Europa League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Nice</actor>
-      <actor>Braga</actor>
-    </credits>
-    <sub-title lang="en">Venue: Braga Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 21">
-    <title lang="en">Utrecht vs Nottingham Forest - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Utrecht</actor>
-      <actor>Nottingham Forest</actor>
-    </credits>
-    <sub-title lang="en">Venue: Nottingham Forest Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 21">
-    <title lang="en">Utrecht vs Nottingham Forest - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Utrecht</actor>
-      <actor>Nottingham Forest</actor>
-    </credits>
-    <sub-title lang="en">Venue: Nottingham Forest Stadium</sub-title>
-  </programme>
-  <programme start="20251211T174500 +0000" stop="20251211T194500 +0000" channel="soccer 21">
-    <title lang="en">Utrecht vs Nottingham Forest</title>
-    <desc lang="en">League: UEFA Europa League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Utrecht</actor>
-      <actor>Nottingham Forest</actor>
-    </credits>
-    <sub-title lang="en">Venue: Nottingham Forest Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 22">
-    <title lang="en">FC Midtjylland vs Genk - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>FC Midtjylland</actor>
-      <actor>Genk</actor>
-    </credits>
-    <sub-title lang="en">Venue: Genk Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 22">
-    <title lang="en">FC Midtjylland vs Genk - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>FC Midtjylland</actor>
-      <actor>Genk</actor>
-    </credits>
-    <sub-title lang="en">Venue: Genk Stadium</sub-title>
-  </programme>
-  <programme start="20251211T174500 +0000" stop="20251211T194500 +0000" channel="soccer 22">
-    <title lang="en">FC Midtjylland vs Genk</title>
-    <desc lang="en">League: UEFA Europa League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>FC Midtjylland</actor>
-      <actor>Genk</actor>
-    </credits>
-    <sub-title lang="en">Venue: Genk Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 23">
-    <title lang="en">Dinamo Zagreb vs Real Betis - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Dinamo Zagreb</actor>
-      <actor>Real Betis</actor>
-    </credits>
-    <sub-title lang="en">Venue: Real Betis Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 23">
-    <title lang="en">Dinamo Zagreb vs Real Betis - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Dinamo Zagreb</actor>
-      <actor>Real Betis</actor>
-    </credits>
-    <sub-title lang="en">Venue: Real Betis Stadium</sub-title>
-  </programme>
-  <programme start="20251211T174500 +0000" stop="20251211T194500 +0000" channel="soccer 23">
-    <title lang="en">Dinamo Zagreb vs Real Betis</title>
-    <desc lang="en">League: UEFA Europa League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Dinamo Zagreb</actor>
-      <actor>Real Betis</actor>
-    </credits>
-    <sub-title lang="en">Venue: Real Betis Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 24">
-    <title lang="en">Ludogorets Razgrad vs PAOK - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Ludogorets Razgrad</actor>
-      <actor>PAOK</actor>
-    </credits>
-    <sub-title lang="en">Venue: PAOK Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 24">
-    <title lang="en">Ludogorets Razgrad vs PAOK - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Ludogorets Razgrad</actor>
-      <actor>PAOK</actor>
-    </credits>
-    <sub-title lang="en">Venue: PAOK Stadium</sub-title>
-  </programme>
-  <programme start="20251211T174500 +0000" stop="20251211T194500 +0000" channel="soccer 24">
-    <title lang="en">Ludogorets Razgrad vs PAOK</title>
-    <desc lang="en">League: UEFA Europa League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Ludogorets Razgrad</actor>
-      <actor>PAOK</actor>
-    </credits>
-    <sub-title lang="en">Venue: PAOK Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 25">
-    <title lang="en">Young Boys vs Lille - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Young Boys</actor>
-      <actor>Lille</actor>
-    </credits>
-    <sub-title lang="en">Venue: Lille Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 25">
-    <title lang="en">Young Boys vs Lille - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Young Boys</actor>
-      <actor>Lille</actor>
-    </credits>
-    <sub-title lang="en">Venue: Lille Stadium</sub-title>
-  </programme>
-  <programme start="20251211T174500 +0000" stop="20251211T194500 +0000" channel="soccer 25">
-    <title lang="en">Young Boys vs Lille</title>
-    <desc lang="en">League: UEFA Europa League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Young Boys</actor>
-      <actor>Lille</actor>
-    </credits>
-    <sub-title lang="en">Venue: Lille Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 26">
-    <title lang="en">Ferencváros vs Rangers - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Ferencváros</actor>
-      <actor>Rangers</actor>
-    </credits>
-    <sub-title lang="en">Venue: Rangers Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 26">
-    <title lang="en">Ferencváros vs Rangers - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Ferencváros</actor>
-      <actor>Rangers</actor>
-    </credits>
-    <sub-title lang="en">Venue: Rangers Stadium</sub-title>
-  </programme>
-  <programme start="20251211T174500 +0000" stop="20251211T194500 +0000" channel="soccer 26">
-    <title lang="en">Ferencváros vs Rangers</title>
-    <desc lang="en">League: UEFA Europa League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Ferencváros</actor>
-      <actor>Rangers</actor>
-    </credits>
-    <sub-title lang="en">Venue: Rangers Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 27">
-    <title lang="en">Sturm Graz vs Crvena Zvezda - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Sturm Graz</actor>
-      <actor>Crvena Zvezda</actor>
-    </credits>
-    <sub-title lang="en">Venue: Crvena Zvezda Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 27">
-    <title lang="en">Sturm Graz vs Crvena Zvezda - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Sturm Graz</actor>
-      <actor>Crvena Zvezda</actor>
-    </credits>
-    <sub-title lang="en">Venue: Crvena Zvezda Stadium</sub-title>
-  </programme>
-  <programme start="20251211T174500 +0000" stop="20251211T194500 +0000" channel="soccer 27">
-    <title lang="en">Sturm Graz vs Crvena Zvezda</title>
-    <desc lang="en">League: UEFA Europa League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Sturm Graz</actor>
-      <actor>Crvena Zvezda</actor>
-    </credits>
-    <sub-title lang="en">Venue: Crvena Zvezda Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 28">
-    <title lang="en">Celtic vs Roma - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Celtic</actor>
-      <actor>Roma</actor>
-    </credits>
-    <sub-title lang="en">Venue: Roma Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 28">
-    <title lang="en">Celtic vs Roma - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Celtic</actor>
-      <actor>Roma</actor>
-    </credits>
-    <sub-title lang="en">Venue: Roma Stadium</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="soccer 28">
-    <title lang="en">Celtic vs Roma - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Celtic</actor>
-      <actor>Roma</actor>
-    </credits>
-    <sub-title lang="en">Venue: Roma Stadium</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T220000 +0000" channel="soccer 28">
-    <title lang="en">Celtic vs Roma</title>
-    <desc lang="en">League: UEFA Europa League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Celtic</actor>
-      <actor>Roma</actor>
-    </credits>
-    <sub-title lang="en">Venue: Roma Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 29">
-    <title lang="en">Freiburg vs Red Bull Salzburg - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Freiburg</actor>
-      <actor>Red Bull Salzburg</actor>
-    </credits>
-    <sub-title lang="en">Venue: Red Bull Salzburg Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 29">
-    <title lang="en">Freiburg vs Red Bull Salzburg - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Freiburg</actor>
-      <actor>Red Bull Salzburg</actor>
-    </credits>
-    <sub-title lang="en">Venue: Red Bull Salzburg Stadium</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="soccer 29">
-    <title lang="en">Freiburg vs Red Bull Salzburg - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Freiburg</actor>
-      <actor>Red Bull Salzburg</actor>
-    </credits>
-    <sub-title lang="en">Venue: Red Bull Salzburg Stadium</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T220000 +0000" channel="soccer 29">
-    <title lang="en">Freiburg vs Red Bull Salzburg</title>
-    <desc lang="en">League: UEFA Europa League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Freiburg</actor>
-      <actor>Red Bull Salzburg</actor>
-    </credits>
-    <sub-title lang="en">Venue: Red Bull Salzburg Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 30">
-    <title lang="en">Lyon vs Go Ahead Eagles - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lyon</actor>
-      <actor>Go Ahead Eagles</actor>
-    </credits>
-    <sub-title lang="en">Venue: Go Ahead Eagles Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 30">
-    <title lang="en">Lyon vs Go Ahead Eagles - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lyon</actor>
-      <actor>Go Ahead Eagles</actor>
-    </credits>
-    <sub-title lang="en">Venue: Go Ahead Eagles Stadium</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="soccer 30">
-    <title lang="en">Lyon vs Go Ahead Eagles - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lyon</actor>
-      <actor>Go Ahead Eagles</actor>
-    </credits>
-    <sub-title lang="en">Venue: Go Ahead Eagles Stadium</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T220000 +0000" channel="soccer 30">
-    <title lang="en">Lyon vs Go Ahead Eagles</title>
-    <desc lang="en">League: UEFA Europa League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Lyon</actor>
-      <actor>Go Ahead Eagles</actor>
-    </credits>
-    <sub-title lang="en">Venue: Go Ahead Eagles Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 31">
-    <title lang="en">Panathinaikos vs Viktoria Plzeň - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Panathinaikos</actor>
-      <actor>Viktoria Plzeň</actor>
-    </credits>
-    <sub-title lang="en">Venue: Viktoria Plzeň Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 31">
-    <title lang="en">Panathinaikos vs Viktoria Plzeň - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Panathinaikos</actor>
-      <actor>Viktoria Plzeň</actor>
-    </credits>
-    <sub-title lang="en">Venue: Viktoria Plzeň Stadium</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="soccer 31">
-    <title lang="en">Panathinaikos vs Viktoria Plzeň - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Panathinaikos</actor>
-      <actor>Viktoria Plzeň</actor>
-    </credits>
-    <sub-title lang="en">Venue: Viktoria Plzeň Stadium</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T220000 +0000" channel="soccer 31">
-    <title lang="en">Panathinaikos vs Viktoria Plzeň</title>
-    <desc lang="en">League: UEFA Europa League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Panathinaikos</actor>
-      <actor>Viktoria Plzeň</actor>
-    </credits>
-    <sub-title lang="en">Venue: Viktoria Plzeň Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 32">
-    <title lang="en">Celta Vigo vs Bologna - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Celta Vigo</actor>
-      <actor>Bologna</actor>
-    </credits>
-    <sub-title lang="en">Venue: Bologna Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 32">
-    <title lang="en">Celta Vigo vs Bologna - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Celta Vigo</actor>
-      <actor>Bologna</actor>
-    </credits>
-    <sub-title lang="en">Venue: Bologna Stadium</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="soccer 32">
-    <title lang="en">Celta Vigo vs Bologna - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Celta Vigo</actor>
-      <actor>Bologna</actor>
-    </credits>
-    <sub-title lang="en">Venue: Bologna Stadium</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T220000 +0000" channel="soccer 32">
-    <title lang="en">Celta Vigo vs Bologna</title>
-    <desc lang="en">League: UEFA Europa League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Celta Vigo</actor>
-      <actor>Bologna</actor>
-    </credits>
-    <sub-title lang="en">Venue: Bologna Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 33">
-    <title lang="en">Basel vs Aston Villa - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Basel</actor>
-      <actor>Aston Villa</actor>
-    </credits>
-    <sub-title lang="en">Venue: Aston Villa Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 33">
-    <title lang="en">Basel vs Aston Villa - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Basel</actor>
-      <actor>Aston Villa</actor>
-    </credits>
-    <sub-title lang="en">Venue: Aston Villa Stadium</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="soccer 33">
-    <title lang="en">Basel vs Aston Villa - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Basel</actor>
-      <actor>Aston Villa</actor>
-    </credits>
-    <sub-title lang="en">Venue: Aston Villa Stadium</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T220000 +0000" channel="soccer 33">
-    <title lang="en">Basel vs Aston Villa</title>
-    <desc lang="en">League: UEFA Europa League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Basel</actor>
-      <actor>Aston Villa</actor>
-    </credits>
-    <sub-title lang="en">Venue: Aston Villa Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 34">
-    <title lang="en">FCSB vs Feyenoord - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>FCSB</actor>
-      <actor>Feyenoord</actor>
-    </credits>
-    <sub-title lang="en">Venue: Feyenoord Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 34">
-    <title lang="en">FCSB vs Feyenoord - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>FCSB</actor>
-      <actor>Feyenoord</actor>
-    </credits>
-    <sub-title lang="en">Venue: Feyenoord Stadium</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="soccer 34">
-    <title lang="en">FCSB vs Feyenoord - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>FCSB</actor>
-      <actor>Feyenoord</actor>
-    </credits>
-    <sub-title lang="en">Venue: Feyenoord Stadium</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T220000 +0000" channel="soccer 34">
-    <title lang="en">FCSB vs Feyenoord</title>
-    <desc lang="en">League: UEFA Europa League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>FCSB</actor>
-      <actor>Feyenoord</actor>
-    </credits>
-    <sub-title lang="en">Venue: Feyenoord Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 35">
-    <title lang="en">FC Porto vs Malmo FF - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>FC Porto</actor>
-      <actor>Malmo FF</actor>
-    </credits>
-    <sub-title lang="en">Venue: Malmo FF Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 35">
-    <title lang="en">FC Porto vs Malmo FF - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>FC Porto</actor>
-      <actor>Malmo FF</actor>
-    </credits>
-    <sub-title lang="en">Venue: Malmo FF Stadium</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="soccer 35">
-    <title lang="en">FC Porto vs Malmo FF - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>FC Porto</actor>
-      <actor>Malmo FF</actor>
-    </credits>
-    <sub-title lang="en">Venue: Malmo FF Stadium</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T220000 +0000" channel="soccer 35">
-    <title lang="en">FC Porto vs Malmo FF</title>
-    <desc lang="en">League: UEFA Europa League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>FC Porto</actor>
-      <actor>Malmo FF</actor>
-    </credits>
-    <sub-title lang="en">Venue: Malmo FF Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 36">
-    <title lang="en">Brann vs Fenerbahçe - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Brann</actor>
-      <actor>Fenerbahçe</actor>
-    </credits>
-    <sub-title lang="en">Venue: Fenerbahçe Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 36">
-    <title lang="en">Brann vs Fenerbahçe - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Brann</actor>
-      <actor>Fenerbahçe</actor>
-    </credits>
-    <sub-title lang="en">Venue: Fenerbahçe Stadium</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="soccer 36">
-    <title lang="en">Brann vs Fenerbahçe - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Brann</actor>
-      <actor>Fenerbahçe</actor>
-    </credits>
-    <sub-title lang="en">Venue: Fenerbahçe Stadium</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T220000 +0000" channel="soccer 36">
-    <title lang="en">Brann vs Fenerbahçe</title>
-    <desc lang="en">League: UEFA Europa League</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Brann</actor>
-      <actor>Fenerbahçe</actor>
-    </credits>
-    <sub-title lang="en">Venue: Fenerbahçe Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 37">
-    <title lang="en">Vasco da Gama vs Fluminense - starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Vasco da Gama</actor>
-      <actor>Fluminense</actor>
-    </credits>
-    <sub-title lang="en">Venue: Fluminense Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 37">
-    <title lang="en">Vasco da Gama vs Fluminense - starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Vasco da Gama</actor>
-      <actor>Fluminense</actor>
-    </credits>
-    <sub-title lang="en">Venue: Fluminense Stadium</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="soccer 37">
-    <title lang="en">Vasco da Gama vs Fluminense - starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Vasco da Gama</actor>
-      <actor>Fluminense</actor>
-    </credits>
-    <sub-title lang="en">Venue: Fluminense Stadium</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T230000 +0000" channel="soccer 37">
-    <title lang="en">Vasco da Gama vs Fluminense - starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Vasco da Gama</actor>
-      <actor>Fluminense</actor>
-    </credits>
-    <sub-title lang="en">Venue: Fluminense Stadium</sub-title>
-  </programme>
-  <programme start="20251211T230000 +0000" stop="20251212T010000 +0000" channel="soccer 37">
-    <title lang="en">Vasco da Gama vs Fluminense</title>
-    <desc lang="en">League: Copa do Brasil</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Vasco da Gama</actor>
-      <actor>Fluminense</actor>
-    </credits>
-    <sub-title lang="en">Venue: Fluminense Stadium</sub-title>
-  </programme>
-  <programme start="20251211T110000 +0000" stop="20251211T140000 +0000" channel="soccer 38">
-    <title lang="en">Tigres vs Toluca - starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Tigres</actor>
-      <actor>Toluca</actor>
-    </credits>
-    <sub-title lang="en">Venue: Toluca Stadium</sub-title>
-  </programme>
-  <programme start="20251211T140000 +0000" stop="20251211T170000 +0000" channel="soccer 38">
-    <title lang="en">Tigres vs Toluca - starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Tigres</actor>
-      <actor>Toluca</actor>
-    </credits>
-    <sub-title lang="en">Venue: Toluca Stadium</sub-title>
-  </programme>
-  <programme start="20251211T170000 +0000" stop="20251211T200000 +0000" channel="soccer 38">
-    <title lang="en">Tigres vs Toluca - starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Tigres</actor>
-      <actor>Toluca</actor>
-    </credits>
-    <sub-title lang="en">Venue: Toluca Stadium</sub-title>
-  </programme>
-  <programme start="20251211T200000 +0000" stop="20251211T230000 +0000" channel="soccer 38">
-    <title lang="en">Tigres vs Toluca - starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Tigres</actor>
-      <actor>Toluca</actor>
-    </credits>
-    <sub-title lang="en">Venue: Toluca Stadium</sub-title>
-  </programme>
-  <programme start="20251211T230000 +0000" stop="20251212T020000 +0000" channel="soccer 38">
-    <title lang="en">Tigres vs Toluca - starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Tigres</actor>
-      <actor>Toluca</actor>
-    </credits>
-    <sub-title lang="en">Venue: Toluca Stadium</sub-title>
-  </programme>
-  <programme start="20251212T020000 +0000" stop="20251212T040000 +0000" channel="soccer 38">
-    <title lang="en">Tigres vs Toluca</title>
-    <desc lang="en">League: Liga MX</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <credits>
-      <actor>Tigres</actor>
-      <actor>Toluca</actor>
-    </credits>
-    <sub-title lang="en">Venue: Toluca Stadium</sub-title>
+    <sub-title lang="en">Venue: Nantes Stadium</sub-title>
   </programme>
 </tv>
