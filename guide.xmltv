@@ -379,10 +379,22 @@
     <title lang="en">EVENT 20: Snocross Nationals at Mt Zion has ended. Thank you for watching.</title>
   </programme>
   <programme start="20251213080000 -0500" stop="20251213110000 -0500" channel="EVENT 21">
-    <title lang="en">No Event scheduled</title>
+    <title lang="en">EVENT 21: PRELIMS Glory Collision 8 starts at 11:00 AM ET</title>
   </programme>
-  <programme start="20251213080000 -0500" stop="20251213110000 -0500" channel="EVENT 22">
-    <title lang="en">No Event scheduled</title>
+  <programme start="20251213110000 -0500" stop="20251213140000 -0500" channel="EVENT 21">
+    <title lang="en">EVENT 21: PRELIMS Glory Collision 8 (12.13 11:00 AM ET)</title>
+  </programme>
+  <programme start="20251213140000 -0500" stop="20251213235959 -0500" channel="EVENT 21">
+    <title lang="en">EVENT 21: PRELIMS Glory Collision 8 has ended. Thank you for watching.</title>
+  </programme>
+  <programme start="20251213080000 -0500" stop="20251213130000 -0500" channel="EVENT 22">
+    <title lang="en">EVENT 22: Glory Collision 8 starts at 1:00 PM ET</title>
+  </programme>
+  <programme start="20251213130000 -0500" stop="20251213160000 -0500" channel="EVENT 22">
+    <title lang="en">EVENT 22: Glory Collision 8 (12.13 1:00 PM ET)</title>
+  </programme>
+  <programme start="20251213160000 -0500" stop="20251213235959 -0500" channel="EVENT 22">
+    <title lang="en">EVENT 22: Glory Collision 8 has ended. Thank you for watching.</title>
   </programme>
   <programme start="20251213080000 -0500" stop="20251213110000 -0500" channel="EVENT 23">
     <title lang="en">No Event scheduled</title>
