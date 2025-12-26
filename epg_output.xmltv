@@ -1,5 +1,713 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="EPG Manager" generator-info-url="https://epg-manager.com">
+  <channel id="ncaaf 001">
+    <display-name>NCAAF 001</display-name>
+  </channel>
+  <channel id="ncaaf 002">
+    <display-name>NCAAF 002</display-name>
+  </channel>
+  <channel id="ncaaf 003">
+    <display-name>NCAAF 003</display-name>
+  </channel>
+  <channel id="soccer 01">
+    <display-name>Soccer 01</display-name>
+  </channel>
+  <channel id="soccer 02">
+    <display-name>Soccer 02</display-name>
+  </channel>
+  <channel id="soccer 03">
+    <display-name>Soccer 03</display-name>
+  </channel>
+  <channel id="soccer 04">
+    <display-name>Soccer 04</display-name>
+  </channel>
+  <channel id="soccer 05">
+    <display-name>Soccer 05</display-name>
+  </channel>
+  <channel id="soccer 06">
+    <display-name>Soccer 06</display-name>
+  </channel>
+  <channel id="soccer 07">
+    <display-name>Soccer 07</display-name>
+  </channel>
+  <channel id="soccer 08">
+    <display-name>Soccer 08</display-name>
+  </channel>
+  <channel id="soccer 09">
+    <display-name>Soccer 09</display-name>
+  </channel>
+  <channel id="soccer 10">
+    <display-name>Soccer 10</display-name>
+  </channel>
+  <channel id="soccer 11">
+    <display-name>Soccer 11</display-name>
+  </channel>
+  <channel id="soccer 12">
+    <display-name>Soccer 12</display-name>
+  </channel>
+  <channel id="soccer 13">
+    <display-name>Soccer 13</display-name>
+  </channel>
+  <channel id="soccer 14">
+    <display-name>Soccer 14</display-name>
+  </channel>
+  <channel id="soccer 15">
+    <display-name>Soccer 15</display-name>
+  </channel>
+  <channel id="soccer 16">
+    <display-name>Soccer 16</display-name>
+  </channel>
+  <channel id="soccer 17">
+    <display-name>Soccer 17</display-name>
+  </channel>
+  <channel id="soccer 18">
+    <display-name>Soccer 18</display-name>
+  </channel>
+  <channel id="soccer 19">
+    <display-name>Soccer 19</display-name>
+  </channel>
+  <channel id="soccer 20">
+    <display-name>Soccer 20</display-name>
+  </channel>
+  <channel id="soccer 21">
+    <display-name>Soccer 21</display-name>
+  </channel>
+  <channel id="soccer 22">
+    <display-name>Soccer 22</display-name>
+  </channel>
+  <channel id="soccer 23">
+    <display-name>Soccer 23</display-name>
+  </channel>
+  <channel id="soccer 24">
+    <display-name>Soccer 24</display-name>
+  </channel>
+  <channel id="soccer 25">
+    <display-name>Soccer 25</display-name>
+  </channel>
+  <channel id="soccer 26">
+    <display-name>Soccer 26</display-name>
+  </channel>
+  <channel id="soccer 27">
+    <display-name>Soccer 27</display-name>
+  </channel>
+  <channel id="soccer 28">
+    <display-name>Soccer 28</display-name>
+  </channel>
+  <channel id="soccer 29">
+    <display-name>Soccer 29</display-name>
+  </channel>
+  <channel id="soccer 30">
+    <display-name>Soccer 30</display-name>
+  </channel>
+  <channel id="soccer 31">
+    <display-name>Soccer 31</display-name>
+  </channel>
+  <channel id="soccer 32">
+    <display-name>Soccer 32</display-name>
+  </channel>
+  <channel id="soccer 33">
+    <display-name>Soccer 33</display-name>
+  </channel>
+  <channel id="soccer 34">
+    <display-name>Soccer 34</display-name>
+  </channel>
+  <channel id="soccer 35">
+    <display-name>Soccer 35</display-name>
+  </channel>
+  <channel id="soccer 36">
+    <display-name>Soccer 36</display-name>
+  </channel>
+  <channel id="soccer 37">
+    <display-name>Soccer 37</display-name>
+  </channel>
+  <channel id="soccer 38">
+    <display-name>Soccer 38</display-name>
+  </channel>
+  <channel id="soccer 39">
+    <display-name>Soccer 39</display-name>
+  </channel>
+  <channel id="soccer 40">
+    <display-name>Soccer 40</display-name>
+  </channel>
+  <channel id="soccer 41">
+    <display-name>Soccer 41</display-name>
+  </channel>
+  <channel id="soccer 42">
+    <display-name>Soccer 42</display-name>
+  </channel>
+  <channel id="soccer 43">
+    <display-name>Soccer 43</display-name>
+  </channel>
+  <channel id="soccer 44">
+    <display-name>Soccer 44</display-name>
+  </channel>
+  <channel id="soccer 45">
+    <display-name>Soccer 45</display-name>
+  </channel>
+  <channel id="soccer 46">
+    <display-name>Soccer 46</display-name>
+  </channel>
+  <channel id="soccer 47">
+    <display-name>Soccer 47</display-name>
+  </channel>
+  <channel id="soccer 48">
+    <display-name>Soccer 48</display-name>
+  </channel>
+  <channel id="soccer 49">
+    <display-name>Soccer 49</display-name>
+  </channel>
+  <channel id="soccer 50">
+    <display-name>Soccer 50</display-name>
+  </channel>
+  <channel id="soccer 51">
+    <display-name>Soccer 51</display-name>
+  </channel>
+  <channel id="soccer 52">
+    <display-name>Soccer 52</display-name>
+  </channel>
+  <channel id="soccer 53">
+    <display-name>Soccer 53</display-name>
+  </channel>
+  <channel id="soccer 54">
+    <display-name>Soccer 54</display-name>
+  </channel>
+  <channel id="soccer 55">
+    <display-name>Soccer 55</display-name>
+  </channel>
+  <channel id="soccer 56">
+    <display-name>Soccer 56</display-name>
+  </channel>
+  <channel id="soccer 57">
+    <display-name>Soccer 57</display-name>
+  </channel>
+  <channel id="soccer 58">
+    <display-name>Soccer 58</display-name>
+  </channel>
+  <channel id="soccer 59">
+    <display-name>Soccer 59</display-name>
+  </channel>
+  <channel id="soccer 60">
+    <display-name>Soccer 60</display-name>
+  </channel>
+  <channel id="soccer 61">
+    <display-name>Soccer 61</display-name>
+  </channel>
+  <channel id="soccer 62">
+    <display-name>Soccer 62</display-name>
+  </channel>
+  <channel id="soccer 63">
+    <display-name>Soccer 63</display-name>
+  </channel>
+  <channel id="soccer 64">
+    <display-name>Soccer 64</display-name>
+  </channel>
+  <channel id="soccer 65">
+    <display-name>Soccer 65</display-name>
+  </channel>
+  <channel id="soccer 66">
+    <display-name>Soccer 66</display-name>
+  </channel>
+  <channel id="soccer 67">
+    <display-name>Soccer 67</display-name>
+  </channel>
+  <channel id="soccer 68">
+    <display-name>Soccer 68</display-name>
+  </channel>
+  <channel id="soccer 69">
+    <display-name>Soccer 69</display-name>
+  </channel>
+  <channel id="soccer 70">
+    <display-name>Soccer 70</display-name>
+  </channel>
+  <channel id="soccer 71">
+    <display-name>Soccer 71</display-name>
+  </channel>
+  <channel id="soccer 72">
+    <display-name>Soccer 72</display-name>
+  </channel>
+  <channel id="soccer 73">
+    <display-name>Soccer 73</display-name>
+  </channel>
+  <channel id="soccer 74">
+    <display-name>Soccer 74</display-name>
+  </channel>
+  <channel id="soccer 75">
+    <display-name>Soccer 75</display-name>
+  </channel>
+  <channel id="soccer 76">
+    <display-name>Soccer 76</display-name>
+  </channel>
+  <channel id="soccer 77">
+    <display-name>Soccer 77</display-name>
+  </channel>
+  <channel id="soccer 78">
+    <display-name>Soccer 78</display-name>
+  </channel>
+  <channel id="soccer 79">
+    <display-name>Soccer 79</display-name>
+  </channel>
+  <channel id="soccer 80">
+    <display-name>Soccer 80</display-name>
+  </channel>
+  <channel id="soccer 81">
+    <display-name>Soccer 81</display-name>
+  </channel>
+  <channel id="soccer 82">
+    <display-name>Soccer 82</display-name>
+  </channel>
+  <channel id="soccer 83">
+    <display-name>Soccer 83</display-name>
+  </channel>
+  <channel id="soccer 84">
+    <display-name>Soccer 84</display-name>
+  </channel>
+  <channel id="soccer 85">
+    <display-name>Soccer 85</display-name>
+  </channel>
+  <channel id="soccer 86">
+    <display-name>Soccer 86</display-name>
+  </channel>
+  <channel id="soccer 87">
+    <display-name>Soccer 87</display-name>
+  </channel>
+  <channel id="soccer 88">
+    <display-name>Soccer 88</display-name>
+  </channel>
+  <channel id="soccer 89">
+    <display-name>Soccer 89</display-name>
+  </channel>
+  <channel id="soccer 90">
+    <display-name>Soccer 90</display-name>
+  </channel>
+  <channel id="soccer 91">
+    <display-name>Soccer 91</display-name>
+  </channel>
+  <channel id="soccer 92">
+    <display-name>Soccer 92</display-name>
+  </channel>
+  <channel id="soccer 93">
+    <display-name>Soccer 93</display-name>
+  </channel>
+  <channel id="soccer 94">
+    <display-name>Soccer 94</display-name>
+  </channel>
+  <channel id="soccer 95">
+    <display-name>Soccer 95</display-name>
+  </channel>
+  <channel id="soccer 96">
+    <display-name>Soccer 96</display-name>
+  </channel>
+  <channel id="soccer 97">
+    <display-name>Soccer 97</display-name>
+  </channel>
+  <channel id="soccer 98">
+    <display-name>Soccer 98</display-name>
+  </channel>
+  <channel id="soccer 99">
+    <display-name>Soccer 99</display-name>
+  </channel>
+  <channel id="soccer 100">
+    <display-name>Soccer 100</display-name>
+  </channel>
+  <channel id="ncaaf 004">
+    <display-name>NCAAF 004</display-name>
+  </channel>
+  <channel id="ncaaf 005">
+    <display-name>NCAAF 005</display-name>
+  </channel>
+  <channel id="ncaaf 006">
+    <display-name>NCAAF 006</display-name>
+  </channel>
+  <channel id="ncaaf 007">
+    <display-name>NCAAF 007</display-name>
+  </channel>
+  <channel id="ncaaf 008">
+    <display-name>NCAAF 008</display-name>
+  </channel>
+  <channel id="ncaaf 009">
+    <display-name>NCAAF 009</display-name>
+  </channel>
+  <channel id="ncaaf 010">
+    <display-name>NCAAF 010</display-name>
+  </channel>
+  <channel id="ncaaf 011">
+    <display-name>NCAAF 011</display-name>
+  </channel>
+  <channel id="ncaaf 012">
+    <display-name>NCAAF 012</display-name>
+  </channel>
+  <channel id="ncaaf 013">
+    <display-name>NCAAF 013</display-name>
+  </channel>
+  <channel id="ncaaf 014">
+    <display-name>NCAAF 014</display-name>
+  </channel>
+  <channel id="ncaaf 015">
+    <display-name>NCAAF 015</display-name>
+  </channel>
+  <channel id="ncaaf 016">
+    <display-name>NCAAF 016</display-name>
+  </channel>
+  <channel id="ncaaf 017">
+    <display-name>NCAAF 017</display-name>
+  </channel>
+  <channel id="ncaaf 018">
+    <display-name>NCAAF 018</display-name>
+  </channel>
+  <channel id="ncaaf 019">
+    <display-name>NCAAF 019</display-name>
+  </channel>
+  <channel id="ncaaf 020">
+    <display-name>NCAAF 020</display-name>
+  </channel>
+  <channel id="ncaaf 021">
+    <display-name>NCAAF 021</display-name>
+  </channel>
+  <channel id="ncaaf 022">
+    <display-name>NCAAF 022</display-name>
+  </channel>
+  <channel id="ncaaf 023">
+    <display-name>NCAAF 023</display-name>
+  </channel>
+  <channel id="ncaaf 024">
+    <display-name>NCAAF 024</display-name>
+  </channel>
+  <channel id="ncaaf 025">
+    <display-name>NCAAF 025</display-name>
+  </channel>
+  <channel id="ncaaf 026">
+    <display-name>NCAAF 026</display-name>
+  </channel>
+  <channel id="ncaaf 027">
+    <display-name>NCAAF 027</display-name>
+  </channel>
+  <channel id="ncaaf 028">
+    <display-name>NCAAF 028</display-name>
+  </channel>
+  <channel id="ncaaf 029">
+    <display-name>NCAAF 029</display-name>
+  </channel>
+  <channel id="ncaaf 030">
+    <display-name>NCAAF 030</display-name>
+  </channel>
+  <channel id="ncaaf 031">
+    <display-name>NCAAF 031</display-name>
+  </channel>
+  <channel id="ncaaf 032">
+    <display-name>NCAAF 032</display-name>
+  </channel>
+  <channel id="ncaaf 033">
+    <display-name>NCAAF 033</display-name>
+  </channel>
+  <channel id="ncaaf 034">
+    <display-name>NCAAF 034</display-name>
+  </channel>
+  <channel id="ncaaf 035">
+    <display-name>NCAAF 035</display-name>
+  </channel>
+  <channel id="ncaaf 036">
+    <display-name>NCAAF 036</display-name>
+  </channel>
+  <channel id="ncaaf 037">
+    <display-name>NCAAF 037</display-name>
+  </channel>
+  <channel id="ncaaf 038">
+    <display-name>NCAAF 038</display-name>
+  </channel>
+  <channel id="ncaaf 039">
+    <display-name>NCAAF 039</display-name>
+  </channel>
+  <channel id="ncaaf 040">
+    <display-name>NCAAF 040</display-name>
+  </channel>
+  <channel id="ncaaf 041">
+    <display-name>NCAAF 041</display-name>
+  </channel>
+  <channel id="ncaaf 042">
+    <display-name>NCAAF 042</display-name>
+  </channel>
+  <channel id="ncaaf 043">
+    <display-name>NCAAF 043</display-name>
+  </channel>
+  <channel id="ncaaf 044">
+    <display-name>NCAAF 044</display-name>
+  </channel>
+  <channel id="ncaaf 045">
+    <display-name>NCAAF 045</display-name>
+  </channel>
+  <channel id="ncaaf 046">
+    <display-name>NCAAF 046</display-name>
+  </channel>
+  <channel id="ncaaf 047">
+    <display-name>NCAAF 047</display-name>
+  </channel>
+  <channel id="ncaaf 048">
+    <display-name>NCAAF 048</display-name>
+  </channel>
+  <channel id="ncaaf 049">
+    <display-name>NCAAF 049</display-name>
+  </channel>
+  <channel id="ncaaf 050">
+    <display-name>NCAAF 050</display-name>
+  </channel>
+  <channel id="ncaaf 051">
+    <display-name>NCAAF 051</display-name>
+  </channel>
+  <channel id="ncaaf 052">
+    <display-name>NCAAF 052</display-name>
+  </channel>
+  <channel id="ncaaf 053">
+    <display-name>NCAAF 053</display-name>
+  </channel>
+  <channel id="ncaaf 054">
+    <display-name>NCAAF 054</display-name>
+  </channel>
+  <channel id="ncaaf 055">
+    <display-name>NCAAF 055</display-name>
+  </channel>
+  <channel id="ncaaf 056">
+    <display-name>NCAAF 056</display-name>
+  </channel>
+  <channel id="ncaaf 057">
+    <display-name>NCAAF 057</display-name>
+  </channel>
+  <channel id="ncaaf 058">
+    <display-name>NCAAF 058</display-name>
+  </channel>
+  <channel id="ncaaf 059">
+    <display-name>NCAAF 059</display-name>
+  </channel>
+  <channel id="ncaaf 060">
+    <display-name>NCAAF 060</display-name>
+  </channel>
+  <channel id="ncaaf 061">
+    <display-name>NCAAF 061</display-name>
+  </channel>
+  <channel id="ncaaf 062">
+    <display-name>NCAAF 062</display-name>
+  </channel>
+  <channel id="ncaaf 063">
+    <display-name>NCAAF 063</display-name>
+  </channel>
+  <channel id="ncaaf 064">
+    <display-name>NCAAF 064</display-name>
+  </channel>
+  <channel id="ncaaf 065">
+    <display-name>NCAAF 065</display-name>
+  </channel>
+  <channel id="ncaaf 066">
+    <display-name>NCAAF 066</display-name>
+  </channel>
+  <channel id="ncaaf 067">
+    <display-name>NCAAF 067</display-name>
+  </channel>
+  <channel id="ncaaf 068">
+    <display-name>NCAAF 068</display-name>
+  </channel>
+  <channel id="ncaaf 069">
+    <display-name>NCAAF 069</display-name>
+  </channel>
+  <channel id="ncaaf 070">
+    <display-name>NCAAF 070</display-name>
+  </channel>
+  <channel id="ncaaf 071">
+    <display-name>NCAAF 071</display-name>
+  </channel>
+  <channel id="ncaaf 072">
+    <display-name>NCAAF 072</display-name>
+  </channel>
+  <channel id="ncaaf 073">
+    <display-name>NCAAF 073</display-name>
+  </channel>
+  <channel id="ncaaf 074">
+    <display-name>NCAAF 074</display-name>
+  </channel>
+  <channel id="ncaaf 075">
+    <display-name>NCAAF 075</display-name>
+  </channel>
+  <channel id="ncaaf 076">
+    <display-name>NCAAF 076</display-name>
+  </channel>
+  <channel id="ncaaf 077">
+    <display-name>NCAAF 077</display-name>
+  </channel>
+  <channel id="ncaaf 078">
+    <display-name>NCAAF 078</display-name>
+  </channel>
+  <channel id="ncaaf 079">
+    <display-name>NCAAF 079</display-name>
+  </channel>
+  <channel id="ncaaf 080">
+    <display-name>NCAAF 080</display-name>
+  </channel>
+  <channel id="ncaaf 081">
+    <display-name>NCAAF 081</display-name>
+  </channel>
+  <channel id="ncaaf 082">
+    <display-name>NCAAF 082</display-name>
+  </channel>
+  <channel id="ncaaf 083">
+    <display-name>NCAAF 083</display-name>
+  </channel>
+  <channel id="ncaaf 084">
+    <display-name>NCAAF 084</display-name>
+  </channel>
+  <channel id="ncaaf 085">
+    <display-name>NCAAF 085</display-name>
+  </channel>
+  <channel id="ncaaf 086">
+    <display-name>NCAAF 086</display-name>
+  </channel>
+  <channel id="ncaaf 087">
+    <display-name>NCAAF 087</display-name>
+  </channel>
+  <channel id="ncaaf 088">
+    <display-name>NCAAF 088</display-name>
+  </channel>
+  <channel id="ncaaf 089">
+    <display-name>NCAAF 089</display-name>
+  </channel>
+  <channel id="ncaaf 090">
+    <display-name>NCAAF 090</display-name>
+  </channel>
+  <channel id="ncaaf 091">
+    <display-name>NCAAF 091</display-name>
+  </channel>
+  <channel id="ncaaf 092">
+    <display-name>NCAAF 092</display-name>
+  </channel>
+  <channel id="ncaaf 093">
+    <display-name>NCAAF 093</display-name>
+  </channel>
+  <channel id="ncaaf 094">
+    <display-name>NCAAF 094</display-name>
+  </channel>
+  <channel id="ncaaf 095">
+    <display-name>NCAAF 095</display-name>
+  </channel>
+  <channel id="ncaaf 096">
+    <display-name>NCAAF 096</display-name>
+  </channel>
+  <channel id="ncaaf 097">
+    <display-name>NCAAF 097</display-name>
+  </channel>
+  <channel id="ncaaf 098">
+    <display-name>NCAAF 098</display-name>
+  </channel>
+  <channel id="ncaaf 099">
+    <display-name>NCAAF 099</display-name>
+  </channel>
+  <channel id="ncaaf 100">
+    <display-name>NCAAF 100</display-name>
+  </channel>
+  <channel id="ncaaf 101">
+    <display-name>NCAAF 101</display-name>
+  </channel>
+  <channel id="ncaaf 102">
+    <display-name>NCAAF 102</display-name>
+  </channel>
+  <channel id="ncaaf 103">
+    <display-name>NCAAF 103</display-name>
+  </channel>
+  <channel id="ncaaf 104">
+    <display-name>NCAAF 104</display-name>
+  </channel>
+  <channel id="ncaaf 105">
+    <display-name>NCAAF 105</display-name>
+  </channel>
+  <channel id="ncaaf 106">
+    <display-name>NCAAF 106</display-name>
+  </channel>
+  <channel id="ncaaf 107">
+    <display-name>NCAAF 107</display-name>
+  </channel>
+  <channel id="ncaaf 108">
+    <display-name>NCAAF 108</display-name>
+  </channel>
+  <channel id="ncaaf 109">
+    <display-name>NCAAF 109</display-name>
+  </channel>
+  <channel id="ncaaf 110">
+    <display-name>NCAAF 110</display-name>
+  </channel>
+  <channel id="ncaaf 111">
+    <display-name>NCAAF 111</display-name>
+  </channel>
+  <channel id="ncaaf 112">
+    <display-name>NCAAF 112</display-name>
+  </channel>
+  <channel id="ncaaf 113">
+    <display-name>NCAAF 113</display-name>
+  </channel>
+  <channel id="ncaaf 114">
+    <display-name>NCAAF 114</display-name>
+  </channel>
+  <channel id="ncaaf 115">
+    <display-name>NCAAF 115</display-name>
+  </channel>
+  <channel id="ncaaf 116">
+    <display-name>NCAAF 116</display-name>
+  </channel>
+  <channel id="ncaaf 117">
+    <display-name>NCAAF 117</display-name>
+  </channel>
+  <channel id="ncaaf 118">
+    <display-name>NCAAF 118</display-name>
+  </channel>
+  <channel id="ncaaf 119">
+    <display-name>NCAAF 119</display-name>
+  </channel>
+  <channel id="ncaaf 120">
+    <display-name>NCAAF 120</display-name>
+  </channel>
+  <channel id="ncaaf 121">
+    <display-name>NCAAF 121</display-name>
+  </channel>
+  <channel id="ncaaf 122">
+    <display-name>NCAAF 122</display-name>
+  </channel>
+  <channel id="ncaaf 123">
+    <display-name>NCAAF 123</display-name>
+  </channel>
+  <channel id="ncaaf 124">
+    <display-name>NCAAF 124</display-name>
+  </channel>
+  <channel id="ncaaf 125">
+    <display-name>NCAAF 125</display-name>
+  </channel>
+  <channel id="ncaaf 126">
+    <display-name>NCAAF 126</display-name>
+  </channel>
+  <channel id="ncaaf 127">
+    <display-name>NCAAF 127</display-name>
+  </channel>
+  <channel id="ncaaf 128">
+    <display-name>NCAAF 128</display-name>
+  </channel>
+  <channel id="ncaaf 129">
+    <display-name>NCAAF 129</display-name>
+  </channel>
+  <channel id="ncaaf 130">
+    <display-name>NCAAF 130</display-name>
+  </channel>
+  <channel id="ncaaf 131">
+    <display-name>NCAAF 131</display-name>
+  </channel>
+  <channel id="ncaaf 132">
+    <display-name>NCAAF 132</display-name>
+  </channel>
+  <channel id="ncaaf 133">
+    <display-name>NCAAF 133</display-name>
+  </channel>
+  <channel id="ncaaf 134">
+    <display-name>NCAAF 134</display-name>
+  </channel>
+  <channel id="ncaaf 135">
+    <display-name>NCAAF 135</display-name>
+  </channel>
+  <channel id="ncaaf 136">
+    <display-name>NCAAF 136</display-name>
+  </channel>
   <channel id="ncaab 001">
     <display-name>NCAAB 001</display-name>
   </channel>
@@ -732,2013 +1440,900 @@
   <channel id="ncaab 244">
     <display-name>NCAAB 244</display-name>
   </channel>
-  <channel id="ncaab 245">
-    <display-name>NCAAB 245</display-name>
+  <channel id="ppv 01">
+    <display-name>PPV 01</display-name>
   </channel>
-  <channel id="ncaab 246">
-    <display-name>NCAAB 246</display-name>
+  <channel id="ppv 02">
+    <display-name>PPV 02</display-name>
   </channel>
-  <channel id="ncaab 247">
-    <display-name>NCAAB 247</display-name>
+  <channel id="ppv 03">
+    <display-name>PPV 03</display-name>
   </channel>
-  <channel id="ncaab 248">
-    <display-name>NCAAB 248</display-name>
+  <channel id="ppv 04">
+    <display-name>PPV 04</display-name>
   </channel>
-  <channel id="ncaab 249">
-    <display-name>NCAAB 249</display-name>
+  <channel id="ppv 05">
+    <display-name>PPV 05</display-name>
   </channel>
-  <channel id="ncaab 250">
-    <display-name>NCAAB 250</display-name>
+  <channel id="ppv 06">
+    <display-name>PPV 06</display-name>
   </channel>
-  <channel id="ncaab 251">
-    <display-name>NCAAB 251</display-name>
+  <channel id="ppv 07">
+    <display-name>PPV 07</display-name>
   </channel>
-  <channel id="ncaab 252">
-    <display-name>NCAAB 252</display-name>
+  <channel id="ppv 08">
+    <display-name>PPV 08</display-name>
   </channel>
-  <channel id="ncaab 253">
-    <display-name>NCAAB 253</display-name>
+  <channel id="ppv 09">
+    <display-name>PPV 09</display-name>
   </channel>
-  <channel id="ncaab 254">
-    <display-name>NCAAB 254</display-name>
-  </channel>
-  <channel id="ncaab 255">
-    <display-name>NCAAB 255</display-name>
-  </channel>
-  <channel id="ncaab 256">
-    <display-name>NCAAB 256</display-name>
-  </channel>
-  <channel id="ncaab 257">
-    <display-name>NCAAB 257</display-name>
-  </channel>
-  <channel id="ncaab 258">
-    <display-name>NCAAB 258</display-name>
-  </channel>
-  <channel id="ncaab 259">
-    <display-name>NCAAB 259</display-name>
-  </channel>
-  <channel id="ncaab 260">
-    <display-name>NCAAB 260</display-name>
-  </channel>
-  <channel id="ncaab 261">
-    <display-name>NCAAB 261</display-name>
-  </channel>
-  <channel id="ncaab 262">
-    <display-name>NCAAB 262</display-name>
-  </channel>
-  <channel id="ncaab 263">
-    <display-name>NCAAB 263</display-name>
-  </channel>
-  <channel id="ncaab 264">
-    <display-name>NCAAB 264</display-name>
-  </channel>
-  <channel id="ncaab 265">
-    <display-name>NCAAB 265</display-name>
-  </channel>
-  <channel id="ncaab 266">
-    <display-name>NCAAB 266</display-name>
-  </channel>
-  <channel id="ncaab 267">
-    <display-name>NCAAB 267</display-name>
-  </channel>
-  <channel id="ncaab 268">
-    <display-name>NCAAB 268</display-name>
-  </channel>
-  <channel id="ncaab 269">
-    <display-name>NCAAB 269</display-name>
-  </channel>
-  <channel id="ncaab 270">
-    <display-name>NCAAB 270</display-name>
-  </channel>
-  <channel id="ncaab 271">
-    <display-name>NCAAB 271</display-name>
-  </channel>
-  <channel id="ncaab 272">
-    <display-name>NCAAB 272</display-name>
-  </channel>
-  <channel id="ncaab 273">
-    <display-name>NCAAB 273</display-name>
-  </channel>
-  <channel id="ncaab 274">
-    <display-name>NCAAB 274</display-name>
-  </channel>
-  <channel id="ncaab 275">
-    <display-name>NCAAB 275</display-name>
-  </channel>
-  <channel id="ncaab 276">
-    <display-name>NCAAB 276</display-name>
-  </channel>
-  <channel id="ncaab 277">
-    <display-name>NCAAB 277</display-name>
-  </channel>
-  <channel id="ncaab 278">
-    <display-name>NCAAB 278</display-name>
-  </channel>
-  <channel id="ncaab 279">
-    <display-name>NCAAB 279</display-name>
-  </channel>
-  <channel id="ncaab 280">
-    <display-name>NCAAB 280</display-name>
-  </channel>
-  <channel id="ncaab 281">
-    <display-name>NCAAB 281</display-name>
-  </channel>
-  <channel id="ncaab 282">
-    <display-name>NCAAB 282</display-name>
-  </channel>
-  <channel id="ncaab 283">
-    <display-name>NCAAB 283</display-name>
-  </channel>
-  <channel id="ncaab 284">
-    <display-name>NCAAB 284</display-name>
-  </channel>
-  <channel id="ncaab 285">
-    <display-name>NCAAB 285</display-name>
-  </channel>
-  <channel id="ncaab 286">
-    <display-name>NCAAB 286</display-name>
-  </channel>
-  <channel id="ncaab 287">
-    <display-name>NCAAB 287</display-name>
-  </channel>
-  <channel id="ncaab 288">
-    <display-name>NCAAB 288</display-name>
-  </channel>
-  <channel id="ncaab 289">
-    <display-name>NCAAB 289</display-name>
-  </channel>
-  <channel id="ncaab 290">
-    <display-name>NCAAB 290</display-name>
-  </channel>
-  <channel id="ncaab 291">
-    <display-name>NCAAB 291</display-name>
-  </channel>
-  <channel id="ncaab 292">
-    <display-name>NCAAB 292</display-name>
-  </channel>
-  <channel id="ncaab 293">
-    <display-name>NCAAB 293</display-name>
-  </channel>
-  <channel id="ncaab 294">
-    <display-name>NCAAB 294</display-name>
-  </channel>
-  <channel id="ncaab 295">
-    <display-name>NCAAB 295</display-name>
-  </channel>
-  <channel id="ncaab 296">
-    <display-name>NCAAB 296</display-name>
-  </channel>
-  <channel id="ncaab 297">
-    <display-name>NCAAB 297</display-name>
-  </channel>
-  <channel id="ncaab 298">
-    <display-name>NCAAB 298</display-name>
-  </channel>
-  <channel id="ncaab 299">
-    <display-name>NCAAB 299</display-name>
-  </channel>
-  <channel id="ncaab 300">
-    <display-name>NCAAB 300</display-name>
-  </channel>
-  <channel id="ncaaf 001">
-    <display-name>NCAAF 001</display-name>
-  </channel>
-  <channel id="ncaaf 002">
-    <display-name>NCAAF 002</display-name>
-  </channel>
-  <channel id="ncaaf 003">
-    <display-name>NCAAF 003</display-name>
-  </channel>
-  <channel id="ncaaf 004">
-    <display-name>NCAAF 004</display-name>
-  </channel>
-  <channel id="ncaaf 005">
-    <display-name>NCAAF 005</display-name>
-  </channel>
-  <channel id="ncaaf 006">
-    <display-name>NCAAF 006</display-name>
-  </channel>
-  <channel id="ncaaf 007">
-    <display-name>NCAAF 007</display-name>
-  </channel>
-  <channel id="ncaaf 008">
-    <display-name>NCAAF 008</display-name>
-  </channel>
-  <channel id="ncaaf 009">
-    <display-name>NCAAF 009</display-name>
-  </channel>
-  <channel id="ncaaf 010">
-    <display-name>NCAAF 010</display-name>
-  </channel>
-  <channel id="ncaaf 011">
-    <display-name>NCAAF 011</display-name>
-  </channel>
-  <channel id="ncaaf 012">
-    <display-name>NCAAF 012</display-name>
-  </channel>
-  <channel id="ncaaf 013">
-    <display-name>NCAAF 013</display-name>
-  </channel>
-  <channel id="ncaaf 014">
-    <display-name>NCAAF 014</display-name>
-  </channel>
-  <channel id="ncaaf 015">
-    <display-name>NCAAF 015</display-name>
-  </channel>
-  <channel id="ncaaf 016">
-    <display-name>NCAAF 016</display-name>
-  </channel>
-  <channel id="ncaaf 017">
-    <display-name>NCAAF 017</display-name>
-  </channel>
-  <channel id="ncaaf 018">
-    <display-name>NCAAF 018</display-name>
-  </channel>
-  <channel id="ncaaf 019">
-    <display-name>NCAAF 019</display-name>
-  </channel>
-  <channel id="ncaaf 020">
-    <display-name>NCAAF 020</display-name>
-  </channel>
-  <channel id="ncaaf 021">
-    <display-name>NCAAF 021</display-name>
-  </channel>
-  <channel id="ncaaf 022">
-    <display-name>NCAAF 022</display-name>
-  </channel>
-  <channel id="ncaaf 023">
-    <display-name>NCAAF 023</display-name>
-  </channel>
-  <channel id="ncaaf 024">
-    <display-name>NCAAF 024</display-name>
-  </channel>
-  <channel id="ncaaf 025">
-    <display-name>NCAAF 025</display-name>
-  </channel>
-  <channel id="ncaaf 026">
-    <display-name>NCAAF 026</display-name>
-  </channel>
-  <channel id="ncaaf 027">
-    <display-name>NCAAF 027</display-name>
-  </channel>
-  <channel id="ncaaf 028">
-    <display-name>NCAAF 028</display-name>
-  </channel>
-  <channel id="ncaaf 029">
-    <display-name>NCAAF 029</display-name>
-  </channel>
-  <channel id="ncaaf 030">
-    <display-name>NCAAF 030</display-name>
-  </channel>
-  <channel id="ncaaf 031">
-    <display-name>NCAAF 031</display-name>
-  </channel>
-  <channel id="ncaaf 032">
-    <display-name>NCAAF 032</display-name>
-  </channel>
-  <channel id="ncaaf 033">
-    <display-name>NCAAF 033</display-name>
-  </channel>
-  <channel id="ncaaf 034">
-    <display-name>NCAAF 034</display-name>
-  </channel>
-  <channel id="ncaaf 035">
-    <display-name>NCAAF 035</display-name>
-  </channel>
-  <channel id="ncaaf 036">
-    <display-name>NCAAF 036</display-name>
-  </channel>
-  <channel id="ncaaf 037">
-    <display-name>NCAAF 037</display-name>
-  </channel>
-  <channel id="ncaaf 038">
-    <display-name>NCAAF 038</display-name>
-  </channel>
-  <channel id="ncaaf 039">
-    <display-name>NCAAF 039</display-name>
-  </channel>
-  <channel id="ncaaf 040">
-    <display-name>NCAAF 040</display-name>
-  </channel>
-  <channel id="ncaaf 041">
-    <display-name>NCAAF 041</display-name>
-  </channel>
-  <channel id="ncaaf 042">
-    <display-name>NCAAF 042</display-name>
-  </channel>
-  <channel id="ncaaf 043">
-    <display-name>NCAAF 043</display-name>
-  </channel>
-  <channel id="ncaaf 044">
-    <display-name>NCAAF 044</display-name>
-  </channel>
-  <channel id="ncaaf 045">
-    <display-name>NCAAF 045</display-name>
-  </channel>
-  <channel id="ncaaf 046">
-    <display-name>NCAAF 046</display-name>
-  </channel>
-  <channel id="ncaaf 047">
-    <display-name>NCAAF 047</display-name>
-  </channel>
-  <channel id="ncaaf 048">
-    <display-name>NCAAF 048</display-name>
-  </channel>
-  <channel id="ncaaf 049">
-    <display-name>NCAAF 049</display-name>
-  </channel>
-  <channel id="ncaaf 050">
-    <display-name>NCAAF 050</display-name>
-  </channel>
-  <channel id="ncaaf 051">
-    <display-name>NCAAF 051</display-name>
-  </channel>
-  <channel id="ncaaf 052">
-    <display-name>NCAAF 052</display-name>
-  </channel>
-  <channel id="ncaaf 053">
-    <display-name>NCAAF 053</display-name>
-  </channel>
-  <channel id="ncaaf 054">
-    <display-name>NCAAF 054</display-name>
-  </channel>
-  <channel id="ncaaf 055">
-    <display-name>NCAAF 055</display-name>
-  </channel>
-  <channel id="ncaaf 056">
-    <display-name>NCAAF 056</display-name>
-  </channel>
-  <channel id="ncaaf 057">
-    <display-name>NCAAF 057</display-name>
-  </channel>
-  <channel id="ncaaf 058">
-    <display-name>NCAAF 058</display-name>
-  </channel>
-  <channel id="ncaaf 059">
-    <display-name>NCAAF 059</display-name>
-  </channel>
-  <channel id="ncaaf 060">
-    <display-name>NCAAF 060</display-name>
-  </channel>
-  <channel id="ncaaf 061">
-    <display-name>NCAAF 061</display-name>
-  </channel>
-  <channel id="ncaaf 062">
-    <display-name>NCAAF 062</display-name>
-  </channel>
-  <channel id="ncaaf 063">
-    <display-name>NCAAF 063</display-name>
-  </channel>
-  <channel id="ncaaf 064">
-    <display-name>NCAAF 064</display-name>
-  </channel>
-  <channel id="ncaaf 065">
-    <display-name>NCAAF 065</display-name>
-  </channel>
-  <channel id="ncaaf 066">
-    <display-name>NCAAF 066</display-name>
-  </channel>
-  <channel id="ncaaf 067">
-    <display-name>NCAAF 067</display-name>
-  </channel>
-  <channel id="ncaaf 068">
-    <display-name>NCAAF 068</display-name>
-  </channel>
-  <channel id="ncaaf 069">
-    <display-name>NCAAF 069</display-name>
-  </channel>
-  <channel id="ncaaf 070">
-    <display-name>NCAAF 070</display-name>
-  </channel>
-  <channel id="ncaaf 071">
-    <display-name>NCAAF 071</display-name>
-  </channel>
-  <channel id="ncaaf 072">
-    <display-name>NCAAF 072</display-name>
-  </channel>
-  <channel id="ncaaf 073">
-    <display-name>NCAAF 073</display-name>
-  </channel>
-  <channel id="ncaaf 074">
-    <display-name>NCAAF 074</display-name>
-  </channel>
-  <channel id="ncaaf 075">
-    <display-name>NCAAF 075</display-name>
-  </channel>
-  <channel id="ncaaf 076">
-    <display-name>NCAAF 076</display-name>
-  </channel>
-  <channel id="ncaaf 077">
-    <display-name>NCAAF 077</display-name>
-  </channel>
-  <channel id="ncaaf 078">
-    <display-name>NCAAF 078</display-name>
-  </channel>
-  <channel id="ncaaf 079">
-    <display-name>NCAAF 079</display-name>
-  </channel>
-  <channel id="ncaaf 080">
-    <display-name>NCAAF 080</display-name>
-  </channel>
-  <channel id="ncaaf 081">
-    <display-name>NCAAF 081</display-name>
-  </channel>
-  <channel id="ncaaf 082">
-    <display-name>NCAAF 082</display-name>
-  </channel>
-  <channel id="ncaaf 083">
-    <display-name>NCAAF 083</display-name>
-  </channel>
-  <channel id="ncaaf 084">
-    <display-name>NCAAF 084</display-name>
-  </channel>
-  <channel id="ncaaf 085">
-    <display-name>NCAAF 085</display-name>
-  </channel>
-  <channel id="ncaaf 086">
-    <display-name>NCAAF 086</display-name>
-  </channel>
-  <channel id="ncaaf 087">
-    <display-name>NCAAF 087</display-name>
-  </channel>
-  <channel id="ncaaf 088">
-    <display-name>NCAAF 088</display-name>
-  </channel>
-  <channel id="ncaaf 089">
-    <display-name>NCAAF 089</display-name>
-  </channel>
-  <channel id="ncaaf 090">
-    <display-name>NCAAF 090</display-name>
-  </channel>
-  <channel id="ncaaf 091">
-    <display-name>NCAAF 091</display-name>
-  </channel>
-  <channel id="ncaaf 092">
-    <display-name>NCAAF 092</display-name>
-  </channel>
-  <channel id="ncaaf 093">
-    <display-name>NCAAF 093</display-name>
-  </channel>
-  <channel id="ncaaf 094">
-    <display-name>NCAAF 094</display-name>
-  </channel>
-  <channel id="ncaaf 095">
-    <display-name>NCAAF 095</display-name>
-  </channel>
-  <channel id="ncaaf 096">
-    <display-name>NCAAF 096</display-name>
-  </channel>
-  <channel id="ncaaf 097">
-    <display-name>NCAAF 097</display-name>
-  </channel>
-  <channel id="ncaaf 098">
-    <display-name>NCAAF 098</display-name>
-  </channel>
-  <channel id="ncaaf 099">
-    <display-name>NCAAF 099</display-name>
-  </channel>
-  <channel id="ncaaf 100">
-    <display-name>NCAAF 100</display-name>
-  </channel>
-  <channel id="ncaaf 101">
-    <display-name>NCAAF 101</display-name>
-  </channel>
-  <channel id="ncaaf 102">
-    <display-name>NCAAF 102</display-name>
-  </channel>
-  <channel id="ncaaf 103">
-    <display-name>NCAAF 103</display-name>
-  </channel>
-  <channel id="ncaaf 104">
-    <display-name>NCAAF 104</display-name>
-  </channel>
-  <channel id="ncaaf 105">
-    <display-name>NCAAF 105</display-name>
-  </channel>
-  <channel id="ncaaf 106">
-    <display-name>NCAAF 106</display-name>
-  </channel>
-  <channel id="ncaaf 107">
-    <display-name>NCAAF 107</display-name>
-  </channel>
-  <channel id="ncaaf 108">
-    <display-name>NCAAF 108</display-name>
-  </channel>
-  <channel id="ncaaf 109">
-    <display-name>NCAAF 109</display-name>
-  </channel>
-  <channel id="ncaaf 110">
-    <display-name>NCAAF 110</display-name>
-  </channel>
-  <channel id="ncaaf 111">
-    <display-name>NCAAF 111</display-name>
-  </channel>
-  <channel id="ncaaf 112">
-    <display-name>NCAAF 112</display-name>
-  </channel>
-  <channel id="ncaaf 113">
-    <display-name>NCAAF 113</display-name>
-  </channel>
-  <channel id="ncaaf 114">
-    <display-name>NCAAF 114</display-name>
-  </channel>
-  <channel id="ncaaf 115">
-    <display-name>NCAAF 115</display-name>
-  </channel>
-  <channel id="ncaaf 116">
-    <display-name>NCAAF 116</display-name>
-  </channel>
-  <channel id="ncaaf 117">
-    <display-name>NCAAF 117</display-name>
-  </channel>
-  <channel id="ncaaf 118">
-    <display-name>NCAAF 118</display-name>
-  </channel>
-  <channel id="ncaaf 119">
-    <display-name>NCAAF 119</display-name>
-  </channel>
-  <channel id="ncaaf 120">
-    <display-name>NCAAF 120</display-name>
-  </channel>
-  <channel id="ncaaf 121">
-    <display-name>NCAAF 121</display-name>
-  </channel>
-  <channel id="ncaaf 122">
-    <display-name>NCAAF 122</display-name>
-  </channel>
-  <channel id="ncaaf 123">
-    <display-name>NCAAF 123</display-name>
-  </channel>
-  <channel id="ncaaf 124">
-    <display-name>NCAAF 124</display-name>
-  </channel>
-  <channel id="ncaaf 125">
-    <display-name>NCAAF 125</display-name>
-  </channel>
-  <channel id="ncaaf 126">
-    <display-name>NCAAF 126</display-name>
-  </channel>
-  <channel id="ncaaf 127">
-    <display-name>NCAAF 127</display-name>
-  </channel>
-  <channel id="ncaaf 128">
-    <display-name>NCAAF 128</display-name>
-  </channel>
-  <channel id="ncaaf 129">
-    <display-name>NCAAF 129</display-name>
-  </channel>
-  <channel id="ncaaf 130">
-    <display-name>NCAAF 130</display-name>
-  </channel>
-  <channel id="ncaaf 131">
-    <display-name>NCAAF 131</display-name>
-  </channel>
-  <channel id="ncaaf 132">
-    <display-name>NCAAF 132</display-name>
-  </channel>
-  <channel id="ncaaf 133">
-    <display-name>NCAAF 133</display-name>
-  </channel>
-  <channel id="ncaaf 134">
-    <display-name>NCAAF 134</display-name>
-  </channel>
-  <channel id="ncaaf 135">
-    <display-name>NCAAF 135</display-name>
-  </channel>
-  <channel id="ncaaf 136">
-    <display-name>NCAAF 136</display-name>
-  </channel>
-  <channel id="ncaaf 137">
-    <display-name>NCAAF 137</display-name>
-  </channel>
-  <channel id="ncaaf 138">
-    <display-name>NCAAF 138</display-name>
-  </channel>
-  <channel id="ncaaf 139">
-    <display-name>NCAAF 139</display-name>
-  </channel>
-  <channel id="ncaaf 140">
-    <display-name>NCAAF 140</display-name>
-  </channel>
-  <channel id="ncaaf 141">
-    <display-name>NCAAF 141</display-name>
-  </channel>
-  <channel id="ncaaf 142">
-    <display-name>NCAAF 142</display-name>
-  </channel>
-  <channel id="ncaaf 143">
-    <display-name>NCAAF 143</display-name>
-  </channel>
-  <channel id="ncaaf 144">
-    <display-name>NCAAF 144</display-name>
-  </channel>
-  <channel id="ncaaf 145">
-    <display-name>NCAAF 145</display-name>
-  </channel>
-  <channel id="ncaaf 146">
-    <display-name>NCAAF 146</display-name>
-  </channel>
-  <channel id="ncaaf 147">
-    <display-name>NCAAF 147</display-name>
-  </channel>
-  <channel id="ncaaf 148">
-    <display-name>NCAAF 148</display-name>
-  </channel>
-  <channel id="ncaaf 149">
-    <display-name>NCAAF 149</display-name>
-  </channel>
-  <channel id="ncaaf 150">
-    <display-name>NCAAF 150</display-name>
-  </channel>
-  <channel id="ncaaf 151">
-    <display-name>NCAAF 151</display-name>
-  </channel>
-  <channel id="ncaaf 152">
-    <display-name>NCAAF 152</display-name>
-  </channel>
-  <channel id="ncaaf 153">
-    <display-name>NCAAF 153</display-name>
-  </channel>
-  <channel id="ncaaf 154">
-    <display-name>NCAAF 154</display-name>
-  </channel>
-  <channel id="ncaaf 155">
-    <display-name>NCAAF 155</display-name>
-  </channel>
-  <channel id="ncaaf 156">
-    <display-name>NCAAF 156</display-name>
-  </channel>
-  <channel id="ncaaf 157">
-    <display-name>NCAAF 157</display-name>
-  </channel>
-  <channel id="ncaaf 158">
-    <display-name>NCAAF 158</display-name>
-  </channel>
-  <channel id="ncaaf 159">
-    <display-name>NCAAF 159</display-name>
-  </channel>
-  <channel id="ncaaf 160">
-    <display-name>NCAAF 160</display-name>
-  </channel>
-  <channel id="ncaaf 161">
-    <display-name>NCAAF 161</display-name>
-  </channel>
-  <channel id="ncaaf 162">
-    <display-name>NCAAF 162</display-name>
-  </channel>
-  <channel id="ncaaf 163">
-    <display-name>NCAAF 163</display-name>
-  </channel>
-  <channel id="ncaaf 164">
-    <display-name>NCAAF 164</display-name>
-  </channel>
-  <channel id="ncaaf 165">
-    <display-name>NCAAF 165</display-name>
-  </channel>
-  <channel id="ncaaf 166">
-    <display-name>NCAAF 166</display-name>
-  </channel>
-  <channel id="ncaaf 167">
-    <display-name>NCAAF 167</display-name>
-  </channel>
-  <channel id="ncaaf 168">
-    <display-name>NCAAF 168</display-name>
-  </channel>
-  <channel id="ncaaf 169">
-    <display-name>NCAAF 169</display-name>
-  </channel>
-  <channel id="ncaaf 170">
-    <display-name>NCAAF 170</display-name>
-  </channel>
-  <channel id="ncaaf 171">
-    <display-name>NCAAF 171</display-name>
-  </channel>
-  <channel id="ncaaf 172">
-    <display-name>NCAAF 172</display-name>
-  </channel>
-  <channel id="ncaaf 173">
-    <display-name>NCAAF 173</display-name>
-  </channel>
-  <channel id="ncaaf 174">
-    <display-name>NCAAF 174</display-name>
-  </channel>
-  <channel id="ncaaf 175">
-    <display-name>NCAAF 175</display-name>
-  </channel>
-  <channel id="ncaaf 176">
-    <display-name>NCAAF 176</display-name>
-  </channel>
-  <channel id="ncaaf 177">
-    <display-name>NCAAF 177</display-name>
-  </channel>
-  <channel id="ncaaf 178">
-    <display-name>NCAAF 178</display-name>
-  </channel>
-  <channel id="ncaaf 179">
-    <display-name>NCAAF 179</display-name>
-  </channel>
-  <channel id="ncaaf 180">
-    <display-name>NCAAF 180</display-name>
-  </channel>
-  <channel id="ncaaf 181">
-    <display-name>NCAAF 181</display-name>
-  </channel>
-  <channel id="ncaaf 182">
-    <display-name>NCAAF 182</display-name>
-  </channel>
-  <channel id="ncaaf 183">
-    <display-name>NCAAF 183</display-name>
-  </channel>
-  <channel id="ncaaf 184">
-    <display-name>NCAAF 184</display-name>
-  </channel>
-  <channel id="ncaaf 185">
-    <display-name>NCAAF 185</display-name>
-  </channel>
-  <channel id="ncaaf 186">
-    <display-name>NCAAF 186</display-name>
-  </channel>
-  <channel id="ncaaf 187">
-    <display-name>NCAAF 187</display-name>
-  </channel>
-  <channel id="ncaaf 188">
-    <display-name>NCAAF 188</display-name>
-  </channel>
-  <channel id="ncaaf 189">
-    <display-name>NCAAF 189</display-name>
-  </channel>
-  <channel id="ncaaf 190">
-    <display-name>NCAAF 190</display-name>
-  </channel>
-  <channel id="ncaaf 191">
-    <display-name>NCAAF 191</display-name>
-  </channel>
-  <channel id="ncaaf 192">
-    <display-name>NCAAF 192</display-name>
-  </channel>
-  <channel id="ncaaf 193">
-    <display-name>NCAAF 193</display-name>
-  </channel>
-  <channel id="ncaaf 194">
-    <display-name>NCAAF 194</display-name>
-  </channel>
-  <channel id="ncaaf 195">
-    <display-name>NCAAF 195</display-name>
-  </channel>
-  <channel id="ncaaf 196">
-    <display-name>NCAAF 196</display-name>
-  </channel>
-  <channel id="ncaaf 197">
-    <display-name>NCAAF 197</display-name>
-  </channel>
-  <channel id="ncaaf 198">
-    <display-name>NCAAF 198</display-name>
-  </channel>
-  <channel id="ncaaf 199">
-    <display-name>NCAAF 199</display-name>
-  </channel>
-  <channel id="ncaaf 200">
-    <display-name>NCAAF 200</display-name>
-  </channel>
-  <channel id="ncaaf 201">
-    <display-name>NCAAF 201</display-name>
-  </channel>
-  <channel id="ncaaf 202">
-    <display-name>NCAAF 202</display-name>
-  </channel>
-  <channel id="ncaaf 203">
-    <display-name>NCAAF 203</display-name>
-  </channel>
-  <channel id="ncaaf 204">
-    <display-name>NCAAF 204</display-name>
-  </channel>
-  <channel id="ncaaf 205">
-    <display-name>NCAAF 205</display-name>
-  </channel>
-  <channel id="ncaaf 206">
-    <display-name>NCAAF 206</display-name>
-  </channel>
-  <channel id="ncaaf 207">
-    <display-name>NCAAF 207</display-name>
-  </channel>
-  <channel id="ncaaf 208">
-    <display-name>NCAAF 208</display-name>
-  </channel>
-  <channel id="ncaaf 209">
-    <display-name>NCAAF 209</display-name>
-  </channel>
-  <channel id="ncaaf 210">
-    <display-name>NCAAF 210</display-name>
-  </channel>
-  <channel id="ncaaf 211">
-    <display-name>NCAAF 211</display-name>
-  </channel>
-  <channel id="ncaaf 212">
-    <display-name>NCAAF 212</display-name>
-  </channel>
-  <channel id="ncaaf 213">
-    <display-name>NCAAF 213</display-name>
-  </channel>
-  <channel id="ncaaf 214">
-    <display-name>NCAAF 214</display-name>
-  </channel>
-  <channel id="ncaaf 215">
-    <display-name>NCAAF 215</display-name>
-  </channel>
-  <channel id="ncaaf 216">
-    <display-name>NCAAF 216</display-name>
-  </channel>
-  <channel id="ncaaf 217">
-    <display-name>NCAAF 217</display-name>
-  </channel>
-  <channel id="ncaaf 218">
-    <display-name>NCAAF 218</display-name>
-  </channel>
-  <channel id="ncaaf 219">
-    <display-name>NCAAF 219</display-name>
-  </channel>
-  <channel id="ncaaf 220">
-    <display-name>NCAAF 220</display-name>
-  </channel>
-  <channel id="ncaaf 221">
-    <display-name>NCAAF 221</display-name>
-  </channel>
-  <channel id="ncaaf 222">
-    <display-name>NCAAF 222</display-name>
-  </channel>
-  <channel id="ncaaf 223">
-    <display-name>NCAAF 223</display-name>
-  </channel>
-  <channel id="ncaaf 224">
-    <display-name>NCAAF 224</display-name>
-  </channel>
-  <channel id="ncaaf 225">
-    <display-name>NCAAF 225</display-name>
-  </channel>
-  <channel id="ncaaf 226">
-    <display-name>NCAAF 226</display-name>
-  </channel>
-  <channel id="ncaaf 227">
-    <display-name>NCAAF 227</display-name>
-  </channel>
-  <channel id="ncaaf 228">
-    <display-name>NCAAF 228</display-name>
-  </channel>
-  <channel id="ncaaf 229">
-    <display-name>NCAAF 229</display-name>
-  </channel>
-  <channel id="ncaaf 230">
-    <display-name>NCAAF 230</display-name>
-  </channel>
-  <channel id="ncaaf 231">
-    <display-name>NCAAF 231</display-name>
-  </channel>
-  <channel id="ncaaf 232">
-    <display-name>NCAAF 232</display-name>
-  </channel>
-  <channel id="ncaaf 233">
-    <display-name>NCAAF 233</display-name>
-  </channel>
-  <channel id="ncaaf 234">
-    <display-name>NCAAF 234</display-name>
-  </channel>
-  <channel id="ncaaf 235">
-    <display-name>NCAAF 235</display-name>
-  </channel>
-  <channel id="ncaaf 236">
-    <display-name>NCAAF 236</display-name>
-  </channel>
-  <channel id="ncaaf 237">
-    <display-name>NCAAF 237</display-name>
-  </channel>
-  <channel id="ncaaf 238">
-    <display-name>NCAAF 238</display-name>
-  </channel>
-  <channel id="ncaaf 239">
-    <display-name>NCAAF 239</display-name>
-  </channel>
-  <channel id="ncaaf 240">
-    <display-name>NCAAF 240</display-name>
-  </channel>
-  <channel id="ncaaf 241">
-    <display-name>NCAAF 241</display-name>
-  </channel>
-  <channel id="ncaaf 242">
-    <display-name>NCAAF 242</display-name>
-  </channel>
-  <channel id="ncaaf 243">
-    <display-name>NCAAF 243</display-name>
-  </channel>
-  <channel id="ncaaf 244">
-    <display-name>NCAAF 244</display-name>
-  </channel>
-  <channel id="ncaaf 245">
-    <display-name>NCAAF 245</display-name>
-  </channel>
-  <channel id="ncaaf 246">
-    <display-name>NCAAF 246</display-name>
-  </channel>
-  <channel id="ncaaf 247">
-    <display-name>NCAAF 247</display-name>
-  </channel>
-  <channel id="ncaaf 248">
-    <display-name>NCAAF 248</display-name>
-  </channel>
-  <channel id="ncaaf 249">
-    <display-name>NCAAF 249</display-name>
-  </channel>
-  <channel id="ncaaf 250">
-    <display-name>NCAAF 250</display-name>
-  </channel>
-  <channel id="ncaaf 251">
-    <display-name>NCAAF 251</display-name>
-  </channel>
-  <channel id="ncaaf 252">
-    <display-name>NCAAF 252</display-name>
-  </channel>
-  <channel id="ncaaf 253">
-    <display-name>NCAAF 253</display-name>
-  </channel>
-  <channel id="ncaaf 254">
-    <display-name>NCAAF 254</display-name>
-  </channel>
-  <channel id="ncaaf 255">
-    <display-name>NCAAF 255</display-name>
-  </channel>
-  <channel id="ncaaf 256">
-    <display-name>NCAAF 256</display-name>
-  </channel>
-  <channel id="ncaaf 257">
-    <display-name>NCAAF 257</display-name>
-  </channel>
-  <channel id="ncaaf 258">
-    <display-name>NCAAF 258</display-name>
-  </channel>
-  <channel id="ncaaf 259">
-    <display-name>NCAAF 259</display-name>
-  </channel>
-  <channel id="ncaaf 260">
-    <display-name>NCAAF 260</display-name>
-  </channel>
-  <channel id="ncaaf 261">
-    <display-name>NCAAF 261</display-name>
-  </channel>
-  <channel id="ncaaf 262">
-    <display-name>NCAAF 262</display-name>
-  </channel>
-  <channel id="ncaaf 263">
-    <display-name>NCAAF 263</display-name>
-  </channel>
-  <channel id="ncaaf 264">
-    <display-name>NCAAF 264</display-name>
-  </channel>
-  <channel id="ncaaf 265">
-    <display-name>NCAAF 265</display-name>
-  </channel>
-  <channel id="ncaaf 266">
-    <display-name>NCAAF 266</display-name>
-  </channel>
-  <channel id="ncaaf 267">
-    <display-name>NCAAF 267</display-name>
-  </channel>
-  <channel id="ncaaf 268">
-    <display-name>NCAAF 268</display-name>
-  </channel>
-  <channel id="ncaaf 269">
-    <display-name>NCAAF 269</display-name>
-  </channel>
-  <channel id="ncaaf 270">
-    <display-name>NCAAF 270</display-name>
-  </channel>
-  <channel id="ncaaf 271">
-    <display-name>NCAAF 271</display-name>
-  </channel>
-  <channel id="ncaaf 272">
-    <display-name>NCAAF 272</display-name>
-  </channel>
-  <channel id="ncaaf 273">
-    <display-name>NCAAF 273</display-name>
-  </channel>
-  <channel id="ncaaf 274">
-    <display-name>NCAAF 274</display-name>
-  </channel>
-  <channel id="ncaaf 275">
-    <display-name>NCAAF 275</display-name>
-  </channel>
-  <channel id="ncaaf 276">
-    <display-name>NCAAF 276</display-name>
-  </channel>
-  <channel id="ncaaf 277">
-    <display-name>NCAAF 277</display-name>
-  </channel>
-  <channel id="ncaaf 278">
-    <display-name>NCAAF 278</display-name>
-  </channel>
-  <channel id="ncaaf 279">
-    <display-name>NCAAF 279</display-name>
-  </channel>
-  <channel id="ncaaf 280">
-    <display-name>NCAAF 280</display-name>
-  </channel>
-  <channel id="ncaaf 281">
-    <display-name>NCAAF 281</display-name>
-  </channel>
-  <channel id="ncaaf 282">
-    <display-name>NCAAF 282</display-name>
-  </channel>
-  <channel id="ncaaf 283">
-    <display-name>NCAAF 283</display-name>
-  </channel>
-  <channel id="ncaaf 284">
-    <display-name>NCAAF 284</display-name>
-  </channel>
-  <channel id="ncaaf 285">
-    <display-name>NCAAF 285</display-name>
-  </channel>
-  <channel id="ncaaf 286">
-    <display-name>NCAAF 286</display-name>
-  </channel>
-  <channel id="ncaaf 287">
-    <display-name>NCAAF 287</display-name>
-  </channel>
-  <channel id="ncaaf 288">
-    <display-name>NCAAF 288</display-name>
-  </channel>
-  <channel id="ncaaf 289">
-    <display-name>NCAAF 289</display-name>
-  </channel>
-  <channel id="ncaaf 290">
-    <display-name>NCAAF 290</display-name>
-  </channel>
-  <channel id="ncaaf 291">
-    <display-name>NCAAF 291</display-name>
-  </channel>
-  <channel id="ncaaf 292">
-    <display-name>NCAAF 292</display-name>
-  </channel>
-  <channel id="ncaaf 293">
-    <display-name>NCAAF 293</display-name>
-  </channel>
-  <channel id="ncaaf 294">
-    <display-name>NCAAF 294</display-name>
-  </channel>
-  <channel id="ncaaf 295">
-    <display-name>NCAAF 295</display-name>
-  </channel>
-  <channel id="ncaaf 296">
-    <display-name>NCAAF 296</display-name>
-  </channel>
-  <channel id="ncaaf 297">
-    <display-name>NCAAF 297</display-name>
-  </channel>
-  <channel id="ncaaf 298">
-    <display-name>NCAAF 298</display-name>
-  </channel>
-  <channel id="ncaaf 299">
-    <display-name>NCAAF 299</display-name>
-  </channel>
-  <channel id="ncaaf 300">
-    <display-name>NCAAF 300</display-name>
-  </channel>
-  <channel id="ppv-1">
-    <display-name>PPV 1</display-name>
-  </channel>
-  <channel id="ppv-10">
+  <channel id="ppv 10">
     <display-name>PPV 10</display-name>
   </channel>
-  <channel id="ppv-100">
-    <display-name>PPV 100</display-name>
-  </channel>
-  <channel id="ppv-101">
-    <display-name>PPV 101</display-name>
-  </channel>
-  <channel id="ppv-102">
-    <display-name>PPV 102</display-name>
-  </channel>
-  <channel id="ppv-103">
-    <display-name>PPV 103</display-name>
-  </channel>
-  <channel id="ppv-104">
-    <display-name>PPV 104</display-name>
-  </channel>
-  <channel id="ppv-105">
-    <display-name>PPV 105</display-name>
-  </channel>
-  <channel id="ppv-106">
-    <display-name>PPV 106</display-name>
-  </channel>
-  <channel id="ppv-107">
-    <display-name>PPV 107</display-name>
-  </channel>
-  <channel id="ppv-108">
-    <display-name>PPV 108</display-name>
-  </channel>
-  <channel id="ppv-109">
-    <display-name>PPV 109</display-name>
-  </channel>
-  <channel id="ppv-11">
+  <channel id="ppv 11">
     <display-name>PPV 11</display-name>
   </channel>
-  <channel id="ppv-110">
-    <display-name>PPV 110</display-name>
-  </channel>
-  <channel id="ppv-111">
-    <display-name>PPV 111</display-name>
-  </channel>
-  <channel id="ppv-112">
-    <display-name>PPV 112</display-name>
-  </channel>
-  <channel id="ppv-113">
-    <display-name>PPV 113</display-name>
-  </channel>
-  <channel id="ppv-114">
-    <display-name>PPV 114</display-name>
-  </channel>
-  <channel id="ppv-115">
-    <display-name>PPV 115</display-name>
-  </channel>
-  <channel id="ppv-116">
-    <display-name>PPV 116</display-name>
-  </channel>
-  <channel id="ppv-117">
-    <display-name>PPV 117</display-name>
-  </channel>
-  <channel id="ppv-118">
-    <display-name>PPV 118</display-name>
-  </channel>
-  <channel id="ppv-119">
-    <display-name>PPV 119</display-name>
-  </channel>
-  <channel id="ppv-12">
+  <channel id="ppv 12">
     <display-name>PPV 12</display-name>
   </channel>
-  <channel id="ppv-120">
-    <display-name>PPV 120</display-name>
-  </channel>
-  <channel id="ppv-121">
-    <display-name>PPV 121</display-name>
-  </channel>
-  <channel id="ppv-122">
-    <display-name>PPV 122</display-name>
-  </channel>
-  <channel id="ppv-123">
-    <display-name>PPV 123</display-name>
-  </channel>
-  <channel id="ppv-124">
-    <display-name>PPV 124</display-name>
-  </channel>
-  <channel id="ppv-125">
-    <display-name>PPV 125</display-name>
-  </channel>
-  <channel id="ppv-126">
-    <display-name>PPV 126</display-name>
-  </channel>
-  <channel id="ppv-127">
-    <display-name>PPV 127</display-name>
-  </channel>
-  <channel id="ppv-128">
-    <display-name>PPV 128</display-name>
-  </channel>
-  <channel id="ppv-129">
-    <display-name>PPV 129</display-name>
-  </channel>
-  <channel id="ppv-13">
+  <channel id="ppv 13">
     <display-name>PPV 13</display-name>
   </channel>
-  <channel id="ppv-130">
-    <display-name>PPV 130</display-name>
-  </channel>
-  <channel id="ppv-131">
-    <display-name>PPV 131</display-name>
-  </channel>
-  <channel id="ppv-132">
-    <display-name>PPV 132</display-name>
-  </channel>
-  <channel id="ppv-133">
-    <display-name>PPV 133</display-name>
-  </channel>
-  <channel id="ppv-134">
-    <display-name>PPV 134</display-name>
-  </channel>
-  <channel id="ppv-135">
-    <display-name>PPV 135</display-name>
-  </channel>
-  <channel id="ppv-136">
-    <display-name>PPV 136</display-name>
-  </channel>
-  <channel id="ppv-137">
-    <display-name>PPV 137</display-name>
-  </channel>
-  <channel id="ppv-138">
-    <display-name>PPV 138</display-name>
-  </channel>
-  <channel id="ppv-139">
-    <display-name>PPV 139</display-name>
-  </channel>
-  <channel id="ppv-14">
+  <channel id="ppv 14">
     <display-name>PPV 14</display-name>
   </channel>
-  <channel id="ppv-140">
-    <display-name>PPV 140</display-name>
-  </channel>
-  <channel id="ppv-141">
-    <display-name>PPV 141</display-name>
-  </channel>
-  <channel id="ppv-142">
-    <display-name>PPV 142</display-name>
-  </channel>
-  <channel id="ppv-143">
-    <display-name>PPV 143</display-name>
-  </channel>
-  <channel id="ppv-144">
-    <display-name>PPV 144</display-name>
-  </channel>
-  <channel id="ppv-145">
-    <display-name>PPV 145</display-name>
-  </channel>
-  <channel id="ppv-146">
-    <display-name>PPV 146</display-name>
-  </channel>
-  <channel id="ppv-147">
-    <display-name>PPV 147</display-name>
-  </channel>
-  <channel id="ppv-148">
-    <display-name>PPV 148</display-name>
-  </channel>
-  <channel id="ppv-149">
-    <display-name>PPV 149</display-name>
-  </channel>
-  <channel id="ppv-15">
+  <channel id="ppv 15">
     <display-name>PPV 15</display-name>
   </channel>
-  <channel id="ppv-150">
-    <display-name>PPV 150</display-name>
-  </channel>
-  <channel id="ppv-16">
+  <channel id="ppv 16">
     <display-name>PPV 16</display-name>
   </channel>
-  <channel id="ppv-17">
+  <channel id="ppv 17">
     <display-name>PPV 17</display-name>
   </channel>
-  <channel id="ppv-18">
+  <channel id="ppv 18">
     <display-name>PPV 18</display-name>
   </channel>
-  <channel id="ppv-19">
+  <channel id="ppv 19">
     <display-name>PPV 19</display-name>
   </channel>
-  <channel id="ppv-2">
-    <display-name>PPV 2</display-name>
-  </channel>
-  <channel id="ppv-20">
+  <channel id="ppv 20">
     <display-name>PPV 20</display-name>
   </channel>
-  <channel id="ppv-21">
+  <channel id="ppv 21">
     <display-name>PPV 21</display-name>
   </channel>
-  <channel id="ppv-22">
+  <channel id="ppv 22">
     <display-name>PPV 22</display-name>
   </channel>
-  <channel id="ppv-23">
+  <channel id="ppv 23">
     <display-name>PPV 23</display-name>
   </channel>
-  <channel id="ppv-24">
+  <channel id="ppv 24">
     <display-name>PPV 24</display-name>
   </channel>
-  <channel id="ppv-25">
+  <channel id="ppv 25">
     <display-name>PPV 25</display-name>
   </channel>
-  <channel id="ppv-26">
+  <channel id="ppv 26">
     <display-name>PPV 26</display-name>
   </channel>
-  <channel id="ppv-27">
+  <channel id="ppv 27">
     <display-name>PPV 27</display-name>
   </channel>
-  <channel id="ppv-28">
+  <channel id="ppv 28">
     <display-name>PPV 28</display-name>
   </channel>
-  <channel id="ppv-29">
+  <channel id="ppv 29">
     <display-name>PPV 29</display-name>
   </channel>
-  <channel id="ppv-3">
-    <display-name>PPV 3</display-name>
-  </channel>
-  <channel id="ppv-30">
+  <channel id="ppv 30">
     <display-name>PPV 30</display-name>
   </channel>
-  <channel id="ppv-31">
+  <channel id="ppv 31">
     <display-name>PPV 31</display-name>
   </channel>
-  <channel id="ppv-32">
+  <channel id="ppv 32">
     <display-name>PPV 32</display-name>
   </channel>
-  <channel id="ppv-33">
+  <channel id="ppv 33">
     <display-name>PPV 33</display-name>
   </channel>
-  <channel id="ppv-34">
+  <channel id="ppv 34">
     <display-name>PPV 34</display-name>
   </channel>
-  <channel id="ppv-35">
+  <channel id="ppv 35">
     <display-name>PPV 35</display-name>
   </channel>
-  <channel id="ppv-36">
+  <channel id="ppv 36">
     <display-name>PPV 36</display-name>
   </channel>
-  <channel id="ppv-37">
+  <channel id="ppv 37">
     <display-name>PPV 37</display-name>
   </channel>
-  <channel id="ppv-38">
+  <channel id="ppv 38">
     <display-name>PPV 38</display-name>
   </channel>
-  <channel id="ppv-39">
+  <channel id="ppv 39">
     <display-name>PPV 39</display-name>
   </channel>
-  <channel id="ppv-4">
-    <display-name>PPV 4</display-name>
-  </channel>
-  <channel id="ppv-40">
+  <channel id="ppv 40">
     <display-name>PPV 40</display-name>
   </channel>
-  <channel id="ppv-41">
+  <channel id="ppv 41">
     <display-name>PPV 41</display-name>
   </channel>
-  <channel id="ppv-42">
+  <channel id="ppv 42">
     <display-name>PPV 42</display-name>
   </channel>
-  <channel id="ppv-43">
+  <channel id="ppv 43">
     <display-name>PPV 43</display-name>
   </channel>
-  <channel id="ppv-44">
+  <channel id="ppv 44">
     <display-name>PPV 44</display-name>
   </channel>
-  <channel id="ppv-45">
+  <channel id="ppv 45">
     <display-name>PPV 45</display-name>
   </channel>
-  <channel id="ppv-46">
+  <channel id="ppv 46">
     <display-name>PPV 46</display-name>
   </channel>
-  <channel id="ppv-47">
+  <channel id="ppv 47">
     <display-name>PPV 47</display-name>
   </channel>
-  <channel id="ppv-48">
+  <channel id="ppv 48">
     <display-name>PPV 48</display-name>
   </channel>
-  <channel id="ppv-49">
+  <channel id="ppv 49">
     <display-name>PPV 49</display-name>
   </channel>
-  <channel id="ppv-5">
-    <display-name>PPV 5</display-name>
-  </channel>
-  <channel id="ppv-50">
+  <channel id="ppv 50">
     <display-name>PPV 50</display-name>
   </channel>
-  <channel id="ppv-51">
+  <channel id="ppv 51">
     <display-name>PPV 51</display-name>
   </channel>
-  <channel id="ppv-52">
+  <channel id="ppv 52">
     <display-name>PPV 52</display-name>
   </channel>
-  <channel id="ppv-53">
+  <channel id="ppv 53">
     <display-name>PPV 53</display-name>
   </channel>
-  <channel id="ppv-54">
+  <channel id="ppv 54">
     <display-name>PPV 54</display-name>
   </channel>
-  <channel id="ppv-55">
+  <channel id="ppv 55">
     <display-name>PPV 55</display-name>
   </channel>
-  <channel id="ppv-56">
+  <channel id="ppv 56">
     <display-name>PPV 56</display-name>
   </channel>
-  <channel id="ppv-57">
+  <channel id="ppv 57">
     <display-name>PPV 57</display-name>
   </channel>
-  <channel id="ppv-58">
+  <channel id="ppv 58">
     <display-name>PPV 58</display-name>
   </channel>
-  <channel id="ppv-59">
+  <channel id="ppv 59">
     <display-name>PPV 59</display-name>
   </channel>
-  <channel id="ppv-6">
-    <display-name>PPV 6</display-name>
-  </channel>
-  <channel id="ppv-60">
+  <channel id="ppv 60">
     <display-name>PPV 60</display-name>
   </channel>
-  <channel id="ppv-61">
+  <channel id="ppv 61">
     <display-name>PPV 61</display-name>
   </channel>
-  <channel id="ppv-62">
+  <channel id="ppv 62">
     <display-name>PPV 62</display-name>
   </channel>
-  <channel id="ppv-63">
+  <channel id="ppv 63">
     <display-name>PPV 63</display-name>
   </channel>
-  <channel id="ppv-64">
+  <channel id="ppv 64">
     <display-name>PPV 64</display-name>
   </channel>
-  <channel id="ppv-65">
+  <channel id="ppv 65">
     <display-name>PPV 65</display-name>
   </channel>
-  <channel id="ppv-66">
+  <channel id="ppv 66">
     <display-name>PPV 66</display-name>
   </channel>
-  <channel id="ppv-67">
+  <channel id="ppv 67">
     <display-name>PPV 67</display-name>
   </channel>
-  <channel id="ppv-68">
+  <channel id="ppv 68">
     <display-name>PPV 68</display-name>
   </channel>
-  <channel id="ppv-69">
+  <channel id="ppv 69">
     <display-name>PPV 69</display-name>
   </channel>
-  <channel id="ppv-7">
-    <display-name>PPV 7</display-name>
-  </channel>
-  <channel id="ppv-70">
+  <channel id="ppv 70">
     <display-name>PPV 70</display-name>
   </channel>
-  <channel id="ppv-71">
+  <channel id="ppv 71">
     <display-name>PPV 71</display-name>
   </channel>
-  <channel id="ppv-72">
+  <channel id="ppv 72">
     <display-name>PPV 72</display-name>
   </channel>
-  <channel id="ppv-73">
+  <channel id="ppv 73">
     <display-name>PPV 73</display-name>
   </channel>
-  <channel id="ppv-74">
+  <channel id="ppv 74">
     <display-name>PPV 74</display-name>
   </channel>
-  <channel id="ppv-75">
+  <channel id="ppv 75">
     <display-name>PPV 75</display-name>
   </channel>
-  <channel id="ppv-76">
+  <channel id="ppv 76">
     <display-name>PPV 76</display-name>
   </channel>
-  <channel id="ppv-77">
+  <channel id="ppv 77">
     <display-name>PPV 77</display-name>
   </channel>
-  <channel id="ppv-78">
+  <channel id="ppv 78">
     <display-name>PPV 78</display-name>
   </channel>
-  <channel id="ppv-79">
+  <channel id="ppv 79">
     <display-name>PPV 79</display-name>
   </channel>
-  <channel id="ppv-8">
-    <display-name>PPV 8</display-name>
-  </channel>
-  <channel id="ppv-80">
+  <channel id="ppv 80">
     <display-name>PPV 80</display-name>
   </channel>
-  <channel id="ppv-81">
+  <channel id="ppv 81">
     <display-name>PPV 81</display-name>
   </channel>
-  <channel id="ppv-82">
+  <channel id="ppv 82">
     <display-name>PPV 82</display-name>
   </channel>
-  <channel id="ppv-83">
+  <channel id="ppv 83">
     <display-name>PPV 83</display-name>
   </channel>
-  <channel id="ppv-84">
+  <channel id="ppv 84">
     <display-name>PPV 84</display-name>
   </channel>
-  <channel id="ppv-85">
+  <channel id="ppv 85">
     <display-name>PPV 85</display-name>
   </channel>
-  <channel id="ppv-86">
+  <channel id="ppv 86">
     <display-name>PPV 86</display-name>
   </channel>
-  <channel id="ppv-87">
+  <channel id="ppv 87">
     <display-name>PPV 87</display-name>
   </channel>
-  <channel id="ppv-88">
+  <channel id="ppv 88">
     <display-name>PPV 88</display-name>
   </channel>
-  <channel id="ppv-89">
+  <channel id="ppv 89">
     <display-name>PPV 89</display-name>
   </channel>
-  <channel id="ppv-9">
-    <display-name>PPV 9</display-name>
-  </channel>
-  <channel id="ppv-90">
+  <channel id="ppv 90">
     <display-name>PPV 90</display-name>
   </channel>
-  <channel id="ppv-91">
+  <channel id="ppv 91">
     <display-name>PPV 91</display-name>
   </channel>
-  <channel id="ppv-92">
+  <channel id="ppv 92">
     <display-name>PPV 92</display-name>
   </channel>
-  <channel id="ppv-93">
+  <channel id="ppv 93">
     <display-name>PPV 93</display-name>
   </channel>
-  <channel id="ppv-94">
+  <channel id="ppv 94">
     <display-name>PPV 94</display-name>
   </channel>
-  <channel id="ppv-95">
+  <channel id="ppv 95">
     <display-name>PPV 95</display-name>
   </channel>
-  <channel id="ppv-96">
+  <channel id="ppv 96">
     <display-name>PPV 96</display-name>
   </channel>
-  <channel id="ppv-97">
+  <channel id="ppv 97">
     <display-name>PPV 97</display-name>
   </channel>
-  <channel id="ppv-98">
+  <channel id="ppv 98">
     <display-name>PPV 98</display-name>
   </channel>
-  <channel id="ppv-99">
+  <channel id="ppv 99">
     <display-name>PPV 99</display-name>
   </channel>
-  <channel id="soccer 001">
-    <display-name>Soccer 1</display-name>
+  <channel id="ppv 100">
+    <display-name>PPV 100</display-name>
   </channel>
-  <channel id="soccer 010">
-    <display-name>Soccer 10</display-name>
+  <channel id="seasonal 01">
+    <display-name>Seasonal 01</display-name>
   </channel>
-  <channel id="soccer 100">
-    <display-name>Soccer 100</display-name>
+  <channel id="seasonal 02">
+    <display-name>Seasonal 02</display-name>
   </channel>
-  <channel id="soccer 101">
-    <display-name>Soccer 101</display-name>
+  <channel id="seasonal 03">
+    <display-name>Seasonal 03</display-name>
   </channel>
-  <channel id="soccer 102">
-    <display-name>Soccer 102</display-name>
+  <channel id="seasonal 04">
+    <display-name>Seasonal 04</display-name>
   </channel>
-  <channel id="soccer 103">
-    <display-name>Soccer 103</display-name>
+  <channel id="seasonal 05">
+    <display-name>Seasonal 05</display-name>
   </channel>
-  <channel id="soccer 104">
-    <display-name>Soccer 104</display-name>
+  <channel id="seasonal 06">
+    <display-name>Seasonal 06</display-name>
   </channel>
-  <channel id="soccer 105">
-    <display-name>Soccer 105</display-name>
+  <channel id="seasonal 07">
+    <display-name>Seasonal 07</display-name>
   </channel>
-  <channel id="soccer 106">
-    <display-name>Soccer 106</display-name>
+  <channel id="seasonal 08">
+    <display-name>Seasonal 08</display-name>
   </channel>
-  <channel id="soccer 107">
-    <display-name>Soccer 107</display-name>
+  <channel id="seasonal 09">
+    <display-name>Seasonal 09</display-name>
   </channel>
-  <channel id="soccer 108">
-    <display-name>Soccer 108</display-name>
+  <channel id="seasonal 10">
+    <display-name>Seasonal 10</display-name>
   </channel>
-  <channel id="soccer 109">
-    <display-name>Soccer 109</display-name>
+  <channel id="seasonal 11">
+    <display-name>Seasonal 11</display-name>
   </channel>
-  <channel id="soccer 011">
-    <display-name>Soccer 11</display-name>
+  <channel id="seasonal 12">
+    <display-name>Seasonal 12</display-name>
   </channel>
-  <channel id="soccer 110">
-    <display-name>Soccer 110</display-name>
+  <channel id="seasonal 13">
+    <display-name>Seasonal 13</display-name>
   </channel>
-  <channel id="soccer 111">
-    <display-name>Soccer 111</display-name>
+  <channel id="seasonal 14">
+    <display-name>Seasonal 14</display-name>
   </channel>
-  <channel id="soccer 112">
-    <display-name>Soccer 112</display-name>
+  <channel id="seasonal 15">
+    <display-name>Seasonal 15</display-name>
   </channel>
-  <channel id="soccer 113">
-    <display-name>Soccer 113</display-name>
+  <channel id="seasonal 16">
+    <display-name>Seasonal 16</display-name>
   </channel>
-  <channel id="soccer 114">
-    <display-name>Soccer 114</display-name>
+  <channel id="seasonal 17">
+    <display-name>Seasonal 17</display-name>
   </channel>
-  <channel id="soccer 115">
-    <display-name>Soccer 115</display-name>
+  <channel id="seasonal 18">
+    <display-name>Seasonal 18</display-name>
   </channel>
-  <channel id="soccer 116">
-    <display-name>Soccer 116</display-name>
+  <channel id="seasonal 19">
+    <display-name>Seasonal 19</display-name>
   </channel>
-  <channel id="soccer 117">
-    <display-name>Soccer 117</display-name>
+  <channel id="seasonal 20">
+    <display-name>Seasonal 20</display-name>
   </channel>
-  <channel id="soccer 118">
-    <display-name>Soccer 118</display-name>
+  <channel id="seasonal 21">
+    <display-name>Seasonal 21</display-name>
   </channel>
-  <channel id="soccer 119">
-    <display-name>Soccer 119</display-name>
+  <channel id="seasonal 22">
+    <display-name>Seasonal 22</display-name>
   </channel>
-  <channel id="soccer 012">
-    <display-name>Soccer 12</display-name>
+  <channel id="seasonal 23">
+    <display-name>Seasonal 23</display-name>
   </channel>
-  <channel id="soccer 120">
-    <display-name>Soccer 120</display-name>
+  <channel id="seasonal 24">
+    <display-name>Seasonal 24</display-name>
   </channel>
-  <channel id="soccer 121">
-    <display-name>Soccer 121</display-name>
+  <channel id="seasonal 25">
+    <display-name>Seasonal 25</display-name>
   </channel>
-  <channel id="soccer 122">
-    <display-name>Soccer 122</display-name>
-  </channel>
-  <channel id="soccer 123">
-    <display-name>Soccer 123</display-name>
-  </channel>
-  <channel id="soccer 124">
-    <display-name>Soccer 124</display-name>
-  </channel>
-  <channel id="soccer 125">
-    <display-name>Soccer 125</display-name>
-  </channel>
-  <channel id="soccer 126">
-    <display-name>Soccer 126</display-name>
-  </channel>
-  <channel id="soccer 127">
-    <display-name>Soccer 127</display-name>
-  </channel>
-  <channel id="soccer 128">
-    <display-name>Soccer 128</display-name>
-  </channel>
-  <channel id="soccer 129">
-    <display-name>Soccer 129</display-name>
-  </channel>
-  <channel id="soccer 013">
-    <display-name>Soccer 13</display-name>
-  </channel>
-  <channel id="soccer 130">
-    <display-name>Soccer 130</display-name>
-  </channel>
-  <channel id="soccer 131">
-    <display-name>Soccer 131</display-name>
-  </channel>
-  <channel id="soccer 132">
-    <display-name>Soccer 132</display-name>
-  </channel>
-  <channel id="soccer 133">
-    <display-name>Soccer 133</display-name>
-  </channel>
-  <channel id="soccer 134">
-    <display-name>Soccer 134</display-name>
-  </channel>
-  <channel id="soccer 135">
-    <display-name>Soccer 135</display-name>
-  </channel>
-  <channel id="soccer 136">
-    <display-name>Soccer 136</display-name>
-  </channel>
-  <channel id="soccer 137">
-    <display-name>Soccer 137</display-name>
-  </channel>
-  <channel id="soccer 138">
-    <display-name>Soccer 138</display-name>
-  </channel>
-  <channel id="soccer 139">
-    <display-name>Soccer 139</display-name>
-  </channel>
-  <channel id="soccer 014">
-    <display-name>Soccer 14</display-name>
-  </channel>
-  <channel id="soccer 140">
-    <display-name>Soccer 140</display-name>
-  </channel>
-  <channel id="soccer 141">
-    <display-name>Soccer 141</display-name>
-  </channel>
-  <channel id="soccer 142">
-    <display-name>Soccer 142</display-name>
-  </channel>
-  <channel id="soccer 143">
-    <display-name>Soccer 143</display-name>
-  </channel>
-  <channel id="soccer 144">
-    <display-name>Soccer 144</display-name>
-  </channel>
-  <channel id="soccer 145">
-    <display-name>Soccer 145</display-name>
-  </channel>
-  <channel id="soccer 146">
-    <display-name>Soccer 146</display-name>
-  </channel>
-  <channel id="soccer 147">
-    <display-name>Soccer 147</display-name>
-  </channel>
-  <channel id="soccer 148">
-    <display-name>Soccer 148</display-name>
-  </channel>
-  <channel id="soccer 149">
-    <display-name>Soccer 149</display-name>
-  </channel>
-  <channel id="soccer 015">
-    <display-name>Soccer 15</display-name>
-  </channel>
-  <channel id="soccer 150">
-    <display-name>Soccer 150</display-name>
-  </channel>
-  <channel id="soccer 016">
-    <display-name>Soccer 16</display-name>
-  </channel>
-  <channel id="soccer 017">
-    <display-name>Soccer 17</display-name>
-  </channel>
-  <channel id="soccer 018">
-    <display-name>Soccer 18</display-name>
-  </channel>
-  <channel id="soccer 019">
-    <display-name>Soccer 19</display-name>
-  </channel>
-  <channel id="soccer 002">
-    <display-name>Soccer 2</display-name>
-  </channel>
-  <channel id="soccer 020">
-    <display-name>Soccer 20</display-name>
-  </channel>
-  <channel id="soccer 021">
-    <display-name>Soccer 21</display-name>
-  </channel>
-  <channel id="soccer 022">
-    <display-name>Soccer 22</display-name>
-  </channel>
-  <channel id="soccer 023">
-    <display-name>Soccer 23</display-name>
-  </channel>
-  <channel id="soccer 024">
-    <display-name>Soccer 24</display-name>
-  </channel>
-  <channel id="soccer 025">
-    <display-name>Soccer 25</display-name>
-  </channel>
-  <channel id="soccer 026">
-    <display-name>Soccer 26</display-name>
-  </channel>
-  <channel id="soccer 027">
-    <display-name>Soccer 27</display-name>
-  </channel>
-  <channel id="soccer 028">
-    <display-name>Soccer 28</display-name>
-  </channel>
-  <channel id="soccer 029">
-    <display-name>Soccer 29</display-name>
-  </channel>
-  <channel id="soccer 003">
-    <display-name>Soccer 3</display-name>
-  </channel>
-  <channel id="soccer 030">
-    <display-name>Soccer 30</display-name>
-  </channel>
-  <channel id="soccer 031">
-    <display-name>Soccer 31</display-name>
-  </channel>
-  <channel id="soccer 032">
-    <display-name>Soccer 32</display-name>
-  </channel>
-  <channel id="soccer 033">
-    <display-name>Soccer 33</display-name>
-  </channel>
-  <channel id="soccer 034">
-    <display-name>Soccer 34</display-name>
-  </channel>
-  <channel id="soccer 035">
-    <display-name>Soccer 35</display-name>
-  </channel>
-  <channel id="soccer 036">
-    <display-name>Soccer 36</display-name>
-  </channel>
-  <channel id="soccer 037">
-    <display-name>Soccer 37</display-name>
-  </channel>
-  <channel id="soccer 038">
-    <display-name>Soccer 38</display-name>
-  </channel>
-  <channel id="soccer 039">
-    <display-name>Soccer 39</display-name>
-  </channel>
-  <channel id="soccer 004">
-    <display-name>Soccer 4</display-name>
-  </channel>
-  <channel id="soccer 040">
-    <display-name>Soccer 40</display-name>
-  </channel>
-  <channel id="soccer 041">
-    <display-name>Soccer 41</display-name>
-  </channel>
-  <channel id="soccer 042">
-    <display-name>Soccer 42</display-name>
-  </channel>
-  <channel id="soccer 043">
-    <display-name>Soccer 43</display-name>
-  </channel>
-  <channel id="soccer 044">
-    <display-name>Soccer 44</display-name>
-  </channel>
-  <channel id="soccer 045">
-    <display-name>Soccer 45</display-name>
-  </channel>
-  <channel id="soccer 046">
-    <display-name>Soccer 46</display-name>
-  </channel>
-  <channel id="soccer 047">
-    <display-name>Soccer 47</display-name>
-  </channel>
-  <channel id="soccer 048">
-    <display-name>Soccer 48</display-name>
-  </channel>
-  <channel id="soccer 049">
-    <display-name>Soccer 49</display-name>
-  </channel>
-  <channel id="soccer 005">
-    <display-name>Soccer 5</display-name>
-  </channel>
-  <channel id="soccer 050">
-    <display-name>Soccer 50</display-name>
-  </channel>
-  <channel id="soccer 051">
-    <display-name>Soccer 51</display-name>
-  </channel>
-  <channel id="soccer 052">
-    <display-name>Soccer 52</display-name>
-  </channel>
-  <channel id="soccer 053">
-    <display-name>Soccer 53</display-name>
-  </channel>
-  <channel id="soccer 054">
-    <display-name>Soccer 54</display-name>
-  </channel>
-  <channel id="soccer 055">
-    <display-name>Soccer 55</display-name>
-  </channel>
-  <channel id="soccer 056">
-    <display-name>Soccer 56</display-name>
-  </channel>
-  <channel id="soccer 057">
-    <display-name>Soccer 57</display-name>
-  </channel>
-  <channel id="soccer 058">
-    <display-name>Soccer 58</display-name>
-  </channel>
-  <channel id="soccer 059">
-    <display-name>Soccer 59</display-name>
-  </channel>
-  <channel id="soccer 006">
-    <display-name>Soccer 6</display-name>
-  </channel>
-  <channel id="soccer 060">
-    <display-name>Soccer 60</display-name>
-  </channel>
-  <channel id="soccer 061">
-    <display-name>Soccer 61</display-name>
-  </channel>
-  <channel id="soccer 062">
-    <display-name>Soccer 62</display-name>
-  </channel>
-  <channel id="soccer 063">
-    <display-name>Soccer 63</display-name>
-  </channel>
-  <channel id="soccer 064">
-    <display-name>Soccer 64</display-name>
-  </channel>
-  <channel id="soccer 065">
-    <display-name>Soccer 65</display-name>
-  </channel>
-  <channel id="soccer 066">
-    <display-name>Soccer 66</display-name>
-  </channel>
-  <channel id="soccer 067">
-    <display-name>Soccer 67</display-name>
-  </channel>
-  <channel id="soccer 068">
-    <display-name>Soccer 68</display-name>
-  </channel>
-  <channel id="soccer 069">
-    <display-name>Soccer 69</display-name>
-  </channel>
-  <channel id="soccer 007">
-    <display-name>Soccer 7</display-name>
-  </channel>
-  <channel id="soccer 070">
-    <display-name>Soccer 70</display-name>
-  </channel>
-  <channel id="soccer 071">
-    <display-name>Soccer 71</display-name>
-  </channel>
-  <channel id="soccer 072">
-    <display-name>Soccer 72</display-name>
-  </channel>
-  <channel id="soccer 073">
-    <display-name>Soccer 73</display-name>
-  </channel>
-  <channel id="soccer 074">
-    <display-name>Soccer 74</display-name>
-  </channel>
-  <channel id="soccer 075">
-    <display-name>Soccer 75</display-name>
-  </channel>
-  <channel id="soccer 076">
-    <display-name>Soccer 76</display-name>
-  </channel>
-  <channel id="soccer 077">
-    <display-name>Soccer 77</display-name>
-  </channel>
-  <channel id="soccer 078">
-    <display-name>Soccer 78</display-name>
-  </channel>
-  <channel id="soccer 079">
-    <display-name>Soccer 79</display-name>
-  </channel>
-  <channel id="soccer 008">
-    <display-name>Soccer 8</display-name>
-  </channel>
-  <channel id="soccer 080">
-    <display-name>Soccer 80</display-name>
-  </channel>
-  <channel id="soccer 081">
-    <display-name>Soccer 81</display-name>
-  </channel>
-  <channel id="soccer 082">
-    <display-name>Soccer 82</display-name>
-  </channel>
-  <channel id="soccer 083">
-    <display-name>Soccer 83</display-name>
-  </channel>
-  <channel id="soccer 084">
-    <display-name>Soccer 84</display-name>
-  </channel>
-  <channel id="soccer 085">
-    <display-name>Soccer 85</display-name>
-  </channel>
-  <channel id="soccer 086">
-    <display-name>Soccer 86</display-name>
-  </channel>
-  <channel id="soccer 087">
-    <display-name>Soccer 87</display-name>
-  </channel>
-  <channel id="soccer 088">
-    <display-name>Soccer 88</display-name>
-  </channel>
-  <channel id="soccer 089">
-    <display-name>Soccer 89</display-name>
-  </channel>
-  <channel id="soccer 009">
-    <display-name>Soccer 9</display-name>
-  </channel>
-  <channel id="soccer 090">
-    <display-name>Soccer 90</display-name>
-  </channel>
-  <channel id="soccer 091">
-    <display-name>Soccer 91</display-name>
-  </channel>
-  <channel id="soccer 092">
-    <display-name>Soccer 92</display-name>
-  </channel>
-  <channel id="soccer 093">
-    <display-name>Soccer 93</display-name>
-  </channel>
-  <channel id="soccer 094">
-    <display-name>Soccer 94</display-name>
-  </channel>
-  <channel id="soccer 095">
-    <display-name>Soccer 95</display-name>
-  </channel>
-  <channel id="soccer 096">
-    <display-name>Soccer 96</display-name>
-  </channel>
-  <channel id="soccer 097">
-    <display-name>Soccer 97</display-name>
-  </channel>
-  <channel id="soccer 098">
-    <display-name>Soccer 98</display-name>
-  </channel>
-  <channel id="soccer 099">
-    <display-name>Soccer 99</display-name>
-  </channel>
-  <programme start="20251224T160000 +0000" stop="20251224T190000 +0000" channel="ncaaf 001">
-    <title lang="en">CALIFORNIA @ HAWAII - starts at 8:00 PM ET</title>
+  <programme start="20251226T110000 +0000" stop="20251226T140000 +0000" channel="ncaaf 001">
+    <title lang="en">CENTRAL MICHIGAN @ NORTHWESTERN - starts at 1:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAF</category>
     <credits>
-      <actor>CALIFORNIA</actor>
-      <actor>HAWAII</actor>
+      <actor>CENTRAL MICHIGAN</actor>
+      <actor>NORTHWESTERN</actor>
     </credits>
-    <sub-title lang="en">Venue: HAWAII Stadium</sub-title>
+    <sub-title lang="en">Venue: NORTHWESTERN Stadium</sub-title>
   </programme>
-  <programme start="20251224T190000 +0000" stop="20251224T220000 +0000" channel="ncaaf 001">
-    <title lang="en">CALIFORNIA @ HAWAII - starts at 8:00 PM ET</title>
+  <programme start="20251226T140000 +0000" stop="20251226T170000 +0000" channel="ncaaf 001">
+    <title lang="en">CENTRAL MICHIGAN @ NORTHWESTERN - starts at 1:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAF</category>
     <credits>
-      <actor>CALIFORNIA</actor>
-      <actor>HAWAII</actor>
+      <actor>CENTRAL MICHIGAN</actor>
+      <actor>NORTHWESTERN</actor>
     </credits>
-    <sub-title lang="en">Venue: HAWAII Stadium</sub-title>
+    <sub-title lang="en">Venue: NORTHWESTERN Stadium</sub-title>
   </programme>
-  <programme start="20251224T220000 +0000" stop="20251225T010000 +0000" channel="ncaaf 001">
-    <title lang="en">CALIFORNIA @ HAWAII - starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAF</category>
-    <credits>
-      <actor>CALIFORNIA</actor>
-      <actor>HAWAII</actor>
-    </credits>
-    <sub-title lang="en">Venue: HAWAII Stadium</sub-title>
-  </programme>
-  <programme start="20251225T010000 +0000" stop="20251225T040000 +0000" channel="ncaaf 001">
-    <title lang="en">CALIFORNIA @ HAWAII</title>
+  <programme start="20251226T180000 +0000" stop="20251226T213000 +0000" channel="ncaaf 001">
+    <title lang="en">CENTRAL MICHIGAN @ NORTHWESTERN</title>
     <desc lang="en">Network: ESPN</desc>
     <category lang="en">Sports</category>
     <category lang="en">NCAAF</category>
     <credits>
-      <actor>CALIFORNIA</actor>
-      <actor>HAWAII</actor>
+      <actor>CENTRAL MICHIGAN</actor>
+      <actor>NORTHWESTERN</actor>
     </credits>
-    <sub-title lang="en">Venue: HAWAII Stadium</sub-title>
+    <sub-title lang="en">Venue: NORTHWESTERN Stadium</sub-title>
+  </programme>
+  <programme start="20251226T110000 +0000" stop="20251226T140000 +0000" channel="ncaaf 002">
+    <title lang="en">NEW MEXICO @ MINNESOTA - starts at 4:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>NEW MEXICO</actor>
+      <actor>MINNESOTA</actor>
+    </credits>
+    <sub-title lang="en">Venue: MINNESOTA Stadium</sub-title>
+  </programme>
+  <programme start="20251226T140000 +0000" stop="20251226T170000 +0000" channel="ncaaf 002">
+    <title lang="en">NEW MEXICO @ MINNESOTA - starts at 4:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>NEW MEXICO</actor>
+      <actor>MINNESOTA</actor>
+    </credits>
+    <sub-title lang="en">Venue: MINNESOTA Stadium</sub-title>
+  </programme>
+  <programme start="20251226T170000 +0000" stop="20251226T200000 +0000" channel="ncaaf 002">
+    <title lang="en">NEW MEXICO @ MINNESOTA - starts at 4:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>NEW MEXICO</actor>
+      <actor>MINNESOTA</actor>
+    </credits>
+    <sub-title lang="en">Venue: MINNESOTA Stadium</sub-title>
+  </programme>
+  <programme start="20251226T213000 +0000" stop="20251227T010000 +0000" channel="ncaaf 002">
+    <title lang="en">NEW MEXICO @ MINNESOTA</title>
+    <desc lang="en">Network: ESPN</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>NEW MEXICO</actor>
+      <actor>MINNESOTA</actor>
+    </credits>
+    <sub-title lang="en">Venue: MINNESOTA Stadium</sub-title>
+  </programme>
+  <programme start="20251226T110000 +0000" stop="20251226T140000 +0000" channel="ncaaf 003">
+    <title lang="en">FIU @ UTSA - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>FIU</actor>
+      <actor>UTSA</actor>
+    </credits>
+    <sub-title lang="en">Venue: UTSA Stadium</sub-title>
+  </programme>
+  <programme start="20251226T140000 +0000" stop="20251226T170000 +0000" channel="ncaaf 003">
+    <title lang="en">FIU @ UTSA - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>FIU</actor>
+      <actor>UTSA</actor>
+    </credits>
+    <sub-title lang="en">Venue: UTSA Stadium</sub-title>
+  </programme>
+  <programme start="20251226T170000 +0000" stop="20251226T200000 +0000" channel="ncaaf 003">
+    <title lang="en">FIU @ UTSA - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>FIU</actor>
+      <actor>UTSA</actor>
+    </credits>
+    <sub-title lang="en">Venue: UTSA Stadium</sub-title>
+  </programme>
+  <programme start="20251226T200000 +0000" stop="20251226T230000 +0000" channel="ncaaf 003">
+    <title lang="en">FIU @ UTSA - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>FIU</actor>
+      <actor>UTSA</actor>
+    </credits>
+    <sub-title lang="en">Venue: UTSA Stadium</sub-title>
+  </programme>
+  <programme start="20251227T010000 +0000" stop="20251227T043000 +0000" channel="ncaaf 003">
+    <title lang="en">FIU @ UTSA</title>
+    <desc lang="en">Network: ESPN</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAF</category>
+    <credits>
+      <actor>FIU</actor>
+      <actor>UTSA</actor>
+    </credits>
+    <sub-title lang="en">Venue: UTSA Stadium</sub-title>
+  </programme>
+  <programme start="20251226T130000 +0000" stop="20251226T150000 +0000" channel="soccer 01">
+    <title lang="en">Millwall vs Ipswich Town</title>
+    <desc lang="en">League: EFL</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Millwall</actor>
+      <actor>Ipswich Town</actor>
+    </credits>
+    <sub-title lang="en">Venue: Ipswich Town Stadium</sub-title>
+  </programme>
+  <programme start="20251226T110000 +0000" stop="20251226T140000 +0000" channel="soccer 02">
+    <title lang="en">Norwich City vs Charlton Athletic - starts at 10:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Norwich City</actor>
+      <actor>Charlton Athletic</actor>
+    </credits>
+    <sub-title lang="en">Venue: Charlton Athletic Stadium</sub-title>
+  </programme>
+  <programme start="20251226T150000 +0000" stop="20251226T170000 +0000" channel="soccer 02">
+    <title lang="en">Norwich City vs Charlton Athletic</title>
+    <desc lang="en">League: EFL</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Norwich City</actor>
+      <actor>Charlton Athletic</actor>
+    </credits>
+    <sub-title lang="en">Venue: Charlton Athletic Stadium</sub-title>
+  </programme>
+  <programme start="20251226T110000 +0000" stop="20251226T140000 +0000" channel="soccer 03">
+    <title lang="en">Portsmouth vs Queens Park Rangers - starts at 10:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Portsmouth</actor>
+      <actor>Queens Park Rangers</actor>
+    </credits>
+    <sub-title lang="en">Venue: Queens Park Rangers Stadium</sub-title>
+  </programme>
+  <programme start="20251226T150000 +0000" stop="20251226T170000 +0000" channel="soccer 03">
+    <title lang="en">Portsmouth vs Queens Park Rangers</title>
+    <desc lang="en">League: EFL</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Portsmouth</actor>
+      <actor>Queens Park Rangers</actor>
+    </credits>
+    <sub-title lang="en">Venue: Queens Park Rangers Stadium</sub-title>
+  </programme>
+  <programme start="20251226T110000 +0000" stop="20251226T140000 +0000" channel="soccer 04">
+    <title lang="en">Coventry City vs Swansea City - starts at 10:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Coventry City</actor>
+      <actor>Swansea City</actor>
+    </credits>
+    <sub-title lang="en">Venue: Swansea City Stadium</sub-title>
+  </programme>
+  <programme start="20251226T150000 +0000" stop="20251226T170000 +0000" channel="soccer 04">
+    <title lang="en">Coventry City vs Swansea City</title>
+    <desc lang="en">League: EFL</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Coventry City</actor>
+      <actor>Swansea City</actor>
+    </credits>
+    <sub-title lang="en">Venue: Swansea City Stadium</sub-title>
+  </programme>
+  <programme start="20251226T110000 +0000" stop="20251226T140000 +0000" channel="soccer 05">
+    <title lang="en">Leicester City vs Watford - starts at 10:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Leicester City</actor>
+      <actor>Watford</actor>
+    </credits>
+    <sub-title lang="en">Venue: Watford Stadium</sub-title>
+  </programme>
+  <programme start="20251226T150000 +0000" stop="20251226T170000 +0000" channel="soccer 05">
+    <title lang="en">Leicester City vs Watford</title>
+    <desc lang="en">League: EFL</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Leicester City</actor>
+      <actor>Watford</actor>
+    </credits>
+    <sub-title lang="en">Venue: Watford Stadium</sub-title>
+  </programme>
+  <programme start="20251226T110000 +0000" stop="20251226T140000 +0000" channel="soccer 06">
+    <title lang="en">Oxford United vs Southampton - starts at 10:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Oxford United</actor>
+      <actor>Southampton</actor>
+    </credits>
+    <sub-title lang="en">Venue: Southampton Stadium</sub-title>
+  </programme>
+  <programme start="20251226T150000 +0000" stop="20251226T170000 +0000" channel="soccer 06">
+    <title lang="en">Oxford United vs Southampton</title>
+    <desc lang="en">League: EFL</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Oxford United</actor>
+      <actor>Southampton</actor>
+    </credits>
+    <sub-title lang="en">Venue: Southampton Stadium</sub-title>
+  </programme>
+  <programme start="20251226T110000 +0000" stop="20251226T140000 +0000" channel="soccer 07">
+    <title lang="en">Stoke City vs Preston North End - starts at 10:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Stoke City</actor>
+      <actor>Preston North End</actor>
+    </credits>
+    <sub-title lang="en">Venue: Preston North End Stadium</sub-title>
+  </programme>
+  <programme start="20251226T150000 +0000" stop="20251226T170000 +0000" channel="soccer 07">
+    <title lang="en">Stoke City vs Preston North End</title>
+    <desc lang="en">League: EFL</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Stoke City</actor>
+      <actor>Preston North End</actor>
+    </credits>
+    <sub-title lang="en">Venue: Preston North End Stadium</sub-title>
+  </programme>
+  <programme start="20251226T110000 +0000" stop="20251226T140000 +0000" channel="soccer 08">
+    <title lang="en">Middlesbrough vs Blackburn Rovers - starts at 10:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Middlesbrough</actor>
+      <actor>Blackburn Rovers</actor>
+    </credits>
+    <sub-title lang="en">Venue: Blackburn Rovers Stadium</sub-title>
+  </programme>
+  <programme start="20251226T150000 +0000" stop="20251226T170000 +0000" channel="soccer 08">
+    <title lang="en">Middlesbrough vs Blackburn Rovers</title>
+    <desc lang="en">League: EFL</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Middlesbrough</actor>
+      <actor>Blackburn Rovers</actor>
+    </credits>
+    <sub-title lang="en">Venue: Blackburn Rovers Stadium</sub-title>
+  </programme>
+  <programme start="20251226T110000 +0000" stop="20251226T140000 +0000" channel="soccer 09">
+    <title lang="en">West Bromwich Albion vs Bristol City - starts at 10:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>West Bromwich Albion</actor>
+      <actor>Bristol City</actor>
+    </credits>
+    <sub-title lang="en">Venue: Bristol City Stadium</sub-title>
+  </programme>
+  <programme start="20251226T150000 +0000" stop="20251226T170000 +0000" channel="soccer 09">
+    <title lang="en">West Bromwich Albion vs Bristol City</title>
+    <desc lang="en">League: EFL</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>West Bromwich Albion</actor>
+      <actor>Bristol City</actor>
+    </credits>
+    <sub-title lang="en">Venue: Bristol City Stadium</sub-title>
+  </programme>
+  <programme start="20251226T110000 +0000" stop="20251226T140000 +0000" channel="soccer 10">
+    <title lang="en">Sheffield Wednesday vs Hull City - starts at 10:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Sheffield Wednesday</actor>
+      <actor>Hull City</actor>
+    </credits>
+    <sub-title lang="en">Venue: Hull City Stadium</sub-title>
+  </programme>
+  <programme start="20251226T150000 +0000" stop="20251226T170000 +0000" channel="soccer 10">
+    <title lang="en">Sheffield Wednesday vs Hull City</title>
+    <desc lang="en">League: EFL</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Sheffield Wednesday</actor>
+      <actor>Hull City</actor>
+    </credits>
+    <sub-title lang="en">Venue: Hull City Stadium</sub-title>
+  </programme>
+  <programme start="20251226T110000 +0000" stop="20251226T140000 +0000" channel="soccer 11">
+    <title lang="en">Wrexham vs Sheffield United - starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Wrexham</actor>
+      <actor>Sheffield United</actor>
+    </credits>
+    <sub-title lang="en">Venue: Sheffield United Stadium</sub-title>
+  </programme>
+  <programme start="20251226T140000 +0000" stop="20251226T170000 +0000" channel="soccer 11">
+    <title lang="en">Wrexham vs Sheffield United - starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Wrexham</actor>
+      <actor>Sheffield United</actor>
+    </credits>
+    <sub-title lang="en">Venue: Sheffield United Stadium</sub-title>
+  </programme>
+  <programme start="20251226T173000 +0000" stop="20251226T193000 +0000" channel="soccer 11">
+    <title lang="en">Wrexham vs Sheffield United</title>
+    <desc lang="en">League: EFL</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Wrexham</actor>
+      <actor>Sheffield United</actor>
+    </credits>
+    <sub-title lang="en">Venue: Sheffield United Stadium</sub-title>
+  </programme>
+  <programme start="20251226T123000 +0000" stop="20251226T143000 +0000" channel="soccer 12">
+    <title lang="en">Genk vs Club Brugge</title>
+    <desc lang="en">League: Belgian Pro League</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Genk</actor>
+      <actor>Club Brugge</actor>
+    </credits>
+    <sub-title lang="en">Venue: Club Brugge Stadium</sub-title>
+  </programme>
+  <programme start="20251226T110000 +0000" stop="20251226T140000 +0000" channel="soccer 13">
+    <title lang="en">Cercle Brugge vs Union Saint-Gilloise - starts at 10:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Cercle Brugge</actor>
+      <actor>Union Saint-Gilloise</actor>
+    </credits>
+    <sub-title lang="en">Venue: Union Saint-Gilloise Stadium</sub-title>
+  </programme>
+  <programme start="20251226T150000 +0000" stop="20251226T170000 +0000" channel="soccer 13">
+    <title lang="en">Cercle Brugge vs Union Saint-Gilloise</title>
+    <desc lang="en">League: Belgian Pro League</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Cercle Brugge</actor>
+      <actor>Union Saint-Gilloise</actor>
+    </credits>
+    <sub-title lang="en">Venue: Union Saint-Gilloise Stadium</sub-title>
+  </programme>
+  <programme start="20251226T110000 +0000" stop="20251226T140000 +0000" channel="soccer 14">
+    <title lang="en">Anderlecht vs Charleroi - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Anderlecht</actor>
+      <actor>Charleroi</actor>
+    </credits>
+    <sub-title lang="en">Venue: Charleroi Stadium</sub-title>
+  </programme>
+  <programme start="20251226T140000 +0000" stop="20251226T170000 +0000" channel="soccer 14">
+    <title lang="en">Anderlecht vs Charleroi - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Anderlecht</actor>
+      <actor>Charleroi</actor>
+    </credits>
+    <sub-title lang="en">Venue: Charleroi Stadium</sub-title>
+  </programme>
+  <programme start="20251226T194500 +0000" stop="20251226T214500 +0000" channel="soccer 14">
+    <title lang="en">Anderlecht vs Charleroi</title>
+    <desc lang="en">League: Belgian Pro League</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Anderlecht</actor>
+      <actor>Charleroi</actor>
+    </credits>
+    <sub-title lang="en">Venue: Charleroi Stadium</sub-title>
+  </programme>
+  <programme start="20251226T123000 +0000" stop="20251226T143000 +0000" channel="soccer 15">
+    <title lang="en">Angola vs Zimbabwe</title>
+    <desc lang="en">League: African Cup of Nations</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Angola</actor>
+      <actor>Zimbabwe</actor>
+    </credits>
+    <sub-title lang="en">Venue: Zimbabwe Stadium</sub-title>
+  </programme>
+  <programme start="20251226T110000 +0000" stop="20251226T140000 +0000" channel="soccer 16">
+    <title lang="en">Egypt vs South Africa - starts at 10:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Egypt</actor>
+      <actor>South Africa</actor>
+    </credits>
+    <sub-title lang="en">Venue: South Africa Stadium</sub-title>
+  </programme>
+  <programme start="20251226T150000 +0000" stop="20251226T170000 +0000" channel="soccer 16">
+    <title lang="en">Egypt vs South Africa</title>
+    <desc lang="en">League: African Cup of Nations</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Egypt</actor>
+      <actor>South Africa</actor>
+    </credits>
+    <sub-title lang="en">Venue: South Africa Stadium</sub-title>
+  </programme>
+  <programme start="20251226T110000 +0000" stop="20251226T140000 +0000" channel="soccer 17">
+    <title lang="en">Zambia vs Comoros - starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Zambia</actor>
+      <actor>Comoros</actor>
+    </credits>
+    <sub-title lang="en">Venue: Comoros Stadium</sub-title>
+  </programme>
+  <programme start="20251226T140000 +0000" stop="20251226T170000 +0000" channel="soccer 17">
+    <title lang="en">Zambia vs Comoros - starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Zambia</actor>
+      <actor>Comoros</actor>
+    </credits>
+    <sub-title lang="en">Venue: Comoros Stadium</sub-title>
+  </programme>
+  <programme start="20251226T173000 +0000" stop="20251226T193000 +0000" channel="soccer 17">
+    <title lang="en">Zambia vs Comoros</title>
+    <desc lang="en">League: African Cup of Nations</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Zambia</actor>
+      <actor>Comoros</actor>
+    </credits>
+    <sub-title lang="en">Venue: Comoros Stadium</sub-title>
+  </programme>
+  <programme start="20251226T110000 +0000" stop="20251226T140000 +0000" channel="soccer 18">
+    <title lang="en">Morocco vs Mali - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Morocco</actor>
+      <actor>Mali</actor>
+    </credits>
+    <sub-title lang="en">Venue: Mali Stadium</sub-title>
+  </programme>
+  <programme start="20251226T140000 +0000" stop="20251226T170000 +0000" channel="soccer 18">
+    <title lang="en">Morocco vs Mali - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Morocco</actor>
+      <actor>Mali</actor>
+    </credits>
+    <sub-title lang="en">Venue: Mali Stadium</sub-title>
+  </programme>
+  <programme start="20251226T170000 +0000" stop="20251226T200000 +0000" channel="soccer 18">
+    <title lang="en">Morocco vs Mali - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Morocco</actor>
+      <actor>Mali</actor>
+    </credits>
+    <sub-title lang="en">Venue: Mali Stadium</sub-title>
+  </programme>
+  <programme start="20251226T200000 +0000" stop="20251226T220000 +0000" channel="soccer 18">
+    <title lang="en">Morocco vs Mali</title>
+    <desc lang="en">League: African Cup of Nations</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <credits>
+      <actor>Morocco</actor>
+      <actor>Mali</actor>
+    </credits>
+    <sub-title lang="en">Venue: Mali Stadium</sub-title>
   </programme>
 </tv>
