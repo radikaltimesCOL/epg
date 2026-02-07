@@ -300,25 +300,7 @@
   <channel id="peacock 100">
     <display-name>PEACOCK 100</display-name>
   </channel>
-  <programme start="20260206T110000 +0000" stop="20260206T130000 +0000" channel="peacock 001">
-    <title lang="en">Milan Cortina 2026 Coverage starts at 8:55 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Milan Cortina 2026 Coverage</actor>
-      <actor>Milan Cortina 2026 Coverage</actor>
-    </credits>
-  </programme>
-  <programme start="20260206T130000 +0000" stop="20260206T135500 +0000" channel="peacock 001">
-    <title lang="en">Milan Cortina 2026 Coverage starts at 8:55 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Milan Cortina 2026 Coverage</actor>
-      <actor>Milan Cortina 2026 Coverage</actor>
-    </credits>
-  </programme>
-  <programme start="20260206T135500 +0000" stop="20260206T175500 +0000" channel="peacock 001">
+  <programme start="20260207T090000 +0000" stop="20260207T130000 +0000" channel="peacock 001">
     <title lang="en">Milan Cortina 2026 Coverage</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -328,173 +310,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260206T110000 +0000" stop="20260206T130000 +0000" channel="peacock 002">
-    <title lang="en">[4K] Figure Skating &amp; more starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>[4K] Figure Skating &amp; more</actor>
-      <actor>[4K] Figure Skating &amp; more</actor>
-    </credits>
-  </programme>
-  <programme start="20260206T130000 +0000" stop="20260206T150000 +0000" channel="peacock 002">
-    <title lang="en">[4K] Figure Skating &amp; more starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>[4K] Figure Skating &amp; more</actor>
-      <actor>[4K] Figure Skating &amp; more</actor>
-    </credits>
-  </programme>
-  <programme start="20260206T150000 +0000" stop="20260206T170000 +0000" channel="peacock 002">
-    <title lang="en">[4K] Figure Skating &amp; more starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>[4K] Figure Skating &amp; more</actor>
-      <actor>[4K] Figure Skating &amp; more</actor>
-    </credits>
-  </programme>
-  <programme start="20260206T170000 +0000" stop="20260206T210000 +0000" channel="peacock 002">
-    <title lang="en">[4K] Figure Skating &amp; more</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>[4K] Figure Skating &amp; more</actor>
-      <actor>[4K] Figure Skating &amp; more</actor>
-    </credits>
-  </programme>
-  <programme start="20260206T110000 +0000" stop="20260206T130000 +0000" channel="peacock 003">
-    <title lang="en">[4K] Opening Ceremony starts at 1:40 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>[4K] Opening Ceremony</actor>
-      <actor>[4K] Opening Ceremony</actor>
-    </credits>
-  </programme>
-  <programme start="20260206T130000 +0000" stop="20260206T150000 +0000" channel="peacock 003">
-    <title lang="en">[4K] Opening Ceremony starts at 1:40 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>[4K] Opening Ceremony</actor>
-      <actor>[4K] Opening Ceremony</actor>
-    </credits>
-  </programme>
-  <programme start="20260206T150000 +0000" stop="20260206T170000 +0000" channel="peacock 003">
-    <title lang="en">[4K] Opening Ceremony starts at 1:40 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>[4K] Opening Ceremony</actor>
-      <actor>[4K] Opening Ceremony</actor>
-    </credits>
-  </programme>
-  <programme start="20260206T170000 +0000" stop="20260206T184000 +0000" channel="peacock 003">
-    <title lang="en">[4K] Opening Ceremony starts at 1:40 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>[4K] Opening Ceremony</actor>
-      <actor>[4K] Opening Ceremony</actor>
-    </credits>
-  </programme>
-  <programme start="20260206T184000 +0000" stop="20260206T224000 +0000" channel="peacock 003">
-    <title lang="en">[4K] Opening Ceremony</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>[4K] Opening Ceremony</actor>
-      <actor>[4K] Opening Ceremony</actor>
-    </credits>
-  </programme>
-  <programme start="20260206T110000 +0000" stop="20260206T130000 +0000" channel="peacock 004">
-    <title lang="en">Tigres vs. Santos (Español) starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Tigres vs. Santos (Español)</actor>
-      <actor>Tigres vs. Santos (Español)</actor>
-    </credits>
-  </programme>
-  <programme start="20260206T130000 +0000" stop="20260206T150000 +0000" channel="peacock 004">
-    <title lang="en">Tigres vs. Santos (Español) starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Tigres vs. Santos (Español)</actor>
-      <actor>Tigres vs. Santos (Español)</actor>
-    </credits>
-  </programme>
-  <programme start="20260206T150000 +0000" stop="20260206T170000 +0000" channel="peacock 004">
-    <title lang="en">Tigres vs. Santos (Español) starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Tigres vs. Santos (Español)</actor>
-      <actor>Tigres vs. Santos (Español)</actor>
-    </credits>
-  </programme>
-  <programme start="20260206T170000 +0000" stop="20260206T190000 +0000" channel="peacock 004">
-    <title lang="en">Tigres vs. Santos (Español) starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Tigres vs. Santos (Español)</actor>
-      <actor>Tigres vs. Santos (Español)</actor>
-    </credits>
-  </programme>
-  <programme start="20260206T190000 +0000" stop="20260206T210000 +0000" channel="peacock 004">
-    <title lang="en">Tigres vs. Santos (Español) starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Tigres vs. Santos (Español)</actor>
-      <actor>Tigres vs. Santos (Español)</actor>
-    </credits>
-  </programme>
-  <programme start="20260206T210000 +0000" stop="20260206T230000 +0000" channel="peacock 004">
-    <title lang="en">Tigres vs. Santos (Español) starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Tigres vs. Santos (Español)</actor>
-      <actor>Tigres vs. Santos (Español)</actor>
-    </credits>
-  </programme>
-  <programme start="20260206T230000 +0000" stop="20260207T003000 +0000" channel="peacock 004">
-    <title lang="en">Tigres vs. Santos (Español) starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Tigres vs. Santos (Español)</actor>
-      <actor>Tigres vs. Santos (Español)</actor>
-    </credits>
-  </programme>
-  <programme start="20260207T003000 +0000" stop="20260207T043000 +0000" channel="peacock 004">
-    <title lang="en">Tigres vs. Santos (Español)</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Tigres vs. Santos (Español)</actor>
-      <actor>Tigres vs. Santos (Español)</actor>
-    </credits>
-  </programme>
-  <programme start="20260207T090000 +0000" stop="20260207T130000 +0000" channel="peacock 005">
-    <title lang="en">Milan Cortina 2026 Coverage</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Milan Cortina 2026 Coverage</actor>
-      <actor>Milan Cortina 2026 Coverage</actor>
-    </credits>
-  </programme>
-  <programme start="20260207T090500 +0000" stop="20260207T130500 +0000" channel="peacock 006">
+  <programme start="20260207T090500 +0000" stop="20260207T130500 +0000" channel="peacock 002">
     <title lang="en">GBR vs. CAN (MD Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -504,7 +320,7 @@
       <actor>GBR vs. CAN (MD Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260207T090505 +0000" stop="20260207T130505 +0000" channel="peacock 007">
+  <programme start="20260207T090505 +0000" stop="20260207T130505 +0000" channel="peacock 003">
     <title lang="en">SUI vs. SWE (MD Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -514,7 +330,7 @@
       <actor>SUI vs. SWE (MD Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260207T093000 +0000" stop="20260207T133000 +0000" channel="peacock 008">
+  <programme start="20260207T093000 +0000" stop="20260207T133000 +0000" channel="peacock 004">
     <title lang="en">W Ski Slopestyle: Qual.</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -524,7 +340,7 @@
       <actor>W Ski Slopestyle: Qual.</actor>
     </credits>
   </programme>
-  <programme start="20260207T103000 +0000" stop="20260207T143000 +0000" channel="peacock 009">
+  <programme start="20260207T103000 +0000" stop="20260207T143000 +0000" channel="peacock 005">
     <title lang="en">Men`s Downhill</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -534,7 +350,7 @@
       <actor>Men`s Downhill</actor>
     </credits>
   </programme>
-  <programme start="20260207T103005 +0000" stop="20260207T143005 +0000" channel="peacock 010">
+  <programme start="20260207T103005 +0000" stop="20260207T143005 +0000" channel="peacock 006">
     <title lang="en">Women`s Downhill: Training</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -544,7 +360,7 @@
       <actor>Women`s Downhill: Training</actor>
     </credits>
   </programme>
-  <programme start="20260207T110000 +0000" stop="20260207T111000 +0000" channel="peacock 011">
+  <programme start="20260207T110000 +0000" stop="20260207T111000 +0000" channel="peacock 007">
     <title lang="en">GER vs. JPN (W Group B) starts at 6:10 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -553,7 +369,7 @@
       <actor>GER vs. JPN (W Group B)</actor>
     </credits>
   </programme>
-  <programme start="20260207T111000 +0000" stop="20260207T151000 +0000" channel="peacock 011">
+  <programme start="20260207T111000 +0000" stop="20260207T151000 +0000" channel="peacock 007">
     <title lang="en">GER vs. JPN (W Group B)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -563,7 +379,7 @@
       <actor>GER vs. JPN (W Group B)</actor>
     </credits>
   </programme>
-  <programme start="20260207T110000 +0000" stop="20260207T120000 +0000" channel="peacock 012">
+  <programme start="20260207T110000 +0000" stop="20260207T120000 +0000" channel="peacock 008">
     <title lang="en">Women`s Skiathlon starts at 7:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -572,7 +388,7 @@
       <actor>Women`s Skiathlon</actor>
     </credits>
   </programme>
-  <programme start="20260207T120000 +0000" stop="20260207T160000 +0000" channel="peacock 012">
+  <programme start="20260207T120000 +0000" stop="20260207T160000 +0000" channel="peacock 008">
     <title lang="en">Women`s Skiathlon</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -582,23 +398,117 @@
       <actor>Women`s Skiathlon</actor>
     </credits>
   </programme>
-  <programme start="20260207T110000 +0000" stop="20260207T120005 +0000" channel="peacock 013">
-    <title lang="en">Speed Skating &amp; more starts at 7:00 AM ET</title>
+  <programme start="20260207T110000 +0000" stop="20260207T120005 +0000" channel="peacock 009">
+    <title lang="en">[4K] Speed Skating &amp; more starts at 7:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Speed Skating &amp; more</actor>
-      <actor>Speed Skating &amp; more</actor>
+      <actor>[4K] Speed Skating &amp; more</actor>
+      <actor>[4K] Speed Skating &amp; more</actor>
     </credits>
   </programme>
-  <programme start="20260207T120005 +0000" stop="20260207T160005 +0000" channel="peacock 013">
-    <title lang="en">Speed Skating &amp; more</title>
+  <programme start="20260207T120005 +0000" stop="20260207T160005 +0000" channel="peacock 009">
+    <title lang="en">[4K] Speed Skating &amp; more</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Speed Skating &amp; more</actor>
-      <actor>Speed Skating &amp; more</actor>
+      <actor>[4K] Speed Skating &amp; more</actor>
+      <actor>[4K] Speed Skating &amp; more</actor>
+    </credits>
+  </programme>
+  <programme start="20260207T110000 +0000" stop="20260207T123000 +0000" channel="peacock 010">
+    <title lang="en">Women`s Singles: Training starts at 7:30 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Women`s Singles: Training</actor>
+      <actor>Women`s Singles: Training</actor>
+    </credits>
+  </programme>
+  <programme start="20260207T123000 +0000" stop="20260207T163000 +0000" channel="peacock 010">
+    <title lang="en">Women`s Singles: Training</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Women`s Singles: Training</actor>
+      <actor>Women`s Singles: Training</actor>
+    </credits>
+  </programme>
+  <programme start="20260207T110000 +0000" stop="20260207T130000 +0000" channel="peacock 011">
+    <title lang="en">Gold Zone: Day 1 starts at 8:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Gold Zone: Day 1</actor>
+      <actor>Gold Zone: Day 1</actor>
+    </credits>
+  </programme>
+  <programme start="20260207T130000 +0000" stop="20260207T170000 +0000" channel="peacock 011">
+    <title lang="en">Gold Zone: Day 1</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Gold Zone: Day 1</actor>
+      <actor>Gold Zone: Day 1</actor>
+    </credits>
+  </programme>
+  <programme start="20260207T110000 +0000" stop="20260207T130000 +0000" channel="peacock 012">
+    <title lang="en">[4K] M Ski Slopestyle: Qual. starts at 8:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>[4K] M Ski Slopestyle: Qual.</actor>
+      <actor>[4K] M Ski Slopestyle: Qual.</actor>
+    </credits>
+  </programme>
+  <programme start="20260207T130000 +0000" stop="20260207T130005 +0000" channel="peacock 012">
+    <title lang="en">[4K] M Ski Slopestyle: Qual. starts at 8:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>[4K] M Ski Slopestyle: Qual.</actor>
+      <actor>[4K] M Ski Slopestyle: Qual.</actor>
+    </credits>
+  </programme>
+  <programme start="20260207T130005 +0000" stop="20260207T170005 +0000" channel="peacock 012">
+    <title lang="en">[4K] M Ski Slopestyle: Qual.</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>[4K] M Ski Slopestyle: Qual.</actor>
+      <actor>[4K] M Ski Slopestyle: Qual.</actor>
+    </credits>
+  </programme>
+  <programme start="20260207T110000 +0000" stop="20260207T130000 +0000" channel="peacock 013">
+    <title lang="en">SWE vs. ITA (MD Round_Robin) starts at 8:35 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>SWE vs. ITA (MD Round_Robin)</actor>
+      <actor>SWE vs. ITA (MD Round_Robin)</actor>
+    </credits>
+  </programme>
+  <programme start="20260207T130000 +0000" stop="20260207T133500 +0000" channel="peacock 013">
+    <title lang="en">SWE vs. ITA (MD Round_Robin) starts at 8:35 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>SWE vs. ITA (MD Round_Robin)</actor>
+      <actor>SWE vs. ITA (MD Round_Robin)</actor>
+    </credits>
+  </programme>
+  <programme start="20260207T133500 +0000" stop="20260207T173500 +0000" channel="peacock 013">
+    <title lang="en">SWE vs. ITA (MD Round_Robin)</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>SWE vs. ITA (MD Round_Robin)</actor>
+      <actor>SWE vs. ITA (MD Round_Robin)</actor>
     </credits>
   </programme>
   <programme start="20260207T110000 +0000" stop="20260207T130000 +0000" channel="peacock 014">
