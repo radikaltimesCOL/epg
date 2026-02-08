@@ -2097,6 +2097,1746 @@
   <channel id="soccer 99">
     <display-name>SOCCER 99</display-name>
   </channel>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 001">
+    <title lang="en">6 LOUISVILLE @ SYRACUSE (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>6 LOUISVILLE</actor>
+      <actor>SYRACUSE (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: JMA Wireless Dome</sub-title>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 001">
+    <title lang="en">6 LOUISVILLE @ SYRACUSE (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>6 LOUISVILLE</actor>
+      <actor>SYRACUSE (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: JMA Wireless Dome</sub-title>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 001">
+    <title lang="en">6 LOUISVILLE @ SYRACUSE (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>6 LOUISVILLE</actor>
+      <actor>SYRACUSE (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: JMA Wireless Dome</sub-title>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T203000 +0000" channel="ncaab 001">
+    <title lang="en">6 LOUISVILLE @ SYRACUSE (W)</title>
+    <desc lang="en">Network: THE CW NETWORK | Venue: JMA Wireless Dome, Syracuse</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>6 LOUISVILLE</actor>
+      <actor>SYRACUSE (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: JMA Wireless Dome</sub-title>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 002">
+    <title lang="en">ARKANSAS @ FLORIDA (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>ARKANSAS</actor>
+      <actor>FLORIDA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 002">
+    <title lang="en">ARKANSAS @ FLORIDA (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>ARKANSAS</actor>
+      <actor>FLORIDA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 002">
+    <title lang="en">ARKANSAS @ FLORIDA (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>ARKANSAS</actor>
+      <actor>FLORIDA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T203000 +0000" channel="ncaab 002">
+    <title lang="en">ARKANSAS @ FLORIDA (W)</title>
+    <desc lang="en">Network: SEC NETWORK</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>ARKANSAS</actor>
+      <actor>FLORIDA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 003">
+    <title lang="en">JAMES MADISON @ MASSACHUSETTS (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>JAMES MADISON</actor>
+      <actor>MASSACHUSETTS (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 003">
+    <title lang="en">JAMES MADISON @ MASSACHUSETTS (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>JAMES MADISON</actor>
+      <actor>MASSACHUSETTS (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 003">
+    <title lang="en">JAMES MADISON @ MASSACHUSETTS (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>JAMES MADISON</actor>
+      <actor>MASSACHUSETTS (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T203000 +0000" channel="ncaab 003">
+    <title lang="en">JAMES MADISON @ MASSACHUSETTS (W)</title>
+    <desc lang="en">Network: CBSSN</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>JAMES MADISON</actor>
+      <actor>MASSACHUSETTS (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 004">
+    <title lang="en">MINNESOTA @ RUTGERS (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MINNESOTA</actor>
+      <actor>RUTGERS (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 004">
+    <title lang="en">MINNESOTA @ RUTGERS (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MINNESOTA</actor>
+      <actor>RUTGERS (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 004">
+    <title lang="en">MINNESOTA @ RUTGERS (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MINNESOTA</actor>
+      <actor>RUTGERS (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T203000 +0000" channel="ncaab 004">
+    <title lang="en">MINNESOTA @ RUTGERS (W)</title>
+    <desc lang="en">Network: B1G+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MINNESOTA</actor>
+      <actor>RUTGERS (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 005">
+    <title lang="en">NC STATE @ VIRGINIA TECH (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NC STATE</actor>
+      <actor>VIRGINIA TECH (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 005">
+    <title lang="en">NC STATE @ VIRGINIA TECH (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NC STATE</actor>
+      <actor>VIRGINIA TECH (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 005">
+    <title lang="en">NC STATE @ VIRGINIA TECH (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NC STATE</actor>
+      <actor>VIRGINIA TECH (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T203000 +0000" channel="ncaab 005">
+    <title lang="en">NC STATE @ VIRGINIA TECH (W)</title>
+    <desc lang="en">Network: ACC NETWORK</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NC STATE</actor>
+      <actor>VIRGINIA TECH (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 006">
+    <title lang="en">SAINT LOUIS @ RHODE ISLAND (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SAINT LOUIS</actor>
+      <actor>RHODE ISLAND (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 006">
+    <title lang="en">SAINT LOUIS @ RHODE ISLAND (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SAINT LOUIS</actor>
+      <actor>RHODE ISLAND (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 006">
+    <title lang="en">SAINT LOUIS @ RHODE ISLAND (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SAINT LOUIS</actor>
+      <actor>RHODE ISLAND (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T203000 +0000" channel="ncaab 006">
+    <title lang="en">SAINT LOUIS @ RHODE ISLAND (W)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SAINT LOUIS</actor>
+      <actor>RHODE ISLAND (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 007">
+    <title lang="en">TULSA @ SOUTH FLORIDA (M) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>TULSA</actor>
+      <actor>SOUTH FLORIDA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 007">
+    <title lang="en">TULSA @ SOUTH FLORIDA (M) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>TULSA</actor>
+      <actor>SOUTH FLORIDA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 007">
+    <title lang="en">TULSA @ SOUTH FLORIDA (M) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>TULSA</actor>
+      <actor>SOUTH FLORIDA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T203000 +0000" channel="ncaab 007">
+    <title lang="en">TULSA @ SOUTH FLORIDA (M)</title>
+    <desc lang="en">Network: ESPNU</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>TULSA</actor>
+      <actor>SOUTH FLORIDA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 008">
+    <title lang="en">USC @ PENN STATE (M) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>USC</actor>
+      <actor>PENN STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 008">
+    <title lang="en">USC @ PENN STATE (M) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>USC</actor>
+      <actor>PENN STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 008">
+    <title lang="en">USC @ PENN STATE (M) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>USC</actor>
+      <actor>PENN STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T203000 +0000" channel="ncaab 008">
+    <title lang="en">USC @ PENN STATE (M)</title>
+    <desc lang="en">Network: BTN</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>USC</actor>
+      <actor>PENN STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 009">
+    <title lang="en">13 TEXAS TECH @ WEST VIRGINIA (M) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>13 TEXAS TECH</actor>
+      <actor>WEST VIRGINIA (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: WVU Coliseum</sub-title>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 009">
+    <title lang="en">13 TEXAS TECH @ WEST VIRGINIA (M) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>13 TEXAS TECH</actor>
+      <actor>WEST VIRGINIA (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: WVU Coliseum</sub-title>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 009">
+    <title lang="en">13 TEXAS TECH @ WEST VIRGINIA (M) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>13 TEXAS TECH</actor>
+      <actor>WEST VIRGINIA (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: WVU Coliseum</sub-title>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T180000 +0000" channel="ncaab 009">
+    <title lang="en">13 TEXAS TECH @ WEST VIRGINIA (M) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>13 TEXAS TECH</actor>
+      <actor>WEST VIRGINIA (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: WVU Coliseum</sub-title>
+  </programme>
+  <programme start="20260208T180000 +0000" stop="20260208T213000 +0000" channel="ncaab 009">
+    <title lang="en">13 TEXAS TECH @ WEST VIRGINIA (M)</title>
+    <desc lang="en">Network: FOX | Venue: WVU Coliseum, Morgantown</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>13 TEXAS TECH</actor>
+      <actor>WEST VIRGINIA (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: WVU Coliseum</sub-title>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 010">
+    <title lang="en">2 MICHIGAN @ OHIO STATE (M) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>2 MICHIGAN</actor>
+      <actor>OHIO STATE (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Value City Arena</sub-title>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 010">
+    <title lang="en">2 MICHIGAN @ OHIO STATE (M) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>2 MICHIGAN</actor>
+      <actor>OHIO STATE (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Value City Arena</sub-title>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 010">
+    <title lang="en">2 MICHIGAN @ OHIO STATE (M) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>2 MICHIGAN</actor>
+      <actor>OHIO STATE (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Value City Arena</sub-title>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T180000 +0000" channel="ncaab 010">
+    <title lang="en">2 MICHIGAN @ OHIO STATE (M) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>2 MICHIGAN</actor>
+      <actor>OHIO STATE (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Value City Arena</sub-title>
+  </programme>
+  <programme start="20260208T180000 +0000" stop="20260208T213000 +0000" channel="ncaab 010">
+    <title lang="en">2 MICHIGAN @ OHIO STATE (M)</title>
+    <desc lang="en">Network: CBS | Venue: Value City Arena, Columbus</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>2 MICHIGAN</actor>
+      <actor>OHIO STATE (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Value City Arena</sub-title>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 011">
+    <title lang="en">CALIFORNIA @ PITTSBURGH (W) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CALIFORNIA</actor>
+      <actor>PITTSBURGH (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 011">
+    <title lang="en">CALIFORNIA @ PITTSBURGH (W) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CALIFORNIA</actor>
+      <actor>PITTSBURGH (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 011">
+    <title lang="en">CALIFORNIA @ PITTSBURGH (W) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CALIFORNIA</actor>
+      <actor>PITTSBURGH (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T180000 +0000" channel="ncaab 011">
+    <title lang="en">CALIFORNIA @ PITTSBURGH (W) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CALIFORNIA</actor>
+      <actor>PITTSBURGH (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T180000 +0000" stop="20260208T213000 +0000" channel="ncaab 011">
+    <title lang="en">CALIFORNIA @ PITTSBURGH (W)</title>
+    <desc lang="en">Network: ACC EXTRA</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CALIFORNIA</actor>
+      <actor>PITTSBURGH (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 012">
+    <title lang="en">MARQUETTE @ CREIGHTON (W) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MARQUETTE</actor>
+      <actor>CREIGHTON (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 012">
+    <title lang="en">MARQUETTE @ CREIGHTON (W) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MARQUETTE</actor>
+      <actor>CREIGHTON (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 012">
+    <title lang="en">MARQUETTE @ CREIGHTON (W) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MARQUETTE</actor>
+      <actor>CREIGHTON (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T180000 +0000" channel="ncaab 012">
+    <title lang="en">MARQUETTE @ CREIGHTON (W) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MARQUETTE</actor>
+      <actor>CREIGHTON (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T180000 +0000" stop="20260208T213000 +0000" channel="ncaab 012">
+    <title lang="en">MARQUETTE @ CREIGHTON (W)</title>
+    <desc lang="en">Network: FS1</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MARQUETTE</actor>
+      <actor>CREIGHTON (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 013">
+    <title lang="en">UNC GREENSBORO @ FURMAN (M) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>UNC GREENSBORO</actor>
+      <actor>FURMAN (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 013">
+    <title lang="en">UNC GREENSBORO @ FURMAN (M) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>UNC GREENSBORO</actor>
+      <actor>FURMAN (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 013">
+    <title lang="en">UNC GREENSBORO @ FURMAN (M) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>UNC GREENSBORO</actor>
+      <actor>FURMAN (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T180000 +0000" channel="ncaab 013">
+    <title lang="en">UNC GREENSBORO @ FURMAN (M) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>UNC GREENSBORO</actor>
+      <actor>FURMAN (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T180000 +0000" stop="20260208T213000 +0000" channel="ncaab 013">
+    <title lang="en">UNC GREENSBORO @ FURMAN (M)</title>
+    <desc lang="en">Network: ESPN2</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>UNC GREENSBORO</actor>
+      <actor>FURMAN (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 014">
+    <title lang="en">USC @ ILLINOIS (W) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>USC</actor>
+      <actor>ILLINOIS (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 014">
+    <title lang="en">USC @ ILLINOIS (W) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>USC</actor>
+      <actor>ILLINOIS (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 014">
+    <title lang="en">USC @ ILLINOIS (W) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>USC</actor>
+      <actor>ILLINOIS (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T180000 +0000" channel="ncaab 014">
+    <title lang="en">USC @ ILLINOIS (W) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>USC</actor>
+      <actor>ILLINOIS (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T180000 +0000" stop="20260208T213000 +0000" channel="ncaab 014">
+    <title lang="en">USC @ ILLINOIS (W)</title>
+    <desc lang="en">Network: B1G+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>USC</actor>
+      <actor>ILLINOIS (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 015">
+    <title lang="en">XAVIER @ PROVIDENCE (W) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>XAVIER</actor>
+      <actor>PROVIDENCE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 015">
+    <title lang="en">XAVIER @ PROVIDENCE (W) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>XAVIER</actor>
+      <actor>PROVIDENCE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 015">
+    <title lang="en">XAVIER @ PROVIDENCE (W) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>XAVIER</actor>
+      <actor>PROVIDENCE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T180000 +0000" channel="ncaab 015">
+    <title lang="en">XAVIER @ PROVIDENCE (W) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>XAVIER</actor>
+      <actor>PROVIDENCE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T180000 +0000" stop="20260208T213000 +0000" channel="ncaab 015">
+    <title lang="en">XAVIER @ PROVIDENCE (W)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>XAVIER</actor>
+      <actor>PROVIDENCE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 016">
+    <title lang="en">25 NORTH CAROLINA @ WAKE FOREST (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>25 NORTH CAROLINA</actor>
+      <actor>WAKE FOREST (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: LJVM Coliseum</sub-title>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 016">
+    <title lang="en">25 NORTH CAROLINA @ WAKE FOREST (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>25 NORTH CAROLINA</actor>
+      <actor>WAKE FOREST (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: LJVM Coliseum</sub-title>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 016">
+    <title lang="en">25 NORTH CAROLINA @ WAKE FOREST (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>25 NORTH CAROLINA</actor>
+      <actor>WAKE FOREST (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: LJVM Coliseum</sub-title>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T190000 +0000" channel="ncaab 016">
+    <title lang="en">25 NORTH CAROLINA @ WAKE FOREST (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>25 NORTH CAROLINA</actor>
+      <actor>WAKE FOREST (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: LJVM Coliseum</sub-title>
+  </programme>
+  <programme start="20260208T190000 +0000" stop="20260208T223000 +0000" channel="ncaab 016">
+    <title lang="en">25 NORTH CAROLINA @ WAKE FOREST (W)</title>
+    <desc lang="en">Network: ACC NETWORK | Venue: LJVM Coliseum, Winston-Salem</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>25 NORTH CAROLINA</actor>
+      <actor>WAKE FOREST (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: LJVM Coliseum</sub-title>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 017">
+    <title lang="en">5 LSU @ AUBURN (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>5 LSU</actor>
+      <actor>AUBURN (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Neville Arena</sub-title>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 017">
+    <title lang="en">5 LSU @ AUBURN (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>5 LSU</actor>
+      <actor>AUBURN (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Neville Arena</sub-title>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 017">
+    <title lang="en">5 LSU @ AUBURN (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>5 LSU</actor>
+      <actor>AUBURN (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Neville Arena</sub-title>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T190000 +0000" channel="ncaab 017">
+    <title lang="en">5 LSU @ AUBURN (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>5 LSU</actor>
+      <actor>AUBURN (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Neville Arena</sub-title>
+  </programme>
+  <programme start="20260208T190000 +0000" stop="20260208T223000 +0000" channel="ncaab 017">
+    <title lang="en">5 LSU @ AUBURN (W)</title>
+    <desc lang="en">Network: SEC NETWORK | Venue: Neville Arena, Auburn</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>5 LSU</actor>
+      <actor>AUBURN (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Neville Arena</sub-title>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 018">
+    <title lang="en">BOSTON COLLEGE @ CLEMSON (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>BOSTON COLLEGE</actor>
+      <actor>CLEMSON (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 018">
+    <title lang="en">BOSTON COLLEGE @ CLEMSON (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>BOSTON COLLEGE</actor>
+      <actor>CLEMSON (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 018">
+    <title lang="en">BOSTON COLLEGE @ CLEMSON (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>BOSTON COLLEGE</actor>
+      <actor>CLEMSON (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T190000 +0000" channel="ncaab 018">
+    <title lang="en">BOSTON COLLEGE @ CLEMSON (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>BOSTON COLLEGE</actor>
+      <actor>CLEMSON (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T190000 +0000" stop="20260208T223000 +0000" channel="ncaab 018">
+    <title lang="en">BOSTON COLLEGE @ CLEMSON (W)</title>
+    <desc lang="en">Network: ACC EXTRA</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>BOSTON COLLEGE</actor>
+      <actor>CLEMSON (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 019">
+    <title lang="en">CHARLOTTE @ MEMPHIS (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CHARLOTTE</actor>
+      <actor>MEMPHIS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 019">
+    <title lang="en">CHARLOTTE @ MEMPHIS (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CHARLOTTE</actor>
+      <actor>MEMPHIS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 019">
+    <title lang="en">CHARLOTTE @ MEMPHIS (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CHARLOTTE</actor>
+      <actor>MEMPHIS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T190000 +0000" channel="ncaab 019">
+    <title lang="en">CHARLOTTE @ MEMPHIS (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CHARLOTTE</actor>
+      <actor>MEMPHIS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T190000 +0000" stop="20260208T223000 +0000" channel="ncaab 019">
+    <title lang="en">CHARLOTTE @ MEMPHIS (M)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CHARLOTTE</actor>
+      <actor>MEMPHIS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 020">
+    <title lang="en">MARYLAND @ MINNESOTA (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MARYLAND</actor>
+      <actor>MINNESOTA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 020">
+    <title lang="en">MARYLAND @ MINNESOTA (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MARYLAND</actor>
+      <actor>MINNESOTA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 020">
+    <title lang="en">MARYLAND @ MINNESOTA (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MARYLAND</actor>
+      <actor>MINNESOTA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T190000 +0000" channel="ncaab 020">
+    <title lang="en">MARYLAND @ MINNESOTA (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MARYLAND</actor>
+      <actor>MINNESOTA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T190000 +0000" stop="20260208T223000 +0000" channel="ncaab 020">
+    <title lang="en">MARYLAND @ MINNESOTA (M)</title>
+    <desc lang="en">Network: BTN</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MARYLAND</actor>
+      <actor>MINNESOTA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 021">
+    <title lang="en">MIAMI @ FLORIDA STATE (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MIAMI</actor>
+      <actor>FLORIDA STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 021">
+    <title lang="en">MIAMI @ FLORIDA STATE (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MIAMI</actor>
+      <actor>FLORIDA STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 021">
+    <title lang="en">MIAMI @ FLORIDA STATE (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MIAMI</actor>
+      <actor>FLORIDA STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T190000 +0000" channel="ncaab 021">
+    <title lang="en">MIAMI @ FLORIDA STATE (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MIAMI</actor>
+      <actor>FLORIDA STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T190000 +0000" stop="20260208T223000 +0000" channel="ncaab 021">
+    <title lang="en">MIAMI @ FLORIDA STATE (W)</title>
+    <desc lang="en">Network: ACC EXTRA</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MIAMI</actor>
+      <actor>FLORIDA STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 022">
+    <title lang="en">NOTRE DAME @ VIRGINIA (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NOTRE DAME</actor>
+      <actor>VIRGINIA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 022">
+    <title lang="en">NOTRE DAME @ VIRGINIA (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NOTRE DAME</actor>
+      <actor>VIRGINIA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 022">
+    <title lang="en">NOTRE DAME @ VIRGINIA (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NOTRE DAME</actor>
+      <actor>VIRGINIA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T190000 +0000" channel="ncaab 022">
+    <title lang="en">NOTRE DAME @ VIRGINIA (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NOTRE DAME</actor>
+      <actor>VIRGINIA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T190000 +0000" stop="20260208T223000 +0000" channel="ncaab 022">
+    <title lang="en">NOTRE DAME @ VIRGINIA (W)</title>
+    <desc lang="en">Network: ACC EXTRA</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NOTRE DAME</actor>
+      <actor>VIRGINIA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 023">
+    <title lang="en">PURDUE @ INDIANA (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>PURDUE</actor>
+      <actor>INDIANA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 023">
+    <title lang="en">PURDUE @ INDIANA (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>PURDUE</actor>
+      <actor>INDIANA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 023">
+    <title lang="en">PURDUE @ INDIANA (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>PURDUE</actor>
+      <actor>INDIANA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T190000 +0000" channel="ncaab 023">
+    <title lang="en">PURDUE @ INDIANA (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>PURDUE</actor>
+      <actor>INDIANA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T190000 +0000" stop="20260208T223000 +0000" channel="ncaab 023">
+    <title lang="en">PURDUE @ INDIANA (W)</title>
+    <desc lang="en">Network: B1G+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>PURDUE</actor>
+      <actor>INDIANA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 024">
+    <title lang="en">SMU @ 17 DUKE (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SMU</actor>
+      <actor>17 DUKE (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Cameron Indoor Stadium</sub-title>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 024">
+    <title lang="en">SMU @ 17 DUKE (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SMU</actor>
+      <actor>17 DUKE (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Cameron Indoor Stadium</sub-title>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 024">
+    <title lang="en">SMU @ 17 DUKE (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SMU</actor>
+      <actor>17 DUKE (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Cameron Indoor Stadium</sub-title>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T190000 +0000" channel="ncaab 024">
+    <title lang="en">SMU @ 17 DUKE (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SMU</actor>
+      <actor>17 DUKE (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Cameron Indoor Stadium</sub-title>
+  </programme>
+  <programme start="20260208T190000 +0000" stop="20260208T223000 +0000" channel="ncaab 024">
+    <title lang="en">SMU @ 17 DUKE (W)</title>
+    <desc lang="en">Network: THE CW NETWORK | Venue: Cameron Indoor Stadium, Durham</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SMU</actor>
+      <actor>17 DUKE (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Cameron Indoor Stadium</sub-title>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 025">
+    <title lang="en">STANFORD @ GEORGIA TECH (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>STANFORD</actor>
+      <actor>GEORGIA TECH (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 025">
+    <title lang="en">STANFORD @ GEORGIA TECH (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>STANFORD</actor>
+      <actor>GEORGIA TECH (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 025">
+    <title lang="en">STANFORD @ GEORGIA TECH (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>STANFORD</actor>
+      <actor>GEORGIA TECH (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T190000 +0000" channel="ncaab 025">
+    <title lang="en">STANFORD @ GEORGIA TECH (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>STANFORD</actor>
+      <actor>GEORGIA TECH (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T190000 +0000" stop="20260208T223000 +0000" channel="ncaab 025">
+    <title lang="en">STANFORD @ GEORGIA TECH (W)</title>
+    <desc lang="en">Network: ACC EXTRA</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>STANFORD</actor>
+      <actor>GEORGIA TECH (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 026">
+    <title lang="en">UCF @ CINCINNATI (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>UCF</actor>
+      <actor>CINCINNATI (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 026">
+    <title lang="en">UCF @ CINCINNATI (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>UCF</actor>
+      <actor>CINCINNATI (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 026">
+    <title lang="en">UCF @ CINCINNATI (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>UCF</actor>
+      <actor>CINCINNATI (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T190000 +0000" channel="ncaab 026">
+    <title lang="en">UCF @ CINCINNATI (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>UCF</actor>
+      <actor>CINCINNATI (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T190000 +0000" stop="20260208T223000 +0000" channel="ncaab 026">
+    <title lang="en">UCF @ CINCINNATI (M)</title>
+    <desc lang="en">Network: CBSSN</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>UCF</actor>
+      <actor>CINCINNATI (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 027">
+    <title lang="en">WICHITA STATE @ TULANE (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WICHITA STATE</actor>
+      <actor>TULANE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 027">
+    <title lang="en">WICHITA STATE @ TULANE (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WICHITA STATE</actor>
+      <actor>TULANE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 027">
+    <title lang="en">WICHITA STATE @ TULANE (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WICHITA STATE</actor>
+      <actor>TULANE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T190000 +0000" channel="ncaab 027">
+    <title lang="en">WICHITA STATE @ TULANE (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WICHITA STATE</actor>
+      <actor>TULANE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T190000 +0000" stop="20260208T223000 +0000" channel="ncaab 027">
+    <title lang="en">WICHITA STATE @ TULANE (M)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WICHITA STATE</actor>
+      <actor>TULANE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 028">
+    <title lang="en">14 TCU @ COLORADO (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>14 TCU</actor>
+      <actor>COLORADO (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: CU Events Center</sub-title>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 028">
+    <title lang="en">14 TCU @ COLORADO (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>14 TCU</actor>
+      <actor>COLORADO (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: CU Events Center</sub-title>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 028">
+    <title lang="en">14 TCU @ COLORADO (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>14 TCU</actor>
+      <actor>COLORADO (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: CU Events Center</sub-title>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T190000 +0000" channel="ncaab 028">
+    <title lang="en">14 TCU @ COLORADO (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>14 TCU</actor>
+      <actor>COLORADO (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: CU Events Center</sub-title>
+  </programme>
+  <programme start="20260208T190000 +0000" stop="20260208T200000 +0000" channel="ncaab 028">
+    <title lang="en">14 TCU @ COLORADO (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>14 TCU</actor>
+      <actor>COLORADO (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: CU Events Center</sub-title>
+  </programme>
+  <programme start="20260208T200000 +0000" stop="20260208T233000 +0000" channel="ncaab 028">
+    <title lang="en">14 TCU @ COLORADO (W)</title>
+    <desc lang="en">Network: ESPN+ | Venue: CU Events Center, Boulder</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>14 TCU</actor>
+      <actor>COLORADO (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: CU Events Center</sub-title>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 029">
+    <title lang="en">19 TENNESSEE @ 3 SOUTH CAROLINA (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>19 TENNESSEE</actor>
+      <actor>3 SOUTH CAROLINA (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Colonial Life Arena</sub-title>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 029">
+    <title lang="en">19 TENNESSEE @ 3 SOUTH CAROLINA (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>19 TENNESSEE</actor>
+      <actor>3 SOUTH CAROLINA (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Colonial Life Arena</sub-title>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 029">
+    <title lang="en">19 TENNESSEE @ 3 SOUTH CAROLINA (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>19 TENNESSEE</actor>
+      <actor>3 SOUTH CAROLINA (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Colonial Life Arena</sub-title>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T190000 +0000" channel="ncaab 029">
+    <title lang="en">19 TENNESSEE @ 3 SOUTH CAROLINA (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>19 TENNESSEE</actor>
+      <actor>3 SOUTH CAROLINA (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Colonial Life Arena</sub-title>
+  </programme>
+  <programme start="20260208T190000 +0000" stop="20260208T200000 +0000" channel="ncaab 029">
+    <title lang="en">19 TENNESSEE @ 3 SOUTH CAROLINA (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>19 TENNESSEE</actor>
+      <actor>3 SOUTH CAROLINA (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Colonial Life Arena</sub-title>
+  </programme>
+  <programme start="20260208T200000 +0000" stop="20260208T233000 +0000" channel="ncaab 029">
+    <title lang="en">19 TENNESSEE @ 3 SOUTH CAROLINA (W)</title>
+    <desc lang="en">Network: ABC | Venue: Colonial Life Arena, Columbia</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>19 TENNESSEE</actor>
+      <actor>3 SOUTH CAROLINA (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Colonial Life Arena</sub-title>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 030">
+    <title lang="en">2 UCLA @ 8 MICHIGAN (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>2 UCLA</actor>
+      <actor>8 MICHIGAN (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Crisler Center</sub-title>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 030">
+    <title lang="en">2 UCLA @ 8 MICHIGAN (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>2 UCLA</actor>
+      <actor>8 MICHIGAN (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Crisler Center</sub-title>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 030">
+    <title lang="en">2 UCLA @ 8 MICHIGAN (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>2 UCLA</actor>
+      <actor>8 MICHIGAN (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Crisler Center</sub-title>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T190000 +0000" channel="ncaab 030">
+    <title lang="en">2 UCLA @ 8 MICHIGAN (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>2 UCLA</actor>
+      <actor>8 MICHIGAN (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Crisler Center</sub-title>
+  </programme>
+  <programme start="20260208T190000 +0000" stop="20260208T200000 +0000" channel="ncaab 030">
+    <title lang="en">2 UCLA @ 8 MICHIGAN (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>2 UCLA</actor>
+      <actor>8 MICHIGAN (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Crisler Center</sub-title>
+  </programme>
+  <programme start="20260208T200000 +0000" stop="20260208T233000 +0000" channel="ncaab 030">
+    <title lang="en">2 UCLA @ 8 MICHIGAN (W)</title>
+    <desc lang="en">Network: FOX | Venue: Crisler Center, Ann Arbor</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>2 UCLA</actor>
+      <actor>8 MICHIGAN (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Crisler Center</sub-title>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 031">
+    <title lang="en">24 WASHINGTON @ WISCONSIN (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>24 WASHINGTON</actor>
+      <actor>WISCONSIN (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Kohl Center</sub-title>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 031">
+    <title lang="en">24 WASHINGTON @ WISCONSIN (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>24 WASHINGTON</actor>
+      <actor>WISCONSIN (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Kohl Center</sub-title>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 031">
+    <title lang="en">24 WASHINGTON @ WISCONSIN (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>24 WASHINGTON</actor>
+      <actor>WISCONSIN (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Kohl Center</sub-title>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T190000 +0000" channel="ncaab 031">
+    <title lang="en">24 WASHINGTON @ WISCONSIN (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>24 WASHINGTON</actor>
+      <actor>WISCONSIN (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Kohl Center</sub-title>
+  </programme>
+  <programme start="20260208T190000 +0000" stop="20260208T200000 +0000" channel="ncaab 031">
+    <title lang="en">24 WASHINGTON @ WISCONSIN (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>24 WASHINGTON</actor>
+      <actor>WISCONSIN (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Kohl Center</sub-title>
+  </programme>
+  <programme start="20260208T200000 +0000" stop="20260208T233000 +0000" channel="ncaab 031">
+    <title lang="en">24 WASHINGTON @ WISCONSIN (W)</title>
+    <desc lang="en">Network: B1G+ | Venue: Kohl Center, Madison</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>24 WASHINGTON</actor>
+      <actor>WISCONSIN (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Kohl Center</sub-title>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 032">
+    <title lang="en">9 OHIO STATE @ OREGON (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>9 OHIO STATE</actor>
+      <actor>OREGON (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Matthew Knight Arena</sub-title>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 032">
+    <title lang="en">9 OHIO STATE @ OREGON (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>9 OHIO STATE</actor>
+      <actor>OREGON (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Matthew Knight Arena</sub-title>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 032">
+    <title lang="en">9 OHIO STATE @ OREGON (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>9 OHIO STATE</actor>
+      <actor>OREGON (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Matthew Knight Arena</sub-title>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T190000 +0000" channel="ncaab 032">
+    <title lang="en">9 OHIO STATE @ OREGON (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>9 OHIO STATE</actor>
+      <actor>OREGON (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Matthew Knight Arena</sub-title>
+  </programme>
+  <programme start="20260208T190000 +0000" stop="20260208T200000 +0000" channel="ncaab 032">
+    <title lang="en">9 OHIO STATE @ OREGON (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>9 OHIO STATE</actor>
+      <actor>OREGON (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Matthew Knight Arena</sub-title>
+  </programme>
+  <programme start="20260208T200000 +0000" stop="20260208T233000 +0000" channel="ncaab 032">
+    <title lang="en">9 OHIO STATE @ OREGON (W)</title>
+    <desc lang="en">Network: B1G+ | Venue: Matthew Knight Arena, Eugene</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>9 OHIO STATE</actor>
+      <actor>OREGON (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Matthew Knight Arena</sub-title>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 033">
+    <title lang="en">NORTHWESTERN @ IOWA (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTHWESTERN</actor>
+      <actor>IOWA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 033">
+    <title lang="en">NORTHWESTERN @ IOWA (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTHWESTERN</actor>
+      <actor>IOWA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 033">
+    <title lang="en">NORTHWESTERN @ IOWA (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTHWESTERN</actor>
+      <actor>IOWA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T190000 +0000" channel="ncaab 033">
+    <title lang="en">NORTHWESTERN @ IOWA (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTHWESTERN</actor>
+      <actor>IOWA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T190000 +0000" stop="20260208T200000 +0000" channel="ncaab 033">
+    <title lang="en">NORTHWESTERN @ IOWA (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTHWESTERN</actor>
+      <actor>IOWA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T200000 +0000" stop="20260208T233000 +0000" channel="ncaab 033">
+    <title lang="en">NORTHWESTERN @ IOWA (M)</title>
+    <desc lang="en">Network: FS1</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTHWESTERN</actor>
+      <actor>IOWA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 034">
+    <title lang="en">RICE @ UAB (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>RICE</actor>
+      <actor>UAB (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 034">
+    <title lang="en">RICE @ UAB (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>RICE</actor>
+      <actor>UAB (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 034">
+    <title lang="en">RICE @ UAB (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>RICE</actor>
+      <actor>UAB (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T190000 +0000" channel="ncaab 034">
+    <title lang="en">RICE @ UAB (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>RICE</actor>
+      <actor>UAB (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T190000 +0000" stop="20260208T200000 +0000" channel="ncaab 034">
+    <title lang="en">RICE @ UAB (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>RICE</actor>
+      <actor>UAB (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T200000 +0000" stop="20260208T233000 +0000" channel="ncaab 034">
+    <title lang="en">RICE @ UAB (M)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>RICE</actor>
+      <actor>UAB (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 035">
+    <title lang="en">GEORGIA @ MISSOURI (W) - starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>GEORGIA</actor>
+      <actor>MISSOURI (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 035">
+    <title lang="en">GEORGIA @ MISSOURI (W) - starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>GEORGIA</actor>
+      <actor>MISSOURI (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 035">
+    <title lang="en">GEORGIA @ MISSOURI (W) - starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>GEORGIA</actor>
+      <actor>MISSOURI (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T190000 +0000" channel="ncaab 035">
+    <title lang="en">GEORGIA @ MISSOURI (W) - starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>GEORGIA</actor>
+      <actor>MISSOURI (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T190000 +0000" stop="20260208T210000 +0000" channel="ncaab 035">
+    <title lang="en">GEORGIA @ MISSOURI (W) - starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>GEORGIA</actor>
+      <actor>MISSOURI (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T210000 +0000" stop="20260209T003000 +0000" channel="ncaab 035">
+    <title lang="en">GEORGIA @ MISSOURI (W)</title>
+    <desc lang="en">Network: SEC NETWORK</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>GEORGIA</actor>
+      <actor>MISSOURI (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="ncaab 036">
+    <title lang="en">21 ALABAMA @ TEXAS A&amp;M (W) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>21 ALABAMA</actor>
+      <actor>TEXAS A&amp;M (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Reed Arena</sub-title>
+  </programme>
+  <programme start="20260208T130000 +0000" stop="20260208T150000 +0000" channel="ncaab 036">
+    <title lang="en">21 ALABAMA @ TEXAS A&amp;M (W) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>21 ALABAMA</actor>
+      <actor>TEXAS A&amp;M (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Reed Arena</sub-title>
+  </programme>
+  <programme start="20260208T150000 +0000" stop="20260208T170000 +0000" channel="ncaab 036">
+    <title lang="en">21 ALABAMA @ TEXAS A&amp;M (W) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>21 ALABAMA</actor>
+      <actor>TEXAS A&amp;M (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Reed Arena</sub-title>
+  </programme>
+  <programme start="20260208T170000 +0000" stop="20260208T190000 +0000" channel="ncaab 036">
+    <title lang="en">21 ALABAMA @ TEXAS A&amp;M (W) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>21 ALABAMA</actor>
+      <actor>TEXAS A&amp;M (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Reed Arena</sub-title>
+  </programme>
+  <programme start="20260208T190000 +0000" stop="20260208T210000 +0000" channel="ncaab 036">
+    <title lang="en">21 ALABAMA @ TEXAS A&amp;M (W) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>21 ALABAMA</actor>
+      <actor>TEXAS A&amp;M (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Reed Arena</sub-title>
+  </programme>
+  <programme start="20260208T210000 +0000" stop="20260208T230000 +0000" channel="ncaab 036">
+    <title lang="en">21 ALABAMA @ TEXAS A&amp;M (W) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>21 ALABAMA</actor>
+      <actor>TEXAS A&amp;M (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Reed Arena</sub-title>
+  </programme>
+  <programme start="20260208T230000 +0000" stop="20260209T023000 +0000" channel="ncaab 036">
+    <title lang="en">21 ALABAMA @ TEXAS A&amp;M (W)</title>
+    <desc lang="en">Network: SEC NETWORK | Venue: Reed Arena, College Station</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>21 ALABAMA</actor>
+      <actor>TEXAS A&amp;M (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Reed Arena</sub-title>
+  </programme>
   <programme start="20260208T110000 +0000" stop="20260208T130000 +0000" channel="soccer 01">
     <title lang="en">Brighton &amp; Hove Albion @ Crystal Palace - starts at 9:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
