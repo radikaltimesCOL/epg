@@ -210,8 +210,8 @@
   <channel id="ppv 70">
     <display-name>PPV 70</display-name>
   </channel>
-  <programme start="20260210T110000 +0000" stop="20260210T130000 +0000" channel="ppv 01">
-    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna starts at 6:30 PM ET</title>
+  <programme start="20260211T110000 +0000" stop="20260211T130000 +0000" channel="ppv 01">
+    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -219,8 +219,8 @@
       <actor>World Series of Asphalt at New Smyrna</actor>
     </credits>
   </programme>
-  <programme start="20260210T130000 +0000" stop="20260210T150000 +0000" channel="ppv 01">
-    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna starts at 6:30 PM ET</title>
+  <programme start="20260211T130000 +0000" stop="20260211T150000 +0000" channel="ppv 01">
+    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -228,8 +228,8 @@
       <actor>World Series of Asphalt at New Smyrna</actor>
     </credits>
   </programme>
-  <programme start="20260210T150000 +0000" stop="20260210T170000 +0000" channel="ppv 01">
-    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna starts at 6:30 PM ET</title>
+  <programme start="20260211T150000 +0000" stop="20260211T170000 +0000" channel="ppv 01">
+    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -237,8 +237,8 @@
       <actor>World Series of Asphalt at New Smyrna</actor>
     </credits>
   </programme>
-  <programme start="20260210T170000 +0000" stop="20260210T190000 +0000" channel="ppv 01">
-    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna starts at 6:30 PM ET</title>
+  <programme start="20260211T170000 +0000" stop="20260211T190000 +0000" channel="ppv 01">
+    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -246,8 +246,8 @@
       <actor>World Series of Asphalt at New Smyrna</actor>
     </credits>
   </programme>
-  <programme start="20260210T190000 +0000" stop="20260210T210000 +0000" channel="ppv 01">
-    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna starts at 6:30 PM ET</title>
+  <programme start="20260211T190000 +0000" stop="20260211T210000 +0000" channel="ppv 01">
+    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -255,8 +255,8 @@
       <actor>World Series of Asphalt at New Smyrna</actor>
     </credits>
   </programme>
-  <programme start="20260210T210000 +0000" stop="20260210T230000 +0000" channel="ppv 01">
-    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna starts at 6:30 PM ET</title>
+  <programme start="20260211T210000 +0000" stop="20260211T230000 +0000" channel="ppv 01">
+    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -264,8 +264,8 @@
       <actor>World Series of Asphalt at New Smyrna</actor>
     </credits>
   </programme>
-  <programme start="20260210T230000 +0000" stop="20260210T233000 +0000" channel="ppv 01">
-    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna starts at 6:30 PM ET</title>
+  <programme start="20260211T230000 +0000" stop="20260212T010000 +0000" channel="ppv 01">
+    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -273,8 +273,8 @@
       <actor>World Series of Asphalt at New Smyrna</actor>
     </credits>
   </programme>
-  <programme start="20260210T233000 +0000" stop="20260211T023000 +0000" channel="ppv 01">
-    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna (2.10 6:30 PM ET)</title>
+  <programme start="20260212T010000 +0000" stop="20260212T040000 +0000" channel="ppv 01">
+    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna (2.11 8:00 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -282,346 +282,130 @@
       <actor>World Series of Asphalt at New Smyrna</actor>
     </credits>
   </programme>
-  <programme start="20260210T110000 +0000" stop="20260210T130000 +0000" channel="ppv 02">
-    <title lang="en">EVENT 02: USAC National Sprints at Volusia starts at 5:00 PM ET</title>
+  <programme start="20260211T110000 +0000" stop="20260211T130000 +0000" channel="ppv 02">
+    <title lang="en">EVENT 02: USAC National Sprints at Ocala starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>USAC National Sprints at Volusia</actor>
+      <actor>USAC National Sprints at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260210T130000 +0000" stop="20260210T150000 +0000" channel="ppv 02">
-    <title lang="en">EVENT 02: USAC National Sprints at Volusia starts at 5:00 PM ET</title>
+  <programme start="20260211T130000 +0000" stop="20260211T150000 +0000" channel="ppv 02">
+    <title lang="en">EVENT 02: USAC National Sprints at Ocala starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>USAC National Sprints at Volusia</actor>
+      <actor>USAC National Sprints at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260210T150000 +0000" stop="20260210T170000 +0000" channel="ppv 02">
-    <title lang="en">EVENT 02: USAC National Sprints at Volusia starts at 5:00 PM ET</title>
+  <programme start="20260211T150000 +0000" stop="20260211T170000 +0000" channel="ppv 02">
+    <title lang="en">EVENT 02: USAC National Sprints at Ocala starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>USAC National Sprints at Volusia</actor>
+      <actor>USAC National Sprints at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260210T170000 +0000" stop="20260210T190000 +0000" channel="ppv 02">
-    <title lang="en">EVENT 02: USAC National Sprints at Volusia starts at 5:00 PM ET</title>
+  <programme start="20260211T170000 +0000" stop="20260211T190000 +0000" channel="ppv 02">
+    <title lang="en">EVENT 02: USAC National Sprints at Ocala starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>USAC National Sprints at Volusia</actor>
+      <actor>USAC National Sprints at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260210T190000 +0000" stop="20260210T210000 +0000" channel="ppv 02">
-    <title lang="en">EVENT 02: USAC National Sprints at Volusia starts at 5:00 PM ET</title>
+  <programme start="20260211T190000 +0000" stop="20260211T210000 +0000" channel="ppv 02">
+    <title lang="en">EVENT 02: USAC National Sprints at Ocala starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>USAC National Sprints at Volusia</actor>
+      <actor>USAC National Sprints at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260210T210000 +0000" stop="20260210T220000 +0000" channel="ppv 02">
-    <title lang="en">EVENT 02: USAC National Sprints at Volusia starts at 5:00 PM ET</title>
+  <programme start="20260211T210000 +0000" stop="20260211T223000 +0000" channel="ppv 02">
+    <title lang="en">EVENT 02: USAC National Sprints at Ocala starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>USAC National Sprints at Volusia</actor>
+      <actor>USAC National Sprints at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260210T220000 +0000" stop="20260211T010000 +0000" channel="ppv 02">
-    <title lang="en">EVENT 02: USAC National Sprints at Volusia (2.10 5:00 PM ET)</title>
+  <programme start="20260211T223000 +0000" stop="20260212T013000 +0000" channel="ppv 02">
+    <title lang="en">EVENT 02: USAC National Sprints at Ocala (2.11 5:30 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>USAC National Sprints at Volusia</actor>
+      <actor>USAC National Sprints at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260209T110000 +0000" stop="20260209T130000 +0000" channel="ppv 03">
-    <title lang="en">EVENT 03: World Series of Asphalt at New Smyrna starts at 6:30 PM ET</title>
+  <programme start="20260211T110000 +0000" stop="20260211T130000 +0000" channel="ppv 03">
+    <title lang="en">EVENT 03: Volusia Speedway Park starts at 5:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>World Series of Asphalt at New Smyrna</actor>
+      <actor>Volusia Speedway Park</actor>
     </credits>
   </programme>
-  <programme start="20260209T130000 +0000" stop="20260209T150000 +0000" channel="ppv 03">
-    <title lang="en">EVENT 03: World Series of Asphalt at New Smyrna starts at 6:30 PM ET</title>
+  <programme start="20260211T130000 +0000" stop="20260211T150000 +0000" channel="ppv 03">
+    <title lang="en">EVENT 03: Volusia Speedway Park starts at 5:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>World Series of Asphalt at New Smyrna</actor>
+      <actor>Volusia Speedway Park</actor>
     </credits>
   </programme>
-  <programme start="20260209T150000 +0000" stop="20260209T170000 +0000" channel="ppv 03">
-    <title lang="en">EVENT 03: World Series of Asphalt at New Smyrna starts at 6:30 PM ET</title>
+  <programme start="20260211T150000 +0000" stop="20260211T170000 +0000" channel="ppv 03">
+    <title lang="en">EVENT 03: Volusia Speedway Park starts at 5:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>World Series of Asphalt at New Smyrna</actor>
+      <actor>Volusia Speedway Park</actor>
     </credits>
   </programme>
-  <programme start="20260209T170000 +0000" stop="20260209T190000 +0000" channel="ppv 03">
-    <title lang="en">EVENT 03: World Series of Asphalt at New Smyrna starts at 6:30 PM ET</title>
+  <programme start="20260211T170000 +0000" stop="20260211T190000 +0000" channel="ppv 03">
+    <title lang="en">EVENT 03: Volusia Speedway Park starts at 5:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>World Series of Asphalt at New Smyrna</actor>
+      <actor>Volusia Speedway Park</actor>
     </credits>
   </programme>
-  <programme start="20260209T190000 +0000" stop="20260209T210000 +0000" channel="ppv 03">
-    <title lang="en">EVENT 03: World Series of Asphalt at New Smyrna starts at 6:30 PM ET</title>
+  <programme start="20260211T190000 +0000" stop="20260211T210000 +0000" channel="ppv 03">
+    <title lang="en">EVENT 03: Volusia Speedway Park starts at 5:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>World Series of Asphalt at New Smyrna</actor>
+      <actor>Volusia Speedway Park</actor>
     </credits>
   </programme>
-  <programme start="20260209T210000 +0000" stop="20260209T230000 +0000" channel="ppv 03">
-    <title lang="en">EVENT 03: World Series of Asphalt at New Smyrna starts at 6:30 PM ET</title>
+  <programme start="20260211T210000 +0000" stop="20260211T221500 +0000" channel="ppv 03">
+    <title lang="en">EVENT 03: Volusia Speedway Park starts at 5:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>World Series of Asphalt at New Smyrna</actor>
+      <actor>Volusia Speedway Park</actor>
     </credits>
   </programme>
-  <programme start="20260209T230000 +0000" stop="20260209T233000 +0000" channel="ppv 03">
-    <title lang="en">EVENT 03: World Series of Asphalt at New Smyrna starts at 6:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>World Series of Asphalt at New Smyrna</actor>
-    </credits>
-  </programme>
-  <programme start="20260209T233000 +0000" stop="20260210T023000 +0000" channel="ppv 03">
-    <title lang="en">EVENT 03: World Series of Asphalt at New Smyrna (2.9 6:30 PM ET)</title>
+  <programme start="20260211T221500 +0000" stop="20260212T011500 +0000" channel="ppv 03">
+    <title lang="en">EVENT 03: Volusia Speedway Park (2.11 5:15 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>World Series of Asphalt at New Smyrna</actor>
-    </credits>
-  </programme>
-  <programme start="20260210T110000 +0000" stop="20260210T130000 +0000" channel="ppv 04">
-    <title lang="en">EVENT 04: BZW Enter The Zone starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>BZW Enter The Zone</actor>
-    </credits>
-  </programme>
-  <programme start="20260210T130000 +0000" stop="20260210T150000 +0000" channel="ppv 04">
-    <title lang="en">EVENT 04: BZW Enter The Zone starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>BZW Enter The Zone</actor>
-    </credits>
-  </programme>
-  <programme start="20260210T150000 +0000" stop="20260210T170000 +0000" channel="ppv 04">
-    <title lang="en">EVENT 04: BZW Enter The Zone starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>BZW Enter The Zone</actor>
-    </credits>
-  </programme>
-  <programme start="20260210T170000 +0000" stop="20260210T190000 +0000" channel="ppv 04">
-    <title lang="en">EVENT 04: BZW Enter The Zone starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>BZW Enter The Zone</actor>
-    </credits>
-  </programme>
-  <programme start="20260210T190000 +0000" stop="20260210T200000 +0000" channel="ppv 04">
-    <title lang="en">EVENT 04: BZW Enter The Zone starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>BZW Enter The Zone</actor>
-    </credits>
-  </programme>
-  <programme start="20260210T200000 +0000" stop="20260210T230000 +0000" channel="ppv 04">
-    <title lang="en">EVENT 04: BZW Enter The Zone (2.10 3:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>BZW Enter The Zone</actor>
-    </credits>
-  </programme>
-  <programme start="20260210T110000 +0000" stop="20260210T130000 +0000" channel="ppv 05">
-    <title lang="en">EVENT 05: A Low Life in a SlamTown starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>A Low Life in a SlamTown</actor>
-    </credits>
-  </programme>
-  <programme start="20260210T130000 +0000" stop="20260210T150000 +0000" channel="ppv 05">
-    <title lang="en">EVENT 05: A Low Life in a SlamTown starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>A Low Life in a SlamTown</actor>
-    </credits>
-  </programme>
-  <programme start="20260210T150000 +0000" stop="20260210T170000 +0000" channel="ppv 05">
-    <title lang="en">EVENT 05: A Low Life in a SlamTown starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>A Low Life in a SlamTown</actor>
-    </credits>
-  </programme>
-  <programme start="20260210T170000 +0000" stop="20260210T190000 +0000" channel="ppv 05">
-    <title lang="en">EVENT 05: A Low Life in a SlamTown starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>A Low Life in a SlamTown</actor>
-    </credits>
-  </programme>
-  <programme start="20260210T190000 +0000" stop="20260210T210000 +0000" channel="ppv 05">
-    <title lang="en">EVENT 05: A Low Life in a SlamTown starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>A Low Life in a SlamTown</actor>
-    </credits>
-  </programme>
-  <programme start="20260210T210000 +0000" stop="20260210T230000 +0000" channel="ppv 05">
-    <title lang="en">EVENT 05: A Low Life in a SlamTown starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>A Low Life in a SlamTown</actor>
-    </credits>
-  </programme>
-  <programme start="20260210T230000 +0000" stop="20260211T010000 +0000" channel="ppv 05">
-    <title lang="en">EVENT 05: A Low Life in a SlamTown starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>A Low Life in a SlamTown</actor>
-    </credits>
-  </programme>
-  <programme start="20260211T010000 +0000" stop="20260211T020000 +0000" channel="ppv 05">
-    <title lang="en">EVENT 05: A Low Life in a SlamTown starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>A Low Life in a SlamTown</actor>
-    </credits>
-  </programme>
-  <programme start="20260211T020000 +0000" stop="20260211T050000 +0000" channel="ppv 05">
-    <title lang="en">EVENT 05: A Low Life in a SlamTown (2.10 9:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>A Low Life in a SlamTown</actor>
-    </credits>
-  </programme>
-  <programme start="20260210T110000 +0000" stop="20260210T130000 +0000" channel="ppv 06">
-    <title lang="en">EVENT 06: Pagan vs. Jimenez starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Pagan vs. Jimenez</actor>
-    </credits>
-  </programme>
-  <programme start="20260210T130000 +0000" stop="20260210T150000 +0000" channel="ppv 06">
-    <title lang="en">EVENT 06: Pagan vs. Jimenez starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Pagan vs. Jimenez</actor>
-    </credits>
-  </programme>
-  <programme start="20260210T150000 +0000" stop="20260210T170000 +0000" channel="ppv 06">
-    <title lang="en">EVENT 06: Pagan vs. Jimenez starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Pagan vs. Jimenez</actor>
-    </credits>
-  </programme>
-  <programme start="20260210T170000 +0000" stop="20260210T190000 +0000" channel="ppv 06">
-    <title lang="en">EVENT 06: Pagan vs. Jimenez starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Pagan vs. Jimenez</actor>
-    </credits>
-  </programme>
-  <programme start="20260210T190000 +0000" stop="20260210T210000 +0000" channel="ppv 06">
-    <title lang="en">EVENT 06: Pagan vs. Jimenez starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Pagan vs. Jimenez</actor>
-    </credits>
-  </programme>
-  <programme start="20260210T210000 +0000" stop="20260210T230000 +0000" channel="ppv 06">
-    <title lang="en">EVENT 06: Pagan vs. Jimenez starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Pagan vs. Jimenez</actor>
-    </credits>
-  </programme>
-  <programme start="20260210T230000 +0000" stop="20260211T010000 +0000" channel="ppv 06">
-    <title lang="en">EVENT 06: Pagan vs. Jimenez starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Pagan vs. Jimenez</actor>
-    </credits>
-  </programme>
-  <programme start="20260211T010000 +0000" stop="20260211T040000 +0000" channel="ppv 06">
-    <title lang="en">EVENT 06: Pagan vs. Jimenez (2.10 8:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Pagan vs. Jimenez</actor>
+      <actor>Volusia Speedway Park</actor>
     </credits>
   </programme>
 </tv>
