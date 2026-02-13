@@ -210,8 +210,8 @@
   <channel id="ppv 70">
     <display-name>PPV 70</display-name>
   </channel>
-  <programme start="20260211T110000 +0000" stop="20260211T130000 +0000" channel="ppv 01">
-    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna starts at 8:00 PM ET</title>
+  <programme start="20260213T110000 +0000" stop="20260213T130000 +0000" channel="ppv 01">
+    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -219,8 +219,8 @@
       <actor>World Series of Asphalt at New Smyrna</actor>
     </credits>
   </programme>
-  <programme start="20260211T130000 +0000" stop="20260211T150000 +0000" channel="ppv 01">
-    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna starts at 8:00 PM ET</title>
+  <programme start="20260213T130000 +0000" stop="20260213T150000 +0000" channel="ppv 01">
+    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -228,8 +228,8 @@
       <actor>World Series of Asphalt at New Smyrna</actor>
     </credits>
   </programme>
-  <programme start="20260211T150000 +0000" stop="20260211T170000 +0000" channel="ppv 01">
-    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna starts at 8:00 PM ET</title>
+  <programme start="20260213T150000 +0000" stop="20260213T170000 +0000" channel="ppv 01">
+    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -237,8 +237,8 @@
       <actor>World Series of Asphalt at New Smyrna</actor>
     </credits>
   </programme>
-  <programme start="20260211T170000 +0000" stop="20260211T190000 +0000" channel="ppv 01">
-    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna starts at 8:00 PM ET</title>
+  <programme start="20260213T170000 +0000" stop="20260213T190000 +0000" channel="ppv 01">
+    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -246,8 +246,8 @@
       <actor>World Series of Asphalt at New Smyrna</actor>
     </credits>
   </programme>
-  <programme start="20260211T190000 +0000" stop="20260211T210000 +0000" channel="ppv 01">
-    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna starts at 8:00 PM ET</title>
+  <programme start="20260213T190000 +0000" stop="20260213T210000 +0000" channel="ppv 01">
+    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -255,8 +255,8 @@
       <actor>World Series of Asphalt at New Smyrna</actor>
     </credits>
   </programme>
-  <programme start="20260211T210000 +0000" stop="20260211T230000 +0000" channel="ppv 01">
-    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna starts at 8:00 PM ET</title>
+  <programme start="20260213T210000 +0000" stop="20260213T230000 +0000" channel="ppv 01">
+    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -264,8 +264,8 @@
       <actor>World Series of Asphalt at New Smyrna</actor>
     </credits>
   </programme>
-  <programme start="20260211T230000 +0000" stop="20260212T010000 +0000" channel="ppv 01">
-    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna starts at 8:00 PM ET</title>
+  <programme start="20260213T230000 +0000" stop="20260214T000000 +0000" channel="ppv 01">
+    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -273,8 +273,8 @@
       <actor>World Series of Asphalt at New Smyrna</actor>
     </credits>
   </programme>
-  <programme start="20260212T010000 +0000" stop="20260212T040000 +0000" channel="ppv 01">
-    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna (2.11 8:00 PM ET)</title>
+  <programme start="20260214T000000 +0000" stop="20260214T030000 +0000" channel="ppv 01">
+    <title lang="en">EVENT 01: World Series of Asphalt at New Smyrna (2.13 7:00 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -282,7 +282,7 @@
       <actor>World Series of Asphalt at New Smyrna</actor>
     </credits>
   </programme>
-  <programme start="20260211T110000 +0000" stop="20260211T130000 +0000" channel="ppv 02">
+  <programme start="20260213T110000 +0000" stop="20260213T130000 +0000" channel="ppv 02">
     <title lang="en">EVENT 02: USAC National Sprints at Ocala starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -291,7 +291,7 @@
       <actor>USAC National Sprints at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260211T130000 +0000" stop="20260211T150000 +0000" channel="ppv 02">
+  <programme start="20260213T130000 +0000" stop="20260213T150000 +0000" channel="ppv 02">
     <title lang="en">EVENT 02: USAC National Sprints at Ocala starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -300,7 +300,7 @@
       <actor>USAC National Sprints at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260211T150000 +0000" stop="20260211T170000 +0000" channel="ppv 02">
+  <programme start="20260213T150000 +0000" stop="20260213T170000 +0000" channel="ppv 02">
     <title lang="en">EVENT 02: USAC National Sprints at Ocala starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -309,7 +309,7 @@
       <actor>USAC National Sprints at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260211T170000 +0000" stop="20260211T190000 +0000" channel="ppv 02">
+  <programme start="20260213T170000 +0000" stop="20260213T190000 +0000" channel="ppv 02">
     <title lang="en">EVENT 02: USAC National Sprints at Ocala starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -318,7 +318,7 @@
       <actor>USAC National Sprints at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260211T190000 +0000" stop="20260211T210000 +0000" channel="ppv 02">
+  <programme start="20260213T190000 +0000" stop="20260213T210000 +0000" channel="ppv 02">
     <title lang="en">EVENT 02: USAC National Sprints at Ocala starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -327,7 +327,7 @@
       <actor>USAC National Sprints at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260211T210000 +0000" stop="20260211T223000 +0000" channel="ppv 02">
+  <programme start="20260213T210000 +0000" stop="20260213T223000 +0000" channel="ppv 02">
     <title lang="en">EVENT 02: USAC National Sprints at Ocala starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -336,8 +336,8 @@
       <actor>USAC National Sprints at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260211T223000 +0000" stop="20260212T013000 +0000" channel="ppv 02">
-    <title lang="en">EVENT 02: USAC National Sprints at Ocala (2.11 5:30 PM ET)</title>
+  <programme start="20260213T223000 +0000" stop="20260214T013000 +0000" channel="ppv 02">
+    <title lang="en">EVENT 02: USAC National Sprints at Ocala (2.13 5:30 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -345,67 +345,373 @@
       <actor>USAC National Sprints at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260211T110000 +0000" stop="20260211T130000 +0000" channel="ppv 03">
-    <title lang="en">EVENT 03: Volusia Speedway Park starts at 5:15 PM ET</title>
+  <programme start="20260213T110000 +0000" stop="20260213T130000 +0000" channel="ppv 03">
+    <title lang="en">EVENT 03: KKM Challenge Series at Marion starts at 6:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>Volusia Speedway Park</actor>
+      <actor>KKM Challenge Series at Marion</actor>
     </credits>
   </programme>
-  <programme start="20260211T130000 +0000" stop="20260211T150000 +0000" channel="ppv 03">
-    <title lang="en">EVENT 03: Volusia Speedway Park starts at 5:15 PM ET</title>
+  <programme start="20260213T130000 +0000" stop="20260213T150000 +0000" channel="ppv 03">
+    <title lang="en">EVENT 03: KKM Challenge Series at Marion starts at 6:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>Volusia Speedway Park</actor>
+      <actor>KKM Challenge Series at Marion</actor>
     </credits>
   </programme>
-  <programme start="20260211T150000 +0000" stop="20260211T170000 +0000" channel="ppv 03">
-    <title lang="en">EVENT 03: Volusia Speedway Park starts at 5:15 PM ET</title>
+  <programme start="20260213T150000 +0000" stop="20260213T170000 +0000" channel="ppv 03">
+    <title lang="en">EVENT 03: KKM Challenge Series at Marion starts at 6:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>Volusia Speedway Park</actor>
+      <actor>KKM Challenge Series at Marion</actor>
     </credits>
   </programme>
-  <programme start="20260211T170000 +0000" stop="20260211T190000 +0000" channel="ppv 03">
-    <title lang="en">EVENT 03: Volusia Speedway Park starts at 5:15 PM ET</title>
+  <programme start="20260213T170000 +0000" stop="20260213T190000 +0000" channel="ppv 03">
+    <title lang="en">EVENT 03: KKM Challenge Series at Marion starts at 6:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>Volusia Speedway Park</actor>
+      <actor>KKM Challenge Series at Marion</actor>
     </credits>
   </programme>
-  <programme start="20260211T190000 +0000" stop="20260211T210000 +0000" channel="ppv 03">
-    <title lang="en">EVENT 03: Volusia Speedway Park starts at 5:15 PM ET</title>
+  <programme start="20260213T190000 +0000" stop="20260213T210000 +0000" channel="ppv 03">
+    <title lang="en">EVENT 03: KKM Challenge Series at Marion starts at 6:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>Volusia Speedway Park</actor>
+      <actor>KKM Challenge Series at Marion</actor>
     </credits>
   </programme>
-  <programme start="20260211T210000 +0000" stop="20260211T221500 +0000" channel="ppv 03">
-    <title lang="en">EVENT 03: Volusia Speedway Park starts at 5:15 PM ET</title>
+  <programme start="20260213T210000 +0000" stop="20260213T230000 +0000" channel="ppv 03">
+    <title lang="en">EVENT 03: KKM Challenge Series at Marion starts at 6:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>Volusia Speedway Park</actor>
+      <actor>KKM Challenge Series at Marion</actor>
     </credits>
   </programme>
-  <programme start="20260211T221500 +0000" stop="20260212T011500 +0000" channel="ppv 03">
-    <title lang="en">EVENT 03: Volusia Speedway Park (2.11 5:15 PM ET)</title>
+  <programme start="20260213T230000 +0000" stop="20260213T231500 +0000" channel="ppv 03">
+    <title lang="en">EVENT 03: KKM Challenge Series at Marion starts at 6:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>KKM Challenge Series at Marion</actor>
+    </credits>
+  </programme>
+  <programme start="20260213T231500 +0000" stop="20260214T021500 +0000" channel="ppv 03">
+    <title lang="en">EVENT 03: KKM Challenge Series at Marion (2.13 6:15 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
+      <actor>KKM Challenge Series at Marion</actor>
+    </credits>
+  </programme>
+  <programme start="20260213T110000 +0000" stop="20260213T130000 +0000" channel="ppv 04">
+    <title lang="en">EVENT 04: Volusia Speedway Park starts at 5:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
       <actor>Volusia Speedway Park</actor>
+    </credits>
+  </programme>
+  <programme start="20260213T130000 +0000" stop="20260213T150000 +0000" channel="ppv 04">
+    <title lang="en">EVENT 04: Volusia Speedway Park starts at 5:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>Volusia Speedway Park</actor>
+    </credits>
+  </programme>
+  <programme start="20260213T150000 +0000" stop="20260213T170000 +0000" channel="ppv 04">
+    <title lang="en">EVENT 04: Volusia Speedway Park starts at 5:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>Volusia Speedway Park</actor>
+    </credits>
+  </programme>
+  <programme start="20260213T170000 +0000" stop="20260213T190000 +0000" channel="ppv 04">
+    <title lang="en">EVENT 04: Volusia Speedway Park starts at 5:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>Volusia Speedway Park</actor>
+    </credits>
+  </programme>
+  <programme start="20260213T190000 +0000" stop="20260213T210000 +0000" channel="ppv 04">
+    <title lang="en">EVENT 04: Volusia Speedway Park starts at 5:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>Volusia Speedway Park</actor>
+    </credits>
+  </programme>
+  <programme start="20260213T210000 +0000" stop="20260213T221500 +0000" channel="ppv 04">
+    <title lang="en">EVENT 04: Volusia Speedway Park starts at 5:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>Volusia Speedway Park</actor>
+    </credits>
+  </programme>
+  <programme start="20260213T221500 +0000" stop="20260214T011500 +0000" channel="ppv 04">
+    <title lang="en">EVENT 04: Volusia Speedway Park (2.13 5:15 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>Volusia Speedway Park</actor>
+    </credits>
+  </programme>
+  <programme start="20260213T110000 +0000" stop="20260213T130000 +0000" channel="ppv 05">
+    <title lang="en">EVENT 05: TNA No Surrender starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>TNA No Surrender</actor>
+    </credits>
+  </programme>
+  <programme start="20260213T130000 +0000" stop="20260213T150000 +0000" channel="ppv 05">
+    <title lang="en">EVENT 05: TNA No Surrender starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>TNA No Surrender</actor>
+    </credits>
+  </programme>
+  <programme start="20260213T150000 +0000" stop="20260213T170000 +0000" channel="ppv 05">
+    <title lang="en">EVENT 05: TNA No Surrender starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>TNA No Surrender</actor>
+    </credits>
+  </programme>
+  <programme start="20260213T170000 +0000" stop="20260213T190000 +0000" channel="ppv 05">
+    <title lang="en">EVENT 05: TNA No Surrender starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>TNA No Surrender</actor>
+    </credits>
+  </programme>
+  <programme start="20260213T190000 +0000" stop="20260213T210000 +0000" channel="ppv 05">
+    <title lang="en">EVENT 05: TNA No Surrender starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>TNA No Surrender</actor>
+    </credits>
+  </programme>
+  <programme start="20260213T210000 +0000" stop="20260213T230000 +0000" channel="ppv 05">
+    <title lang="en">EVENT 05: TNA No Surrender starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>TNA No Surrender</actor>
+    </credits>
+  </programme>
+  <programme start="20260213T230000 +0000" stop="20260214T010000 +0000" channel="ppv 05">
+    <title lang="en">EVENT 05: TNA No Surrender starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>TNA No Surrender</actor>
+    </credits>
+  </programme>
+  <programme start="20260214T010000 +0000" stop="20260214T040000 +0000" channel="ppv 05">
+    <title lang="en">EVENT 05: TNA No Surrender (2.13 8:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>TNA No Surrender</actor>
+    </credits>
+  </programme>
+  <programme start="20260213T110000 +0000" stop="20260213T130000 +0000" channel="ppv 06">
+    <title lang="en">EVENT 06: Submission Hunter Pro 101 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>Submission Hunter Pro 101</actor>
+    </credits>
+  </programme>
+  <programme start="20260213T130000 +0000" stop="20260213T150000 +0000" channel="ppv 06">
+    <title lang="en">EVENT 06: Submission Hunter Pro 101 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>Submission Hunter Pro 101</actor>
+    </credits>
+  </programme>
+  <programme start="20260213T150000 +0000" stop="20260213T170000 +0000" channel="ppv 06">
+    <title lang="en">EVENT 06: Submission Hunter Pro 101 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>Submission Hunter Pro 101</actor>
+    </credits>
+  </programme>
+  <programme start="20260213T170000 +0000" stop="20260213T190000 +0000" channel="ppv 06">
+    <title lang="en">EVENT 06: Submission Hunter Pro 101 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>Submission Hunter Pro 101</actor>
+    </credits>
+  </programme>
+  <programme start="20260213T190000 +0000" stop="20260213T210000 +0000" channel="ppv 06">
+    <title lang="en">EVENT 06: Submission Hunter Pro 101 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>Submission Hunter Pro 101</actor>
+    </credits>
+  </programme>
+  <programme start="20260213T210000 +0000" stop="20260213T230000 +0000" channel="ppv 06">
+    <title lang="en">EVENT 06: Submission Hunter Pro 101 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>Submission Hunter Pro 101</actor>
+    </credits>
+  </programme>
+  <programme start="20260213T230000 +0000" stop="20260214T010000 +0000" channel="ppv 06">
+    <title lang="en">EVENT 06: Submission Hunter Pro 101 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>Submission Hunter Pro 101</actor>
+    </credits>
+  </programme>
+  <programme start="20260214T010000 +0000" stop="20260214T020000 +0000" channel="ppv 06">
+    <title lang="en">EVENT 06: Submission Hunter Pro 101 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>Submission Hunter Pro 101</actor>
+    </credits>
+  </programme>
+  <programme start="20260214T020000 +0000" stop="20260214T050000 +0000" channel="ppv 06">
+    <title lang="en">EVENT 06: Submission Hunter Pro 101 (2.13 9:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>Submission Hunter Pro 101</actor>
+    </credits>
+  </programme>
+  <programme start="20260213T110000 +0000" stop="20260213T130000 +0000" channel="ppv 07">
+    <title lang="en">EVENT 07: LUX 058 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>LUX 058</actor>
+    </credits>
+  </programme>
+  <programme start="20260213T130000 +0000" stop="20260213T150000 +0000" channel="ppv 07">
+    <title lang="en">EVENT 07: LUX 058 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>LUX 058</actor>
+    </credits>
+  </programme>
+  <programme start="20260213T150000 +0000" stop="20260213T170000 +0000" channel="ppv 07">
+    <title lang="en">EVENT 07: LUX 058 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>LUX 058</actor>
+    </credits>
+  </programme>
+  <programme start="20260213T170000 +0000" stop="20260213T190000 +0000" channel="ppv 07">
+    <title lang="en">EVENT 07: LUX 058 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>LUX 058</actor>
+    </credits>
+  </programme>
+  <programme start="20260213T190000 +0000" stop="20260213T210000 +0000" channel="ppv 07">
+    <title lang="en">EVENT 07: LUX 058 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>LUX 058</actor>
+    </credits>
+  </programme>
+  <programme start="20260213T210000 +0000" stop="20260213T230000 +0000" channel="ppv 07">
+    <title lang="en">EVENT 07: LUX 058 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>LUX 058</actor>
+    </credits>
+  </programme>
+  <programme start="20260213T230000 +0000" stop="20260214T010000 +0000" channel="ppv 07">
+    <title lang="en">EVENT 07: LUX 058 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>LUX 058</actor>
+    </credits>
+  </programme>
+  <programme start="20260214T010000 +0000" stop="20260214T030000 +0000" channel="ppv 07">
+    <title lang="en">EVENT 07: LUX 058 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>LUX 058</actor>
+    </credits>
+  </programme>
+  <programme start="20260214T030000 +0000" stop="20260214T060000 +0000" channel="ppv 07">
+    <title lang="en">EVENT 07: LUX 058 (2.13 10:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>LUX 058</actor>
     </credits>
   </programme>
 </tv>
