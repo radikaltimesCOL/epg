@@ -300,7 +300,7 @@
   <channel id="peacock 100">
     <display-name>PEACOCK 100</display-name>
   </channel>
-  <programme start="20260215T080500 +0000" stop="20260215T120500 +0000" channel="peacock 001">
+  <programme start="20260215080500 +0000" stop="20260215120500 +0000" channel="peacock 001">
     <title lang="en">NOR vs. ITA (M Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -310,7 +310,7 @@
       <actor>NOR vs. ITA (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T080505 +0000" stop="20260215T120505 +0000" channel="peacock 002">
+  <programme start="20260215080505 +0000" stop="20260215120505 +0000" channel="peacock 002">
     <title lang="en">GER vs. GBR (M Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -320,7 +320,7 @@
       <actor>GER vs. GBR (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T080510 +0000" stop="20260215T120510 +0000" channel="peacock 003">
+  <programme start="20260215080510 +0000" stop="20260215120510 +0000" channel="peacock 003">
     <title lang="en">USA vs. SWE (M Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -330,7 +330,7 @@
       <actor>USA vs. SWE (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T090000 +0000" stop="20260215T130000 +0000" channel="peacock 004">
+  <programme start="20260215090000 +0000" stop="20260215130000 +0000" channel="peacock 004">
     <title lang="en">Women`s Monobob: Run 1</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -340,7 +340,7 @@
       <actor>Women`s Monobob: Run 1</actor>
     </credits>
   </programme>
-  <programme start="20260215T090005 +0000" stop="20260215T130005 +0000" channel="peacock 005">
+  <programme start="20260215090005 +0000" stop="20260215130005 +0000" channel="peacock 005">
     <title lang="en">Milan Cortina 2026 Coverage</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -350,7 +350,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260215T091500 +0000" stop="20260215T131500 +0000" channel="peacock 006">
+  <programme start="20260215091500 +0000" stop="20260215131500 +0000" channel="peacock 006">
     <title lang="en">Men`s SB Slopestyle: Qual.</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -360,7 +360,7 @@
       <actor>Men`s SB Slopestyle: Qual.</actor>
     </credits>
   </programme>
-  <programme start="20260215T094000 +0000" stop="20260215T134000 +0000" channel="peacock 007">
+  <programme start="20260215094000 +0000" stop="20260215134000 +0000" channel="peacock 007">
     <title lang="en">On USA: Men`s Dual Moguls Finals</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -370,7 +370,7 @@
       <actor>On USA: Men`s Dual Moguls Finals</actor>
     </credits>
   </programme>
-  <programme start="20260215T101500 +0000" stop="20260215T141500 +0000" channel="peacock 008">
+  <programme start="20260215101500 +0000" stop="20260215141500 +0000" channel="peacock 008">
     <title lang="en">Men`s 12.5km Pursuit</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -380,7 +380,7 @@
       <actor>Men`s 12.5km Pursuit</actor>
     </credits>
   </programme>
-  <programme start="20260215T105000 +0000" stop="20260215T145000 +0000" channel="peacock 009">
+  <programme start="20260215105000 +0000" stop="20260215145000 +0000" channel="peacock 009">
     <title lang="en">Women`s Monobob: Run 2</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -390,7 +390,7 @@
       <actor>Women`s Monobob: Run 2</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T150000 +0000" channel="peacock 010">
+  <programme start="20260215110000 +0000" stop="20260215150000 +0000" channel="peacock 010">
     <title lang="en">Men`s 4x7.5km Relay</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -400,7 +400,7 @@
       <actor>Men`s 4x7.5km Relay</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T110005 +0000" channel="peacock 011">
+  <programme start="20260215110000 +0000" stop="20260215110005 +0000" channel="peacock 011">
     <title lang="en">On USA: Men`s 4x7.5km Relay starts at 6:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -409,7 +409,7 @@
       <actor>On USA: Men`s 4x7.5km Relay</actor>
     </credits>
   </programme>
-  <programme start="20260215T110005 +0000" stop="20260215T150005 +0000" channel="peacock 011">
+  <programme start="20260215110005 +0000" stop="20260215150005 +0000" channel="peacock 011">
     <title lang="en">On USA: Men`s 4x7.5km Relay</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -419,7 +419,7 @@
       <actor>On USA: Men`s 4x7.5km Relay</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T110010 +0000" channel="peacock 012">
+  <programme start="20260215110000 +0000" stop="20260215110010 +0000" channel="peacock 012">
     <title lang="en">Hockey &amp; Curling starts at 6:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -428,7 +428,7 @@
       <actor>Hockey &amp; Curling</actor>
     </credits>
   </programme>
-  <programme start="20260215T110010 +0000" stop="20260215T150010 +0000" channel="peacock 012">
+  <programme start="20260215110010 +0000" stop="20260215150010 +0000" channel="peacock 012">
     <title lang="en">Hockey &amp; Curling</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -438,7 +438,7 @@
       <actor>Hockey &amp; Curling</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T111000 +0000" channel="peacock 013">
+  <programme start="20260215110000 +0000" stop="20260215111000 +0000" channel="peacock 013">
     <title lang="en">SUI vs. CZE (M Group A) starts at 6:10 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -447,7 +447,7 @@
       <actor>SUI vs. CZE (M Group A)</actor>
     </credits>
   </programme>
-  <programme start="20260215T111000 +0000" stop="20260215T151000 +0000" channel="peacock 013">
+  <programme start="20260215111000 +0000" stop="20260215151000 +0000" channel="peacock 013">
     <title lang="en">SUI vs. CZE (M Group A)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -457,7 +457,7 @@
       <actor>SUI vs. CZE (M Group A)</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T120000 +0000" channel="peacock 014">
+  <programme start="20260215110000 +0000" stop="20260215120000 +0000" channel="peacock 014">
     <title lang="en">[4K] NBC: Alpine Skiing &amp; more starts at 7:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -466,7 +466,7 @@
       <actor>[4K] NBC: Alpine Skiing &amp; more</actor>
     </credits>
   </programme>
-  <programme start="20260215T120000 +0000" stop="20260215T160000 +0000" channel="peacock 014">
+  <programme start="20260215120000 +0000" stop="20260215160000 +0000" channel="peacock 014">
     <title lang="en">[4K] NBC: Alpine Skiing &amp; more</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -476,7 +476,7 @@
       <actor>[4K] NBC: Alpine Skiing &amp; more</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T123000 +0000" channel="peacock 015">
+  <programme start="20260215110000 +0000" stop="20260215123000 +0000" channel="peacock 015">
     <title lang="en">[4K] NBC: Women`s Giant Slalom Run 2 starts at 7:30 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -485,7 +485,7 @@
       <actor>[4K] NBC: Women`s Giant Slalom Run 2</actor>
     </credits>
   </programme>
-  <programme start="20260215T123000 +0000" stop="20260215T163000 +0000" channel="peacock 015">
+  <programme start="20260215123000 +0000" stop="20260215163000 +0000" channel="peacock 015">
     <title lang="en">[4K] NBC: Women`s Giant Slalom Run 2</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -495,7 +495,7 @@
       <actor>[4K] NBC: Women`s Giant Slalom Run 2</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T124500 +0000" channel="peacock 016">
+  <programme start="20260215110000 +0000" stop="20260215124500 +0000" channel="peacock 016">
     <title lang="en">Mixed Team SB Cross: Finals starts at 7:45 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -504,7 +504,7 @@
       <actor>Mixed Team SB Cross: Finals</actor>
     </credits>
   </programme>
-  <programme start="20260215T124500 +0000" stop="20260215T164500 +0000" channel="peacock 016">
+  <programme start="20260215124500 +0000" stop="20260215164500 +0000" channel="peacock 016">
     <title lang="en">Mixed Team SB Cross: Finals</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -514,7 +514,7 @@
       <actor>Mixed Team SB Cross: Finals</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 017">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 017">
     <title lang="en">Gold Zone: Day 9 starts at 8:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -523,7 +523,7 @@
       <actor>Gold Zone: Day 9</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T170000 +0000" channel="peacock 017">
+  <programme start="20260215130000 +0000" stop="20260215170000 +0000" channel="peacock 017">
     <title lang="en">Gold Zone: Day 9</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -533,7 +533,7 @@
       <actor>Gold Zone: Day 9</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 018">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 018">
     <title lang="en">JPN vs. KOR (W Round_Robin) starts at 8:05 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -542,7 +542,7 @@
       <actor>JPN vs. KOR (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T130500 +0000" channel="peacock 018">
+  <programme start="20260215130000 +0000" stop="20260215130500 +0000" channel="peacock 018">
     <title lang="en">JPN vs. KOR (W Round_Robin) starts at 8:05 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -551,7 +551,7 @@
       <actor>JPN vs. KOR (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T130500 +0000" stop="20260215T170500 +0000" channel="peacock 018">
+  <programme start="20260215130500 +0000" stop="20260215170500 +0000" channel="peacock 018">
     <title lang="en">JPN vs. KOR (W Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -561,7 +561,7 @@
       <actor>JPN vs. KOR (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 019">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 019">
     <title lang="en">DEN vs. ITA (W Round_Robin) starts at 8:05 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -570,7 +570,7 @@
       <actor>DEN vs. ITA (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T130505 +0000" channel="peacock 019">
+  <programme start="20260215130000 +0000" stop="20260215130505 +0000" channel="peacock 019">
     <title lang="en">DEN vs. ITA (W Round_Robin) starts at 8:05 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -579,7 +579,7 @@
       <actor>DEN vs. ITA (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T130505 +0000" stop="20260215T170505 +0000" channel="peacock 019">
+  <programme start="20260215130505 +0000" stop="20260215170505 +0000" channel="peacock 019">
     <title lang="en">DEN vs. ITA (W Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -589,7 +589,7 @@
       <actor>DEN vs. ITA (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 020">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 020">
     <title lang="en">USA vs. CHN (W Round_Robin) starts at 8:05 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -598,7 +598,7 @@
       <actor>USA vs. CHN (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T130510 +0000" channel="peacock 020">
+  <programme start="20260215130000 +0000" stop="20260215130510 +0000" channel="peacock 020">
     <title lang="en">USA vs. CHN (W Round_Robin) starts at 8:05 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -607,7 +607,7 @@
       <actor>USA vs. CHN (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T130510 +0000" stop="20260215T170510 +0000" channel="peacock 020">
+  <programme start="20260215130510 +0000" stop="20260215170510 +0000" channel="peacock 020">
     <title lang="en">USA vs. CHN (W Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -617,7 +617,7 @@
       <actor>USA vs. CHN (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 021">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 021">
     <title lang="en">GBR vs. SWE (W Round_Robin) starts at 8:05 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -626,7 +626,7 @@
       <actor>GBR vs. SWE (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T130515 +0000" channel="peacock 021">
+  <programme start="20260215130000 +0000" stop="20260215130515 +0000" channel="peacock 021">
     <title lang="en">GBR vs. SWE (W Round_Robin) starts at 8:05 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -635,7 +635,7 @@
       <actor>GBR vs. SWE (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T130515 +0000" stop="20260215T170515 +0000" channel="peacock 021">
+  <programme start="20260215130515 +0000" stop="20260215170515 +0000" channel="peacock 021">
     <title lang="en">GBR vs. SWE (W Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -645,7 +645,7 @@
       <actor>GBR vs. SWE (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 022">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 022">
     <title lang="en">Women`s SB Slopestyle: Qual. starts at 8:15 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -654,7 +654,7 @@
       <actor>Women`s SB Slopestyle: Qual.</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T131500 +0000" channel="peacock 022">
+  <programme start="20260215130000 +0000" stop="20260215131500 +0000" channel="peacock 022">
     <title lang="en">Women`s SB Slopestyle: Qual. starts at 8:15 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -663,7 +663,7 @@
       <actor>Women`s SB Slopestyle: Qual.</actor>
     </credits>
   </programme>
-  <programme start="20260215T131500 +0000" stop="20260215T171500 +0000" channel="peacock 022">
+  <programme start="20260215131500 +0000" stop="20260215171500 +0000" channel="peacock 022">
     <title lang="en">Women`s SB Slopestyle: Qual.</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -673,7 +673,7 @@
       <actor>Women`s SB Slopestyle: Qual.</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 023">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 023">
     <title lang="en">Women`s 10km Pursuit starts at 8:45 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -682,7 +682,7 @@
       <actor>Women`s 10km Pursuit</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T134500 +0000" channel="peacock 023">
+  <programme start="20260215130000 +0000" stop="20260215134500 +0000" channel="peacock 023">
     <title lang="en">Women`s 10km Pursuit starts at 8:45 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -691,7 +691,7 @@
       <actor>Women`s 10km Pursuit</actor>
     </credits>
   </programme>
-  <programme start="20260215T134500 +0000" stop="20260215T174500 +0000" channel="peacock 023">
+  <programme start="20260215134500 +0000" stop="20260215174500 +0000" channel="peacock 023">
     <title lang="en">Women`s 10km Pursuit</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -701,7 +701,7 @@
       <actor>Women`s 10km Pursuit</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 024">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 024">
     <title lang="en">[4K] Men`s Team Pursuit Qual. starts at 10:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -710,7 +710,7 @@
       <actor>[4K] Men`s Team Pursuit Qual.</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T150000 +0000" channel="peacock 024">
+  <programme start="20260215130000 +0000" stop="20260215150000 +0000" channel="peacock 024">
     <title lang="en">[4K] Men`s Team Pursuit Qual. starts at 10:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -719,7 +719,7 @@
       <actor>[4K] Men`s Team Pursuit Qual.</actor>
     </credits>
   </programme>
-  <programme start="20260215T150000 +0000" stop="20260215T190000 +0000" channel="peacock 024">
+  <programme start="20260215150000 +0000" stop="20260215190000 +0000" channel="peacock 024">
     <title lang="en">[4K] Men`s Team Pursuit Qual.</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -729,7 +729,7 @@
       <actor>[4K] Men`s Team Pursuit Qual.</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 025">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 025">
     <title lang="en">Wales v. France starts at 10:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -738,7 +738,7 @@
       <actor>Wales v. France</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T150000 +0000" channel="peacock 025">
+  <programme start="20260215130000 +0000" stop="20260215150000 +0000" channel="peacock 025">
     <title lang="en">Wales v. France starts at 10:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -747,7 +747,7 @@
       <actor>Wales v. France</actor>
     </credits>
   </programme>
-  <programme start="20260215T150000 +0000" stop="20260215T150005 +0000" channel="peacock 025">
+  <programme start="20260215150000 +0000" stop="20260215150005 +0000" channel="peacock 025">
     <title lang="en">Wales v. France starts at 10:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -756,7 +756,7 @@
       <actor>Wales v. France</actor>
     </credits>
   </programme>
-  <programme start="20260215T150005 +0000" stop="20260215T190005 +0000" channel="peacock 025">
+  <programme start="20260215150005 +0000" stop="20260215190005 +0000" channel="peacock 025">
     <title lang="en">Wales v. France</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -766,7 +766,7 @@
       <actor>Wales v. France</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 026">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 026">
     <title lang="en">Milan Cortina 2026 Coverage starts at 10:15 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -775,7 +775,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T150000 +0000" channel="peacock 026">
+  <programme start="20260215130000 +0000" stop="20260215150000 +0000" channel="peacock 026">
     <title lang="en">Milan Cortina 2026 Coverage starts at 10:15 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -784,7 +784,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260215T150000 +0000" stop="20260215T151500 +0000" channel="peacock 026">
+  <programme start="20260215150000 +0000" stop="20260215151500 +0000" channel="peacock 026">
     <title lang="en">Milan Cortina 2026 Coverage starts at 10:15 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -793,7 +793,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260215T151500 +0000" stop="20260215T191500 +0000" channel="peacock 026">
+  <programme start="20260215151500 +0000" stop="20260215191500 +0000" channel="peacock 026">
     <title lang="en">Milan Cortina 2026 Coverage</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -803,7 +803,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 027">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 027">
     <title lang="en">Figure Skating: Training starts at 10:20 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -812,7 +812,7 @@
       <actor>Figure Skating: Training</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T150000 +0000" channel="peacock 027">
+  <programme start="20260215130000 +0000" stop="20260215150000 +0000" channel="peacock 027">
     <title lang="en">Figure Skating: Training starts at 10:20 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -821,7 +821,7 @@
       <actor>Figure Skating: Training</actor>
     </credits>
   </programme>
-  <programme start="20260215T150000 +0000" stop="20260215T152000 +0000" channel="peacock 027">
+  <programme start="20260215150000 +0000" stop="20260215152000 +0000" channel="peacock 027">
     <title lang="en">Figure Skating: Training starts at 10:20 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -830,7 +830,7 @@
       <actor>Figure Skating: Training</actor>
     </credits>
   </programme>
-  <programme start="20260215T152000 +0000" stop="20260215T192000 +0000" channel="peacock 027">
+  <programme start="20260215152000 +0000" stop="20260215192000 +0000" channel="peacock 027">
     <title lang="en">Figure Skating: Training</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -840,7 +840,7 @@
       <actor>Figure Skating: Training</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 028">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 028">
     <title lang="en">CAN vs. FRA (M Group A) starts at 10:40 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -849,7 +849,7 @@
       <actor>CAN vs. FRA (M Group A)</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T150000 +0000" channel="peacock 028">
+  <programme start="20260215130000 +0000" stop="20260215150000 +0000" channel="peacock 028">
     <title lang="en">CAN vs. FRA (M Group A) starts at 10:40 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -858,7 +858,7 @@
       <actor>CAN vs. FRA (M Group A)</actor>
     </credits>
   </programme>
-  <programme start="20260215T150000 +0000" stop="20260215T154000 +0000" channel="peacock 028">
+  <programme start="20260215150000 +0000" stop="20260215154000 +0000" channel="peacock 028">
     <title lang="en">CAN vs. FRA (M Group A) starts at 10:40 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -867,7 +867,7 @@
       <actor>CAN vs. FRA (M Group A)</actor>
     </credits>
   </programme>
-  <programme start="20260215T154000 +0000" stop="20260215T194000 +0000" channel="peacock 028">
+  <programme start="20260215154000 +0000" stop="20260215194000 +0000" channel="peacock 028">
     <title lang="en">CAN vs. FRA (M Group A)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -877,7 +877,7 @@
       <actor>CAN vs. FRA (M Group A)</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 029">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 029">
     <title lang="en">Women`s 500m starts at 11:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -886,7 +886,7 @@
       <actor>Women`s 500m</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T150000 +0000" channel="peacock 029">
+  <programme start="20260215130000 +0000" stop="20260215150000 +0000" channel="peacock 029">
     <title lang="en">Women`s 500m starts at 11:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -895,7 +895,7 @@
       <actor>Women`s 500m</actor>
     </credits>
   </programme>
-  <programme start="20260215T150000 +0000" stop="20260215T160000 +0000" channel="peacock 029">
+  <programme start="20260215150000 +0000" stop="20260215160000 +0000" channel="peacock 029">
     <title lang="en">Women`s 500m starts at 11:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -904,7 +904,7 @@
       <actor>Women`s 500m</actor>
     </credits>
   </programme>
-  <programme start="20260215T160000 +0000" stop="20260215T200000 +0000" channel="peacock 029">
+  <programme start="20260215160000 +0000" stop="20260215200000 +0000" channel="peacock 029">
     <title lang="en">Women`s 500m</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -914,7 +914,7 @@
       <actor>Women`s 500m</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 030">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 030">
     <title lang="en">[4K] NBC: Speed Skating_ Skeleton &amp; more starts at 11:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -923,7 +923,7 @@
       <actor>[4K] NBC: Speed Skating_ Skeleton &amp; more</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T150000 +0000" channel="peacock 030">
+  <programme start="20260215130000 +0000" stop="20260215150000 +0000" channel="peacock 030">
     <title lang="en">[4K] NBC: Speed Skating_ Skeleton &amp; more starts at 11:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -932,7 +932,7 @@
       <actor>[4K] NBC: Speed Skating_ Skeleton &amp; more</actor>
     </credits>
   </programme>
-  <programme start="20260215T150000 +0000" stop="20260215T160005 +0000" channel="peacock 030">
+  <programme start="20260215150000 +0000" stop="20260215160005 +0000" channel="peacock 030">
     <title lang="en">[4K] NBC: Speed Skating_ Skeleton &amp; more starts at 11:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -941,7 +941,7 @@
       <actor>[4K] NBC: Speed Skating_ Skeleton &amp; more</actor>
     </credits>
   </programme>
-  <programme start="20260215T160005 +0000" stop="20260215T200005 +0000" channel="peacock 030">
+  <programme start="20260215160005 +0000" stop="20260215200005 +0000" channel="peacock 030">
     <title lang="en">[4K] NBC: Speed Skating_ Skeleton &amp; more</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -951,7 +951,7 @@
       <actor>[4K] NBC: Speed Skating_ Skeleton &amp; more</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 031">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 031">
     <title lang="en">Pairs Short: Warm_Up starts at 11:20 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -960,7 +960,7 @@
       <actor>Pairs Short: Warm_Up</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T150000 +0000" channel="peacock 031">
+  <programme start="20260215130000 +0000" stop="20260215150000 +0000" channel="peacock 031">
     <title lang="en">Pairs Short: Warm_Up starts at 11:20 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -969,7 +969,7 @@
       <actor>Pairs Short: Warm_Up</actor>
     </credits>
   </programme>
-  <programme start="20260215T150000 +0000" stop="20260215T162000 +0000" channel="peacock 031">
+  <programme start="20260215150000 +0000" stop="20260215162000 +0000" channel="peacock 031">
     <title lang="en">Pairs Short: Warm_Up starts at 11:20 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -978,7 +978,7 @@
       <actor>Pairs Short: Warm_Up</actor>
     </credits>
   </programme>
-  <programme start="20260215T162000 +0000" stop="20260215T202000 +0000" channel="peacock 031">
+  <programme start="20260215162000 +0000" stop="20260215202000 +0000" channel="peacock 031">
     <title lang="en">Pairs Short: Warm_Up</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -988,7 +988,7 @@
       <actor>Pairs Short: Warm_Up</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 032">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 032">
     <title lang="en">Women`s Large Hill starts at 11:35 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -997,7 +997,7 @@
       <actor>Women`s Large Hill</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T150000 +0000" channel="peacock 032">
+  <programme start="20260215130000 +0000" stop="20260215150000 +0000" channel="peacock 032">
     <title lang="en">Women`s Large Hill starts at 11:35 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1006,7 +1006,7 @@
       <actor>Women`s Large Hill</actor>
     </credits>
   </programme>
-  <programme start="20260215T150000 +0000" stop="20260215T163500 +0000" channel="peacock 032">
+  <programme start="20260215150000 +0000" stop="20260215163500 +0000" channel="peacock 032">
     <title lang="en">Women`s Large Hill starts at 11:35 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1015,7 +1015,7 @@
       <actor>Women`s Large Hill</actor>
     </credits>
   </programme>
-  <programme start="20260215T163500 +0000" stop="20260215T203500 +0000" channel="peacock 032">
+  <programme start="20260215163500 +0000" stop="20260215203500 +0000" channel="peacock 032">
     <title lang="en">Women`s Large Hill</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -1025,7 +1025,7 @@
       <actor>Women`s Large Hill</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 033">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 033">
     <title lang="en">Skeleton Mixed Team Event starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1034,7 +1034,7 @@
       <actor>Skeleton Mixed Team Event</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T150000 +0000" channel="peacock 033">
+  <programme start="20260215130000 +0000" stop="20260215150000 +0000" channel="peacock 033">
     <title lang="en">Skeleton Mixed Team Event starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1043,7 +1043,7 @@
       <actor>Skeleton Mixed Team Event</actor>
     </credits>
   </programme>
-  <programme start="20260215T150000 +0000" stop="20260215T170000 +0000" channel="peacock 033">
+  <programme start="20260215150000 +0000" stop="20260215170000 +0000" channel="peacock 033">
     <title lang="en">Skeleton Mixed Team Event starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1052,7 +1052,7 @@
       <actor>Skeleton Mixed Team Event</actor>
     </credits>
   </programme>
-  <programme start="20260215T170000 +0000" stop="20260215T210000 +0000" channel="peacock 033">
+  <programme start="20260215170000 +0000" stop="20260215210000 +0000" channel="peacock 033">
     <title lang="en">Skeleton Mixed Team Event</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -1062,7 +1062,7 @@
       <actor>Skeleton Mixed Team Event</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 034">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 034">
     <title lang="en">Hockey &amp; Curling starts at 1:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1071,7 +1071,7 @@
       <actor>Hockey &amp; Curling</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T150000 +0000" channel="peacock 034">
+  <programme start="20260215130000 +0000" stop="20260215150000 +0000" channel="peacock 034">
     <title lang="en">Hockey &amp; Curling starts at 1:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1080,7 +1080,7 @@
       <actor>Hockey &amp; Curling</actor>
     </credits>
   </programme>
-  <programme start="20260215T150000 +0000" stop="20260215T170000 +0000" channel="peacock 034">
+  <programme start="20260215150000 +0000" stop="20260215170000 +0000" channel="peacock 034">
     <title lang="en">Hockey &amp; Curling starts at 1:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1089,7 +1089,7 @@
       <actor>Hockey &amp; Curling</actor>
     </credits>
   </programme>
-  <programme start="20260215T170000 +0000" stop="20260215T180000 +0000" channel="peacock 034">
+  <programme start="20260215170000 +0000" stop="20260215180000 +0000" channel="peacock 034">
     <title lang="en">Hockey &amp; Curling starts at 1:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1098,7 +1098,7 @@
       <actor>Hockey &amp; Curling</actor>
     </credits>
   </programme>
-  <programme start="20260215T180000 +0000" stop="20260215T220000 +0000" channel="peacock 034">
+  <programme start="20260215180000 +0000" stop="20260215220000 +0000" channel="peacock 034">
     <title lang="en">Hockey &amp; Curling</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -1108,7 +1108,7 @@
       <actor>Hockey &amp; Curling</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 035">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 035">
     <title lang="en">ITA vs. CZE (M Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1117,7 +1117,7 @@
       <actor>ITA vs. CZE (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T150000 +0000" channel="peacock 035">
+  <programme start="20260215130000 +0000" stop="20260215150000 +0000" channel="peacock 035">
     <title lang="en">ITA vs. CZE (M Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1126,7 +1126,7 @@
       <actor>ITA vs. CZE (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T150000 +0000" stop="20260215T170000 +0000" channel="peacock 035">
+  <programme start="20260215150000 +0000" stop="20260215170000 +0000" channel="peacock 035">
     <title lang="en">ITA vs. CZE (M Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1135,7 +1135,7 @@
       <actor>ITA vs. CZE (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T170000 +0000" stop="20260215T180500 +0000" channel="peacock 035">
+  <programme start="20260215170000 +0000" stop="20260215180500 +0000" channel="peacock 035">
     <title lang="en">ITA vs. CZE (M Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1144,7 +1144,7 @@
       <actor>ITA vs. CZE (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T180500 +0000" stop="20260215T220500 +0000" channel="peacock 035">
+  <programme start="20260215180500 +0000" stop="20260215220500 +0000" channel="peacock 035">
     <title lang="en">ITA vs. CZE (M Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -1154,7 +1154,7 @@
       <actor>ITA vs. CZE (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 036">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 036">
     <title lang="en">GBR vs. SUI (M Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1163,7 +1163,7 @@
       <actor>GBR vs. SUI (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T150000 +0000" channel="peacock 036">
+  <programme start="20260215130000 +0000" stop="20260215150000 +0000" channel="peacock 036">
     <title lang="en">GBR vs. SUI (M Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1172,7 +1172,7 @@
       <actor>GBR vs. SUI (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T150000 +0000" stop="20260215T170000 +0000" channel="peacock 036">
+  <programme start="20260215150000 +0000" stop="20260215170000 +0000" channel="peacock 036">
     <title lang="en">GBR vs. SUI (M Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1181,7 +1181,7 @@
       <actor>GBR vs. SUI (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T170000 +0000" stop="20260215T180505 +0000" channel="peacock 036">
+  <programme start="20260215170000 +0000" stop="20260215180505 +0000" channel="peacock 036">
     <title lang="en">GBR vs. SUI (M Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1190,7 +1190,7 @@
       <actor>GBR vs. SUI (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T180505 +0000" stop="20260215T220505 +0000" channel="peacock 036">
+  <programme start="20260215180505 +0000" stop="20260215220505 +0000" channel="peacock 036">
     <title lang="en">GBR vs. SUI (M Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -1200,7 +1200,7 @@
       <actor>GBR vs. SUI (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 037">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 037">
     <title lang="en">CHN vs. CAN (M Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1209,7 +1209,7 @@
       <actor>CHN vs. CAN (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T150000 +0000" channel="peacock 037">
+  <programme start="20260215130000 +0000" stop="20260215150000 +0000" channel="peacock 037">
     <title lang="en">CHN vs. CAN (M Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1218,7 +1218,7 @@
       <actor>CHN vs. CAN (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T150000 +0000" stop="20260215T170000 +0000" channel="peacock 037">
+  <programme start="20260215150000 +0000" stop="20260215170000 +0000" channel="peacock 037">
     <title lang="en">CHN vs. CAN (M Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1227,7 +1227,7 @@
       <actor>CHN vs. CAN (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T170000 +0000" stop="20260215T180510 +0000" channel="peacock 037">
+  <programme start="20260215170000 +0000" stop="20260215180510 +0000" channel="peacock 037">
     <title lang="en">CHN vs. CAN (M Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1236,7 +1236,7 @@
       <actor>CHN vs. CAN (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T180510 +0000" stop="20260215T220510 +0000" channel="peacock 037">
+  <programme start="20260215180510 +0000" stop="20260215220510 +0000" channel="peacock 037">
     <title lang="en">CHN vs. CAN (M Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -1246,7 +1246,7 @@
       <actor>CHN vs. CAN (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 038">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 038">
     <title lang="en">NOR vs. USA (M Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1255,7 +1255,7 @@
       <actor>NOR vs. USA (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T150000 +0000" channel="peacock 038">
+  <programme start="20260215130000 +0000" stop="20260215150000 +0000" channel="peacock 038">
     <title lang="en">NOR vs. USA (M Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1264,7 +1264,7 @@
       <actor>NOR vs. USA (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T150000 +0000" stop="20260215T170000 +0000" channel="peacock 038">
+  <programme start="20260215150000 +0000" stop="20260215170000 +0000" channel="peacock 038">
     <title lang="en">NOR vs. USA (M Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1273,7 +1273,7 @@
       <actor>NOR vs. USA (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T170000 +0000" stop="20260215T180515 +0000" channel="peacock 038">
+  <programme start="20260215170000 +0000" stop="20260215180515 +0000" channel="peacock 038">
     <title lang="en">NOR vs. USA (M Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1282,7 +1282,7 @@
       <actor>NOR vs. USA (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T180515 +0000" stop="20260215T220515 +0000" channel="peacock 038">
+  <programme start="20260215180515 +0000" stop="20260215220515 +0000" channel="peacock 038">
     <title lang="en">NOR vs. USA (M Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -1292,7 +1292,7 @@
       <actor>NOR vs. USA (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 039">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 039">
     <title lang="en">DEN vs. LAT (M Group C) starts at 1:10 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1301,7 +1301,7 @@
       <actor>DEN vs. LAT (M Group C)</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T150000 +0000" channel="peacock 039">
+  <programme start="20260215130000 +0000" stop="20260215150000 +0000" channel="peacock 039">
     <title lang="en">DEN vs. LAT (M Group C) starts at 1:10 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1310,7 +1310,7 @@
       <actor>DEN vs. LAT (M Group C)</actor>
     </credits>
   </programme>
-  <programme start="20260215T150000 +0000" stop="20260215T170000 +0000" channel="peacock 039">
+  <programme start="20260215150000 +0000" stop="20260215170000 +0000" channel="peacock 039">
     <title lang="en">DEN vs. LAT (M Group C) starts at 1:10 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1319,7 +1319,7 @@
       <actor>DEN vs. LAT (M Group C)</actor>
     </credits>
   </programme>
-  <programme start="20260215T170000 +0000" stop="20260215T181000 +0000" channel="peacock 039">
+  <programme start="20260215170000 +0000" stop="20260215181000 +0000" channel="peacock 039">
     <title lang="en">DEN vs. LAT (M Group C) starts at 1:10 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1328,7 +1328,7 @@
       <actor>DEN vs. LAT (M Group C)</actor>
     </credits>
   </programme>
-  <programme start="20260215T181000 +0000" stop="20260215T221000 +0000" channel="peacock 039">
+  <programme start="20260215181000 +0000" stop="20260215221000 +0000" channel="peacock 039">
     <title lang="en">DEN vs. LAT (M Group C)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -1338,7 +1338,7 @@
       <actor>DEN vs. LAT (M Group C)</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 040">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 040">
     <title lang="en">Men`s Ski Big Air: Qual. starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1347,7 +1347,7 @@
       <actor>Men`s Ski Big Air: Qual.</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T150000 +0000" channel="peacock 040">
+  <programme start="20260215130000 +0000" stop="20260215150000 +0000" channel="peacock 040">
     <title lang="en">Men`s Ski Big Air: Qual. starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1356,7 +1356,7 @@
       <actor>Men`s Ski Big Air: Qual.</actor>
     </credits>
   </programme>
-  <programme start="20260215T150000 +0000" stop="20260215T170000 +0000" channel="peacock 040">
+  <programme start="20260215150000 +0000" stop="20260215170000 +0000" channel="peacock 040">
     <title lang="en">Men`s Ski Big Air: Qual. starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1365,7 +1365,7 @@
       <actor>Men`s Ski Big Air: Qual.</actor>
     </credits>
   </programme>
-  <programme start="20260215T170000 +0000" stop="20260215T183000 +0000" channel="peacock 040">
+  <programme start="20260215170000 +0000" stop="20260215183000 +0000" channel="peacock 040">
     <title lang="en">Men`s Ski Big Air: Qual. starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1374,7 +1374,7 @@
       <actor>Men`s Ski Big Air: Qual.</actor>
     </credits>
   </programme>
-  <programme start="20260215T183000 +0000" stop="20260215T223000 +0000" channel="peacock 040">
+  <programme start="20260215183000 +0000" stop="20260215223000 +0000" channel="peacock 040">
     <title lang="en">Men`s Ski Big Air: Qual.</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -1384,7 +1384,7 @@
       <actor>Men`s Ski Big Air: Qual.</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 041">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 041">
     <title lang="en">On USA: Pairs Short (Part 1) starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1393,7 +1393,7 @@
       <actor>On USA: Pairs Short (Part 1)</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T150000 +0000" channel="peacock 041">
+  <programme start="20260215130000 +0000" stop="20260215150000 +0000" channel="peacock 041">
     <title lang="en">On USA: Pairs Short (Part 1) starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1402,7 +1402,7 @@
       <actor>On USA: Pairs Short (Part 1)</actor>
     </credits>
   </programme>
-  <programme start="20260215T150000 +0000" stop="20260215T170000 +0000" channel="peacock 041">
+  <programme start="20260215150000 +0000" stop="20260215170000 +0000" channel="peacock 041">
     <title lang="en">On USA: Pairs Short (Part 1) starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1411,7 +1411,7 @@
       <actor>On USA: Pairs Short (Part 1)</actor>
     </credits>
   </programme>
-  <programme start="20260215T170000 +0000" stop="20260215T183005 +0000" channel="peacock 041">
+  <programme start="20260215170000 +0000" stop="20260215183005 +0000" channel="peacock 041">
     <title lang="en">On USA: Pairs Short (Part 1) starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1420,7 +1420,7 @@
       <actor>On USA: Pairs Short (Part 1)</actor>
     </credits>
   </programme>
-  <programme start="20260215T183005 +0000" stop="20260215T223005 +0000" channel="peacock 041">
+  <programme start="20260215183005 +0000" stop="20260215223005 +0000" channel="peacock 041">
     <title lang="en">On USA: Pairs Short (Part 1)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -1430,7 +1430,7 @@
       <actor>On USA: Pairs Short (Part 1)</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 042">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 042">
     <title lang="en">Milan Cortina 2026 Coverage starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1439,7 +1439,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T150000 +0000" channel="peacock 042">
+  <programme start="20260215130000 +0000" stop="20260215150000 +0000" channel="peacock 042">
     <title lang="en">Milan Cortina 2026 Coverage starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1448,7 +1448,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260215T150000 +0000" stop="20260215T170000 +0000" channel="peacock 042">
+  <programme start="20260215150000 +0000" stop="20260215170000 +0000" channel="peacock 042">
     <title lang="en">Milan Cortina 2026 Coverage starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1457,7 +1457,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260215T170000 +0000" stop="20260215T183010 +0000" channel="peacock 042">
+  <programme start="20260215170000 +0000" stop="20260215183010 +0000" channel="peacock 042">
     <title lang="en">Milan Cortina 2026 Coverage starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1466,7 +1466,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260215T183010 +0000" stop="20260215T223010 +0000" channel="peacock 042">
+  <programme start="20260215183010 +0000" stop="20260215223010 +0000" channel="peacock 042">
     <title lang="en">Milan Cortina 2026 Coverage</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -1476,7 +1476,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 043">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 043">
     <title lang="en">[4K] NBC: Pairs Short (Part 2) starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1485,7 +1485,7 @@
       <actor>[4K] NBC: Pairs Short (Part 2)</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T150000 +0000" channel="peacock 043">
+  <programme start="20260215130000 +0000" stop="20260215150000 +0000" channel="peacock 043">
     <title lang="en">[4K] NBC: Pairs Short (Part 2) starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1494,7 +1494,7 @@
       <actor>[4K] NBC: Pairs Short (Part 2)</actor>
     </credits>
   </programme>
-  <programme start="20260215T150000 +0000" stop="20260215T170000 +0000" channel="peacock 043">
+  <programme start="20260215150000 +0000" stop="20260215170000 +0000" channel="peacock 043">
     <title lang="en">[4K] NBC: Pairs Short (Part 2) starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1503,7 +1503,7 @@
       <actor>[4K] NBC: Pairs Short (Part 2)</actor>
     </credits>
   </programme>
-  <programme start="20260215T170000 +0000" stop="20260215T190000 +0000" channel="peacock 043">
+  <programme start="20260215170000 +0000" stop="20260215190000 +0000" channel="peacock 043">
     <title lang="en">[4K] NBC: Pairs Short (Part 2) starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1512,7 +1512,7 @@
       <actor>[4K] NBC: Pairs Short (Part 2)</actor>
     </credits>
   </programme>
-  <programme start="20260215T190000 +0000" stop="20260215T200000 +0000" channel="peacock 043">
+  <programme start="20260215190000 +0000" stop="20260215200000 +0000" channel="peacock 043">
     <title lang="en">[4K] NBC: Pairs Short (Part 2) starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1521,7 +1521,7 @@
       <actor>[4K] NBC: Pairs Short (Part 2)</actor>
     </credits>
   </programme>
-  <programme start="20260215T200000 +0000" stop="20260216T000000 +0000" channel="peacock 043">
+  <programme start="20260215200000 +0000" stop="20260216000000 +0000" channel="peacock 043">
     <title lang="en">[4K] NBC: Pairs Short (Part 2)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -1531,7 +1531,7 @@
       <actor>[4K] NBC: Pairs Short (Part 2)</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 044">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 044">
     <title lang="en">Indiana vs. UCLA starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1540,7 +1540,7 @@
       <actor>Indiana vs. UCLA</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T150000 +0000" channel="peacock 044">
+  <programme start="20260215130000 +0000" stop="20260215150000 +0000" channel="peacock 044">
     <title lang="en">Indiana vs. UCLA starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1549,7 +1549,7 @@
       <actor>Indiana vs. UCLA</actor>
     </credits>
   </programme>
-  <programme start="20260215T150000 +0000" stop="20260215T170000 +0000" channel="peacock 044">
+  <programme start="20260215150000 +0000" stop="20260215170000 +0000" channel="peacock 044">
     <title lang="en">Indiana vs. UCLA starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1558,7 +1558,7 @@
       <actor>Indiana vs. UCLA</actor>
     </credits>
   </programme>
-  <programme start="20260215T170000 +0000" stop="20260215T190000 +0000" channel="peacock 044">
+  <programme start="20260215170000 +0000" stop="20260215190000 +0000" channel="peacock 044">
     <title lang="en">Indiana vs. UCLA starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1567,7 +1567,7 @@
       <actor>Indiana vs. UCLA</actor>
     </credits>
   </programme>
-  <programme start="20260215T190000 +0000" stop="20260215T200005 +0000" channel="peacock 044">
+  <programme start="20260215190000 +0000" stop="20260215200005 +0000" channel="peacock 044">
     <title lang="en">Indiana vs. UCLA starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1576,7 +1576,7 @@
       <actor>Indiana vs. UCLA</actor>
     </credits>
   </programme>
-  <programme start="20260215T200005 +0000" stop="20260216T000005 +0000" channel="peacock 044">
+  <programme start="20260215200005 +0000" stop="20260216000005 +0000" channel="peacock 044">
     <title lang="en">Indiana vs. UCLA</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -1586,7 +1586,7 @@
       <actor>Indiana vs. UCLA</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 045">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 045">
     <title lang="en">USA vs. GER (M Group C) starts at 3:10 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1595,7 +1595,7 @@
       <actor>USA vs. GER (M Group C)</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T150000 +0000" channel="peacock 045">
+  <programme start="20260215130000 +0000" stop="20260215150000 +0000" channel="peacock 045">
     <title lang="en">USA vs. GER (M Group C) starts at 3:10 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1604,7 +1604,7 @@
       <actor>USA vs. GER (M Group C)</actor>
     </credits>
   </programme>
-  <programme start="20260215T150000 +0000" stop="20260215T170000 +0000" channel="peacock 045">
+  <programme start="20260215150000 +0000" stop="20260215170000 +0000" channel="peacock 045">
     <title lang="en">USA vs. GER (M Group C) starts at 3:10 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1613,7 +1613,7 @@
       <actor>USA vs. GER (M Group C)</actor>
     </credits>
   </programme>
-  <programme start="20260215T170000 +0000" stop="20260215T190000 +0000" channel="peacock 045">
+  <programme start="20260215170000 +0000" stop="20260215190000 +0000" channel="peacock 045">
     <title lang="en">USA vs. GER (M Group C) starts at 3:10 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1622,7 +1622,7 @@
       <actor>USA vs. GER (M Group C)</actor>
     </credits>
   </programme>
-  <programme start="20260215T190000 +0000" stop="20260215T201000 +0000" channel="peacock 045">
+  <programme start="20260215190000 +0000" stop="20260215201000 +0000" channel="peacock 045">
     <title lang="en">USA vs. GER (M Group C) starts at 3:10 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1631,7 +1631,7 @@
       <actor>USA vs. GER (M Group C)</actor>
     </credits>
   </programme>
-  <programme start="20260215T201000 +0000" stop="20260216T001000 +0000" channel="peacock 045">
+  <programme start="20260215201000 +0000" stop="20260216001000 +0000" channel="peacock 045">
     <title lang="en">USA vs. GER (M Group C)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -1641,7 +1641,7 @@
       <actor>USA vs. GER (M Group C)</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 046">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 046">
     <title lang="en">NBA All_Star Game (Español) starts at 4:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1650,7 +1650,7 @@
       <actor>NBA All_Star Game (Español)</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T150000 +0000" channel="peacock 046">
+  <programme start="20260215130000 +0000" stop="20260215150000 +0000" channel="peacock 046">
     <title lang="en">NBA All_Star Game (Español) starts at 4:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1659,7 +1659,7 @@
       <actor>NBA All_Star Game (Español)</actor>
     </credits>
   </programme>
-  <programme start="20260215T150000 +0000" stop="20260215T170000 +0000" channel="peacock 046">
+  <programme start="20260215150000 +0000" stop="20260215170000 +0000" channel="peacock 046">
     <title lang="en">NBA All_Star Game (Español) starts at 4:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1668,7 +1668,7 @@
       <actor>NBA All_Star Game (Español)</actor>
     </credits>
   </programme>
-  <programme start="20260215T170000 +0000" stop="20260215T190000 +0000" channel="peacock 046">
+  <programme start="20260215170000 +0000" stop="20260215190000 +0000" channel="peacock 046">
     <title lang="en">NBA All_Star Game (Español) starts at 4:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1677,7 +1677,7 @@
       <actor>NBA All_Star Game (Español)</actor>
     </credits>
   </programme>
-  <programme start="20260215T190000 +0000" stop="20260215T210000 +0000" channel="peacock 046">
+  <programme start="20260215190000 +0000" stop="20260215210000 +0000" channel="peacock 046">
     <title lang="en">NBA All_Star Game (Español) starts at 4:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1686,7 +1686,7 @@
       <actor>NBA All_Star Game (Español)</actor>
     </credits>
   </programme>
-  <programme start="20260215T210000 +0000" stop="20260215T213000 +0000" channel="peacock 046">
+  <programme start="20260215210000 +0000" stop="20260215213000 +0000" channel="peacock 046">
     <title lang="en">NBA All_Star Game (Español) starts at 4:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1695,7 +1695,7 @@
       <actor>NBA All_Star Game (Español)</actor>
     </credits>
   </programme>
-  <programme start="20260215T213000 +0000" stop="20260216T013000 +0000" channel="peacock 046">
+  <programme start="20260215213000 +0000" stop="20260216013000 +0000" channel="peacock 046">
     <title lang="en">NBA All_Star Game (Español)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -1705,7 +1705,7 @@
       <actor>NBA All_Star Game (Español)</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 047">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 047">
     <title lang="en">NBA All_Star Game starts at 4:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1714,7 +1714,7 @@
       <actor>NBA All_Star Game</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T150000 +0000" channel="peacock 047">
+  <programme start="20260215130000 +0000" stop="20260215150000 +0000" channel="peacock 047">
     <title lang="en">NBA All_Star Game starts at 4:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1723,7 +1723,7 @@
       <actor>NBA All_Star Game</actor>
     </credits>
   </programme>
-  <programme start="20260215T150000 +0000" stop="20260215T170000 +0000" channel="peacock 047">
+  <programme start="20260215150000 +0000" stop="20260215170000 +0000" channel="peacock 047">
     <title lang="en">NBA All_Star Game starts at 4:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1732,7 +1732,7 @@
       <actor>NBA All_Star Game</actor>
     </credits>
   </programme>
-  <programme start="20260215T170000 +0000" stop="20260215T190000 +0000" channel="peacock 047">
+  <programme start="20260215170000 +0000" stop="20260215190000 +0000" channel="peacock 047">
     <title lang="en">NBA All_Star Game starts at 4:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1741,7 +1741,7 @@
       <actor>NBA All_Star Game</actor>
     </credits>
   </programme>
-  <programme start="20260215T190000 +0000" stop="20260215T210000 +0000" channel="peacock 047">
+  <programme start="20260215190000 +0000" stop="20260215210000 +0000" channel="peacock 047">
     <title lang="en">NBA All_Star Game starts at 4:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1750,7 +1750,7 @@
       <actor>NBA All_Star Game</actor>
     </credits>
   </programme>
-  <programme start="20260215T210000 +0000" stop="20260215T213005 +0000" channel="peacock 047">
+  <programme start="20260215210000 +0000" stop="20260215213005 +0000" channel="peacock 047">
     <title lang="en">NBA All_Star Game starts at 4:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1759,7 +1759,7 @@
       <actor>NBA All_Star Game</actor>
     </credits>
   </programme>
-  <programme start="20260215T213005 +0000" stop="20260216T013005 +0000" channel="peacock 047">
+  <programme start="20260215213005 +0000" stop="20260216013005 +0000" channel="peacock 047">
     <title lang="en">NBA All_Star Game</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -1769,7 +1769,7 @@
       <actor>NBA All_Star Game</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 048">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 048">
     <title lang="en">Hockey &amp; Curling starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1778,7 +1778,7 @@
       <actor>Hockey &amp; Curling</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T150000 +0000" channel="peacock 048">
+  <programme start="20260215130000 +0000" stop="20260215150000 +0000" channel="peacock 048">
     <title lang="en">Hockey &amp; Curling starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1787,7 +1787,7 @@
       <actor>Hockey &amp; Curling</actor>
     </credits>
   </programme>
-  <programme start="20260215T150000 +0000" stop="20260215T170000 +0000" channel="peacock 048">
+  <programme start="20260215150000 +0000" stop="20260215170000 +0000" channel="peacock 048">
     <title lang="en">Hockey &amp; Curling starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1796,7 +1796,7 @@
       <actor>Hockey &amp; Curling</actor>
     </credits>
   </programme>
-  <programme start="20260215T170000 +0000" stop="20260215T190000 +0000" channel="peacock 048">
+  <programme start="20260215170000 +0000" stop="20260215190000 +0000" channel="peacock 048">
     <title lang="en">Hockey &amp; Curling starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1805,7 +1805,7 @@
       <actor>Hockey &amp; Curling</actor>
     </credits>
   </programme>
-  <programme start="20260215T190000 +0000" stop="20260215T210000 +0000" channel="peacock 048">
+  <programme start="20260215190000 +0000" stop="20260215210000 +0000" channel="peacock 048">
     <title lang="en">Hockey &amp; Curling starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1814,7 +1814,7 @@
       <actor>Hockey &amp; Curling</actor>
     </credits>
   </programme>
-  <programme start="20260215T210000 +0000" stop="20260215T230000 +0000" channel="peacock 048">
+  <programme start="20260215210000 +0000" stop="20260215230000 +0000" channel="peacock 048">
     <title lang="en">Hockey &amp; Curling starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1823,7 +1823,7 @@
       <actor>Hockey &amp; Curling</actor>
     </credits>
   </programme>
-  <programme start="20260215T230000 +0000" stop="20260216T030000 +0000" channel="peacock 048">
+  <programme start="20260215230000 +0000" stop="20260216030000 +0000" channel="peacock 048">
     <title lang="en">Hockey &amp; Curling</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -1833,7 +1833,7 @@
       <actor>Hockey &amp; Curling</actor>
     </credits>
   </programme>
-  <programme start="20260215T110000 +0000" stop="20260215T130000 +0000" channel="peacock 049">
+  <programme start="20260215110000 +0000" stop="20260215130000 +0000" channel="peacock 049">
     <title lang="en">Milan Cortina 2026 Coverage starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1842,7 +1842,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260215T130000 +0000" stop="20260215T150000 +0000" channel="peacock 049">
+  <programme start="20260215130000 +0000" stop="20260215150000 +0000" channel="peacock 049">
     <title lang="en">Milan Cortina 2026 Coverage starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1851,7 +1851,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260215T150000 +0000" stop="20260215T170000 +0000" channel="peacock 049">
+  <programme start="20260215150000 +0000" stop="20260215170000 +0000" channel="peacock 049">
     <title lang="en">Milan Cortina 2026 Coverage starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1860,7 +1860,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260215T170000 +0000" stop="20260215T190000 +0000" channel="peacock 049">
+  <programme start="20260215170000 +0000" stop="20260215190000 +0000" channel="peacock 049">
     <title lang="en">Milan Cortina 2026 Coverage starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1869,7 +1869,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260215T190000 +0000" stop="20260215T210000 +0000" channel="peacock 049">
+  <programme start="20260215190000 +0000" stop="20260215210000 +0000" channel="peacock 049">
     <title lang="en">Milan Cortina 2026 Coverage starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1878,7 +1878,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260215T210000 +0000" stop="20260215T230000 +0000" channel="peacock 049">
+  <programme start="20260215210000 +0000" stop="20260215230000 +0000" channel="peacock 049">
     <title lang="en">Milan Cortina 2026 Coverage starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1887,7 +1887,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260215T230000 +0000" stop="20260216T010000 +0000" channel="peacock 049">
+  <programme start="20260215230000 +0000" stop="20260216010000 +0000" channel="peacock 049">
     <title lang="en">Milan Cortina 2026 Coverage starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1896,7 +1896,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260216T010000 +0000" stop="20260216T050000 +0000" channel="peacock 049">
+  <programme start="20260216010000 +0000" stop="20260216050000 +0000" channel="peacock 049">
     <title lang="en">Milan Cortina 2026 Coverage</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -1906,7 +1906,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260216T080500 +0000" stop="20260216T120500 +0000" channel="peacock 050">
+  <programme start="20260216080500 +0000" stop="20260216120500 +0000" channel="peacock 050">
     <title lang="en">CHN vs. CAN (W Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -1916,7 +1916,7 @@
       <actor>CHN vs. CAN (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T080505 +0000" stop="20260216T120505 +0000" channel="peacock 051">
+  <programme start="20260216080505 +0000" stop="20260216120505 +0000" channel="peacock 051">
     <title lang="en">DEN vs. GBR (W Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -1926,7 +1926,7 @@
       <actor>DEN vs. GBR (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T080510 +0000" stop="20260216T120510 +0000" channel="peacock 052">
+  <programme start="20260216080510 +0000" stop="20260216120510 +0000" channel="peacock 052">
     <title lang="en">SWE vs. SUI (W Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -1936,7 +1936,7 @@
       <actor>SWE vs. SUI (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T090000 +0000" stop="20260216T130000 +0000" channel="peacock 053">
+  <programme start="20260216090000 +0000" stop="20260216130000 +0000" channel="peacock 053">
     <title lang="en">Men`s Slalom: Run 1</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -1946,7 +1946,7 @@
       <actor>Men`s Slalom: Run 1</actor>
     </credits>
   </programme>
-  <programme start="20260216T090005 +0000" stop="20260216T130005 +0000" channel="peacock 054">
+  <programme start="20260216090005 +0000" stop="20260216130005 +0000" channel="peacock 054">
     <title lang="en">Milan Cortina 2026 Coverage</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -1956,7 +1956,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260216T090010 +0000" stop="20260216T130010 +0000" channel="peacock 055">
+  <programme start="20260216090010 +0000" stop="20260216130010 +0000" channel="peacock 055">
     <title lang="en">Two_Man Bobsled: Run 1</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -1966,7 +1966,7 @@
       <actor>Two_Man Bobsled: Run 1</actor>
     </credits>
   </programme>
-  <programme start="20260216T100000 +0000" stop="20260216T140000 +0000" channel="peacock 056">
+  <programme start="20260216100000 +0000" stop="20260216140000 +0000" channel="peacock 056">
     <title lang="en">W 1000m Finals &amp; More</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -1976,7 +1976,7 @@
       <actor>W 1000m Finals &amp; More</actor>
     </credits>
   </programme>
-  <programme start="20260216T105500 +0000" stop="20260216T145500 +0000" channel="peacock 057">
+  <programme start="20260216105500 +0000" stop="20260216145500 +0000" channel="peacock 057">
     <title lang="en">Two_Man Bobsled: Run 2</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -1986,7 +1986,7 @@
       <actor>Two_Man Bobsled: Run 2</actor>
     </credits>
   </programme>
-  <programme start="20260216T110000 +0000" stop="20260216T123000 +0000" channel="peacock 058">
+  <programme start="20260216110000 +0000" stop="20260216123000 +0000" channel="peacock 058">
     <title lang="en">On USA: Men`s Slalom Run 2 starts at 7:30 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -1995,7 +1995,7 @@
       <actor>On USA: Men`s Slalom Run 2</actor>
     </credits>
   </programme>
-  <programme start="20260216T123000 +0000" stop="20260216T163000 +0000" channel="peacock 058">
+  <programme start="20260216123000 +0000" stop="20260216163000 +0000" channel="peacock 058">
     <title lang="en">On USA: Men`s Slalom Run 2</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -2005,7 +2005,7 @@
       <actor>On USA: Men`s Slalom Run 2</actor>
     </credits>
   </programme>
-  <programme start="20260216T110000 +0000" stop="20260216T130000 +0000" channel="peacock 059">
+  <programme start="20260216110000 +0000" stop="20260216130000 +0000" channel="peacock 059">
     <title lang="en">Gold Zone: Day 10 starts at 8:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2014,7 +2014,7 @@
       <actor>Gold Zone: Day 10</actor>
     </credits>
   </programme>
-  <programme start="20260216T130000 +0000" stop="20260216T170000 +0000" channel="peacock 059">
+  <programme start="20260216130000 +0000" stop="20260216170000 +0000" channel="peacock 059">
     <title lang="en">Gold Zone: Day 10</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -2024,7 +2024,7 @@
       <actor>Gold Zone: Day 10</actor>
     </credits>
   </programme>
-  <programme start="20260216T110000 +0000" stop="20260216T130000 +0000" channel="peacock 060">
+  <programme start="20260216110000 +0000" stop="20260216130000 +0000" channel="peacock 060">
     <title lang="en">SWE vs. GER (M Round_Robin) starts at 8:05 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2033,7 +2033,7 @@
       <actor>SWE vs. GER (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T130000 +0000" stop="20260216T130500 +0000" channel="peacock 060">
+  <programme start="20260216130000 +0000" stop="20260216130500 +0000" channel="peacock 060">
     <title lang="en">SWE vs. GER (M Round_Robin) starts at 8:05 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2042,7 +2042,7 @@
       <actor>SWE vs. GER (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T130500 +0000" stop="20260216T170500 +0000" channel="peacock 060">
+  <programme start="20260216130500 +0000" stop="20260216170500 +0000" channel="peacock 060">
     <title lang="en">SWE vs. GER (M Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -2052,7 +2052,7 @@
       <actor>SWE vs. GER (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T110000 +0000" stop="20260216T130000 +0000" channel="peacock 061">
+  <programme start="20260216110000 +0000" stop="20260216130000 +0000" channel="peacock 061">
     <title lang="en">GBR vs. NOR (M Round_Robin) starts at 8:05 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2061,7 +2061,7 @@
       <actor>GBR vs. NOR (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T130000 +0000" stop="20260216T130505 +0000" channel="peacock 061">
+  <programme start="20260216130000 +0000" stop="20260216130505 +0000" channel="peacock 061">
     <title lang="en">GBR vs. NOR (M Round_Robin) starts at 8:05 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2070,7 +2070,7 @@
       <actor>GBR vs. NOR (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T130505 +0000" stop="20260216T170505 +0000" channel="peacock 061">
+  <programme start="20260216130505 +0000" stop="20260216170505 +0000" channel="peacock 061">
     <title lang="en">GBR vs. NOR (M Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -2080,7 +2080,7 @@
       <actor>GBR vs. NOR (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T110000 +0000" stop="20260216T130000 +0000" channel="peacock 062">
+  <programme start="20260216110000 +0000" stop="20260216130000 +0000" channel="peacock 062">
     <title lang="en">CZE vs. CAN (M Round_Robin) starts at 8:05 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2089,7 +2089,7 @@
       <actor>CZE vs. CAN (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T130000 +0000" stop="20260216T130510 +0000" channel="peacock 062">
+  <programme start="20260216130000 +0000" stop="20260216130510 +0000" channel="peacock 062">
     <title lang="en">CZE vs. CAN (M Round_Robin) starts at 8:05 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2098,7 +2098,7 @@
       <actor>CZE vs. CAN (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T130510 +0000" stop="20260216T170510 +0000" channel="peacock 062">
+  <programme start="20260216130510 +0000" stop="20260216170510 +0000" channel="peacock 062">
     <title lang="en">CZE vs. CAN (M Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -2108,7 +2108,7 @@
       <actor>CZE vs. CAN (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T110000 +0000" stop="20260216T130000 +0000" channel="peacock 063">
+  <programme start="20260216110000 +0000" stop="20260216130000 +0000" channel="peacock 063">
     <title lang="en">ITA vs. CHN (M Round_Robin) starts at 8:05 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2117,7 +2117,7 @@
       <actor>ITA vs. CHN (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T130000 +0000" stop="20260216T130515 +0000" channel="peacock 063">
+  <programme start="20260216130000 +0000" stop="20260216130515 +0000" channel="peacock 063">
     <title lang="en">ITA vs. CHN (M Round_Robin) starts at 8:05 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2126,7 +2126,7 @@
       <actor>ITA vs. CHN (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T130515 +0000" stop="20260216T170515 +0000" channel="peacock 063">
+  <programme start="20260216130515 +0000" stop="20260216170515 +0000" channel="peacock 063">
     <title lang="en">ITA vs. CHN (M Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -2136,7 +2136,7 @@
       <actor>ITA vs. CHN (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T110000 +0000" stop="20260216T130000 +0000" channel="peacock 064">
+  <programme start="20260216110000 +0000" stop="20260216130000 +0000" channel="peacock 064">
     <title lang="en">NBC: Bobsled &amp; more starts at 10:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2145,7 +2145,7 @@
       <actor>NBC: Bobsled &amp; more</actor>
     </credits>
   </programme>
-  <programme start="20260216T130000 +0000" stop="20260216T150000 +0000" channel="peacock 064">
+  <programme start="20260216130000 +0000" stop="20260216150000 +0000" channel="peacock 064">
     <title lang="en">NBC: Bobsled &amp; more starts at 10:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2154,7 +2154,7 @@
       <actor>NBC: Bobsled &amp; more</actor>
     </credits>
   </programme>
-  <programme start="20260216T150000 +0000" stop="20260216T190000 +0000" channel="peacock 064">
+  <programme start="20260216150000 +0000" stop="20260216190000 +0000" channel="peacock 064">
     <title lang="en">NBC: Bobsled &amp; more</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -2164,7 +2164,7 @@
       <actor>NBC: Bobsled &amp; more</actor>
     </credits>
   </programme>
-  <programme start="20260216T110000 +0000" stop="20260216T130000 +0000" channel="peacock 065">
+  <programme start="20260216110000 +0000" stop="20260216130000 +0000" channel="peacock 065">
     <title lang="en">USA vs. SWE (Women`s Semi) starts at 10:40 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2173,7 +2173,7 @@
       <actor>USA vs. SWE (Women`s Semi)</actor>
     </credits>
   </programme>
-  <programme start="20260216T130000 +0000" stop="20260216T150000 +0000" channel="peacock 065">
+  <programme start="20260216130000 +0000" stop="20260216150000 +0000" channel="peacock 065">
     <title lang="en">USA vs. SWE (Women`s Semi) starts at 10:40 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2182,7 +2182,7 @@
       <actor>USA vs. SWE (Women`s Semi)</actor>
     </credits>
   </programme>
-  <programme start="20260216T150000 +0000" stop="20260216T154000 +0000" channel="peacock 065">
+  <programme start="20260216150000 +0000" stop="20260216154000 +0000" channel="peacock 065">
     <title lang="en">USA vs. SWE (Women`s Semi) starts at 10:40 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2191,7 +2191,7 @@
       <actor>USA vs. SWE (Women`s Semi)</actor>
     </credits>
   </programme>
-  <programme start="20260216T154000 +0000" stop="20260216T194000 +0000" channel="peacock 065">
+  <programme start="20260216154000 +0000" stop="20260216194000 +0000" channel="peacock 065">
     <title lang="en">USA vs. SWE (Women`s Semi)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -2201,7 +2201,7 @@
       <actor>USA vs. SWE (Women`s Semi)</actor>
     </credits>
   </programme>
-  <programme start="20260216T110000 +0000" stop="20260216T130000 +0000" channel="peacock 066">
+  <programme start="20260216110000 +0000" stop="20260216130000 +0000" channel="peacock 066">
     <title lang="en">Milan Cortina 2026 Coverage starts at 11:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2210,7 +2210,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260216T130000 +0000" stop="20260216T150000 +0000" channel="peacock 066">
+  <programme start="20260216130000 +0000" stop="20260216150000 +0000" channel="peacock 066">
     <title lang="en">Milan Cortina 2026 Coverage starts at 11:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2219,7 +2219,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260216T150000 +0000" stop="20260216T160000 +0000" channel="peacock 066">
+  <programme start="20260216150000 +0000" stop="20260216160000 +0000" channel="peacock 066">
     <title lang="en">Milan Cortina 2026 Coverage starts at 11:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2228,7 +2228,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260216T160000 +0000" stop="20260216T200000 +0000" channel="peacock 066">
+  <programme start="20260216160000 +0000" stop="20260216200000 +0000" channel="peacock 066">
     <title lang="en">Milan Cortina 2026 Coverage</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -2238,7 +2238,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260216T110000 +0000" stop="20260216T130000 +0000" channel="peacock 067">
+  <programme start="20260216110000 +0000" stop="20260216130000 +0000" channel="peacock 067">
     <title lang="en">Pairs Free: Warm_Up starts at 11:30 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2247,7 +2247,7 @@
       <actor>Pairs Free: Warm_Up</actor>
     </credits>
   </programme>
-  <programme start="20260216T130000 +0000" stop="20260216T150000 +0000" channel="peacock 067">
+  <programme start="20260216130000 +0000" stop="20260216150000 +0000" channel="peacock 067">
     <title lang="en">Pairs Free: Warm_Up starts at 11:30 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2256,7 +2256,7 @@
       <actor>Pairs Free: Warm_Up</actor>
     </credits>
   </programme>
-  <programme start="20260216T150000 +0000" stop="20260216T163000 +0000" channel="peacock 067">
+  <programme start="20260216150000 +0000" stop="20260216163000 +0000" channel="peacock 067">
     <title lang="en">Pairs Free: Warm_Up starts at 11:30 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2265,7 +2265,7 @@
       <actor>Pairs Free: Warm_Up</actor>
     </credits>
   </programme>
-  <programme start="20260216T163000 +0000" stop="20260216T203000 +0000" channel="peacock 067">
+  <programme start="20260216163000 +0000" stop="20260216203000 +0000" channel="peacock 067">
     <title lang="en">Pairs Free: Warm_Up</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -2275,7 +2275,7 @@
       <actor>Pairs Free: Warm_Up</actor>
     </credits>
   </programme>
-  <programme start="20260216T110000 +0000" stop="20260216T130000 +0000" channel="peacock 068">
+  <programme start="20260216110000 +0000" stop="20260216130000 +0000" channel="peacock 068">
     <title lang="en">Men`s Super Team Large Hill starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2284,7 +2284,7 @@
       <actor>Men`s Super Team Large Hill</actor>
     </credits>
   </programme>
-  <programme start="20260216T130000 +0000" stop="20260216T150000 +0000" channel="peacock 068">
+  <programme start="20260216130000 +0000" stop="20260216150000 +0000" channel="peacock 068">
     <title lang="en">Men`s Super Team Large Hill starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2293,7 +2293,7 @@
       <actor>Men`s Super Team Large Hill</actor>
     </credits>
   </programme>
-  <programme start="20260216T150000 +0000" stop="20260216T170000 +0000" channel="peacock 068">
+  <programme start="20260216150000 +0000" stop="20260216170000 +0000" channel="peacock 068">
     <title lang="en">Men`s Super Team Large Hill starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2302,7 +2302,7 @@
       <actor>Men`s Super Team Large Hill</actor>
     </credits>
   </programme>
-  <programme start="20260216T170000 +0000" stop="20260216T210000 +0000" channel="peacock 068">
+  <programme start="20260216170000 +0000" stop="20260216210000 +0000" channel="peacock 068">
     <title lang="en">Men`s Super Team Large Hill</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -2312,7 +2312,7 @@
       <actor>Men`s Super Team Large Hill</actor>
     </credits>
   </programme>
-  <programme start="20260216T110000 +0000" stop="20260216T130000 +0000" channel="peacock 069">
+  <programme start="20260216110000 +0000" stop="20260216130000 +0000" channel="peacock 069">
     <title lang="en">Women`s Monobob: Run 3 starts at 1:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2321,7 +2321,7 @@
       <actor>Women`s Monobob: Run 3</actor>
     </credits>
   </programme>
-  <programme start="20260216T130000 +0000" stop="20260216T150000 +0000" channel="peacock 069">
+  <programme start="20260216130000 +0000" stop="20260216150000 +0000" channel="peacock 069">
     <title lang="en">Women`s Monobob: Run 3 starts at 1:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2330,7 +2330,7 @@
       <actor>Women`s Monobob: Run 3</actor>
     </credits>
   </programme>
-  <programme start="20260216T150000 +0000" stop="20260216T170000 +0000" channel="peacock 069">
+  <programme start="20260216150000 +0000" stop="20260216170000 +0000" channel="peacock 069">
     <title lang="en">Women`s Monobob: Run 3 starts at 1:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2339,7 +2339,7 @@
       <actor>Women`s Monobob: Run 3</actor>
     </credits>
   </programme>
-  <programme start="20260216T170000 +0000" stop="20260216T180000 +0000" channel="peacock 069">
+  <programme start="20260216170000 +0000" stop="20260216180000 +0000" channel="peacock 069">
     <title lang="en">Women`s Monobob: Run 3 starts at 1:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2348,7 +2348,7 @@
       <actor>Women`s Monobob: Run 3</actor>
     </credits>
   </programme>
-  <programme start="20260216T180000 +0000" stop="20260216T220000 +0000" channel="peacock 069">
+  <programme start="20260216180000 +0000" stop="20260216220000 +0000" channel="peacock 069">
     <title lang="en">Women`s Monobob: Run 3</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -2358,7 +2358,7 @@
       <actor>Women`s Monobob: Run 3</actor>
     </credits>
   </programme>
-  <programme start="20260216T110000 +0000" stop="20260216T130000 +0000" channel="peacock 070">
+  <programme start="20260216110000 +0000" stop="20260216130000 +0000" channel="peacock 070">
     <title lang="en">JPN vs. CAN (W Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2367,7 +2367,7 @@
       <actor>JPN vs. CAN (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T130000 +0000" stop="20260216T150000 +0000" channel="peacock 070">
+  <programme start="20260216130000 +0000" stop="20260216150000 +0000" channel="peacock 070">
     <title lang="en">JPN vs. CAN (W Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2376,7 +2376,7 @@
       <actor>JPN vs. CAN (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T150000 +0000" stop="20260216T170000 +0000" channel="peacock 070">
+  <programme start="20260216150000 +0000" stop="20260216170000 +0000" channel="peacock 070">
     <title lang="en">JPN vs. CAN (W Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2385,7 +2385,7 @@
       <actor>JPN vs. CAN (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T170000 +0000" stop="20260216T180500 +0000" channel="peacock 070">
+  <programme start="20260216170000 +0000" stop="20260216180500 +0000" channel="peacock 070">
     <title lang="en">JPN vs. CAN (W Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2394,7 +2394,7 @@
       <actor>JPN vs. CAN (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T180500 +0000" stop="20260216T220500 +0000" channel="peacock 070">
+  <programme start="20260216180500 +0000" stop="20260216220500 +0000" channel="peacock 070">
     <title lang="en">JPN vs. CAN (W Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -2404,7 +2404,7 @@
       <actor>JPN vs. CAN (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T110000 +0000" stop="20260216T130000 +0000" channel="peacock 071">
+  <programme start="20260216110000 +0000" stop="20260216130000 +0000" channel="peacock 071">
     <title lang="en">SUI vs. GBR (W Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2413,7 +2413,7 @@
       <actor>SUI vs. GBR (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T130000 +0000" stop="20260216T150000 +0000" channel="peacock 071">
+  <programme start="20260216130000 +0000" stop="20260216150000 +0000" channel="peacock 071">
     <title lang="en">SUI vs. GBR (W Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2422,7 +2422,7 @@
       <actor>SUI vs. GBR (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T150000 +0000" stop="20260216T170000 +0000" channel="peacock 071">
+  <programme start="20260216150000 +0000" stop="20260216170000 +0000" channel="peacock 071">
     <title lang="en">SUI vs. GBR (W Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2431,7 +2431,7 @@
       <actor>SUI vs. GBR (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T170000 +0000" stop="20260216T180505 +0000" channel="peacock 071">
+  <programme start="20260216170000 +0000" stop="20260216180505 +0000" channel="peacock 071">
     <title lang="en">SUI vs. GBR (W Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2440,7 +2440,7 @@
       <actor>SUI vs. GBR (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T180505 +0000" stop="20260216T220505 +0000" channel="peacock 071">
+  <programme start="20260216180505 +0000" stop="20260216220505 +0000" channel="peacock 071">
     <title lang="en">SUI vs. GBR (W Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -2450,7 +2450,7 @@
       <actor>SUI vs. GBR (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T110000 +0000" stop="20260216T130000 +0000" channel="peacock 072">
+  <programme start="20260216110000 +0000" stop="20260216130000 +0000" channel="peacock 072">
     <title lang="en">KOR vs. CHN (W Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2459,7 +2459,7 @@
       <actor>KOR vs. CHN (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T130000 +0000" stop="20260216T150000 +0000" channel="peacock 072">
+  <programme start="20260216130000 +0000" stop="20260216150000 +0000" channel="peacock 072">
     <title lang="en">KOR vs. CHN (W Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2468,7 +2468,7 @@
       <actor>KOR vs. CHN (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T150000 +0000" stop="20260216T170000 +0000" channel="peacock 072">
+  <programme start="20260216150000 +0000" stop="20260216170000 +0000" channel="peacock 072">
     <title lang="en">KOR vs. CHN (W Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2477,7 +2477,7 @@
       <actor>KOR vs. CHN (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T170000 +0000" stop="20260216T180510 +0000" channel="peacock 072">
+  <programme start="20260216170000 +0000" stop="20260216180510 +0000" channel="peacock 072">
     <title lang="en">KOR vs. CHN (W Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2486,7 +2486,7 @@
       <actor>KOR vs. CHN (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T180510 +0000" stop="20260216T220510 +0000" channel="peacock 072">
+  <programme start="20260216180510 +0000" stop="20260216220510 +0000" channel="peacock 072">
     <title lang="en">KOR vs. CHN (W Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -2496,7 +2496,7 @@
       <actor>KOR vs. CHN (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T110000 +0000" stop="20260216T130000 +0000" channel="peacock 073">
+  <programme start="20260216110000 +0000" stop="20260216130000 +0000" channel="peacock 073">
     <title lang="en">USA vs. ITA (W Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2505,7 +2505,7 @@
       <actor>USA vs. ITA (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T130000 +0000" stop="20260216T150000 +0000" channel="peacock 073">
+  <programme start="20260216130000 +0000" stop="20260216150000 +0000" channel="peacock 073">
     <title lang="en">USA vs. ITA (W Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2514,7 +2514,7 @@
       <actor>USA vs. ITA (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T150000 +0000" stop="20260216T170000 +0000" channel="peacock 073">
+  <programme start="20260216150000 +0000" stop="20260216170000 +0000" channel="peacock 073">
     <title lang="en">USA vs. ITA (W Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2523,7 +2523,7 @@
       <actor>USA vs. ITA (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T170000 +0000" stop="20260216T180515 +0000" channel="peacock 073">
+  <programme start="20260216170000 +0000" stop="20260216180515 +0000" channel="peacock 073">
     <title lang="en">USA vs. ITA (W Round_Robin) starts at 1:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2532,7 +2532,7 @@
       <actor>USA vs. ITA (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T180515 +0000" stop="20260216T220515 +0000" channel="peacock 073">
+  <programme start="20260216180515 +0000" stop="20260216220515 +0000" channel="peacock 073">
     <title lang="en">USA vs. ITA (W Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -2542,7 +2542,7 @@
       <actor>USA vs. ITA (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260216T110000 +0000" stop="20260216T130000 +0000" channel="peacock 074">
+  <programme start="20260216110000 +0000" stop="20260216130000 +0000" channel="peacock 074">
     <title lang="en">Women`s Ski Big Air: Final starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2551,7 +2551,7 @@
       <actor>Women`s Ski Big Air: Final</actor>
     </credits>
   </programme>
-  <programme start="20260216T130000 +0000" stop="20260216T150000 +0000" channel="peacock 074">
+  <programme start="20260216130000 +0000" stop="20260216150000 +0000" channel="peacock 074">
     <title lang="en">Women`s Ski Big Air: Final starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2560,7 +2560,7 @@
       <actor>Women`s Ski Big Air: Final</actor>
     </credits>
   </programme>
-  <programme start="20260216T150000 +0000" stop="20260216T170000 +0000" channel="peacock 074">
+  <programme start="20260216150000 +0000" stop="20260216170000 +0000" channel="peacock 074">
     <title lang="en">Women`s Ski Big Air: Final starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2569,7 +2569,7 @@
       <actor>Women`s Ski Big Air: Final</actor>
     </credits>
   </programme>
-  <programme start="20260216T170000 +0000" stop="20260216T183000 +0000" channel="peacock 074">
+  <programme start="20260216170000 +0000" stop="20260216183000 +0000" channel="peacock 074">
     <title lang="en">Women`s Ski Big Air: Final starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2578,7 +2578,7 @@
       <actor>Women`s Ski Big Air: Final</actor>
     </credits>
   </programme>
-  <programme start="20260216T183000 +0000" stop="20260216T223000 +0000" channel="peacock 074">
+  <programme start="20260216183000 +0000" stop="20260216223000 +0000" channel="peacock 074">
     <title lang="en">Women`s Ski Big Air: Final</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -2588,7 +2588,7 @@
       <actor>Women`s Ski Big Air: Final</actor>
     </credits>
   </programme>
-  <programme start="20260216T110000 +0000" stop="20260216T130000 +0000" channel="peacock 075">
+  <programme start="20260216110000 +0000" stop="20260216130000 +0000" channel="peacock 075">
     <title lang="en">On USA: Pairs Free (Part 1) starts at 1:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2597,7 +2597,7 @@
       <actor>On USA: Pairs Free (Part 1)</actor>
     </credits>
   </programme>
-  <programme start="20260216T130000 +0000" stop="20260216T150000 +0000" channel="peacock 075">
+  <programme start="20260216130000 +0000" stop="20260216150000 +0000" channel="peacock 075">
     <title lang="en">On USA: Pairs Free (Part 1) starts at 1:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2606,7 +2606,7 @@
       <actor>On USA: Pairs Free (Part 1)</actor>
     </credits>
   </programme>
-  <programme start="20260216T150000 +0000" stop="20260216T170000 +0000" channel="peacock 075">
+  <programme start="20260216150000 +0000" stop="20260216170000 +0000" channel="peacock 075">
     <title lang="en">On USA: Pairs Free (Part 1) starts at 1:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2615,7 +2615,7 @@
       <actor>On USA: Pairs Free (Part 1)</actor>
     </credits>
   </programme>
-  <programme start="20260216T170000 +0000" stop="20260216T184500 +0000" channel="peacock 075">
+  <programme start="20260216170000 +0000" stop="20260216184500 +0000" channel="peacock 075">
     <title lang="en">On USA: Pairs Free (Part 1) starts at 1:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2624,7 +2624,7 @@
       <actor>On USA: Pairs Free (Part 1)</actor>
     </credits>
   </programme>
-  <programme start="20260216T184500 +0000" stop="20260216T224500 +0000" channel="peacock 075">
+  <programme start="20260216184500 +0000" stop="20260216224500 +0000" channel="peacock 075">
     <title lang="en">On USA: Pairs Free (Part 1)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -2634,7 +2634,7 @@
       <actor>On USA: Pairs Free (Part 1)</actor>
     </credits>
   </programme>
-  <programme start="20260216T110000 +0000" stop="20260216T130000 +0000" channel="peacock 076">
+  <programme start="20260216110000 +0000" stop="20260216130000 +0000" channel="peacock 076">
     <title lang="en">Women`s Monobob: Final Run starts at 3:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2643,7 +2643,7 @@
       <actor>Women`s Monobob: Final Run</actor>
     </credits>
   </programme>
-  <programme start="20260216T130000 +0000" stop="20260216T150000 +0000" channel="peacock 076">
+  <programme start="20260216130000 +0000" stop="20260216150000 +0000" channel="peacock 076">
     <title lang="en">Women`s Monobob: Final Run starts at 3:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2652,7 +2652,7 @@
       <actor>Women`s Monobob: Final Run</actor>
     </credits>
   </programme>
-  <programme start="20260216T150000 +0000" stop="20260216T170000 +0000" channel="peacock 076">
+  <programme start="20260216150000 +0000" stop="20260216170000 +0000" channel="peacock 076">
     <title lang="en">Women`s Monobob: Final Run starts at 3:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2661,7 +2661,7 @@
       <actor>Women`s Monobob: Final Run</actor>
     </credits>
   </programme>
-  <programme start="20260216T170000 +0000" stop="20260216T190000 +0000" channel="peacock 076">
+  <programme start="20260216170000 +0000" stop="20260216190000 +0000" channel="peacock 076">
     <title lang="en">Women`s Monobob: Final Run starts at 3:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2670,7 +2670,7 @@
       <actor>Women`s Monobob: Final Run</actor>
     </credits>
   </programme>
-  <programme start="20260216T190000 +0000" stop="20260216T200500 +0000" channel="peacock 076">
+  <programme start="20260216190000 +0000" stop="20260216200500 +0000" channel="peacock 076">
     <title lang="en">Women`s Monobob: Final Run starts at 3:05 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2679,7 +2679,7 @@
       <actor>Women`s Monobob: Final Run</actor>
     </credits>
   </programme>
-  <programme start="20260216T200500 +0000" stop="20260217T000500 +0000" channel="peacock 076">
+  <programme start="20260216200500 +0000" stop="20260217000500 +0000" channel="peacock 076">
     <title lang="en">Women`s Monobob: Final Run</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -2689,7 +2689,7 @@
       <actor>Women`s Monobob: Final Run</actor>
     </credits>
   </programme>
-  <programme start="20260216T110000 +0000" stop="20260216T130000 +0000" channel="peacock 077">
+  <programme start="20260216110000 +0000" stop="20260216130000 +0000" channel="peacock 077">
     <title lang="en">CAN vs. SUI (Women`s Semi) starts at 3:10 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2698,7 +2698,7 @@
       <actor>CAN vs. SUI (Women`s Semi)</actor>
     </credits>
   </programme>
-  <programme start="20260216T130000 +0000" stop="20260216T150000 +0000" channel="peacock 077">
+  <programme start="20260216130000 +0000" stop="20260216150000 +0000" channel="peacock 077">
     <title lang="en">CAN vs. SUI (Women`s Semi) starts at 3:10 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2707,7 +2707,7 @@
       <actor>CAN vs. SUI (Women`s Semi)</actor>
     </credits>
   </programme>
-  <programme start="20260216T150000 +0000" stop="20260216T170000 +0000" channel="peacock 077">
+  <programme start="20260216150000 +0000" stop="20260216170000 +0000" channel="peacock 077">
     <title lang="en">CAN vs. SUI (Women`s Semi) starts at 3:10 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2716,7 +2716,7 @@
       <actor>CAN vs. SUI (Women`s Semi)</actor>
     </credits>
   </programme>
-  <programme start="20260216T170000 +0000" stop="20260216T190000 +0000" channel="peacock 077">
+  <programme start="20260216170000 +0000" stop="20260216190000 +0000" channel="peacock 077">
     <title lang="en">CAN vs. SUI (Women`s Semi) starts at 3:10 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2725,7 +2725,7 @@
       <actor>CAN vs. SUI (Women`s Semi)</actor>
     </credits>
   </programme>
-  <programme start="20260216T190000 +0000" stop="20260216T201000 +0000" channel="peacock 077">
+  <programme start="20260216190000 +0000" stop="20260216201000 +0000" channel="peacock 077">
     <title lang="en">CAN vs. SUI (Women`s Semi) starts at 3:10 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2734,7 +2734,7 @@
       <actor>CAN vs. SUI (Women`s Semi)</actor>
     </credits>
   </programme>
-  <programme start="20260216T201000 +0000" stop="20260217T001000 +0000" channel="peacock 077">
+  <programme start="20260216201000 +0000" stop="20260217001000 +0000" channel="peacock 077">
     <title lang="en">CAN vs. SUI (Women`s Semi)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -2744,7 +2744,7 @@
       <actor>CAN vs. SUI (Women`s Semi)</actor>
     </credits>
   </programme>
-  <programme start="20260216T110000 +0000" stop="20260216T130000 +0000" channel="peacock 078">
+  <programme start="20260216110000 +0000" stop="20260216130000 +0000" channel="peacock 078">
     <title lang="en">NBC: Pairs Free (Part 2) starts at 3:55 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2753,7 +2753,7 @@
       <actor>NBC: Pairs Free (Part 2)</actor>
     </credits>
   </programme>
-  <programme start="20260216T130000 +0000" stop="20260216T150000 +0000" channel="peacock 078">
+  <programme start="20260216130000 +0000" stop="20260216150000 +0000" channel="peacock 078">
     <title lang="en">NBC: Pairs Free (Part 2) starts at 3:55 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2762,7 +2762,7 @@
       <actor>NBC: Pairs Free (Part 2)</actor>
     </credits>
   </programme>
-  <programme start="20260216T150000 +0000" stop="20260216T170000 +0000" channel="peacock 078">
+  <programme start="20260216150000 +0000" stop="20260216170000 +0000" channel="peacock 078">
     <title lang="en">NBC: Pairs Free (Part 2) starts at 3:55 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2771,7 +2771,7 @@
       <actor>NBC: Pairs Free (Part 2)</actor>
     </credits>
   </programme>
-  <programme start="20260216T170000 +0000" stop="20260216T190000 +0000" channel="peacock 078">
+  <programme start="20260216170000 +0000" stop="20260216190000 +0000" channel="peacock 078">
     <title lang="en">NBC: Pairs Free (Part 2) starts at 3:55 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2780,7 +2780,7 @@
       <actor>NBC: Pairs Free (Part 2)</actor>
     </credits>
   </programme>
-  <programme start="20260216T190000 +0000" stop="20260216T205500 +0000" channel="peacock 078">
+  <programme start="20260216190000 +0000" stop="20260216205500 +0000" channel="peacock 078">
     <title lang="en">NBC: Pairs Free (Part 2) starts at 3:55 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2789,7 +2789,7 @@
       <actor>NBC: Pairs Free (Part 2)</actor>
     </credits>
   </programme>
-  <programme start="20260216T205500 +0000" stop="20260217T005500 +0000" channel="peacock 078">
+  <programme start="20260216205500 +0000" stop="20260217005500 +0000" channel="peacock 078">
     <title lang="en">NBC: Pairs Free (Part 2)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -2799,7 +2799,7 @@
       <actor>NBC: Pairs Free (Part 2)</actor>
     </credits>
   </programme>
-  <programme start="20260216T110000 +0000" stop="20260216T130000 +0000" channel="peacock 079">
+  <programme start="20260216110000 +0000" stop="20260216130000 +0000" channel="peacock 079">
     <title lang="en">Best of Curling (Feb. 16) starts at 5:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2808,7 +2808,7 @@
       <actor>Best of Curling (Feb. 16)</actor>
     </credits>
   </programme>
-  <programme start="20260216T130000 +0000" stop="20260216T150000 +0000" channel="peacock 079">
+  <programme start="20260216130000 +0000" stop="20260216150000 +0000" channel="peacock 079">
     <title lang="en">Best of Curling (Feb. 16) starts at 5:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2817,7 +2817,7 @@
       <actor>Best of Curling (Feb. 16)</actor>
     </credits>
   </programme>
-  <programme start="20260216T150000 +0000" stop="20260216T170000 +0000" channel="peacock 079">
+  <programme start="20260216150000 +0000" stop="20260216170000 +0000" channel="peacock 079">
     <title lang="en">Best of Curling (Feb. 16) starts at 5:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2826,7 +2826,7 @@
       <actor>Best of Curling (Feb. 16)</actor>
     </credits>
   </programme>
-  <programme start="20260216T170000 +0000" stop="20260216T190000 +0000" channel="peacock 079">
+  <programme start="20260216170000 +0000" stop="20260216190000 +0000" channel="peacock 079">
     <title lang="en">Best of Curling (Feb. 16) starts at 5:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2835,7 +2835,7 @@
       <actor>Best of Curling (Feb. 16)</actor>
     </credits>
   </programme>
-  <programme start="20260216T190000 +0000" stop="20260216T210000 +0000" channel="peacock 079">
+  <programme start="20260216190000 +0000" stop="20260216210000 +0000" channel="peacock 079">
     <title lang="en">Best of Curling (Feb. 16) starts at 5:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2844,7 +2844,7 @@
       <actor>Best of Curling (Feb. 16)</actor>
     </credits>
   </programme>
-  <programme start="20260216T210000 +0000" stop="20260216T220000 +0000" channel="peacock 079">
+  <programme start="20260216210000 +0000" stop="20260216220000 +0000" channel="peacock 079">
     <title lang="en">Best of Curling (Feb. 16) starts at 5:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2853,7 +2853,7 @@
       <actor>Best of Curling (Feb. 16)</actor>
     </credits>
   </programme>
-  <programme start="20260216T220000 +0000" stop="20260217T020000 +0000" channel="peacock 079">
+  <programme start="20260216220000 +0000" stop="20260217020000 +0000" channel="peacock 079">
     <title lang="en">Best of Curling (Feb. 16)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -2863,7 +2863,7 @@
       <actor>Best of Curling (Feb. 16)</actor>
     </credits>
   </programme>
-  <programme start="20260216T110000 +0000" stop="20260216T130000 +0000" channel="peacock 080">
+  <programme start="20260216110000 +0000" stop="20260216130000 +0000" channel="peacock 080">
     <title lang="en">Milan Cortina 2026 Coverage starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2872,7 +2872,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260216T130000 +0000" stop="20260216T150000 +0000" channel="peacock 080">
+  <programme start="20260216130000 +0000" stop="20260216150000 +0000" channel="peacock 080">
     <title lang="en">Milan Cortina 2026 Coverage starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2881,7 +2881,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260216T150000 +0000" stop="20260216T170000 +0000" channel="peacock 080">
+  <programme start="20260216150000 +0000" stop="20260216170000 +0000" channel="peacock 080">
     <title lang="en">Milan Cortina 2026 Coverage starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2890,7 +2890,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260216T170000 +0000" stop="20260216T190000 +0000" channel="peacock 080">
+  <programme start="20260216170000 +0000" stop="20260216190000 +0000" channel="peacock 080">
     <title lang="en">Milan Cortina 2026 Coverage starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2899,7 +2899,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260216T190000 +0000" stop="20260216T210000 +0000" channel="peacock 080">
+  <programme start="20260216190000 +0000" stop="20260216210000 +0000" channel="peacock 080">
     <title lang="en">Milan Cortina 2026 Coverage starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2908,7 +2908,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260216T210000 +0000" stop="20260216T223000 +0000" channel="peacock 080">
+  <programme start="20260216210000 +0000" stop="20260216223000 +0000" channel="peacock 080">
     <title lang="en">Milan Cortina 2026 Coverage starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2917,7 +2917,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260216T223000 +0000" stop="20260217T023000 +0000" channel="peacock 080">
+  <programme start="20260216223000 +0000" stop="20260217023000 +0000" channel="peacock 080">
     <title lang="en">Milan Cortina 2026 Coverage</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -2927,7 +2927,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260216T110000 +0000" stop="20260216T130000 +0000" channel="peacock 081">
+  <programme start="20260216110000 +0000" stop="20260216130000 +0000" channel="peacock 081">
     <title lang="en">Milan Cortina 2026 Coverage starts at 11:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2936,7 +2936,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260216T130000 +0000" stop="20260216T150000 +0000" channel="peacock 081">
+  <programme start="20260216130000 +0000" stop="20260216150000 +0000" channel="peacock 081">
     <title lang="en">Milan Cortina 2026 Coverage starts at 11:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2945,7 +2945,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260216T150000 +0000" stop="20260216T170000 +0000" channel="peacock 081">
+  <programme start="20260216150000 +0000" stop="20260216170000 +0000" channel="peacock 081">
     <title lang="en">Milan Cortina 2026 Coverage starts at 11:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2954,7 +2954,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260216T170000 +0000" stop="20260216T190000 +0000" channel="peacock 081">
+  <programme start="20260216170000 +0000" stop="20260216190000 +0000" channel="peacock 081">
     <title lang="en">Milan Cortina 2026 Coverage starts at 11:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2963,7 +2963,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260216T190000 +0000" stop="20260216T210000 +0000" channel="peacock 081">
+  <programme start="20260216190000 +0000" stop="20260216210000 +0000" channel="peacock 081">
     <title lang="en">Milan Cortina 2026 Coverage starts at 11:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2972,7 +2972,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260216T210000 +0000" stop="20260216T230000 +0000" channel="peacock 081">
+  <programme start="20260216210000 +0000" stop="20260216230000 +0000" channel="peacock 081">
     <title lang="en">Milan Cortina 2026 Coverage starts at 11:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2981,7 +2981,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260216T230000 +0000" stop="20260217T010000 +0000" channel="peacock 081">
+  <programme start="20260216230000 +0000" stop="20260217010000 +0000" channel="peacock 081">
     <title lang="en">Milan Cortina 2026 Coverage starts at 11:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2990,7 +2990,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260217T010000 +0000" stop="20260217T030000 +0000" channel="peacock 081">
+  <programme start="20260217010000 +0000" stop="20260217030000 +0000" channel="peacock 081">
     <title lang="en">Milan Cortina 2026 Coverage starts at 11:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -2999,7 +2999,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260217T030000 +0000" stop="20260217T040000 +0000" channel="peacock 081">
+  <programme start="20260217030000 +0000" stop="20260217040000 +0000" channel="peacock 081">
     <title lang="en">Milan Cortina 2026 Coverage starts at 11:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -3008,7 +3008,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260217T040000 +0000" stop="20260217T080000 +0000" channel="peacock 081">
+  <programme start="20260217040000 +0000" stop="20260217080000 +0000" channel="peacock 081">
     <title lang="en">Milan Cortina 2026 Coverage</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -3018,7 +3018,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260217T080500 +0000" stop="20260217T120500 +0000" channel="peacock 082">
+  <programme start="20260217080500 +0000" stop="20260217120500 +0000" channel="peacock 082">
     <title lang="en">SUI vs. SWE (M Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -3028,7 +3028,7 @@
       <actor>SUI vs. SWE (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260217T080505 +0000" stop="20260217T120505 +0000" channel="peacock 083">
+  <programme start="20260217080505 +0000" stop="20260217120505 +0000" channel="peacock 083">
     <title lang="en">CZE vs. GER (M Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -3038,7 +3038,7 @@
       <actor>CZE vs. GER (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260217T080510 +0000" stop="20260217T120510 +0000" channel="peacock 084">
+  <programme start="20260217080510 +0000" stop="20260217120510 +0000" channel="peacock 084">
     <title lang="en">USA vs. CHN (M Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -3048,7 +3048,7 @@
       <actor>USA vs. CHN (M Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260217T081000 +0000" stop="20260217T121000 +0000" channel="peacock 085">
+  <programme start="20260217081000 +0000" stop="20260217121000 +0000" channel="peacock 085">
     <title lang="en">Men`s Large Hill: Ski Jump</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -3058,7 +3058,7 @@
       <actor>Men`s Large Hill: Ski Jump</actor>
     </credits>
   </programme>
-  <programme start="20260217T090000 +0000" stop="20260217T130000 +0000" channel="peacock 086">
+  <programme start="20260217090000 +0000" stop="20260217130000 +0000" channel="peacock 086">
     <title lang="en">Milan Cortina 2026 Coverage</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -3068,7 +3068,7 @@
       <actor>Milan Cortina 2026 Coverage</actor>
     </credits>
   </programme>
-  <programme start="20260217T094500 +0000" stop="20260217T134500 +0000" channel="peacock 087">
+  <programme start="20260217094500 +0000" stop="20260217134500 +0000" channel="peacock 087">
     <title lang="en">Women`s Aerials: Qualifying</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -3078,7 +3078,7 @@
       <actor>Women`s Aerials: Qualifying</actor>
     </credits>
   </programme>
-  <programme start="20260217T110000 +0000" stop="20260217T111000 +0000" channel="peacock 088">
+  <programme start="20260217110000 +0000" stop="20260217111000 +0000" channel="peacock 088">
     <title lang="en">Men`s Qual. Playoff starts at 6:10 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -3087,7 +3087,7 @@
       <actor>Men`s Qual. Playoff</actor>
     </credits>
   </programme>
-  <programme start="20260217T111000 +0000" stop="20260217T151000 +0000" channel="peacock 088">
+  <programme start="20260217111000 +0000" stop="20260217151000 +0000" channel="peacock 088">
     <title lang="en">Men`s Qual. Playoff</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -3097,7 +3097,7 @@
       <actor>Men`s Qual. Playoff</actor>
     </credits>
   </programme>
-  <programme start="20260217T110000 +0000" stop="20260217T111005 +0000" channel="peacock 089">
+  <programme start="20260217110000 +0000" stop="20260217111005 +0000" channel="peacock 089">
     <title lang="en">Men`s Qual. Playoff starts at 6:10 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -3106,7 +3106,7 @@
       <actor>Men`s Qual. Playoff</actor>
     </credits>
   </programme>
-  <programme start="20260217T111005 +0000" stop="20260217T151005 +0000" channel="peacock 089">
+  <programme start="20260217111005 +0000" stop="20260217151005 +0000" channel="peacock 089">
     <title lang="en">Men`s Qual. Playoff</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -3116,7 +3116,7 @@
       <actor>Men`s Qual. Playoff</actor>
     </credits>
   </programme>
-  <programme start="20260217T110000 +0000" stop="20260217T120000 +0000" channel="peacock 090">
+  <programme start="20260217110000 +0000" stop="20260217120000 +0000" channel="peacock 090">
     <title lang="en">Women`s SB Slopestyle: Final starts at 7:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -3125,7 +3125,7 @@
       <actor>Women`s SB Slopestyle: Final</actor>
     </credits>
   </programme>
-  <programme start="20260217T120000 +0000" stop="20260217T160000 +0000" channel="peacock 090">
+  <programme start="20260217120000 +0000" stop="20260217160000 +0000" channel="peacock 090">
     <title lang="en">Women`s SB Slopestyle: Final</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -3135,7 +3135,7 @@
       <actor>Women`s SB Slopestyle: Final</actor>
     </credits>
   </programme>
-  <programme start="20260217T110000 +0000" stop="20260217T123000 +0000" channel="peacock 091">
+  <programme start="20260217110000 +0000" stop="20260217123000 +0000" channel="peacock 091">
     <title lang="en">Men`s Aerials: Qualifying starts at 7:30 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -3144,7 +3144,7 @@
       <actor>Men`s Aerials: Qualifying</actor>
     </credits>
   </programme>
-  <programme start="20260217T123000 +0000" stop="20260217T163000 +0000" channel="peacock 091">
+  <programme start="20260217123000 +0000" stop="20260217163000 +0000" channel="peacock 091">
     <title lang="en">Men`s Aerials: Qualifying</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -3154,7 +3154,7 @@
       <actor>Men`s Aerials: Qualifying</actor>
     </credits>
   </programme>
-  <programme start="20260217T110000 +0000" stop="20260217T124500 +0000" channel="peacock 092">
+  <programme start="20260217110000 +0000" stop="20260217124500 +0000" channel="peacock 092">
     <title lang="en">Men`s LH: 10km Race starts at 7:45 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -3163,7 +3163,7 @@
       <actor>Men`s LH: 10km Race</actor>
     </credits>
   </programme>
-  <programme start="20260217T124500 +0000" stop="20260217T164500 +0000" channel="peacock 092">
+  <programme start="20260217124500 +0000" stop="20260217164500 +0000" channel="peacock 092">
     <title lang="en">Men`s LH: 10km Race</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -3173,7 +3173,7 @@
       <actor>Men`s LH: 10km Race</actor>
     </credits>
   </programme>
-  <programme start="20260217T110000 +0000" stop="20260217T130000 +0000" channel="peacock 093">
+  <programme start="20260217110000 +0000" stop="20260217130000 +0000" channel="peacock 093">
     <title lang="en">Gold Zone: Day 11 starts at 8:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -3182,7 +3182,7 @@
       <actor>Gold Zone: Day 11</actor>
     </credits>
   </programme>
-  <programme start="20260217T130000 +0000" stop="20260217T170000 +0000" channel="peacock 093">
+  <programme start="20260217130000 +0000" stop="20260217170000 +0000" channel="peacock 093">
     <title lang="en">Gold Zone: Day 11</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -3192,7 +3192,7 @@
       <actor>Gold Zone: Day 11</actor>
     </credits>
   </programme>
-  <programme start="20260217T110000 +0000" stop="20260217T130000 +0000" channel="peacock 094">
+  <programme start="20260217110000 +0000" stop="20260217130000 +0000" channel="peacock 094">
     <title lang="en">ITA vs. JPN (W Round_Robin) starts at 8:05 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -3201,7 +3201,7 @@
       <actor>ITA vs. JPN (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260217T130000 +0000" stop="20260217T130500 +0000" channel="peacock 094">
+  <programme start="20260217130000 +0000" stop="20260217130500 +0000" channel="peacock 094">
     <title lang="en">ITA vs. JPN (W Round_Robin) starts at 8:05 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -3210,7 +3210,7 @@
       <actor>ITA vs. JPN (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260217T130500 +0000" stop="20260217T170500 +0000" channel="peacock 094">
+  <programme start="20260217130500 +0000" stop="20260217170500 +0000" channel="peacock 094">
     <title lang="en">ITA vs. JPN (W Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -3220,7 +3220,7 @@
       <actor>ITA vs. JPN (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260217T110000 +0000" stop="20260217T130000 +0000" channel="peacock 095">
+  <programme start="20260217110000 +0000" stop="20260217130000 +0000" channel="peacock 095">
     <title lang="en">KOR vs. SUI (W Round_Robin) starts at 8:05 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -3229,7 +3229,7 @@
       <actor>KOR vs. SUI (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260217T130000 +0000" stop="20260217T130505 +0000" channel="peacock 095">
+  <programme start="20260217130000 +0000" stop="20260217130505 +0000" channel="peacock 095">
     <title lang="en">KOR vs. SUI (W Round_Robin) starts at 8:05 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -3238,7 +3238,7 @@
       <actor>KOR vs. SUI (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260217T130505 +0000" stop="20260217T170505 +0000" channel="peacock 095">
+  <programme start="20260217130505 +0000" stop="20260217170505 +0000" channel="peacock 095">
     <title lang="en">KOR vs. SUI (W Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -3248,7 +3248,7 @@
       <actor>KOR vs. SUI (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260217T110000 +0000" stop="20260217T130000 +0000" channel="peacock 096">
+  <programme start="20260217110000 +0000" stop="20260217130000 +0000" channel="peacock 096">
     <title lang="en">SWE vs. CAN (W Round_Robin) starts at 8:05 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -3257,7 +3257,7 @@
       <actor>SWE vs. CAN (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260217T130000 +0000" stop="20260217T130510 +0000" channel="peacock 096">
+  <programme start="20260217130000 +0000" stop="20260217130510 +0000" channel="peacock 096">
     <title lang="en">SWE vs. CAN (W Round_Robin) starts at 8:05 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -3266,7 +3266,7 @@
       <actor>SWE vs. CAN (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260217T130510 +0000" stop="20260217T170510 +0000" channel="peacock 096">
+  <programme start="20260217130510 +0000" stop="20260217170510 +0000" channel="peacock 096">
     <title lang="en">SWE vs. CAN (W Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -3276,7 +3276,7 @@
       <actor>SWE vs. CAN (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260217T110000 +0000" stop="20260217T130000 +0000" channel="peacock 097">
+  <programme start="20260217110000 +0000" stop="20260217130000 +0000" channel="peacock 097">
     <title lang="en">DEN vs. USA (W Round_Robin) starts at 8:05 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -3285,7 +3285,7 @@
       <actor>DEN vs. USA (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260217T130000 +0000" stop="20260217T130515 +0000" channel="peacock 097">
+  <programme start="20260217130000 +0000" stop="20260217130515 +0000" channel="peacock 097">
     <title lang="en">DEN vs. USA (W Round_Robin) starts at 8:05 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -3294,7 +3294,7 @@
       <actor>DEN vs. USA (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260217T130515 +0000" stop="20260217T170515 +0000" channel="peacock 097">
+  <programme start="20260217130515 +0000" stop="20260217170515 +0000" channel="peacock 097">
     <title lang="en">DEN vs. USA (W Round_Robin)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -3304,7 +3304,7 @@
       <actor>DEN vs. USA (W Round_Robin)</actor>
     </credits>
   </programme>
-  <programme start="20260217T110000 +0000" stop="20260217T130000 +0000" channel="peacock 098">
+  <programme start="20260217110000 +0000" stop="20260217130000 +0000" channel="peacock 098">
     <title lang="en">Men`s 4x7.5km Relay starts at 8:30 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -3313,7 +3313,7 @@
       <actor>Men`s 4x7.5km Relay</actor>
     </credits>
   </programme>
-  <programme start="20260217T130000 +0000" stop="20260217T133000 +0000" channel="peacock 098">
+  <programme start="20260217130000 +0000" stop="20260217133000 +0000" channel="peacock 098">
     <title lang="en">Men`s 4x7.5km Relay starts at 8:30 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -3322,7 +3322,7 @@
       <actor>Men`s 4x7.5km Relay</actor>
     </credits>
   </programme>
-  <programme start="20260217T133000 +0000" stop="20260217T173000 +0000" channel="peacock 098">
+  <programme start="20260217133000 +0000" stop="20260217173000 +0000" channel="peacock 098">
     <title lang="en">Men`s 4x7.5km Relay</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -3332,7 +3332,7 @@
       <actor>Men`s 4x7.5km Relay</actor>
     </credits>
   </programme>
-  <programme start="20260217T110000 +0000" stop="20260217T130000 +0000" channel="peacock 099">
+  <programme start="20260217110000 +0000" stop="20260217130000 +0000" channel="peacock 099">
     <title lang="en">M&amp;W Team Pursuit Finals starts at 8:30 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -3341,7 +3341,7 @@
       <actor>M&amp;W Team Pursuit Finals</actor>
     </credits>
   </programme>
-  <programme start="20260217T130000 +0000" stop="20260217T133005 +0000" channel="peacock 099">
+  <programme start="20260217130000 +0000" stop="20260217133005 +0000" channel="peacock 099">
     <title lang="en">M&amp;W Team Pursuit Finals starts at 8:30 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -3350,7 +3350,7 @@
       <actor>M&amp;W Team Pursuit Finals</actor>
     </credits>
   </programme>
-  <programme start="20260217T133005 +0000" stop="20260217T173005 +0000" channel="peacock 099">
+  <programme start="20260217133005 +0000" stop="20260217173005 +0000" channel="peacock 099">
     <title lang="en">M&amp;W Team Pursuit Finals</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -3360,7 +3360,7 @@
       <actor>M&amp;W Team Pursuit Finals</actor>
     </credits>
   </programme>
-  <programme start="20260217T110000 +0000" stop="20260217T130000 +0000" channel="peacock 100">
+  <programme start="20260217110000 +0000" stop="20260217130000 +0000" channel="peacock 100">
     <title lang="en">Women`s Short: Warm_Up starts at 10:20 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -3369,7 +3369,7 @@
       <actor>Women`s Short: Warm_Up</actor>
     </credits>
   </programme>
-  <programme start="20260217T130000 +0000" stop="20260217T150000 +0000" channel="peacock 100">
+  <programme start="20260217130000 +0000" stop="20260217150000 +0000" channel="peacock 100">
     <title lang="en">Women`s Short: Warm_Up starts at 10:20 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -3378,7 +3378,7 @@
       <actor>Women`s Short: Warm_Up</actor>
     </credits>
   </programme>
-  <programme start="20260217T150000 +0000" stop="20260217T152000 +0000" channel="peacock 100">
+  <programme start="20260217150000 +0000" stop="20260217152000 +0000" channel="peacock 100">
     <title lang="en">Women`s Short: Warm_Up starts at 10:20 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -3387,7 +3387,7 @@
       <actor>Women`s Short: Warm_Up</actor>
     </credits>
   </programme>
-  <programme start="20260217T152000 +0000" stop="20260217T192000 +0000" channel="peacock 100">
+  <programme start="20260217152000 +0000" stop="20260217192000 +0000" channel="peacock 100">
     <title lang="en">Women`s Short: Warm_Up</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
