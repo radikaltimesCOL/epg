@@ -210,76 +210,58 @@
   <channel id="PPV 70">
     <display-name>PPV 70</display-name>
   </channel>
-  <programme start="20260216110000 +0000" stop="20260216130000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+  <programme start="20260218110000 +0000" stop="20260218130000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Lights Out 17 starts at 4:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
+      <actor>Lights Out 17</actor>
     </credits>
   </programme>
-  <programme start="20260216130000 +0000" stop="20260216150000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+  <programme start="20260218130000 +0000" stop="20260218150000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Lights Out 17 starts at 4:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
+      <actor>Lights Out 17</actor>
     </credits>
   </programme>
-  <programme start="20260216150000 +0000" stop="20260216170000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+  <programme start="20260218150000 +0000" stop="20260218170000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Lights Out 17 starts at 4:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
+      <actor>Lights Out 17</actor>
     </credits>
   </programme>
-  <programme start="20260216170000 +0000" stop="20260216190000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+  <programme start="20260218170000 +0000" stop="20260218190000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Lights Out 17 starts at 4:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
+      <actor>Lights Out 17</actor>
     </credits>
   </programme>
-  <programme start="20260216190000 +0000" stop="20260216210000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+  <programme start="20260218190000 +0000" stop="20260218210000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Lights Out 17 starts at 4:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
+      <actor>Lights Out 17</actor>
     </credits>
   </programme>
-  <programme start="20260216210000 +0000" stop="20260216230000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
-    </credits>
-  </programme>
-  <programme start="20260216230000 +0000" stop="20260217010000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
-    </credits>
-  </programme>
-  <programme start="20260217010000 +0000" stop="20260217040000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw (2.16 8:00 PM ET)</title>
+  <programme start="20260218210000 +0000" stop="20260219000000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Lights Out 17 (2.18 4:00 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
+      <actor>Lights Out 17</actor>
     </credits>
   </programme>
 </tv>
