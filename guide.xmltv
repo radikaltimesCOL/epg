@@ -210,8 +210,8 @@
   <channel id="PPV 70">
     <display-name>PPV 70</display-name>
   </channel>
-  <programme start="20260219110000 +0000" stop="20260219130000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Lights Out 17 starts at 4:00 PM ET</title>
+  <programme start="20260220110000 +0000" stop="20260220130000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Lights Out 17 starts at 9:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -219,8 +219,8 @@
       <actor>Lights Out 17</actor>
     </credits>
   </programme>
-  <programme start="20260219130000 +0000" stop="20260219150000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Lights Out 17 starts at 4:00 PM ET</title>
+  <programme start="20260220130000 +0000" stop="20260220140000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Lights Out 17 starts at 9:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -228,35 +228,8 @@
       <actor>Lights Out 17</actor>
     </credits>
   </programme>
-  <programme start="20260219150000 +0000" stop="20260219170000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Lights Out 17 starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>Lights Out 17</actor>
-    </credits>
-  </programme>
-  <programme start="20260219170000 +0000" stop="20260219190000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Lights Out 17 starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>Lights Out 17</actor>
-    </credits>
-  </programme>
-  <programme start="20260219190000 +0000" stop="20260219210000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Lights Out 17 starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>Lights Out 17</actor>
-    </credits>
-  </programme>
-  <programme start="20260219210000 +0000" stop="20260220000000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Lights Out 17 (2.19 4:00 PM ET)</title>
+  <programme start="20260220140000 +0000" stop="20260220170000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Lights Out 17 (2.20 9:00 AM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -264,8 +237,8 @@
       <actor>Lights Out 17</actor>
     </credits>
   </programme>
-  <programme start="20260219110000 +0000" stop="20260219130000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Lucas Oil Late Model Dirt Series at All Tech Raceway starts at 4:45 PM ET</title>
+  <programme start="20260220110000 +0000" stop="20260220130000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Lucas Oil Late Model Dirt Series at All Tech Raceway starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -273,8 +246,8 @@
       <actor>Lucas Oil Late Model Dirt Series at All Tech Raceway</actor>
     </credits>
   </programme>
-  <programme start="20260219130000 +0000" stop="20260219150000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Lucas Oil Late Model Dirt Series at All Tech Raceway starts at 4:45 PM ET</title>
+  <programme start="20260220130000 +0000" stop="20260220150000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Lucas Oil Late Model Dirt Series at All Tech Raceway starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -282,8 +255,8 @@
       <actor>Lucas Oil Late Model Dirt Series at All Tech Raceway</actor>
     </credits>
   </programme>
-  <programme start="20260219150000 +0000" stop="20260219170000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Lucas Oil Late Model Dirt Series at All Tech Raceway starts at 4:45 PM ET</title>
+  <programme start="20260220150000 +0000" stop="20260220170000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Lucas Oil Late Model Dirt Series at All Tech Raceway starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -291,8 +264,8 @@
       <actor>Lucas Oil Late Model Dirt Series at All Tech Raceway</actor>
     </credits>
   </programme>
-  <programme start="20260219170000 +0000" stop="20260219190000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Lucas Oil Late Model Dirt Series at All Tech Raceway starts at 4:45 PM ET</title>
+  <programme start="20260220170000 +0000" stop="20260220190000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Lucas Oil Late Model Dirt Series at All Tech Raceway starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -300,8 +273,8 @@
       <actor>Lucas Oil Late Model Dirt Series at All Tech Raceway</actor>
     </credits>
   </programme>
-  <programme start="20260219190000 +0000" stop="20260219210000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Lucas Oil Late Model Dirt Series at All Tech Raceway starts at 4:45 PM ET</title>
+  <programme start="20260220190000 +0000" stop="20260220210000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Lucas Oil Late Model Dirt Series at All Tech Raceway starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -309,8 +282,8 @@
       <actor>Lucas Oil Late Model Dirt Series at All Tech Raceway</actor>
     </credits>
   </programme>
-  <programme start="20260219210000 +0000" stop="20260219214500 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Lucas Oil Late Model Dirt Series at All Tech Raceway starts at 4:45 PM ET</title>
+  <programme start="20260220210000 +0000" stop="20260220223000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Lucas Oil Late Model Dirt Series at All Tech Raceway starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -318,8 +291,8 @@
       <actor>Lucas Oil Late Model Dirt Series at All Tech Raceway</actor>
     </credits>
   </programme>
-  <programme start="20260219214500 +0000" stop="20260220004500 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Lucas Oil Late Model Dirt Series at All Tech Raceway (2.19 4:45 PM ET)</title>
+  <programme start="20260220223000 +0000" stop="20260221013000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Lucas Oil Late Model Dirt Series at All Tech Raceway (2.20 5:30 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -327,7 +300,7 @@
       <actor>Lucas Oil Late Model Dirt Series at All Tech Raceway</actor>
     </credits>
   </programme>
-  <programme start="20260219110000 +0000" stop="20260219130000 +0000" channel="PPV 03">
+  <programme start="20260220110000 +0000" stop="20260220130000 +0000" channel="PPV 03">
     <title lang="en">EVENT 03: Modified Week at Ocala starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -336,7 +309,7 @@
       <actor>Modified Week at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260219130000 +0000" stop="20260219150000 +0000" channel="PPV 03">
+  <programme start="20260220130000 +0000" stop="20260220150000 +0000" channel="PPV 03">
     <title lang="en">EVENT 03: Modified Week at Ocala starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -345,7 +318,7 @@
       <actor>Modified Week at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260219150000 +0000" stop="20260219170000 +0000" channel="PPV 03">
+  <programme start="20260220150000 +0000" stop="20260220170000 +0000" channel="PPV 03">
     <title lang="en">EVENT 03: Modified Week at Ocala starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -354,7 +327,7 @@
       <actor>Modified Week at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260219170000 +0000" stop="20260219190000 +0000" channel="PPV 03">
+  <programme start="20260220170000 +0000" stop="20260220190000 +0000" channel="PPV 03">
     <title lang="en">EVENT 03: Modified Week at Ocala starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -363,7 +336,7 @@
       <actor>Modified Week at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260219190000 +0000" stop="20260219210000 +0000" channel="PPV 03">
+  <programme start="20260220190000 +0000" stop="20260220210000 +0000" channel="PPV 03">
     <title lang="en">EVENT 03: Modified Week at Ocala starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -372,7 +345,7 @@
       <actor>Modified Week at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260219210000 +0000" stop="20260219230000 +0000" channel="PPV 03">
+  <programme start="20260220210000 +0000" stop="20260220230000 +0000" channel="PPV 03">
     <title lang="en">EVENT 03: Modified Week at Ocala starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -381,8 +354,8 @@
       <actor>Modified Week at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260219230000 +0000" stop="20260220020000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: Modified Week at Ocala (2.19 6:00 PM ET)</title>
+  <programme start="20260220230000 +0000" stop="20260221020000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Modified Week at Ocala (2.20 6:00 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -390,85 +363,607 @@
       <actor>Modified Week at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260219110000 +0000" stop="20260219130000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: BFL 86 starts at 10:00 PM ET</title>
+  <programme start="20260220110000 +0000" stop="20260220130000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: Snocross National at Seneca Allegany starts at 2:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 04</actor>
-      <actor>BFL 86</actor>
+      <actor>Snocross National at Seneca Allegany</actor>
     </credits>
   </programme>
-  <programme start="20260219130000 +0000" stop="20260219150000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: BFL 86 starts at 10:00 PM ET</title>
+  <programme start="20260220130000 +0000" stop="20260220150000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: Snocross National at Seneca Allegany starts at 2:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 04</actor>
-      <actor>BFL 86</actor>
+      <actor>Snocross National at Seneca Allegany</actor>
     </credits>
   </programme>
-  <programme start="20260219150000 +0000" stop="20260219170000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: BFL 86 starts at 10:00 PM ET</title>
+  <programme start="20260220150000 +0000" stop="20260220170000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: Snocross National at Seneca Allegany starts at 2:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 04</actor>
-      <actor>BFL 86</actor>
+      <actor>Snocross National at Seneca Allegany</actor>
     </credits>
   </programme>
-  <programme start="20260219170000 +0000" stop="20260219190000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: BFL 86 starts at 10:00 PM ET</title>
+  <programme start="20260220170000 +0000" stop="20260220190000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: Snocross National at Seneca Allegany starts at 2:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 04</actor>
-      <actor>BFL 86</actor>
+      <actor>Snocross National at Seneca Allegany</actor>
     </credits>
   </programme>
-  <programme start="20260219190000 +0000" stop="20260219210000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: BFL 86 starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>BFL 86</actor>
-    </credits>
-  </programme>
-  <programme start="20260219210000 +0000" stop="20260219230000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: BFL 86 starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>BFL 86</actor>
-    </credits>
-  </programme>
-  <programme start="20260219230000 +0000" stop="20260220010000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: BFL 86 starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>BFL 86</actor>
-    </credits>
-  </programme>
-  <programme start="20260220010000 +0000" stop="20260220030000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: BFL 86 starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>BFL 86</actor>
-    </credits>
-  </programme>
-  <programme start="20260220030000 +0000" stop="20260220060000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: BFL 86 (2.19 10:00 PM ET)</title>
+  <programme start="20260220190000 +0000" stop="20260220220000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: Snocross National at Seneca Allegany (2.20 2:00 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 04</actor>
-      <actor>BFL 86</actor>
+      <actor>Snocross National at Seneca Allegany</actor>
+    </credits>
+  </programme>
+  <programme start="20260220110000 +0000" stop="20260220130000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: Hendry County Motor Sports Park starts at 6:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>Hendry County Motor Sports Park</actor>
+    </credits>
+  </programme>
+  <programme start="20260220130000 +0000" stop="20260220150000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: Hendry County Motor Sports Park starts at 6:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>Hendry County Motor Sports Park</actor>
+    </credits>
+  </programme>
+  <programme start="20260220150000 +0000" stop="20260220170000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: Hendry County Motor Sports Park starts at 6:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>Hendry County Motor Sports Park</actor>
+    </credits>
+  </programme>
+  <programme start="20260220170000 +0000" stop="20260220190000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: Hendry County Motor Sports Park starts at 6:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>Hendry County Motor Sports Park</actor>
+    </credits>
+  </programme>
+  <programme start="20260220190000 +0000" stop="20260220210000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: Hendry County Motor Sports Park starts at 6:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>Hendry County Motor Sports Park</actor>
+    </credits>
+  </programme>
+  <programme start="20260220210000 +0000" stop="20260220230000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: Hendry County Motor Sports Park starts at 6:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>Hendry County Motor Sports Park</actor>
+    </credits>
+  </programme>
+  <programme start="20260220230000 +0000" stop="20260220231500 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: Hendry County Motor Sports Park starts at 6:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>Hendry County Motor Sports Park</actor>
+    </credits>
+  </programme>
+  <programme start="20260220231500 +0000" stop="20260221021500 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: Hendry County Motor Sports Park (2.20 6:15 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>Hendry County Motor Sports Park</actor>
+    </credits>
+  </programme>
+  <programme start="20260220110000 +0000" stop="20260220130000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: House of Glory No Turning Back starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>House of Glory No Turning Back</actor>
+    </credits>
+  </programme>
+  <programme start="20260220130000 +0000" stop="20260220150000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: House of Glory No Turning Back starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>House of Glory No Turning Back</actor>
+    </credits>
+  </programme>
+  <programme start="20260220150000 +0000" stop="20260220170000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: House of Glory No Turning Back starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>House of Glory No Turning Back</actor>
+    </credits>
+  </programme>
+  <programme start="20260220170000 +0000" stop="20260220190000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: House of Glory No Turning Back starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>House of Glory No Turning Back</actor>
+    </credits>
+  </programme>
+  <programme start="20260220190000 +0000" stop="20260220210000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: House of Glory No Turning Back starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>House of Glory No Turning Back</actor>
+    </credits>
+  </programme>
+  <programme start="20260220210000 +0000" stop="20260220230000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: House of Glory No Turning Back starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>House of Glory No Turning Back</actor>
+    </credits>
+  </programme>
+  <programme start="20260220230000 +0000" stop="20260221000000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: House of Glory No Turning Back starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>House of Glory No Turning Back</actor>
+    </credits>
+  </programme>
+  <programme start="20260221000000 +0000" stop="20260221030000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: House of Glory No Turning Back (2.20 7:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>House of Glory No Turning Back</actor>
+    </credits>
+  </programme>
+  <programme start="20260220110000 +0000" stop="20260220130000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: XFN 407 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>XFN 407</actor>
+    </credits>
+  </programme>
+  <programme start="20260220130000 +0000" stop="20260220150000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: XFN 407 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>XFN 407</actor>
+    </credits>
+  </programme>
+  <programme start="20260220150000 +0000" stop="20260220170000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: XFN 407 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>XFN 407</actor>
+    </credits>
+  </programme>
+  <programme start="20260220170000 +0000" stop="20260220190000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: XFN 407 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>XFN 407</actor>
+    </credits>
+  </programme>
+  <programme start="20260220190000 +0000" stop="20260220210000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: XFN 407 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>XFN 407</actor>
+    </credits>
+  </programme>
+  <programme start="20260220210000 +0000" stop="20260220230000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: XFN 407 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>XFN 407</actor>
+    </credits>
+  </programme>
+  <programme start="20260220230000 +0000" stop="20260221010000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: XFN 407 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>XFN 407</actor>
+    </credits>
+  </programme>
+  <programme start="20260221010000 +0000" stop="20260221020000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: XFN 407 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>XFN 407</actor>
+    </credits>
+  </programme>
+  <programme start="20260221020000 +0000" stop="20260221050000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: XFN 407 (2.20 9:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>XFN 407</actor>
+    </credits>
+  </programme>
+  <programme start="20260220110000 +0000" stop="20260220130000 +0000" channel="PPV 08">
+    <title lang="en">EVENT 08: Bison Kombat 6 starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 08</actor>
+      <actor>Bison Kombat 6</actor>
+    </credits>
+  </programme>
+  <programme start="20260220130000 +0000" stop="20260220150000 +0000" channel="PPV 08">
+    <title lang="en">EVENT 08: Bison Kombat 6 starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 08</actor>
+      <actor>Bison Kombat 6</actor>
+    </credits>
+  </programme>
+  <programme start="20260220150000 +0000" stop="20260220170000 +0000" channel="PPV 08">
+    <title lang="en">EVENT 08: Bison Kombat 6 starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 08</actor>
+      <actor>Bison Kombat 6</actor>
+    </credits>
+  </programme>
+  <programme start="20260220170000 +0000" stop="20260220190000 +0000" channel="PPV 08">
+    <title lang="en">EVENT 08: Bison Kombat 6 starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 08</actor>
+      <actor>Bison Kombat 6</actor>
+    </credits>
+  </programme>
+  <programme start="20260220190000 +0000" stop="20260220210000 +0000" channel="PPV 08">
+    <title lang="en">EVENT 08: Bison Kombat 6 starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 08</actor>
+      <actor>Bison Kombat 6</actor>
+    </credits>
+  </programme>
+  <programme start="20260220210000 +0000" stop="20260220220000 +0000" channel="PPV 08">
+    <title lang="en">EVENT 08: Bison Kombat 6 starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 08</actor>
+      <actor>Bison Kombat 6</actor>
+    </credits>
+  </programme>
+  <programme start="20260220220000 +0000" stop="20260221010000 +0000" channel="PPV 08">
+    <title lang="en">EVENT 08: Bison Kombat 6 (2.20 5:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 08</actor>
+      <actor>Bison Kombat 6</actor>
+    </credits>
+  </programme>
+  <programme start="20260220110000 +0000" stop="20260220130000 +0000" channel="PPV 09">
+    <title lang="en">EVENT 09: Combat FC 12 starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 09</actor>
+      <actor>Combat FC 12</actor>
+    </credits>
+  </programme>
+  <programme start="20260220130000 +0000" stop="20260220150000 +0000" channel="PPV 09">
+    <title lang="en">EVENT 09: Combat FC 12 starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 09</actor>
+      <actor>Combat FC 12</actor>
+    </credits>
+  </programme>
+  <programme start="20260220150000 +0000" stop="20260220170000 +0000" channel="PPV 09">
+    <title lang="en">EVENT 09: Combat FC 12 starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 09</actor>
+      <actor>Combat FC 12</actor>
+    </credits>
+  </programme>
+  <programme start="20260220170000 +0000" stop="20260220190000 +0000" channel="PPV 09">
+    <title lang="en">EVENT 09: Combat FC 12 starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 09</actor>
+      <actor>Combat FC 12</actor>
+    </credits>
+  </programme>
+  <programme start="20260220190000 +0000" stop="20260220210000 +0000" channel="PPV 09">
+    <title lang="en">EVENT 09: Combat FC 12 starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 09</actor>
+      <actor>Combat FC 12</actor>
+    </credits>
+  </programme>
+  <programme start="20260220210000 +0000" stop="20260220230000 +0000" channel="PPV 09">
+    <title lang="en">EVENT 09: Combat FC 12 starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 09</actor>
+      <actor>Combat FC 12</actor>
+    </credits>
+  </programme>
+  <programme start="20260220230000 +0000" stop="20260221010000 +0000" channel="PPV 09">
+    <title lang="en">EVENT 09: Combat FC 12 starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 09</actor>
+      <actor>Combat FC 12</actor>
+    </credits>
+  </programme>
+  <programme start="20260221010000 +0000" stop="20260221040000 +0000" channel="PPV 09">
+    <title lang="en">EVENT 09: Combat FC 12 (2.20 8:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 09</actor>
+      <actor>Combat FC 12</actor>
+    </credits>
+  </programme>
+  <programme start="20260220110000 +0000" stop="20260220130000 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: Fury FC 16 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>Fury FC 16</actor>
+    </credits>
+  </programme>
+  <programme start="20260220130000 +0000" stop="20260220150000 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: Fury FC 16 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>Fury FC 16</actor>
+    </credits>
+  </programme>
+  <programme start="20260220150000 +0000" stop="20260220170000 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: Fury FC 16 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>Fury FC 16</actor>
+    </credits>
+  </programme>
+  <programme start="20260220170000 +0000" stop="20260220190000 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: Fury FC 16 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>Fury FC 16</actor>
+    </credits>
+  </programme>
+  <programme start="20260220190000 +0000" stop="20260220210000 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: Fury FC 16 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>Fury FC 16</actor>
+    </credits>
+  </programme>
+  <programme start="20260220210000 +0000" stop="20260220230000 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: Fury FC 16 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>Fury FC 16</actor>
+    </credits>
+  </programme>
+  <programme start="20260220230000 +0000" stop="20260221010000 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: Fury FC 16 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>Fury FC 16</actor>
+    </credits>
+  </programme>
+  <programme start="20260221010000 +0000" stop="20260221020000 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: Fury FC 16 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>Fury FC 16</actor>
+    </credits>
+  </programme>
+  <programme start="20260221020000 +0000" stop="20260221050000 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: Fury FC 16 (2.20 9:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>Fury FC 16</actor>
+    </credits>
+  </programme>
+  <programme start="20260220110000 +0000" stop="20260220130000 +0000" channel="PPV 11">
+    <title lang="en">EVENT 11: Wood vs. Warrington 2 starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 11</actor>
+      <actor>Wood vs. Warrington 2</actor>
+    </credits>
+  </programme>
+  <programme start="20260220130000 +0000" stop="20260220150000 +0000" channel="PPV 11">
+    <title lang="en">EVENT 11: Wood vs. Warrington 2 starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 11</actor>
+      <actor>Wood vs. Warrington 2</actor>
+    </credits>
+  </programme>
+  <programme start="20260220150000 +0000" stop="20260220170000 +0000" channel="PPV 11">
+    <title lang="en">EVENT 11: Wood vs. Warrington 2 starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 11</actor>
+      <actor>Wood vs. Warrington 2</actor>
+    </credits>
+  </programme>
+  <programme start="20260220170000 +0000" stop="20260220190000 +0000" channel="PPV 11">
+    <title lang="en">EVENT 11: Wood vs. Warrington 2 starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 11</actor>
+      <actor>Wood vs. Warrington 2</actor>
+    </credits>
+  </programme>
+  <programme start="20260220190000 +0000" stop="20260220220000 +0000" channel="PPV 11">
+    <title lang="en">EVENT 11: Wood vs. Warrington 2 (2.20 2:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 11</actor>
+      <actor>Wood vs. Warrington 2</actor>
+    </credits>
+  </programme>
+  <programme start="20260220110000 +0000" stop="20260220130000 +0000" channel="PPV 12">
+    <title lang="en">EVENT 12: Toughman Contest starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 12</actor>
+      <actor>Toughman Contest</actor>
+    </credits>
+  </programme>
+  <programme start="20260220130000 +0000" stop="20260220150000 +0000" channel="PPV 12">
+    <title lang="en">EVENT 12: Toughman Contest starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 12</actor>
+      <actor>Toughman Contest</actor>
+    </credits>
+  </programme>
+  <programme start="20260220150000 +0000" stop="20260220170000 +0000" channel="PPV 12">
+    <title lang="en">EVENT 12: Toughman Contest starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 12</actor>
+      <actor>Toughman Contest</actor>
+    </credits>
+  </programme>
+  <programme start="20260220170000 +0000" stop="20260220190000 +0000" channel="PPV 12">
+    <title lang="en">EVENT 12: Toughman Contest starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 12</actor>
+      <actor>Toughman Contest</actor>
+    </credits>
+  </programme>
+  <programme start="20260220190000 +0000" stop="20260220210000 +0000" channel="PPV 12">
+    <title lang="en">EVENT 12: Toughman Contest starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 12</actor>
+      <actor>Toughman Contest</actor>
+    </credits>
+  </programme>
+  <programme start="20260220210000 +0000" stop="20260220230000 +0000" channel="PPV 12">
+    <title lang="en">EVENT 12: Toughman Contest starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 12</actor>
+      <actor>Toughman Contest</actor>
+    </credits>
+  </programme>
+  <programme start="20260220230000 +0000" stop="20260221000000 +0000" channel="PPV 12">
+    <title lang="en">EVENT 12: Toughman Contest starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 12</actor>
+      <actor>Toughman Contest</actor>
+    </credits>
+  </programme>
+  <programme start="20260221000000 +0000" stop="20260221030000 +0000" channel="PPV 12">
+    <title lang="en">EVENT 12: Toughman Contest (2.20 7:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 12</actor>
+      <actor>Toughman Contest</actor>
     </credits>
   </programme>
 </tv>
