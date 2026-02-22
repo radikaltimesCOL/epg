@@ -210,1453 +210,337 @@
   <channel id="PPV 70">
     <display-name>PPV 70</display-name>
   </channel>
-  <programme start="20260221110000 +0000" stop="20260221130000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: PRELIMS UFC FN starts at 5:00 PM ET</title>
+  <programme start="20260222110000 +0000" stop="20260222130000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Lights Out 17 starts at 10:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>PRELIMS UFC FN</actor>
-    </credits>
-  </programme>
-  <programme start="20260221130000 +0000" stop="20260221150000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: PRELIMS UFC FN starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>PRELIMS UFC FN</actor>
-    </credits>
-  </programme>
-  <programme start="20260221150000 +0000" stop="20260221170000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: PRELIMS UFC FN starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>PRELIMS UFC FN</actor>
-    </credits>
-  </programme>
-  <programme start="20260221170000 +0000" stop="20260221190000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: PRELIMS UFC FN starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>PRELIMS UFC FN</actor>
-    </credits>
-  </programme>
-  <programme start="20260221190000 +0000" stop="20260221210000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: PRELIMS UFC FN starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>PRELIMS UFC FN</actor>
-    </credits>
-  </programme>
-  <programme start="20260221210000 +0000" stop="20260221220000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: PRELIMS UFC FN starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>PRELIMS UFC FN</actor>
-    </credits>
-  </programme>
-  <programme start="20260221220000 +0000" stop="20260222010000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: PRELIMS UFC FN (2.21 5:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>PRELIMS UFC FN</actor>
-    </credits>
-  </programme>
-  <programme start="20260221110000 +0000" stop="20260221130000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: PRELIMS UFC FN starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>PRELIMS UFC FN</actor>
-    </credits>
-  </programme>
-  <programme start="20260221130000 +0000" stop="20260221150000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: PRELIMS UFC FN starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>PRELIMS UFC FN</actor>
-    </credits>
-  </programme>
-  <programme start="20260221150000 +0000" stop="20260221170000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: PRELIMS UFC FN starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>PRELIMS UFC FN</actor>
-    </credits>
-  </programme>
-  <programme start="20260221170000 +0000" stop="20260221190000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: PRELIMS UFC FN starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>PRELIMS UFC FN</actor>
-    </credits>
-  </programme>
-  <programme start="20260221190000 +0000" stop="20260221210000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: PRELIMS UFC FN starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>PRELIMS UFC FN</actor>
-    </credits>
-  </programme>
-  <programme start="20260221210000 +0000" stop="20260221220000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: PRELIMS UFC FN starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>PRELIMS UFC FN</actor>
-    </credits>
-  </programme>
-  <programme start="20260221220000 +0000" stop="20260222010000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: PRELIMS UFC FN (2.21 5:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>PRELIMS UFC FN</actor>
-    </credits>
-  </programme>
-  <programme start="20260221110000 +0000" stop="20260221130000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: UFC FN Strickland vs. Hernandez starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>UFC FN Strickland vs. Hernandez</actor>
-    </credits>
-  </programme>
-  <programme start="20260221130000 +0000" stop="20260221150000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: UFC FN Strickland vs. Hernandez starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>UFC FN Strickland vs. Hernandez</actor>
-    </credits>
-  </programme>
-  <programme start="20260221150000 +0000" stop="20260221170000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: UFC FN Strickland vs. Hernandez starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>UFC FN Strickland vs. Hernandez</actor>
-    </credits>
-  </programme>
-  <programme start="20260221170000 +0000" stop="20260221190000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: UFC FN Strickland vs. Hernandez starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>UFC FN Strickland vs. Hernandez</actor>
-    </credits>
-  </programme>
-  <programme start="20260221190000 +0000" stop="20260221210000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: UFC FN Strickland vs. Hernandez starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>UFC FN Strickland vs. Hernandez</actor>
-    </credits>
-  </programme>
-  <programme start="20260221210000 +0000" stop="20260221230000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: UFC FN Strickland vs. Hernandez starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>UFC FN Strickland vs. Hernandez</actor>
-    </credits>
-  </programme>
-  <programme start="20260221230000 +0000" stop="20260222010000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: UFC FN Strickland vs. Hernandez starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>UFC FN Strickland vs. Hernandez</actor>
-    </credits>
-  </programme>
-  <programme start="20260222010000 +0000" stop="20260222040000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: UFC FN Strickland vs. Hernandez (2.21 8:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>UFC FN Strickland vs. Hernandez</actor>
-    </credits>
-  </programme>
-  <programme start="20260221110000 +0000" stop="20260221130000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: UFC FN Strickland vs. Hernandez starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>UFC FN Strickland vs. Hernandez</actor>
-    </credits>
-  </programme>
-  <programme start="20260221130000 +0000" stop="20260221150000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: UFC FN Strickland vs. Hernandez starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>UFC FN Strickland vs. Hernandez</actor>
-    </credits>
-  </programme>
-  <programme start="20260221150000 +0000" stop="20260221170000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: UFC FN Strickland vs. Hernandez starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>UFC FN Strickland vs. Hernandez</actor>
-    </credits>
-  </programme>
-  <programme start="20260221170000 +0000" stop="20260221190000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: UFC FN Strickland vs. Hernandez starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>UFC FN Strickland vs. Hernandez</actor>
-    </credits>
-  </programme>
-  <programme start="20260221190000 +0000" stop="20260221210000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: UFC FN Strickland vs. Hernandez starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>UFC FN Strickland vs. Hernandez</actor>
-    </credits>
-  </programme>
-  <programme start="20260221210000 +0000" stop="20260221230000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: UFC FN Strickland vs. Hernandez starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>UFC FN Strickland vs. Hernandez</actor>
-    </credits>
-  </programme>
-  <programme start="20260221230000 +0000" stop="20260222010000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: UFC FN Strickland vs. Hernandez starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>UFC FN Strickland vs. Hernandez</actor>
-    </credits>
-  </programme>
-  <programme start="20260222010000 +0000" stop="20260222040000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: UFC FN Strickland vs. Hernandez (2.21 8:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>UFC FN Strickland vs. Hernandez</actor>
-    </credits>
-  </programme>
-  <programme start="20260221110000 +0000" stop="20260221130000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: UFC FN Strickland vs. Hernandez starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>UFC FN Strickland vs. Hernandez</actor>
-    </credits>
-  </programme>
-  <programme start="20260221130000 +0000" stop="20260221150000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: UFC FN Strickland vs. Hernandez starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>UFC FN Strickland vs. Hernandez</actor>
-    </credits>
-  </programme>
-  <programme start="20260221150000 +0000" stop="20260221170000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: UFC FN Strickland vs. Hernandez starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>UFC FN Strickland vs. Hernandez</actor>
-    </credits>
-  </programme>
-  <programme start="20260221170000 +0000" stop="20260221190000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: UFC FN Strickland vs. Hernandez starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>UFC FN Strickland vs. Hernandez</actor>
-    </credits>
-  </programme>
-  <programme start="20260221190000 +0000" stop="20260221210000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: UFC FN Strickland vs. Hernandez starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>UFC FN Strickland vs. Hernandez</actor>
-    </credits>
-  </programme>
-  <programme start="20260221210000 +0000" stop="20260221230000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: UFC FN Strickland vs. Hernandez starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>UFC FN Strickland vs. Hernandez</actor>
-    </credits>
-  </programme>
-  <programme start="20260221230000 +0000" stop="20260222010000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: UFC FN Strickland vs. Hernandez starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>UFC FN Strickland vs. Hernandez</actor>
-    </credits>
-  </programme>
-  <programme start="20260222010000 +0000" stop="20260222040000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: UFC FN Strickland vs. Hernandez (2.21 8:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>UFC FN Strickland vs. Hernandez</actor>
-    </credits>
-  </programme>
-  <programme start="20260221110000 +0000" stop="20260221130000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: PRELIMS Cage Warriors 200 starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>PRELIMS Cage Warriors 200</actor>
-    </credits>
-  </programme>
-  <programme start="20260221130000 +0000" stop="20260221150000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: PRELIMS Cage Warriors 200 starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>PRELIMS Cage Warriors 200</actor>
-    </credits>
-  </programme>
-  <programme start="20260221150000 +0000" stop="20260221170000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: PRELIMS Cage Warriors 200 starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>PRELIMS Cage Warriors 200</actor>
-    </credits>
-  </programme>
-  <programme start="20260221170000 +0000" stop="20260221200000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: PRELIMS Cage Warriors 200 (2.21 12:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>PRELIMS Cage Warriors 200</actor>
-    </credits>
-  </programme>
-  <programme start="20260221110000 +0000" stop="20260221130000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Cage Warriors 200 starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Cage Warriors 200</actor>
-    </credits>
-  </programme>
-  <programme start="20260221130000 +0000" stop="20260221150000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Cage Warriors 200 starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Cage Warriors 200</actor>
-    </credits>
-  </programme>
-  <programme start="20260221150000 +0000" stop="20260221170000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Cage Warriors 200 starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Cage Warriors 200</actor>
-    </credits>
-  </programme>
-  <programme start="20260221170000 +0000" stop="20260221190000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Cage Warriors 200 starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Cage Warriors 200</actor>
-    </credits>
-  </programme>
-  <programme start="20260221190000 +0000" stop="20260221200000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Cage Warriors 200 starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Cage Warriors 200</actor>
-    </credits>
-  </programme>
-  <programme start="20260221200000 +0000" stop="20260221230000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Cage Warriors 200 (2.21 3:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Cage Warriors 200</actor>
-    </credits>
-  </programme>
-  <programme start="20260221110000 +0000" stop="20260221130000 +0000" channel="PPV 08">
-    <title lang="en">EVENT 08: WOW FC starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 08</actor>
-      <actor>WOW FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260221130000 +0000" stop="20260221150000 +0000" channel="PPV 08">
-    <title lang="en">EVENT 08: WOW FC starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 08</actor>
-      <actor>WOW FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260221150000 +0000" stop="20260221170000 +0000" channel="PPV 08">
-    <title lang="en">EVENT 08: WOW FC starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 08</actor>
-      <actor>WOW FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260221170000 +0000" stop="20260221190000 +0000" channel="PPV 08">
-    <title lang="en">EVENT 08: WOW FC starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 08</actor>
-      <actor>WOW FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260221190000 +0000" stop="20260221210000 +0000" channel="PPV 08">
-    <title lang="en">EVENT 08: WOW FC starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 08</actor>
-      <actor>WOW FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260221210000 +0000" stop="20260222000000 +0000" channel="PPV 08">
-    <title lang="en">EVENT 08: WOW FC (2.21 4:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 08</actor>
-      <actor>WOW FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260221110000 +0000" stop="20260221130000 +0000" channel="PPV 09">
-    <title lang="en">EVENT 09: NCL 63 All Roads Lead North starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 09</actor>
-      <actor>NCL 63 All Roads Lead North</actor>
-    </credits>
-  </programme>
-  <programme start="20260221130000 +0000" stop="20260221150000 +0000" channel="PPV 09">
-    <title lang="en">EVENT 09: NCL 63 All Roads Lead North starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 09</actor>
-      <actor>NCL 63 All Roads Lead North</actor>
-    </credits>
-  </programme>
-  <programme start="20260221150000 +0000" stop="20260221170000 +0000" channel="PPV 09">
-    <title lang="en">EVENT 09: NCL 63 All Roads Lead North starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 09</actor>
-      <actor>NCL 63 All Roads Lead North</actor>
-    </credits>
-  </programme>
-  <programme start="20260221170000 +0000" stop="20260221190000 +0000" channel="PPV 09">
-    <title lang="en">EVENT 09: NCL 63 All Roads Lead North starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 09</actor>
-      <actor>NCL 63 All Roads Lead North</actor>
-    </credits>
-  </programme>
-  <programme start="20260221190000 +0000" stop="20260221200000 +0000" channel="PPV 09">
-    <title lang="en">EVENT 09: NCL 63 All Roads Lead North starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 09</actor>
-      <actor>NCL 63 All Roads Lead North</actor>
-    </credits>
-  </programme>
-  <programme start="20260221200000 +0000" stop="20260221230000 +0000" channel="PPV 09">
-    <title lang="en">EVENT 09: NCL 63 All Roads Lead North (2.21 3:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 09</actor>
-      <actor>NCL 63 All Roads Lead North</actor>
-    </credits>
-  </programme>
-  <programme start="20260221110000 +0000" stop="20260221130000 +0000" channel="PPV 10">
-    <title lang="en">EVENT 10: IWC Reloaded 12 starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 10</actor>
-      <actor>IWC Reloaded 12</actor>
-    </credits>
-  </programme>
-  <programme start="20260221130000 +0000" stop="20260221150000 +0000" channel="PPV 10">
-    <title lang="en">EVENT 10: IWC Reloaded 12 starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 10</actor>
-      <actor>IWC Reloaded 12</actor>
-    </credits>
-  </programme>
-  <programme start="20260221150000 +0000" stop="20260221170000 +0000" channel="PPV 10">
-    <title lang="en">EVENT 10: IWC Reloaded 12 starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 10</actor>
-      <actor>IWC Reloaded 12</actor>
-    </credits>
-  </programme>
-  <programme start="20260221170000 +0000" stop="20260221190000 +0000" channel="PPV 10">
-    <title lang="en">EVENT 10: IWC Reloaded 12 starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 10</actor>
-      <actor>IWC Reloaded 12</actor>
-    </credits>
-  </programme>
-  <programme start="20260221190000 +0000" stop="20260221210000 +0000" channel="PPV 10">
-    <title lang="en">EVENT 10: IWC Reloaded 12 starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 10</actor>
-      <actor>IWC Reloaded 12</actor>
-    </credits>
-  </programme>
-  <programme start="20260221210000 +0000" stop="20260221230000 +0000" channel="PPV 10">
-    <title lang="en">EVENT 10: IWC Reloaded 12 starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 10</actor>
-      <actor>IWC Reloaded 12</actor>
-    </credits>
-  </programme>
-  <programme start="20260221230000 +0000" stop="20260222000000 +0000" channel="PPV 10">
-    <title lang="en">EVENT 10: IWC Reloaded 12 starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 10</actor>
-      <actor>IWC Reloaded 12</actor>
-    </credits>
-  </programme>
-  <programme start="20260222000000 +0000" stop="20260222030000 +0000" channel="PPV 10">
-    <title lang="en">EVENT 10: IWC Reloaded 12 (2.21 7:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 10</actor>
-      <actor>IWC Reloaded 12</actor>
-    </credits>
-  </programme>
-  <programme start="20260221110000 +0000" stop="20260221130000 +0000" channel="PPV 11">
-    <title lang="en">EVENT 11: ALW Reindeer Games starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 11</actor>
-      <actor>ALW Reindeer Games</actor>
-    </credits>
-  </programme>
-  <programme start="20260221130000 +0000" stop="20260221150000 +0000" channel="PPV 11">
-    <title lang="en">EVENT 11: ALW Reindeer Games starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 11</actor>
-      <actor>ALW Reindeer Games</actor>
-    </credits>
-  </programme>
-  <programme start="20260221150000 +0000" stop="20260221170000 +0000" channel="PPV 11">
-    <title lang="en">EVENT 11: ALW Reindeer Games starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 11</actor>
-      <actor>ALW Reindeer Games</actor>
-    </credits>
-  </programme>
-  <programme start="20260221170000 +0000" stop="20260221190000 +0000" channel="PPV 11">
-    <title lang="en">EVENT 11: ALW Reindeer Games starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 11</actor>
-      <actor>ALW Reindeer Games</actor>
-    </credits>
-  </programme>
-  <programme start="20260221190000 +0000" stop="20260221210000 +0000" channel="PPV 11">
-    <title lang="en">EVENT 11: ALW Reindeer Games starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 11</actor>
-      <actor>ALW Reindeer Games</actor>
-    </credits>
-  </programme>
-  <programme start="20260221210000 +0000" stop="20260221230000 +0000" channel="PPV 11">
-    <title lang="en">EVENT 11: ALW Reindeer Games starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 11</actor>
-      <actor>ALW Reindeer Games</actor>
-    </credits>
-  </programme>
-  <programme start="20260221230000 +0000" stop="20260222010000 +0000" channel="PPV 11">
-    <title lang="en">EVENT 11: ALW Reindeer Games starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 11</actor>
-      <actor>ALW Reindeer Games</actor>
-    </credits>
-  </programme>
-  <programme start="20260222010000 +0000" stop="20260222040000 +0000" channel="PPV 11">
-    <title lang="en">EVENT 11: ALW Reindeer Games (2.21 8:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 11</actor>
-      <actor>ALW Reindeer Games</actor>
-    </credits>
-  </programme>
-  <programme start="20260221110000 +0000" stop="20260221130000 +0000" channel="PPV 12">
-    <title lang="en">EVENT 12: Shamrock FC 373 starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 12</actor>
-      <actor>Shamrock FC 373</actor>
-    </credits>
-  </programme>
-  <programme start="20260221130000 +0000" stop="20260221150000 +0000" channel="PPV 12">
-    <title lang="en">EVENT 12: Shamrock FC 373 starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 12</actor>
-      <actor>Shamrock FC 373</actor>
-    </credits>
-  </programme>
-  <programme start="20260221150000 +0000" stop="20260221170000 +0000" channel="PPV 12">
-    <title lang="en">EVENT 12: Shamrock FC 373 starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 12</actor>
-      <actor>Shamrock FC 373</actor>
-    </credits>
-  </programme>
-  <programme start="20260221170000 +0000" stop="20260221190000 +0000" channel="PPV 12">
-    <title lang="en">EVENT 12: Shamrock FC 373 starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 12</actor>
-      <actor>Shamrock FC 373</actor>
-    </credits>
-  </programme>
-  <programme start="20260221190000 +0000" stop="20260221210000 +0000" channel="PPV 12">
-    <title lang="en">EVENT 12: Shamrock FC 373 starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 12</actor>
-      <actor>Shamrock FC 373</actor>
-    </credits>
-  </programme>
-  <programme start="20260221210000 +0000" stop="20260221230000 +0000" channel="PPV 12">
-    <title lang="en">EVENT 12: Shamrock FC 373 starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 12</actor>
-      <actor>Shamrock FC 373</actor>
-    </credits>
-  </programme>
-  <programme start="20260221230000 +0000" stop="20260222010000 +0000" channel="PPV 12">
-    <title lang="en">EVENT 12: Shamrock FC 373 starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 12</actor>
-      <actor>Shamrock FC 373</actor>
-    </credits>
-  </programme>
-  <programme start="20260222010000 +0000" stop="20260222013000 +0000" channel="PPV 12">
-    <title lang="en">EVENT 12: Shamrock FC 373 starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 12</actor>
-      <actor>Shamrock FC 373</actor>
-    </credits>
-  </programme>
-  <programme start="20260222013000 +0000" stop="20260222043000 +0000" channel="PPV 12">
-    <title lang="en">EVENT 12: Shamrock FC 373 (2.21 8:30 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 12</actor>
-      <actor>Shamrock FC 373</actor>
-    </credits>
-  </programme>
-  <programme start="20260221110000 +0000" stop="20260221130000 +0000" channel="PPV 13">
-    <title lang="en">EVENT 13: Royal Combat Muay Thai Series 28 starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 13</actor>
-      <actor>Royal Combat Muay Thai Series 28</actor>
-    </credits>
-  </programme>
-  <programme start="20260221130000 +0000" stop="20260221150000 +0000" channel="PPV 13">
-    <title lang="en">EVENT 13: Royal Combat Muay Thai Series 28 starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 13</actor>
-      <actor>Royal Combat Muay Thai Series 28</actor>
-    </credits>
-  </programme>
-  <programme start="20260221150000 +0000" stop="20260221170000 +0000" channel="PPV 13">
-    <title lang="en">EVENT 13: Royal Combat Muay Thai Series 28 starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 13</actor>
-      <actor>Royal Combat Muay Thai Series 28</actor>
-    </credits>
-  </programme>
-  <programme start="20260221170000 +0000" stop="20260221190000 +0000" channel="PPV 13">
-    <title lang="en">EVENT 13: Royal Combat Muay Thai Series 28 starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 13</actor>
-      <actor>Royal Combat Muay Thai Series 28</actor>
-    </credits>
-  </programme>
-  <programme start="20260221190000 +0000" stop="20260221210000 +0000" channel="PPV 13">
-    <title lang="en">EVENT 13: Royal Combat Muay Thai Series 28 starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 13</actor>
-      <actor>Royal Combat Muay Thai Series 28</actor>
-    </credits>
-  </programme>
-  <programme start="20260221210000 +0000" stop="20260221230000 +0000" channel="PPV 13">
-    <title lang="en">EVENT 13: Royal Combat Muay Thai Series 28 starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 13</actor>
-      <actor>Royal Combat Muay Thai Series 28</actor>
-    </credits>
-  </programme>
-  <programme start="20260221230000 +0000" stop="20260222010000 +0000" channel="PPV 13">
-    <title lang="en">EVENT 13: Royal Combat Muay Thai Series 28 starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 13</actor>
-      <actor>Royal Combat Muay Thai Series 28</actor>
-    </credits>
-  </programme>
-  <programme start="20260222010000 +0000" stop="20260222023000 +0000" channel="PPV 13">
-    <title lang="en">EVENT 13: Royal Combat Muay Thai Series 28 starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 13</actor>
-      <actor>Royal Combat Muay Thai Series 28</actor>
-    </credits>
-  </programme>
-  <programme start="20260222023000 +0000" stop="20260222053000 +0000" channel="PPV 13">
-    <title lang="en">EVENT 13: Royal Combat Muay Thai Series 28 (2.21 9:30 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 13</actor>
-      <actor>Royal Combat Muay Thai Series 28</actor>
-    </credits>
-  </programme>
-  <programme start="20260221110000 +0000" stop="20260221130000 +0000" channel="PPV 14">
-    <title lang="en">EVENT 14: PRELIMS Wood vs. Warrington starts at 12:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 14</actor>
-      <actor>PRELIMS Wood vs. Warrington</actor>
-    </credits>
-  </programme>
-  <programme start="20260221130000 +0000" stop="20260221150000 +0000" channel="PPV 14">
-    <title lang="en">EVENT 14: PRELIMS Wood vs. Warrington starts at 12:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 14</actor>
-      <actor>PRELIMS Wood vs. Warrington</actor>
-    </credits>
-  </programme>
-  <programme start="20260221150000 +0000" stop="20260221170000 +0000" channel="PPV 14">
-    <title lang="en">EVENT 14: PRELIMS Wood vs. Warrington starts at 12:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 14</actor>
-      <actor>PRELIMS Wood vs. Warrington</actor>
-    </credits>
-  </programme>
-  <programme start="20260221170000 +0000" stop="20260221173000 +0000" channel="PPV 14">
-    <title lang="en">EVENT 14: PRELIMS Wood vs. Warrington starts at 12:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 14</actor>
-      <actor>PRELIMS Wood vs. Warrington</actor>
-    </credits>
-  </programme>
-  <programme start="20260221173000 +0000" stop="20260221203000 +0000" channel="PPV 14">
-    <title lang="en">EVENT 14: PRELIMS Wood vs. Warrington (2.21 12:30 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 14</actor>
-      <actor>PRELIMS Wood vs. Warrington</actor>
-    </credits>
-  </programme>
-  <programme start="20260221110000 +0000" stop="20260221130000 +0000" channel="PPV 15">
-    <title lang="en">EVENT 15: Wood vs. Warrington 2 starts at 2:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 15</actor>
-      <actor>Wood vs. Warrington 2</actor>
-    </credits>
-  </programme>
-  <programme start="20260221130000 +0000" stop="20260221150000 +0000" channel="PPV 15">
-    <title lang="en">EVENT 15: Wood vs. Warrington 2 starts at 2:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 15</actor>
-      <actor>Wood vs. Warrington 2</actor>
-    </credits>
-  </programme>
-  <programme start="20260221150000 +0000" stop="20260221170000 +0000" channel="PPV 15">
-    <title lang="en">EVENT 15: Wood vs. Warrington 2 starts at 2:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 15</actor>
-      <actor>Wood vs. Warrington 2</actor>
-    </credits>
-  </programme>
-  <programme start="20260221170000 +0000" stop="20260221190000 +0000" channel="PPV 15">
-    <title lang="en">EVENT 15: Wood vs. Warrington 2 starts at 2:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 15</actor>
-      <actor>Wood vs. Warrington 2</actor>
-    </credits>
-  </programme>
-  <programme start="20260221190000 +0000" stop="20260221220000 +0000" channel="PPV 15">
-    <title lang="en">EVENT 15: Wood vs. Warrington 2 (2.21 2:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 15</actor>
-      <actor>Wood vs. Warrington 2</actor>
-    </credits>
-  </programme>
-  <programme start="20260221110000 +0000" stop="20260221130000 +0000" channel="PPV 16">
-    <title lang="en">EVENT 16: PRELIMS Barrios vs. Garcia starts at 5:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 16</actor>
-      <actor>PRELIMS Barrios vs. Garcia</actor>
-    </credits>
-  </programme>
-  <programme start="20260221130000 +0000" stop="20260221150000 +0000" channel="PPV 16">
-    <title lang="en">EVENT 16: PRELIMS Barrios vs. Garcia starts at 5:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 16</actor>
-      <actor>PRELIMS Barrios vs. Garcia</actor>
-    </credits>
-  </programme>
-  <programme start="20260221150000 +0000" stop="20260221170000 +0000" channel="PPV 16">
-    <title lang="en">EVENT 16: PRELIMS Barrios vs. Garcia starts at 5:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 16</actor>
-      <actor>PRELIMS Barrios vs. Garcia</actor>
-    </credits>
-  </programme>
-  <programme start="20260221170000 +0000" stop="20260221190000 +0000" channel="PPV 16">
-    <title lang="en">EVENT 16: PRELIMS Barrios vs. Garcia starts at 5:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 16</actor>
-      <actor>PRELIMS Barrios vs. Garcia</actor>
-    </credits>
-  </programme>
-  <programme start="20260221190000 +0000" stop="20260221210000 +0000" channel="PPV 16">
-    <title lang="en">EVENT 16: PRELIMS Barrios vs. Garcia starts at 5:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 16</actor>
-      <actor>PRELIMS Barrios vs. Garcia</actor>
-    </credits>
-  </programme>
-  <programme start="20260221210000 +0000" stop="20260221224500 +0000" channel="PPV 16">
-    <title lang="en">EVENT 16: PRELIMS Barrios vs. Garcia starts at 5:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 16</actor>
-      <actor>PRELIMS Barrios vs. Garcia</actor>
-    </credits>
-  </programme>
-  <programme start="20260221224500 +0000" stop="20260222014500 +0000" channel="PPV 16">
-    <title lang="en">EVENT 16: PRELIMS Barrios vs. Garcia (2.21 5:45 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 16</actor>
-      <actor>PRELIMS Barrios vs. Garcia</actor>
-    </credits>
-  </programme>
-  <programme start="20260221110000 +0000" stop="20260221130000 +0000" channel="PPV 17">
-    <title lang="en">EVENT 17: Barrios vs. Garcia starts at 5:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 17</actor>
-      <actor>Barrios vs. Garcia</actor>
-    </credits>
-  </programme>
-  <programme start="20260221130000 +0000" stop="20260221150000 +0000" channel="PPV 17">
-    <title lang="en">EVENT 17: Barrios vs. Garcia starts at 5:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 17</actor>
-      <actor>Barrios vs. Garcia</actor>
-    </credits>
-  </programme>
-  <programme start="20260221150000 +0000" stop="20260221170000 +0000" channel="PPV 17">
-    <title lang="en">EVENT 17: Barrios vs. Garcia starts at 5:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 17</actor>
-      <actor>Barrios vs. Garcia</actor>
-    </credits>
-  </programme>
-  <programme start="20260221170000 +0000" stop="20260221190000 +0000" channel="PPV 17">
-    <title lang="en">EVENT 17: Barrios vs. Garcia starts at 5:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 17</actor>
-      <actor>Barrios vs. Garcia</actor>
-    </credits>
-  </programme>
-  <programme start="20260221190000 +0000" stop="20260221210000 +0000" channel="PPV 17">
-    <title lang="en">EVENT 17: Barrios vs. Garcia starts at 5:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 17</actor>
-      <actor>Barrios vs. Garcia</actor>
-    </credits>
-  </programme>
-  <programme start="20260221210000 +0000" stop="20260221224500 +0000" channel="PPV 17">
-    <title lang="en">EVENT 17: Barrios vs. Garcia starts at 5:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 17</actor>
-      <actor>Barrios vs. Garcia</actor>
-    </credits>
-  </programme>
-  <programme start="20260221224500 +0000" stop="20260222014500 +0000" channel="PPV 17">
-    <title lang="en">EVENT 17: Barrios vs. Garcia (2.21 5:45 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 17</actor>
-      <actor>Barrios vs. Garcia</actor>
-    </credits>
-  </programme>
-  <programme start="20260221110000 +0000" stop="20260221130000 +0000" channel="PPV 18">
-    <title lang="en">EVENT 18: Lights Out 17 starts at 8:30 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 18</actor>
       <actor>Lights Out 17</actor>
     </credits>
   </programme>
-  <programme start="20260221130000 +0000" stop="20260221133000 +0000" channel="PPV 18">
-    <title lang="en">EVENT 18: Lights Out 17 starts at 8:30 AM ET</title>
+  <programme start="20260222130000 +0000" stop="20260222150000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Lights Out 17 starts at 10:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 18</actor>
+      <actor>EVENT 01</actor>
       <actor>Lights Out 17</actor>
     </credits>
   </programme>
-  <programme start="20260221133000 +0000" stop="20260221163000 +0000" channel="PPV 18">
-    <title lang="en">EVENT 18: Lights Out 17 (2.21 8:30 AM ET)</title>
+  <programme start="20260222150000 +0000" stop="20260222180000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Lights Out 17 (2.22 10:00 AM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 18</actor>
+      <actor>EVENT 01</actor>
       <actor>Lights Out 17</actor>
     </credits>
   </programme>
-  <programme start="20260221110000 +0000" stop="20260221130000 +0000" channel="PPV 19">
-    <title lang="en">EVENT 19: Lucas Oil Late Model Dirt Series at All Tech starts at 5:30 PM ET</title>
+  <programme start="20260222110000 +0000" stop="20260222130000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Central Arizona Raceway starts at 5:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 19</actor>
-      <actor>Lucas Oil Late Model Dirt Series at All Tech</actor>
+      <actor>EVENT 02</actor>
+      <actor>Central Arizona Raceway</actor>
     </credits>
   </programme>
-  <programme start="20260221130000 +0000" stop="20260221150000 +0000" channel="PPV 19">
-    <title lang="en">EVENT 19: Lucas Oil Late Model Dirt Series at All Tech starts at 5:30 PM ET</title>
+  <programme start="20260222130000 +0000" stop="20260222150000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Central Arizona Raceway starts at 5:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 19</actor>
-      <actor>Lucas Oil Late Model Dirt Series at All Tech</actor>
+      <actor>EVENT 02</actor>
+      <actor>Central Arizona Raceway</actor>
     </credits>
   </programme>
-  <programme start="20260221150000 +0000" stop="20260221170000 +0000" channel="PPV 19">
-    <title lang="en">EVENT 19: Lucas Oil Late Model Dirt Series at All Tech starts at 5:30 PM ET</title>
+  <programme start="20260222150000 +0000" stop="20260222170000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Central Arizona Raceway starts at 5:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 19</actor>
-      <actor>Lucas Oil Late Model Dirt Series at All Tech</actor>
+      <actor>EVENT 02</actor>
+      <actor>Central Arizona Raceway</actor>
     </credits>
   </programme>
-  <programme start="20260221170000 +0000" stop="20260221190000 +0000" channel="PPV 19">
-    <title lang="en">EVENT 19: Lucas Oil Late Model Dirt Series at All Tech starts at 5:30 PM ET</title>
+  <programme start="20260222170000 +0000" stop="20260222190000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Central Arizona Raceway starts at 5:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 19</actor>
-      <actor>Lucas Oil Late Model Dirt Series at All Tech</actor>
+      <actor>EVENT 02</actor>
+      <actor>Central Arizona Raceway</actor>
     </credits>
   </programme>
-  <programme start="20260221190000 +0000" stop="20260221210000 +0000" channel="PPV 19">
-    <title lang="en">EVENT 19: Lucas Oil Late Model Dirt Series at All Tech starts at 5:30 PM ET</title>
+  <programme start="20260222190000 +0000" stop="20260222210000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Central Arizona Raceway starts at 5:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 19</actor>
-      <actor>Lucas Oil Late Model Dirt Series at All Tech</actor>
+      <actor>EVENT 02</actor>
+      <actor>Central Arizona Raceway</actor>
     </credits>
   </programme>
-  <programme start="20260221210000 +0000" stop="20260221223000 +0000" channel="PPV 19">
-    <title lang="en">EVENT 19: Lucas Oil Late Model Dirt Series at All Tech starts at 5:30 PM ET</title>
+  <programme start="20260222210000 +0000" stop="20260222224500 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Central Arizona Raceway starts at 5:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 19</actor>
-      <actor>Lucas Oil Late Model Dirt Series at All Tech</actor>
+      <actor>EVENT 02</actor>
+      <actor>Central Arizona Raceway</actor>
     </credits>
   </programme>
-  <programme start="20260221223000 +0000" stop="20260222013000 +0000" channel="PPV 19">
-    <title lang="en">EVENT 19: Lucas Oil Late Model Dirt Series at All Tech (2.21 5:30 PM ET)</title>
+  <programme start="20260222224500 +0000" stop="20260223014500 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Central Arizona Raceway (2.22 5:45 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 19</actor>
-      <actor>Lucas Oil Late Model Dirt Series at All Tech</actor>
+      <actor>EVENT 02</actor>
+      <actor>Central Arizona Raceway</actor>
     </credits>
   </programme>
-  <programme start="20260221110000 +0000" stop="20260221130000 +0000" channel="PPV 20">
-    <title lang="en">EVENT 20: Modified Week at Ocala starts at 6:00 PM ET</title>
+  <programme start="20260222110000 +0000" stop="20260222130000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: TNT High Voltage starts at 10:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 20</actor>
-      <actor>Modified Week at Ocala</actor>
+      <actor>EVENT 03</actor>
+      <actor>TNT High Voltage</actor>
     </credits>
   </programme>
-  <programme start="20260221130000 +0000" stop="20260221150000 +0000" channel="PPV 20">
-    <title lang="en">EVENT 20: Modified Week at Ocala starts at 6:00 PM ET</title>
+  <programme start="20260222130000 +0000" stop="20260222150000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: TNT High Voltage starts at 10:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 20</actor>
-      <actor>Modified Week at Ocala</actor>
+      <actor>EVENT 03</actor>
+      <actor>TNT High Voltage</actor>
     </credits>
   </programme>
-  <programme start="20260221150000 +0000" stop="20260221170000 +0000" channel="PPV 20">
-    <title lang="en">EVENT 20: Modified Week at Ocala starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 20</actor>
-      <actor>Modified Week at Ocala</actor>
-    </credits>
-  </programme>
-  <programme start="20260221170000 +0000" stop="20260221190000 +0000" channel="PPV 20">
-    <title lang="en">EVENT 20: Modified Week at Ocala starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 20</actor>
-      <actor>Modified Week at Ocala</actor>
-    </credits>
-  </programme>
-  <programme start="20260221190000 +0000" stop="20260221210000 +0000" channel="PPV 20">
-    <title lang="en">EVENT 20: Modified Week at Ocala starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 20</actor>
-      <actor>Modified Week at Ocala</actor>
-    </credits>
-  </programme>
-  <programme start="20260221210000 +0000" stop="20260221230000 +0000" channel="PPV 20">
-    <title lang="en">EVENT 20: Modified Week at Ocala starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 20</actor>
-      <actor>Modified Week at Ocala</actor>
-    </credits>
-  </programme>
-  <programme start="20260221230000 +0000" stop="20260222020000 +0000" channel="PPV 20">
-    <title lang="en">EVENT 20: Modified Week at Ocala (2.21 6:00 PM ET)</title>
+  <programme start="20260222150000 +0000" stop="20260222180000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: TNT High Voltage (2.22 10:00 AM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 20</actor>
-      <actor>Modified Week at Ocala</actor>
+      <actor>EVENT 03</actor>
+      <actor>TNT High Voltage</actor>
     </credits>
   </programme>
-  <programme start="20260221110000 +0000" stop="20260221130000 +0000" channel="PPV 21">
-    <title lang="en">EVENT 21: Snocross National at Seneca Allegany starts at 11:00 AM ET</title>
+  <programme start="20260222110000 +0000" stop="20260222130000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: The Love Alive Charity Duuuval Brawl 8 starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 21</actor>
-      <actor>Snocross National at Seneca Allegany</actor>
+      <actor>EVENT 04</actor>
+      <actor>The Love Alive Charity Duuuval Brawl 8</actor>
     </credits>
   </programme>
-  <programme start="20260221130000 +0000" stop="20260221150000 +0000" channel="PPV 21">
-    <title lang="en">EVENT 21: Snocross National at Seneca Allegany starts at 11:00 AM ET</title>
+  <programme start="20260222130000 +0000" stop="20260222150000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: The Love Alive Charity Duuuval Brawl 8 starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 21</actor>
-      <actor>Snocross National at Seneca Allegany</actor>
+      <actor>EVENT 04</actor>
+      <actor>The Love Alive Charity Duuuval Brawl 8</actor>
     </credits>
   </programme>
-  <programme start="20260221150000 +0000" stop="20260221160000 +0000" channel="PPV 21">
-    <title lang="en">EVENT 21: Snocross National at Seneca Allegany starts at 11:00 AM ET</title>
+  <programme start="20260222150000 +0000" stop="20260222170000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: The Love Alive Charity Duuuval Brawl 8 starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 21</actor>
-      <actor>Snocross National at Seneca Allegany</actor>
+      <actor>EVENT 04</actor>
+      <actor>The Love Alive Charity Duuuval Brawl 8</actor>
     </credits>
   </programme>
-  <programme start="20260221160000 +0000" stop="20260221190000 +0000" channel="PPV 21">
-    <title lang="en">EVENT 21: Snocross National at Seneca Allegany (2.21 11:00 AM ET)</title>
+  <programme start="20260222170000 +0000" stop="20260222190000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: The Love Alive Charity Duuuval Brawl 8 starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>The Love Alive Charity Duuuval Brawl 8</actor>
+    </credits>
+  </programme>
+  <programme start="20260222190000 +0000" stop="20260222210000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: The Love Alive Charity Duuuval Brawl 8 starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>The Love Alive Charity Duuuval Brawl 8</actor>
+    </credits>
+  </programme>
+  <programme start="20260222210000 +0000" stop="20260222230000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: The Love Alive Charity Duuuval Brawl 8 starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>The Love Alive Charity Duuuval Brawl 8</actor>
+    </credits>
+  </programme>
+  <programme start="20260222230000 +0000" stop="20260223020000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: The Love Alive Charity Duuuval Brawl 8 (2.22 6:00 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 21</actor>
-      <actor>Snocross National at Seneca Allegany</actor>
+      <actor>EVENT 04</actor>
+      <actor>The Love Alive Charity Duuuval Brawl 8</actor>
     </credits>
   </programme>
-  <programme start="20260221110000 +0000" stop="20260221130000 +0000" channel="PPV 22">
-    <title lang="en">EVENT 22: Central Arizona Raceway starts at 4:45 PM ET</title>
+  <programme start="20260222110000 +0000" stop="20260222130000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: Inka MMA 54 starts at 10:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 22</actor>
-      <actor>Central Arizona Raceway</actor>
+      <actor>EVENT 05</actor>
+      <actor>Inka MMA 54</actor>
     </credits>
   </programme>
-  <programme start="20260221130000 +0000" stop="20260221150000 +0000" channel="PPV 22">
-    <title lang="en">EVENT 22: Central Arizona Raceway starts at 4:45 PM ET</title>
+  <programme start="20260222130000 +0000" stop="20260222150000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: Inka MMA 54 starts at 10:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 22</actor>
-      <actor>Central Arizona Raceway</actor>
+      <actor>EVENT 05</actor>
+      <actor>Inka MMA 54</actor>
     </credits>
   </programme>
-  <programme start="20260221150000 +0000" stop="20260221170000 +0000" channel="PPV 22">
-    <title lang="en">EVENT 22: Central Arizona Raceway starts at 4:45 PM ET</title>
+  <programme start="20260222150000 +0000" stop="20260222170000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: Inka MMA 54 starts at 10:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 22</actor>
-      <actor>Central Arizona Raceway</actor>
+      <actor>EVENT 05</actor>
+      <actor>Inka MMA 54</actor>
     </credits>
   </programme>
-  <programme start="20260221170000 +0000" stop="20260221190000 +0000" channel="PPV 22">
-    <title lang="en">EVENT 22: Central Arizona Raceway starts at 4:45 PM ET</title>
+  <programme start="20260222170000 +0000" stop="20260222190000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: Inka MMA 54 starts at 10:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 22</actor>
-      <actor>Central Arizona Raceway</actor>
+      <actor>EVENT 05</actor>
+      <actor>Inka MMA 54</actor>
     </credits>
   </programme>
-  <programme start="20260221190000 +0000" stop="20260221210000 +0000" channel="PPV 22">
-    <title lang="en">EVENT 22: Central Arizona Raceway starts at 4:45 PM ET</title>
+  <programme start="20260222190000 +0000" stop="20260222210000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: Inka MMA 54 starts at 10:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 22</actor>
-      <actor>Central Arizona Raceway</actor>
+      <actor>EVENT 05</actor>
+      <actor>Inka MMA 54</actor>
     </credits>
   </programme>
-  <programme start="20260221210000 +0000" stop="20260221214500 +0000" channel="PPV 22">
-    <title lang="en">EVENT 22: Central Arizona Raceway starts at 4:45 PM ET</title>
+  <programme start="20260222210000 +0000" stop="20260222230000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: Inka MMA 54 starts at 10:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 22</actor>
-      <actor>Central Arizona Raceway</actor>
+      <actor>EVENT 05</actor>
+      <actor>Inka MMA 54</actor>
     </credits>
   </programme>
-  <programme start="20260221214500 +0000" stop="20260222004500 +0000" channel="PPV 22">
-    <title lang="en">EVENT 22: Central Arizona Raceway (2.21 4:45 PM ET)</title>
+  <programme start="20260222230000 +0000" stop="20260223010000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: Inka MMA 54 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>Inka MMA 54</actor>
+    </credits>
+  </programme>
+  <programme start="20260223010000 +0000" stop="20260223030000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: Inka MMA 54 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>Inka MMA 54</actor>
+    </credits>
+  </programme>
+  <programme start="20260223030000 +0000" stop="20260223060000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: Inka MMA 54 (2.22 10:00 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 22</actor>
-      <actor>Central Arizona Raceway</actor>
+      <actor>EVENT 05</actor>
+      <actor>Inka MMA 54</actor>
     </credits>
   </programme>
-  <programme start="20260221110000 +0000" stop="20260221130000 +0000" channel="PPV 23">
-    <title lang="en">EVENT 23: Hendry County Motorsport Park starts at 6:15 PM ET</title>
+  <programme start="20260222110000 +0000" stop="20260222130000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: Shields vs. Crews Dezurn 2 starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 23</actor>
-      <actor>Hendry County Motorsport Park</actor>
+      <actor>EVENT 06</actor>
+      <actor>Shields vs. Crews Dezurn 2</actor>
     </credits>
   </programme>
-  <programme start="20260221130000 +0000" stop="20260221150000 +0000" channel="PPV 23">
-    <title lang="en">EVENT 23: Hendry County Motorsport Park starts at 6:15 PM ET</title>
+  <programme start="20260222130000 +0000" stop="20260222150000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: Shields vs. Crews Dezurn 2 starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 23</actor>
-      <actor>Hendry County Motorsport Park</actor>
+      <actor>EVENT 06</actor>
+      <actor>Shields vs. Crews Dezurn 2</actor>
     </credits>
   </programme>
-  <programme start="20260221150000 +0000" stop="20260221170000 +0000" channel="PPV 23">
-    <title lang="en">EVENT 23: Hendry County Motorsport Park starts at 6:15 PM ET</title>
+  <programme start="20260222150000 +0000" stop="20260222170000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: Shields vs. Crews Dezurn 2 starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 23</actor>
-      <actor>Hendry County Motorsport Park</actor>
+      <actor>EVENT 06</actor>
+      <actor>Shields vs. Crews Dezurn 2</actor>
     </credits>
   </programme>
-  <programme start="20260221170000 +0000" stop="20260221190000 +0000" channel="PPV 23">
-    <title lang="en">EVENT 23: Hendry County Motorsport Park starts at 6:15 PM ET</title>
+  <programme start="20260222170000 +0000" stop="20260222190000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: Shields vs. Crews Dezurn 2 starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 23</actor>
-      <actor>Hendry County Motorsport Park</actor>
+      <actor>EVENT 06</actor>
+      <actor>Shields vs. Crews Dezurn 2</actor>
     </credits>
   </programme>
-  <programme start="20260221190000 +0000" stop="20260221210000 +0000" channel="PPV 23">
-    <title lang="en">EVENT 23: Hendry County Motorsport Park starts at 6:15 PM ET</title>
+  <programme start="20260222190000 +0000" stop="20260222210000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: Shields vs. Crews Dezurn 2 starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 23</actor>
-      <actor>Hendry County Motorsport Park</actor>
+      <actor>EVENT 06</actor>
+      <actor>Shields vs. Crews Dezurn 2</actor>
     </credits>
   </programme>
-  <programme start="20260221210000 +0000" stop="20260221230000 +0000" channel="PPV 23">
-    <title lang="en">EVENT 23: Hendry County Motorsport Park starts at 6:15 PM ET</title>
+  <programme start="20260222210000 +0000" stop="20260222230000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: Shields vs. Crews Dezurn 2 starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 23</actor>
-      <actor>Hendry County Motorsport Park</actor>
+      <actor>EVENT 06</actor>
+      <actor>Shields vs. Crews Dezurn 2</actor>
     </credits>
   </programme>
-  <programme start="20260221230000 +0000" stop="20260221231500 +0000" channel="PPV 23">
-    <title lang="en">EVENT 23: Hendry County Motorsport Park starts at 6:15 PM ET</title>
+  <programme start="20260222230000 +0000" stop="20260223010000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: Shields vs. Crews Dezurn 2 starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 23</actor>
-      <actor>Hendry County Motorsport Park</actor>
+      <actor>EVENT 06</actor>
+      <actor>Shields vs. Crews Dezurn 2</actor>
     </credits>
   </programme>
-  <programme start="20260221231500 +0000" stop="20260222021500 +0000" channel="PPV 23">
-    <title lang="en">EVENT 23: Hendry County Motorsport Park (2.21 6:15 PM ET)</title>
+  <programme start="20260223010000 +0000" stop="20260223040000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: Shields vs. Crews Dezurn 2 (2.22 8:00 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
-      <actor>EVENT 23</actor>
-      <actor>Hendry County Motorsport Park</actor>
-    </credits>
-  </programme>
-  <programme start="20260221110000 +0000" stop="20260221130000 +0000" channel="PPV 24">
-    <title lang="en">EVENT 24: Volkovs vs. Luis starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 24</actor>
-      <actor>Volkovs vs. Luis</actor>
-    </credits>
-  </programme>
-  <programme start="20260221130000 +0000" stop="20260221150000 +0000" channel="PPV 24">
-    <title lang="en">EVENT 24: Volkovs vs. Luis starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 24</actor>
-      <actor>Volkovs vs. Luis</actor>
-    </credits>
-  </programme>
-  <programme start="20260221150000 +0000" stop="20260221170000 +0000" channel="PPV 24">
-    <title lang="en">EVENT 24: Volkovs vs. Luis starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 24</actor>
-      <actor>Volkovs vs. Luis</actor>
-    </credits>
-  </programme>
-  <programme start="20260221170000 +0000" stop="20260221190000 +0000" channel="PPV 24">
-    <title lang="en">EVENT 24: Volkovs vs. Luis starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 24</actor>
-      <actor>Volkovs vs. Luis</actor>
-    </credits>
-  </programme>
-  <programme start="20260221190000 +0000" stop="20260221210000 +0000" channel="PPV 24">
-    <title lang="en">EVENT 24: Volkovs vs. Luis starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 24</actor>
-      <actor>Volkovs vs. Luis</actor>
-    </credits>
-  </programme>
-  <programme start="20260221210000 +0000" stop="20260221220000 +0000" channel="PPV 24">
-    <title lang="en">EVENT 24: Volkovs vs. Luis starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 24</actor>
-      <actor>Volkovs vs. Luis</actor>
-    </credits>
-  </programme>
-  <programme start="20260221220000 +0000" stop="20260222010000 +0000" channel="PPV 24">
-    <title lang="en">EVENT 24: Volkovs vs. Luis (2.21 5:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 24</actor>
-      <actor>Volkovs vs. Luis</actor>
+      <actor>EVENT 06</actor>
+      <actor>Shields vs. Crews Dezurn 2</actor>
     </credits>
   </programme>
 </tv>
