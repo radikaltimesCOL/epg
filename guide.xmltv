@@ -210,337 +210,76 @@
   <channel id="PPV 70">
     <display-name>PPV 70</display-name>
   </channel>
-  <programme start="20260222110000 +0000" stop="20260222130000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Lights Out 17 starts at 10:00 AM ET</title>
+  <programme start="20260223110000 +0000" stop="20260223130000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Lights Out 17</actor>
+      <actor>WWE Monday Night Raw</actor>
     </credits>
   </programme>
-  <programme start="20260222130000 +0000" stop="20260222150000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Lights Out 17 starts at 10:00 AM ET</title>
+  <programme start="20260223130000 +0000" stop="20260223150000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Lights Out 17</actor>
+      <actor>WWE Monday Night Raw</actor>
     </credits>
   </programme>
-  <programme start="20260222150000 +0000" stop="20260222180000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Lights Out 17 (2.22 10:00 AM ET)</title>
+  <programme start="20260223150000 +0000" stop="20260223170000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260223170000 +0000" stop="20260223190000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260223190000 +0000" stop="20260223210000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260223210000 +0000" stop="20260223230000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260223230000 +0000" stop="20260224010000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260224010000 +0000" stop="20260224040000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw (2.23 8:00 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Lights Out 17</actor>
-    </credits>
-  </programme>
-  <programme start="20260222110000 +0000" stop="20260222130000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Central Arizona Raceway starts at 5:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>Central Arizona Raceway</actor>
-    </credits>
-  </programme>
-  <programme start="20260222130000 +0000" stop="20260222150000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Central Arizona Raceway starts at 5:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>Central Arizona Raceway</actor>
-    </credits>
-  </programme>
-  <programme start="20260222150000 +0000" stop="20260222170000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Central Arizona Raceway starts at 5:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>Central Arizona Raceway</actor>
-    </credits>
-  </programme>
-  <programme start="20260222170000 +0000" stop="20260222190000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Central Arizona Raceway starts at 5:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>Central Arizona Raceway</actor>
-    </credits>
-  </programme>
-  <programme start="20260222190000 +0000" stop="20260222210000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Central Arizona Raceway starts at 5:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>Central Arizona Raceway</actor>
-    </credits>
-  </programme>
-  <programme start="20260222210000 +0000" stop="20260222224500 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Central Arizona Raceway starts at 5:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>Central Arizona Raceway</actor>
-    </credits>
-  </programme>
-  <programme start="20260222224500 +0000" stop="20260223014500 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Central Arizona Raceway (2.22 5:45 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>Central Arizona Raceway</actor>
-    </credits>
-  </programme>
-  <programme start="20260222110000 +0000" stop="20260222130000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: TNT High Voltage starts at 10:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>TNT High Voltage</actor>
-    </credits>
-  </programme>
-  <programme start="20260222130000 +0000" stop="20260222150000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: TNT High Voltage starts at 10:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>TNT High Voltage</actor>
-    </credits>
-  </programme>
-  <programme start="20260222150000 +0000" stop="20260222180000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: TNT High Voltage (2.22 10:00 AM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>TNT High Voltage</actor>
-    </credits>
-  </programme>
-  <programme start="20260222110000 +0000" stop="20260222130000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: The Love Alive Charity Duuuval Brawl 8 starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>The Love Alive Charity Duuuval Brawl 8</actor>
-    </credits>
-  </programme>
-  <programme start="20260222130000 +0000" stop="20260222150000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: The Love Alive Charity Duuuval Brawl 8 starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>The Love Alive Charity Duuuval Brawl 8</actor>
-    </credits>
-  </programme>
-  <programme start="20260222150000 +0000" stop="20260222170000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: The Love Alive Charity Duuuval Brawl 8 starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>The Love Alive Charity Duuuval Brawl 8</actor>
-    </credits>
-  </programme>
-  <programme start="20260222170000 +0000" stop="20260222190000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: The Love Alive Charity Duuuval Brawl 8 starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>The Love Alive Charity Duuuval Brawl 8</actor>
-    </credits>
-  </programme>
-  <programme start="20260222190000 +0000" stop="20260222210000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: The Love Alive Charity Duuuval Brawl 8 starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>The Love Alive Charity Duuuval Brawl 8</actor>
-    </credits>
-  </programme>
-  <programme start="20260222210000 +0000" stop="20260222230000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: The Love Alive Charity Duuuval Brawl 8 starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>The Love Alive Charity Duuuval Brawl 8</actor>
-    </credits>
-  </programme>
-  <programme start="20260222230000 +0000" stop="20260223020000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: The Love Alive Charity Duuuval Brawl 8 (2.22 6:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>The Love Alive Charity Duuuval Brawl 8</actor>
-    </credits>
-  </programme>
-  <programme start="20260222110000 +0000" stop="20260222130000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Inka MMA 54 starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Inka MMA 54</actor>
-    </credits>
-  </programme>
-  <programme start="20260222130000 +0000" stop="20260222150000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Inka MMA 54 starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Inka MMA 54</actor>
-    </credits>
-  </programme>
-  <programme start="20260222150000 +0000" stop="20260222170000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Inka MMA 54 starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Inka MMA 54</actor>
-    </credits>
-  </programme>
-  <programme start="20260222170000 +0000" stop="20260222190000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Inka MMA 54 starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Inka MMA 54</actor>
-    </credits>
-  </programme>
-  <programme start="20260222190000 +0000" stop="20260222210000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Inka MMA 54 starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Inka MMA 54</actor>
-    </credits>
-  </programme>
-  <programme start="20260222210000 +0000" stop="20260222230000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Inka MMA 54 starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Inka MMA 54</actor>
-    </credits>
-  </programme>
-  <programme start="20260222230000 +0000" stop="20260223010000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Inka MMA 54 starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Inka MMA 54</actor>
-    </credits>
-  </programme>
-  <programme start="20260223010000 +0000" stop="20260223030000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Inka MMA 54 starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Inka MMA 54</actor>
-    </credits>
-  </programme>
-  <programme start="20260223030000 +0000" stop="20260223060000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Inka MMA 54 (2.22 10:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Inka MMA 54</actor>
-    </credits>
-  </programme>
-  <programme start="20260222110000 +0000" stop="20260222130000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: Shields vs. Crews Dezurn 2 starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Shields vs. Crews Dezurn 2</actor>
-    </credits>
-  </programme>
-  <programme start="20260222130000 +0000" stop="20260222150000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: Shields vs. Crews Dezurn 2 starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Shields vs. Crews Dezurn 2</actor>
-    </credits>
-  </programme>
-  <programme start="20260222150000 +0000" stop="20260222170000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: Shields vs. Crews Dezurn 2 starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Shields vs. Crews Dezurn 2</actor>
-    </credits>
-  </programme>
-  <programme start="20260222170000 +0000" stop="20260222190000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: Shields vs. Crews Dezurn 2 starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Shields vs. Crews Dezurn 2</actor>
-    </credits>
-  </programme>
-  <programme start="20260222190000 +0000" stop="20260222210000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: Shields vs. Crews Dezurn 2 starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Shields vs. Crews Dezurn 2</actor>
-    </credits>
-  </programme>
-  <programme start="20260222210000 +0000" stop="20260222230000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: Shields vs. Crews Dezurn 2 starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Shields vs. Crews Dezurn 2</actor>
-    </credits>
-  </programme>
-  <programme start="20260222230000 +0000" stop="20260223010000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: Shields vs. Crews Dezurn 2 starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Shields vs. Crews Dezurn 2</actor>
-    </credits>
-  </programme>
-  <programme start="20260223010000 +0000" stop="20260223040000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: Shields vs. Crews Dezurn 2 (2.22 8:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Shields vs. Crews Dezurn 2</actor>
+      <actor>WWE Monday Night Raw</actor>
     </credits>
   </programme>
 </tv>
