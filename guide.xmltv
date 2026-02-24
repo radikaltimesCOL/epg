@@ -210,76 +210,139 @@
   <channel id="PPV 70">
     <display-name>PPV 70</display-name>
   </channel>
-  <programme start="20260223110000 +0000" stop="20260223130000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+  <programme start="20260224110000 +0000" stop="20260224130000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Lucas Oil Late Model Dirt Series at Ocala starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
+      <actor>Lucas Oil Late Model Dirt Series at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260223130000 +0000" stop="20260223150000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+  <programme start="20260224130000 +0000" stop="20260224150000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Lucas Oil Late Model Dirt Series at Ocala starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
+      <actor>Lucas Oil Late Model Dirt Series at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260223150000 +0000" stop="20260223170000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+  <programme start="20260224150000 +0000" stop="20260224170000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Lucas Oil Late Model Dirt Series at Ocala starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
+      <actor>Lucas Oil Late Model Dirt Series at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260223170000 +0000" stop="20260223190000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+  <programme start="20260224170000 +0000" stop="20260224190000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Lucas Oil Late Model Dirt Series at Ocala starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
+      <actor>Lucas Oil Late Model Dirt Series at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260223190000 +0000" stop="20260223210000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+  <programme start="20260224190000 +0000" stop="20260224210000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Lucas Oil Late Model Dirt Series at Ocala starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
+      <actor>Lucas Oil Late Model Dirt Series at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260223210000 +0000" stop="20260223230000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+  <programme start="20260224210000 +0000" stop="20260224223000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Lucas Oil Late Model Dirt Series at Ocala starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
+      <actor>Lucas Oil Late Model Dirt Series at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260223230000 +0000" stop="20260224010000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
-    </credits>
-  </programme>
-  <programme start="20260224010000 +0000" stop="20260224040000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw (2.23 8:00 PM ET)</title>
+  <programme start="20260224223000 +0000" stop="20260225013000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Lucas Oil Late Model Dirt Series at Ocala (2.24 5:30 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
+      <actor>Lucas Oil Late Model Dirt Series at Ocala</actor>
+    </credits>
+  </programme>
+  <programme start="20260224110000 +0000" stop="20260224130000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Clash on the Coast starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>Clash on the Coast</actor>
+    </credits>
+  </programme>
+  <programme start="20260224130000 +0000" stop="20260224150000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Clash on the Coast starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>Clash on the Coast</actor>
+    </credits>
+  </programme>
+  <programme start="20260224150000 +0000" stop="20260224170000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Clash on the Coast starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>Clash on the Coast</actor>
+    </credits>
+  </programme>
+  <programme start="20260224170000 +0000" stop="20260224190000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Clash on the Coast starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>Clash on the Coast</actor>
+    </credits>
+  </programme>
+  <programme start="20260224190000 +0000" stop="20260224210000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Clash on the Coast starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>Clash on the Coast</actor>
+    </credits>
+  </programme>
+  <programme start="20260224210000 +0000" stop="20260224230000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Clash on the Coast starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>Clash on the Coast</actor>
+    </credits>
+  </programme>
+  <programme start="20260224230000 +0000" stop="20260225003000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Clash on the Coast starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>Clash on the Coast</actor>
+    </credits>
+  </programme>
+  <programme start="20260225003000 +0000" stop="20260225033000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Clash on the Coast (2.24 7:30 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>Clash on the Coast</actor>
     </credits>
   </programme>
 </tv>
