@@ -210,166 +210,760 @@
   <channel id="PPV 70">
     <display-name>PPV 70</display-name>
   </channel>
-  <programme start="20260226110000 +0000" stop="20260226130000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Lucas Oil Late Model Dirt Series at Ocala starts at 5:30 PM ET</title>
+  <programme start="20260227110000 +0000" stop="20260227130000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: World Series of Pro Mod at Bradenton starts at 9:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Lucas Oil Late Model Dirt Series at Ocala</actor>
+      <actor>World Series of Pro Mod at Bradenton</actor>
     </credits>
   </programme>
-  <programme start="20260226130000 +0000" stop="20260226150000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Lucas Oil Late Model Dirt Series at Ocala starts at 5:30 PM ET</title>
+  <programme start="20260227130000 +0000" stop="20260227140000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: World Series of Pro Mod at Bradenton starts at 9:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Lucas Oil Late Model Dirt Series at Ocala</actor>
+      <actor>World Series of Pro Mod at Bradenton</actor>
     </credits>
   </programme>
-  <programme start="20260226150000 +0000" stop="20260226170000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Lucas Oil Late Model Dirt Series at Ocala starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>Lucas Oil Late Model Dirt Series at Ocala</actor>
-    </credits>
-  </programme>
-  <programme start="20260226170000 +0000" stop="20260226190000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Lucas Oil Late Model Dirt Series at Ocala starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>Lucas Oil Late Model Dirt Series at Ocala</actor>
-    </credits>
-  </programme>
-  <programme start="20260226190000 +0000" stop="20260226210000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Lucas Oil Late Model Dirt Series at Ocala starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>Lucas Oil Late Model Dirt Series at Ocala</actor>
-    </credits>
-  </programme>
-  <programme start="20260226210000 +0000" stop="20260226223000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Lucas Oil Late Model Dirt Series at Ocala starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>Lucas Oil Late Model Dirt Series at Ocala</actor>
-    </credits>
-  </programme>
-  <programme start="20260226223000 +0000" stop="20260227013000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Lucas Oil Late Model Dirt Series at Ocala (2.26 5:30 PM ET)</title>
+  <programme start="20260227140000 +0000" stop="20260227170000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: World Series of Pro Mod at Bradenton (2.27 9:00 AM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
+      <actor>World Series of Pro Mod at Bradenton</actor>
+    </credits>
+  </programme>
+  <programme start="20260227110000 +0000" stop="20260227130000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Lucas Oil Late Model Dirt Series at Ocala starts at 5:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
       <actor>Lucas Oil Late Model Dirt Series at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260226110000 +0000" stop="20260226130000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: World Series of Pro Mod at Bradenton starts at 9:55 AM ET</title>
+  <programme start="20260227130000 +0000" stop="20260227150000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Lucas Oil Late Model Dirt Series at Ocala starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>World Series of Pro Mod at Bradenton</actor>
+      <actor>Lucas Oil Late Model Dirt Series at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260226130000 +0000" stop="20260226145500 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: World Series of Pro Mod at Bradenton starts at 9:55 AM ET</title>
+  <programme start="20260227150000 +0000" stop="20260227170000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Lucas Oil Late Model Dirt Series at Ocala starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>World Series of Pro Mod at Bradenton</actor>
+      <actor>Lucas Oil Late Model Dirt Series at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260226145500 +0000" stop="20260226175500 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: World Series of Pro Mod at Bradenton (2.26 9:55 AM ET)</title>
+  <programme start="20260227170000 +0000" stop="20260227190000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Lucas Oil Late Model Dirt Series at Ocala starts at 5:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>Lucas Oil Late Model Dirt Series at Ocala</actor>
+    </credits>
+  </programme>
+  <programme start="20260227190000 +0000" stop="20260227210000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Lucas Oil Late Model Dirt Series at Ocala starts at 5:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>Lucas Oil Late Model Dirt Series at Ocala</actor>
+    </credits>
+  </programme>
+  <programme start="20260227210000 +0000" stop="20260227223000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Lucas Oil Late Model Dirt Series at Ocala starts at 5:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>Lucas Oil Late Model Dirt Series at Ocala</actor>
+    </credits>
+  </programme>
+  <programme start="20260227223000 +0000" stop="20260228013000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Lucas Oil Late Model Dirt Series at Ocala (2.27 5:30 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>World Series of Pro Mod at Bradenton</actor>
+      <actor>Lucas Oil Late Model Dirt Series at Ocala</actor>
     </credits>
   </programme>
-  <programme start="20260226110000 +0000" stop="20260226130000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: Budo Sento Championship 33 starts at 8:00 PM ET</title>
+  <programme start="20260227110000 +0000" stop="20260227130000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: RMSHA at Soldier Mountain starts at 10:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>Budo Sento Championship 33</actor>
+      <actor>RMSHA at Soldier Mountain</actor>
     </credits>
   </programme>
-  <programme start="20260226130000 +0000" stop="20260226150000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: Budo Sento Championship 33 starts at 8:00 PM ET</title>
+  <programme start="20260227130000 +0000" stop="20260227150000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: RMSHA at Soldier Mountain starts at 10:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>Budo Sento Championship 33</actor>
+      <actor>RMSHA at Soldier Mountain</actor>
     </credits>
   </programme>
-  <programme start="20260226150000 +0000" stop="20260226170000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: Budo Sento Championship 33 starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>Budo Sento Championship 33</actor>
-    </credits>
-  </programme>
-  <programme start="20260226170000 +0000" stop="20260226190000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: Budo Sento Championship 33 starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>Budo Sento Championship 33</actor>
-    </credits>
-  </programme>
-  <programme start="20260226190000 +0000" stop="20260226210000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: Budo Sento Championship 33 starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>Budo Sento Championship 33</actor>
-    </credits>
-  </programme>
-  <programme start="20260226210000 +0000" stop="20260226230000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: Budo Sento Championship 33 starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>Budo Sento Championship 33</actor>
-    </credits>
-  </programme>
-  <programme start="20260226230000 +0000" stop="20260227010000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: Budo Sento Championship 33 starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>Budo Sento Championship 33</actor>
-    </credits>
-  </programme>
-  <programme start="20260227010000 +0000" stop="20260227040000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: Budo Sento Championship 33 (2.26 8:00 PM ET)</title>
+  <programme start="20260227150000 +0000" stop="20260227180000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: RMSHA at Soldier Mountain (2.27 10:00 AM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>Budo Sento Championship 33</actor>
+      <actor>RMSHA at Soldier Mountain</actor>
+    </credits>
+  </programme>
+  <programme start="20260227110000 +0000" stop="20260227130000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: SCDRA Sport Compact World Championship at Penton starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>SCDRA Sport Compact World Championship at Penton</actor>
+    </credits>
+  </programme>
+  <programme start="20260227130000 +0000" stop="20260227150000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: SCDRA Sport Compact World Championship at Penton starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>SCDRA Sport Compact World Championship at Penton</actor>
+    </credits>
+  </programme>
+  <programme start="20260227150000 +0000" stop="20260227170000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: SCDRA Sport Compact World Championship at Penton starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>SCDRA Sport Compact World Championship at Penton</actor>
+    </credits>
+  </programme>
+  <programme start="20260227170000 +0000" stop="20260227190000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: SCDRA Sport Compact World Championship at Penton starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>SCDRA Sport Compact World Championship at Penton</actor>
+    </credits>
+  </programme>
+  <programme start="20260227190000 +0000" stop="20260227210000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: SCDRA Sport Compact World Championship at Penton starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>SCDRA Sport Compact World Championship at Penton</actor>
+    </credits>
+  </programme>
+  <programme start="20260227210000 +0000" stop="20260227230000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: SCDRA Sport Compact World Championship at Penton starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>SCDRA Sport Compact World Championship at Penton</actor>
+    </credits>
+  </programme>
+  <programme start="20260227230000 +0000" stop="20260228003000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: SCDRA Sport Compact World Championship at Penton starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>SCDRA Sport Compact World Championship at Penton</actor>
+    </credits>
+  </programme>
+  <programme start="20260228003000 +0000" stop="20260228033000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: SCDRA Sport Compact World Championship at Penton (2.27 7:30 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>SCDRA Sport Compact World Championship at Penton</actor>
+    </credits>
+  </programme>
+  <programme start="20260227110000 +0000" stop="20260227130000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: wXw Dead End starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>wXw Dead End</actor>
+    </credits>
+  </programme>
+  <programme start="20260227130000 +0000" stop="20260227150000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: wXw Dead End starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>wXw Dead End</actor>
+    </credits>
+  </programme>
+  <programme start="20260227150000 +0000" stop="20260227170000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: wXw Dead End starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>wXw Dead End</actor>
+    </credits>
+  </programme>
+  <programme start="20260227170000 +0000" stop="20260227190000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: wXw Dead End starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>wXw Dead End</actor>
+    </credits>
+  </programme>
+  <programme start="20260227190000 +0000" stop="20260227210000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: wXw Dead End starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>wXw Dead End</actor>
+    </credits>
+  </programme>
+  <programme start="20260227210000 +0000" stop="20260227220000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: wXw Dead End starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>wXw Dead End</actor>
+    </credits>
+  </programme>
+  <programme start="20260227220000 +0000" stop="20260228010000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: wXw Dead End (2.27 5:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>wXw Dead End</actor>
+    </credits>
+  </programme>
+  <programme start="20260227110000 +0000" stop="20260227130000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: GCW Whats My Name starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>GCW Whats My Name</actor>
+    </credits>
+  </programme>
+  <programme start="20260227130000 +0000" stop="20260227150000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: GCW Whats My Name starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>GCW Whats My Name</actor>
+    </credits>
+  </programme>
+  <programme start="20260227150000 +0000" stop="20260227170000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: GCW Whats My Name starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>GCW Whats My Name</actor>
+    </credits>
+  </programme>
+  <programme start="20260227170000 +0000" stop="20260227190000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: GCW Whats My Name starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>GCW Whats My Name</actor>
+    </credits>
+  </programme>
+  <programme start="20260227190000 +0000" stop="20260227210000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: GCW Whats My Name starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>GCW Whats My Name</actor>
+    </credits>
+  </programme>
+  <programme start="20260227210000 +0000" stop="20260227230000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: GCW Whats My Name starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>GCW Whats My Name</actor>
+    </credits>
+  </programme>
+  <programme start="20260227230000 +0000" stop="20260228010000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: GCW Whats My Name starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>GCW Whats My Name</actor>
+    </credits>
+  </programme>
+  <programme start="20260228010000 +0000" stop="20260228040000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: GCW Whats My Name (2.27 8:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>GCW Whats My Name</actor>
+    </credits>
+  </programme>
+  <programme start="20260227110000 +0000" stop="20260227130000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: Night of Champions VIII starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>Night of Champions VIII</actor>
+    </credits>
+  </programme>
+  <programme start="20260227130000 +0000" stop="20260227150000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: Night of Champions VIII starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>Night of Champions VIII</actor>
+    </credits>
+  </programme>
+  <programme start="20260227150000 +0000" stop="20260227170000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: Night of Champions VIII starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>Night of Champions VIII</actor>
+    </credits>
+  </programme>
+  <programme start="20260227170000 +0000" stop="20260227190000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: Night of Champions VIII starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>Night of Champions VIII</actor>
+    </credits>
+  </programme>
+  <programme start="20260227190000 +0000" stop="20260227210000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: Night of Champions VIII starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>Night of Champions VIII</actor>
+    </credits>
+  </programme>
+  <programme start="20260227210000 +0000" stop="20260227230000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: Night of Champions VIII starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>Night of Champions VIII</actor>
+    </credits>
+  </programme>
+  <programme start="20260227230000 +0000" stop="20260228010000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: Night of Champions VIII starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>Night of Champions VIII</actor>
+    </credits>
+  </programme>
+  <programme start="20260228010000 +0000" stop="20260228020000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: Night of Champions VIII starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>Night of Champions VIII</actor>
+    </credits>
+  </programme>
+  <programme start="20260228020000 +0000" stop="20260228050000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: Night of Champions VIII (2.27 9:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>Night of Champions VIII</actor>
+    </credits>
+  </programme>
+  <programme start="20260227110000 +0000" stop="20260227130000 +0000" channel="PPV 08">
+    <title lang="en">EVENT 08: CMLL International Weekend starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 08</actor>
+      <actor>CMLL International Weekend</actor>
+    </credits>
+  </programme>
+  <programme start="20260227130000 +0000" stop="20260227150000 +0000" channel="PPV 08">
+    <title lang="en">EVENT 08: CMLL International Weekend starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 08</actor>
+      <actor>CMLL International Weekend</actor>
+    </credits>
+  </programme>
+  <programme start="20260227150000 +0000" stop="20260227170000 +0000" channel="PPV 08">
+    <title lang="en">EVENT 08: CMLL International Weekend starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 08</actor>
+      <actor>CMLL International Weekend</actor>
+    </credits>
+  </programme>
+  <programme start="20260227170000 +0000" stop="20260227190000 +0000" channel="PPV 08">
+    <title lang="en">EVENT 08: CMLL International Weekend starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 08</actor>
+      <actor>CMLL International Weekend</actor>
+    </credits>
+  </programme>
+  <programme start="20260227190000 +0000" stop="20260227210000 +0000" channel="PPV 08">
+    <title lang="en">EVENT 08: CMLL International Weekend starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 08</actor>
+      <actor>CMLL International Weekend</actor>
+    </credits>
+  </programme>
+  <programme start="20260227210000 +0000" stop="20260227230000 +0000" channel="PPV 08">
+    <title lang="en">EVENT 08: CMLL International Weekend starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 08</actor>
+      <actor>CMLL International Weekend</actor>
+    </credits>
+  </programme>
+  <programme start="20260227230000 +0000" stop="20260228010000 +0000" channel="PPV 08">
+    <title lang="en">EVENT 08: CMLL International Weekend starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 08</actor>
+      <actor>CMLL International Weekend</actor>
+    </credits>
+  </programme>
+  <programme start="20260228010000 +0000" stop="20260228023000 +0000" channel="PPV 08">
+    <title lang="en">EVENT 08: CMLL International Weekend starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 08</actor>
+      <actor>CMLL International Weekend</actor>
+    </credits>
+  </programme>
+  <programme start="20260228023000 +0000" stop="20260228053000 +0000" channel="PPV 08">
+    <title lang="en">EVENT 08: CMLL International Weekend (2.27 9:30 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 08</actor>
+      <actor>CMLL International Weekend</actor>
+    </credits>
+  </programme>
+  <programme start="20260227110000 +0000" stop="20260227130000 +0000" channel="PPV 09">
+    <title lang="en">EVENT 09: Vazquez vs. Machuca starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 09</actor>
+      <actor>Vazquez vs. Machuca</actor>
+    </credits>
+  </programme>
+  <programme start="20260227130000 +0000" stop="20260227150000 +0000" channel="PPV 09">
+    <title lang="en">EVENT 09: Vazquez vs. Machuca starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 09</actor>
+      <actor>Vazquez vs. Machuca</actor>
+    </credits>
+  </programme>
+  <programme start="20260227150000 +0000" stop="20260227170000 +0000" channel="PPV 09">
+    <title lang="en">EVENT 09: Vazquez vs. Machuca starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 09</actor>
+      <actor>Vazquez vs. Machuca</actor>
+    </credits>
+  </programme>
+  <programme start="20260227170000 +0000" stop="20260227190000 +0000" channel="PPV 09">
+    <title lang="en">EVENT 09: Vazquez vs. Machuca starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 09</actor>
+      <actor>Vazquez vs. Machuca</actor>
+    </credits>
+  </programme>
+  <programme start="20260227190000 +0000" stop="20260227210000 +0000" channel="PPV 09">
+    <title lang="en">EVENT 09: Vazquez vs. Machuca starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 09</actor>
+      <actor>Vazquez vs. Machuca</actor>
+    </credits>
+  </programme>
+  <programme start="20260227210000 +0000" stop="20260227230000 +0000" channel="PPV 09">
+    <title lang="en">EVENT 09: Vazquez vs. Machuca starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 09</actor>
+      <actor>Vazquez vs. Machuca</actor>
+    </credits>
+  </programme>
+  <programme start="20260227230000 +0000" stop="20260228000000 +0000" channel="PPV 09">
+    <title lang="en">EVENT 09: Vazquez vs. Machuca starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 09</actor>
+      <actor>Vazquez vs. Machuca</actor>
+    </credits>
+  </programme>
+  <programme start="20260228000000 +0000" stop="20260228030000 +0000" channel="PPV 09">
+    <title lang="en">EVENT 09: Vazquez vs. Machuca (2.27 7:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 09</actor>
+      <actor>Vazquez vs. Machuca</actor>
+    </credits>
+  </programme>
+  <programme start="20260227110000 +0000" stop="20260227130000 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: Quinn vs. Dodd starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>Quinn vs. Dodd</actor>
+    </credits>
+  </programme>
+  <programme start="20260227130000 +0000" stop="20260227150000 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: Quinn vs. Dodd starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>Quinn vs. Dodd</actor>
+    </credits>
+  </programme>
+  <programme start="20260227150000 +0000" stop="20260227170000 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: Quinn vs. Dodd starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>Quinn vs. Dodd</actor>
+    </credits>
+  </programme>
+  <programme start="20260227170000 +0000" stop="20260227190000 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: Quinn vs. Dodd starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>Quinn vs. Dodd</actor>
+    </credits>
+  </programme>
+  <programme start="20260227190000 +0000" stop="20260227220000 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: Quinn vs. Dodd (2.27 2:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>Quinn vs. Dodd</actor>
+    </credits>
+  </programme>
+  <programme start="20260227110000 +0000" stop="20260227130000 +0000" channel="PPV 11">
+    <title lang="en">EVENT 11: LUX 059 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 11</actor>
+      <actor>LUX 059</actor>
+    </credits>
+  </programme>
+  <programme start="20260227130000 +0000" stop="20260227150000 +0000" channel="PPV 11">
+    <title lang="en">EVENT 11: LUX 059 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 11</actor>
+      <actor>LUX 059</actor>
+    </credits>
+  </programme>
+  <programme start="20260227150000 +0000" stop="20260227170000 +0000" channel="PPV 11">
+    <title lang="en">EVENT 11: LUX 059 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 11</actor>
+      <actor>LUX 059</actor>
+    </credits>
+  </programme>
+  <programme start="20260227170000 +0000" stop="20260227190000 +0000" channel="PPV 11">
+    <title lang="en">EVENT 11: LUX 059 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 11</actor>
+      <actor>LUX 059</actor>
+    </credits>
+  </programme>
+  <programme start="20260227190000 +0000" stop="20260227210000 +0000" channel="PPV 11">
+    <title lang="en">EVENT 11: LUX 059 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 11</actor>
+      <actor>LUX 059</actor>
+    </credits>
+  </programme>
+  <programme start="20260227210000 +0000" stop="20260227230000 +0000" channel="PPV 11">
+    <title lang="en">EVENT 11: LUX 059 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 11</actor>
+      <actor>LUX 059</actor>
+    </credits>
+  </programme>
+  <programme start="20260227230000 +0000" stop="20260228010000 +0000" channel="PPV 11">
+    <title lang="en">EVENT 11: LUX 059 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 11</actor>
+      <actor>LUX 059</actor>
+    </credits>
+  </programme>
+  <programme start="20260228010000 +0000" stop="20260228030000 +0000" channel="PPV 11">
+    <title lang="en">EVENT 11: LUX 059 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 11</actor>
+      <actor>LUX 059</actor>
+    </credits>
+  </programme>
+  <programme start="20260228030000 +0000" stop="20260228060000 +0000" channel="PPV 11">
+    <title lang="en">EVENT 11: LUX 059 (2.27 10:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 11</actor>
+      <actor>LUX 059</actor>
+    </credits>
+  </programme>
+  <programme start="20260227110000 +0000" stop="20260227130000 +0000" channel="PPV 12">
+    <title lang="en">EVENT 12: Clash on the Coast Night 3 starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 12</actor>
+      <actor>Clash on the Coast Night 3</actor>
+    </credits>
+  </programme>
+  <programme start="20260227130000 +0000" stop="20260227150000 +0000" channel="PPV 12">
+    <title lang="en">EVENT 12: Clash on the Coast Night 3 starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 12</actor>
+      <actor>Clash on the Coast Night 3</actor>
+    </credits>
+  </programme>
+  <programme start="20260227150000 +0000" stop="20260227170000 +0000" channel="PPV 12">
+    <title lang="en">EVENT 12: Clash on the Coast Night 3 starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 12</actor>
+      <actor>Clash on the Coast Night 3</actor>
+    </credits>
+  </programme>
+  <programme start="20260227170000 +0000" stop="20260227190000 +0000" channel="PPV 12">
+    <title lang="en">EVENT 12: Clash on the Coast Night 3 starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 12</actor>
+      <actor>Clash on the Coast Night 3</actor>
+    </credits>
+  </programme>
+  <programme start="20260227190000 +0000" stop="20260227210000 +0000" channel="PPV 12">
+    <title lang="en">EVENT 12: Clash on the Coast Night 3 starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 12</actor>
+      <actor>Clash on the Coast Night 3</actor>
+    </credits>
+  </programme>
+  <programme start="20260227210000 +0000" stop="20260227230000 +0000" channel="PPV 12">
+    <title lang="en">EVENT 12: Clash on the Coast Night 3 starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 12</actor>
+      <actor>Clash on the Coast Night 3</actor>
+    </credits>
+  </programme>
+  <programme start="20260227230000 +0000" stop="20260228003000 +0000" channel="PPV 12">
+    <title lang="en">EVENT 12: Clash on the Coast Night 3 starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 12</actor>
+      <actor>Clash on the Coast Night 3</actor>
+    </credits>
+  </programme>
+  <programme start="20260228003000 +0000" stop="20260228033000 +0000" channel="PPV 12">
+    <title lang="en">EVENT 12: Clash on the Coast Night 3 (2.27 7:30 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 12</actor>
+      <actor>Clash on the Coast Night 3</actor>
     </credits>
   </programme>
 </tv>
