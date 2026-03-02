@@ -210,43 +210,79 @@
   <channel id="PPV 70">
     <display-name>PPV 70</display-name>
   </channel>
-  <programme start="20260301110000 +0000" stop="20260301130000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: The Corn Thrasher at Hartford Snocross starts at 11:30 AM ET</title>
+  <programme start="20260302110000 +0000" stop="20260302130000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>The Corn Thrasher at Hartford Snocross</actor>
+      <actor>WWE Monday Night Raw</actor>
     </credits>
   </programme>
-  <programme start="20260301130000 +0000" stop="20260301150000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: The Corn Thrasher at Hartford Snocross starts at 11:30 AM ET</title>
+  <programme start="20260302130000 +0000" stop="20260302150000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>The Corn Thrasher at Hartford Snocross</actor>
+      <actor>WWE Monday Night Raw</actor>
     </credits>
   </programme>
-  <programme start="20260301150000 +0000" stop="20260301163000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: The Corn Thrasher at Hartford Snocross starts at 11:30 AM ET</title>
+  <programme start="20260302150000 +0000" stop="20260302170000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>The Corn Thrasher at Hartford Snocross</actor>
+      <actor>WWE Monday Night Raw</actor>
     </credits>
   </programme>
-  <programme start="20260301163000 +0000" stop="20260301193000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: The Corn Thrasher at Hartford Snocross (3.1 11:30 AM ET)</title>
+  <programme start="20260302170000 +0000" stop="20260302190000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260302190000 +0000" stop="20260302210000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260302210000 +0000" stop="20260302230000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260302230000 +0000" stop="20260303010000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260303010000 +0000" stop="20260303040000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw (3.2 8:00 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>The Corn Thrasher at Hartford Snocross</actor>
+      <actor>WWE Monday Night Raw</actor>
     </credits>
   </programme>
-  <programme start="20260301110000 +0000" stop="20260301130000 +0000" channel="PPV 02">
+  <programme start="20260302110000 +0000" stop="20260302130000 +0000" channel="PPV 02">
     <title lang="en">EVENT 02: Volusia Speedway Park starts at 6:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -255,7 +291,7 @@
       <actor>Volusia Speedway Park</actor>
     </credits>
   </programme>
-  <programme start="20260301130000 +0000" stop="20260301150000 +0000" channel="PPV 02">
+  <programme start="20260302130000 +0000" stop="20260302150000 +0000" channel="PPV 02">
     <title lang="en">EVENT 02: Volusia Speedway Park starts at 6:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -264,7 +300,7 @@
       <actor>Volusia Speedway Park</actor>
     </credits>
   </programme>
-  <programme start="20260301150000 +0000" stop="20260301170000 +0000" channel="PPV 02">
+  <programme start="20260302150000 +0000" stop="20260302170000 +0000" channel="PPV 02">
     <title lang="en">EVENT 02: Volusia Speedway Park starts at 6:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -273,7 +309,7 @@
       <actor>Volusia Speedway Park</actor>
     </credits>
   </programme>
-  <programme start="20260301170000 +0000" stop="20260301190000 +0000" channel="PPV 02">
+  <programme start="20260302170000 +0000" stop="20260302190000 +0000" channel="PPV 02">
     <title lang="en">EVENT 02: Volusia Speedway Park starts at 6:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -282,7 +318,7 @@
       <actor>Volusia Speedway Park</actor>
     </credits>
   </programme>
-  <programme start="20260301190000 +0000" stop="20260301210000 +0000" channel="PPV 02">
+  <programme start="20260302190000 +0000" stop="20260302210000 +0000" channel="PPV 02">
     <title lang="en">EVENT 02: Volusia Speedway Park starts at 6:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -291,7 +327,7 @@
       <actor>Volusia Speedway Park</actor>
     </credits>
   </programme>
-  <programme start="20260301210000 +0000" stop="20260301230000 +0000" channel="PPV 02">
+  <programme start="20260302210000 +0000" stop="20260302230000 +0000" channel="PPV 02">
     <title lang="en">EVENT 02: Volusia Speedway Park starts at 6:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -300,7 +336,7 @@
       <actor>Volusia Speedway Park</actor>
     </credits>
   </programme>
-  <programme start="20260301230000 +0000" stop="20260301231500 +0000" channel="PPV 02">
+  <programme start="20260302230000 +0000" stop="20260302231500 +0000" channel="PPV 02">
     <title lang="en">EVENT 02: Volusia Speedway Park starts at 6:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -309,247 +345,13 @@
       <actor>Volusia Speedway Park</actor>
     </credits>
   </programme>
-  <programme start="20260301231500 +0000" stop="20260302021500 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Volusia Speedway Park (3.1 6:15 PM ET)</title>
+  <programme start="20260302231500 +0000" stop="20260303021500 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Volusia Speedway Park (3.2 6:15 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
       <actor>Volusia Speedway Park</actor>
-    </credits>
-  </programme>
-  <programme start="20260301110000 +0000" stop="20260301130000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: TNT Going Off Big Time starts at 10:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>TNT Going Off Big Time</actor>
-    </credits>
-  </programme>
-  <programme start="20260301130000 +0000" stop="20260301150000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: TNT Going Off Big Time starts at 10:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>TNT Going Off Big Time</actor>
-    </credits>
-  </programme>
-  <programme start="20260301150000 +0000" stop="20260301180000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: TNT Going Off Big Time (3.1 10:00 AM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>TNT Going Off Big Time</actor>
-    </credits>
-  </programme>
-  <programme start="20260301110000 +0000" stop="20260301130000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: Sumo Fight Club II starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>Sumo Fight Club II</actor>
-    </credits>
-  </programme>
-  <programme start="20260301130000 +0000" stop="20260301150000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: Sumo Fight Club II starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>Sumo Fight Club II</actor>
-    </credits>
-  </programme>
-  <programme start="20260301150000 +0000" stop="20260301170000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: Sumo Fight Club II starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>Sumo Fight Club II</actor>
-    </credits>
-  </programme>
-  <programme start="20260301170000 +0000" stop="20260301190000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: Sumo Fight Club II starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>Sumo Fight Club II</actor>
-    </credits>
-  </programme>
-  <programme start="20260301190000 +0000" stop="20260301210000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: Sumo Fight Club II starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>Sumo Fight Club II</actor>
-    </credits>
-  </programme>
-  <programme start="20260301210000 +0000" stop="20260301230000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: Sumo Fight Club II starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>Sumo Fight Club II</actor>
-    </credits>
-  </programme>
-  <programme start="20260301230000 +0000" stop="20260302020000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: Sumo Fight Club II (3.1 6:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>Sumo Fight Club II</actor>
-    </credits>
-  </programme>
-  <programme start="20260301110000 +0000" stop="20260301130000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: The MGM Slam starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>The MGM Slam</actor>
-    </credits>
-  </programme>
-  <programme start="20260301130000 +0000" stop="20260301150000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: The MGM Slam starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>The MGM Slam</actor>
-    </credits>
-  </programme>
-  <programme start="20260301150000 +0000" stop="20260301170000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: The MGM Slam starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>The MGM Slam</actor>
-    </credits>
-  </programme>
-  <programme start="20260301170000 +0000" stop="20260301190000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: The MGM Slam starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>The MGM Slam</actor>
-    </credits>
-  </programme>
-  <programme start="20260301190000 +0000" stop="20260301210000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: The MGM Slam starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>The MGM Slam</actor>
-    </credits>
-  </programme>
-  <programme start="20260301210000 +0000" stop="20260301230000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: The MGM Slam starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>The MGM Slam</actor>
-    </credits>
-  </programme>
-  <programme start="20260301230000 +0000" stop="20260302000000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: The MGM Slam starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>The MGM Slam</actor>
-    </credits>
-  </programme>
-  <programme start="20260302000000 +0000" stop="20260302030000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: The MGM Slam (3.1 7:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>The MGM Slam</actor>
-    </credits>
-  </programme>
-  <programme start="20260301110000 +0000" stop="20260301130000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: Central Arizona Raceway starts at 7:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Central Arizona Raceway</actor>
-    </credits>
-  </programme>
-  <programme start="20260301130000 +0000" stop="20260301150000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: Central Arizona Raceway starts at 7:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Central Arizona Raceway</actor>
-    </credits>
-  </programme>
-  <programme start="20260301150000 +0000" stop="20260301170000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: Central Arizona Raceway starts at 7:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Central Arizona Raceway</actor>
-    </credits>
-  </programme>
-  <programme start="20260301170000 +0000" stop="20260301190000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: Central Arizona Raceway starts at 7:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Central Arizona Raceway</actor>
-    </credits>
-  </programme>
-  <programme start="20260301190000 +0000" stop="20260301210000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: Central Arizona Raceway starts at 7:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Central Arizona Raceway</actor>
-    </credits>
-  </programme>
-  <programme start="20260301210000 +0000" stop="20260301230000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: Central Arizona Raceway starts at 7:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Central Arizona Raceway</actor>
-    </credits>
-  </programme>
-  <programme start="20260301230000 +0000" stop="20260302004500 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: Central Arizona Raceway starts at 7:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Central Arizona Raceway</actor>
-    </credits>
-  </programme>
-  <programme start="20260302004500 +0000" stop="20260302034500 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: Central Arizona Raceway (3.1 7:45 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Central Arizona Raceway</actor>
     </credits>
   </programme>
 </tv>
