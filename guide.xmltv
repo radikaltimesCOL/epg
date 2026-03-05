@@ -210,67 +210,265 @@
   <channel id="PPV 70">
     <display-name>PPV 70</display-name>
   </channel>
-  <programme start="20260304110000 +0000" stop="20260304130000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Lucas Oil Late Model Dirt Series at Golden Isles starts at 5:00 PM ET</title>
+  <programme start="20260305110000 +0000" stop="20260305130000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: American Flat Track at Daytona starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Lucas Oil Late Model Dirt Series at Golden Isles</actor>
+      <actor>American Flat Track at Daytona</actor>
     </credits>
   </programme>
-  <programme start="20260304130000 +0000" stop="20260304150000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Lucas Oil Late Model Dirt Series at Golden Isles starts at 5:00 PM ET</title>
+  <programme start="20260305130000 +0000" stop="20260305150000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: American Flat Track at Daytona starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Lucas Oil Late Model Dirt Series at Golden Isles</actor>
+      <actor>American Flat Track at Daytona</actor>
     </credits>
   </programme>
-  <programme start="20260304150000 +0000" stop="20260304170000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Lucas Oil Late Model Dirt Series at Golden Isles starts at 5:00 PM ET</title>
+  <programme start="20260305150000 +0000" stop="20260305170000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: American Flat Track at Daytona starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Lucas Oil Late Model Dirt Series at Golden Isles</actor>
+      <actor>American Flat Track at Daytona</actor>
     </credits>
   </programme>
-  <programme start="20260304170000 +0000" stop="20260304190000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Lucas Oil Late Model Dirt Series at Golden Isles starts at 5:00 PM ET</title>
+  <programme start="20260305170000 +0000" stop="20260305190000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: American Flat Track at Daytona starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Lucas Oil Late Model Dirt Series at Golden Isles</actor>
+      <actor>American Flat Track at Daytona</actor>
     </credits>
   </programme>
-  <programme start="20260304190000 +0000" stop="20260304210000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Lucas Oil Late Model Dirt Series at Golden Isles starts at 5:00 PM ET</title>
+  <programme start="20260305190000 +0000" stop="20260305194500 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: American Flat Track at Daytona starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Lucas Oil Late Model Dirt Series at Golden Isles</actor>
+      <actor>American Flat Track at Daytona</actor>
     </credits>
   </programme>
-  <programme start="20260304210000 +0000" stop="20260304220000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Lucas Oil Late Model Dirt Series at Golden Isles starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>Lucas Oil Late Model Dirt Series at Golden Isles</actor>
-    </credits>
-  </programme>
-  <programme start="20260304220000 +0000" stop="20260305010000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Lucas Oil Late Model Dirt Series at Golden Isles (3.4 5:00 PM ET)</title>
+  <programme start="20260305194500 +0000" stop="20260305224500 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: American Flat Track at Daytona (3.5 2:45 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Lucas Oil Late Model Dirt Series at Golden Isles</actor>
+      <actor>American Flat Track at Daytona</actor>
+    </credits>
+  </programme>
+  <programme start="20260305110000 +0000" stop="20260305130000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Lucas Oil Late Models at Golden Isles starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>Lucas Oil Late Models at Golden Isles</actor>
+    </credits>
+  </programme>
+  <programme start="20260305130000 +0000" stop="20260305150000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Lucas Oil Late Models at Golden Isles starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>Lucas Oil Late Models at Golden Isles</actor>
+    </credits>
+  </programme>
+  <programme start="20260305150000 +0000" stop="20260305170000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Lucas Oil Late Models at Golden Isles starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>Lucas Oil Late Models at Golden Isles</actor>
+    </credits>
+  </programme>
+  <programme start="20260305170000 +0000" stop="20260305190000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Lucas Oil Late Models at Golden Isles starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>Lucas Oil Late Models at Golden Isles</actor>
+    </credits>
+  </programme>
+  <programme start="20260305190000 +0000" stop="20260305210000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Lucas Oil Late Models at Golden Isles starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>Lucas Oil Late Models at Golden Isles</actor>
+    </credits>
+  </programme>
+  <programme start="20260305210000 +0000" stop="20260305220000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Lucas Oil Late Models at Golden Isles starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>Lucas Oil Late Models at Golden Isles</actor>
+    </credits>
+  </programme>
+  <programme start="20260305220000 +0000" stop="20260306010000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Lucas Oil Late Models at Golden Isles (3.5 5:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>Lucas Oil Late Models at Golden Isles</actor>
+    </credits>
+  </programme>
+  <programme start="20260305110000 +0000" stop="20260305130000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: International Drag Racing Hall of Fame Ceremony starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>International Drag Racing Hall of Fame Ceremony</actor>
+    </credits>
+  </programme>
+  <programme start="20260305130000 +0000" stop="20260305150000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: International Drag Racing Hall of Fame Ceremony starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>International Drag Racing Hall of Fame Ceremony</actor>
+    </credits>
+  </programme>
+  <programme start="20260305150000 +0000" stop="20260305170000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: International Drag Racing Hall of Fame Ceremony starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>International Drag Racing Hall of Fame Ceremony</actor>
+    </credits>
+  </programme>
+  <programme start="20260305170000 +0000" stop="20260305190000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: International Drag Racing Hall of Fame Ceremony starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>International Drag Racing Hall of Fame Ceremony</actor>
+    </credits>
+  </programme>
+  <programme start="20260305190000 +0000" stop="20260305210000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: International Drag Racing Hall of Fame Ceremony starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>International Drag Racing Hall of Fame Ceremony</actor>
+    </credits>
+  </programme>
+  <programme start="20260305210000 +0000" stop="20260305230000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: International Drag Racing Hall of Fame Ceremony starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>International Drag Racing Hall of Fame Ceremony</actor>
+    </credits>
+  </programme>
+  <programme start="20260305230000 +0000" stop="20260306010000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: International Drag Racing Hall of Fame Ceremony starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>International Drag Racing Hall of Fame Ceremony</actor>
+    </credits>
+  </programme>
+  <programme start="20260306010000 +0000" stop="20260306040000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: International Drag Racing Hall of Fame Ceremony (3.5 8:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>International Drag Racing Hall of Fame Ceremony</actor>
+    </credits>
+  </programme>
+  <programme start="20260305110000 +0000" stop="20260305130000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: PRESS CONFERENCE UFC 326 starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>PRESS CONFERENCE UFC 326</actor>
+    </credits>
+  </programme>
+  <programme start="20260305130000 +0000" stop="20260305150000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: PRESS CONFERENCE UFC 326 starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>PRESS CONFERENCE UFC 326</actor>
+    </credits>
+  </programme>
+  <programme start="20260305150000 +0000" stop="20260305170000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: PRESS CONFERENCE UFC 326 starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>PRESS CONFERENCE UFC 326</actor>
+    </credits>
+  </programme>
+  <programme start="20260305170000 +0000" stop="20260305190000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: PRESS CONFERENCE UFC 326 starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>PRESS CONFERENCE UFC 326</actor>
+    </credits>
+  </programme>
+  <programme start="20260305190000 +0000" stop="20260305210000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: PRESS CONFERENCE UFC 326 starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>PRESS CONFERENCE UFC 326</actor>
+    </credits>
+  </programme>
+  <programme start="20260305210000 +0000" stop="20260305230000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: PRESS CONFERENCE UFC 326 starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>PRESS CONFERENCE UFC 326</actor>
+    </credits>
+  </programme>
+  <programme start="20260305230000 +0000" stop="20260306010000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: PRESS CONFERENCE UFC 326 starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>PRESS CONFERENCE UFC 326</actor>
+    </credits>
+  </programme>
+  <programme start="20260306010000 +0000" stop="20260306040000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: PRESS CONFERENCE UFC 326 (3.5 8:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>PRESS CONFERENCE UFC 326</actor>
     </credits>
   </programme>
 </tv>
