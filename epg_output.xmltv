@@ -2097,6 +2097,2966 @@
   <channel id="SOCCER 99">
     <display-name>SOCCER 99</display-name>
   </channel>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 001">
+    <title lang="en">COLGATE @ LEHIGH (M) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>COLGATE</actor>
+      <actor>LEHIGH (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 001">
+    <title lang="en">COLGATE @ LEHIGH (M) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>COLGATE</actor>
+      <actor>LEHIGH (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 001">
+    <title lang="en">COLGATE @ LEHIGH (M) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>COLGATE</actor>
+      <actor>LEHIGH (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308193000 +0000" channel="NCAAB 001">
+    <title lang="en">COLGATE @ LEHIGH (M)</title>
+    <desc lang="en">Network: CBSSN</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>COLGATE</actor>
+      <actor>LEHIGH (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 002">
+    <title lang="en">IONA @ QUINNIPIAC (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IONA</actor>
+      <actor>QUINNIPIAC (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 002">
+    <title lang="en">IONA @ QUINNIPIAC (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IONA</actor>
+      <actor>QUINNIPIAC (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 002">
+    <title lang="en">IONA @ QUINNIPIAC (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IONA</actor>
+      <actor>QUINNIPIAC (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308193000 +0000" channel="NCAAB 002">
+    <title lang="en">IONA @ QUINNIPIAC (W)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IONA</actor>
+      <actor>QUINNIPIAC (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 003">
+    <title lang="en">NORTHERN IOWA @ UIC (M) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTHERN IOWA</actor>
+      <actor>UIC (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Pinnacle Bank Arena</sub-title>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 003">
+    <title lang="en">NORTHERN IOWA @ UIC (M) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTHERN IOWA</actor>
+      <actor>UIC (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Pinnacle Bank Arena</sub-title>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 003">
+    <title lang="en">NORTHERN IOWA @ UIC (M) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTHERN IOWA</actor>
+      <actor>UIC (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Pinnacle Bank Arena</sub-title>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308193000 +0000" channel="NCAAB 003">
+    <title lang="en">NORTHERN IOWA @ UIC (M)</title>
+    <desc lang="en">Network: CBS | Venue: Pinnacle Bank Arena, Lincoln</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTHERN IOWA</actor>
+      <actor>UIC (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Pinnacle Bank Arena</sub-title>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 004">
+    <title lang="en">PENN STATE @ RUTGERS (M) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>PENN STATE</actor>
+      <actor>RUTGERS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 004">
+    <title lang="en">PENN STATE @ RUTGERS (M) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>PENN STATE</actor>
+      <actor>RUTGERS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 004">
+    <title lang="en">PENN STATE @ RUTGERS (M) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>PENN STATE</actor>
+      <actor>RUTGERS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308193000 +0000" channel="NCAAB 004">
+    <title lang="en">PENN STATE @ RUTGERS (M)</title>
+    <desc lang="en">Network: BTN</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>PENN STATE</actor>
+      <actor>RUTGERS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 005">
+    <title lang="en">SAMFORD @ CHATTANOOGA (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SAMFORD</actor>
+      <actor>CHATTANOOGA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 005">
+    <title lang="en">SAMFORD @ CHATTANOOGA (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SAMFORD</actor>
+      <actor>CHATTANOOGA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 005">
+    <title lang="en">SAMFORD @ CHATTANOOGA (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SAMFORD</actor>
+      <actor>CHATTANOOGA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308193000 +0000" channel="NCAAB 005">
+    <title lang="en">SAMFORD @ CHATTANOOGA (W)</title>
+    <desc lang="en">Network: ESPNU</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SAMFORD</actor>
+      <actor>CHATTANOOGA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 006">
+    <title lang="en">WINTHROP @ HIGH POINT (M) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WINTHROP</actor>
+      <actor>HIGH POINT (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 006">
+    <title lang="en">WINTHROP @ HIGH POINT (M) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WINTHROP</actor>
+      <actor>HIGH POINT (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 006">
+    <title lang="en">WINTHROP @ HIGH POINT (M) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WINTHROP</actor>
+      <actor>HIGH POINT (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308193000 +0000" channel="NCAAB 006">
+    <title lang="en">WINTHROP @ HIGH POINT (M)</title>
+    <desc lang="en">Network: ESPN2</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WINTHROP</actor>
+      <actor>HIGH POINT (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 007">
+    <title lang="en">JAMES MADISON @ GEORGIA SOUTHERN (W) - starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>JAMES MADISON</actor>
+      <actor>GEORGIA SOUTHERN (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 007">
+    <title lang="en">JAMES MADISON @ GEORGIA SOUTHERN (W) - starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>JAMES MADISON</actor>
+      <actor>GEORGIA SOUTHERN (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 007">
+    <title lang="en">JAMES MADISON @ GEORGIA SOUTHERN (W) - starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>JAMES MADISON</actor>
+      <actor>GEORGIA SOUTHERN (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308163000 +0000" channel="NCAAB 007">
+    <title lang="en">JAMES MADISON @ GEORGIA SOUTHERN (W) - starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>JAMES MADISON</actor>
+      <actor>GEORGIA SOUTHERN (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308163000 +0000" stop="20260308200000 +0000" channel="NCAAB 007">
+    <title lang="en">JAMES MADISON @ GEORGIA SOUTHERN (W)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>JAMES MADISON</actor>
+      <actor>GEORGIA SOUTHERN (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 008">
+    <title lang="en">12 LOUISVILLE @ 13 DUKE (W) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>12 LOUISVILLE</actor>
+      <actor>13 DUKE (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Gas South Arena</sub-title>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 008">
+    <title lang="en">12 LOUISVILLE @ 13 DUKE (W) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>12 LOUISVILLE</actor>
+      <actor>13 DUKE (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Gas South Arena</sub-title>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 008">
+    <title lang="en">12 LOUISVILLE @ 13 DUKE (W) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>12 LOUISVILLE</actor>
+      <actor>13 DUKE (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Gas South Arena</sub-title>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308170000 +0000" channel="NCAAB 008">
+    <title lang="en">12 LOUISVILLE @ 13 DUKE (W) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>12 LOUISVILLE</actor>
+      <actor>13 DUKE (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Gas South Arena</sub-title>
+  </programme>
+  <programme start="20260308170000 +0000" stop="20260308203000 +0000" channel="NCAAB 008">
+    <title lang="en">12 LOUISVILLE @ 13 DUKE (W)</title>
+    <desc lang="en">Network: ESPN | Venue: Gas South Arena, Duluth</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>12 LOUISVILLE</actor>
+      <actor>13 DUKE (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Gas South Arena</sub-title>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 009">
+    <title lang="en">IU INDIANAPOLIS @ PURDUE FORT WAYNE (W) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IU INDIANAPOLIS</actor>
+      <actor>PURDUE FORT WAYNE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 009">
+    <title lang="en">IU INDIANAPOLIS @ PURDUE FORT WAYNE (W) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IU INDIANAPOLIS</actor>
+      <actor>PURDUE FORT WAYNE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 009">
+    <title lang="en">IU INDIANAPOLIS @ PURDUE FORT WAYNE (W) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IU INDIANAPOLIS</actor>
+      <actor>PURDUE FORT WAYNE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308170000 +0000" channel="NCAAB 009">
+    <title lang="en">IU INDIANAPOLIS @ PURDUE FORT WAYNE (W) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IU INDIANAPOLIS</actor>
+      <actor>PURDUE FORT WAYNE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308170000 +0000" stop="20260308203000 +0000" channel="NCAAB 009">
+    <title lang="en">IU INDIANAPOLIS @ PURDUE FORT WAYNE (W)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IU INDIANAPOLIS</actor>
+      <actor>PURDUE FORT WAYNE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 010">
+    <title lang="en">BOSTON UNIVERSITY @ NAVY (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>BOSTON UNIVERSITY</actor>
+      <actor>NAVY (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 010">
+    <title lang="en">BOSTON UNIVERSITY @ NAVY (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>BOSTON UNIVERSITY</actor>
+      <actor>NAVY (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 010">
+    <title lang="en">BOSTON UNIVERSITY @ NAVY (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>BOSTON UNIVERSITY</actor>
+      <actor>NAVY (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 010">
+    <title lang="en">BOSTON UNIVERSITY @ NAVY (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>BOSTON UNIVERSITY</actor>
+      <actor>NAVY (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308213000 +0000" channel="NCAAB 010">
+    <title lang="en">BOSTON UNIVERSITY @ NAVY (M)</title>
+    <desc lang="en">Network: CBSSN</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>BOSTON UNIVERSITY</actor>
+      <actor>NAVY (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 011">
+    <title lang="en">CHARLOTTE @ SOUTH FLORIDA (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CHARLOTTE</actor>
+      <actor>SOUTH FLORIDA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 011">
+    <title lang="en">CHARLOTTE @ SOUTH FLORIDA (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CHARLOTTE</actor>
+      <actor>SOUTH FLORIDA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 011">
+    <title lang="en">CHARLOTTE @ SOUTH FLORIDA (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CHARLOTTE</actor>
+      <actor>SOUTH FLORIDA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 011">
+    <title lang="en">CHARLOTTE @ SOUTH FLORIDA (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CHARLOTTE</actor>
+      <actor>SOUTH FLORIDA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308213000 +0000" channel="NCAAB 011">
+    <title lang="en">CHARLOTTE @ SOUTH FLORIDA (M)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CHARLOTTE</actor>
+      <actor>SOUTH FLORIDA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 012">
+    <title lang="en">MEMPHIS @ TULANE (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MEMPHIS</actor>
+      <actor>TULANE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 012">
+    <title lang="en">MEMPHIS @ TULANE (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MEMPHIS</actor>
+      <actor>TULANE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 012">
+    <title lang="en">MEMPHIS @ TULANE (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MEMPHIS</actor>
+      <actor>TULANE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 012">
+    <title lang="en">MEMPHIS @ TULANE (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MEMPHIS</actor>
+      <actor>TULANE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308213000 +0000" channel="NCAAB 012">
+    <title lang="en">MEMPHIS @ TULANE (M)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MEMPHIS</actor>
+      <actor>TULANE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 013">
+    <title lang="en">QUEENS UNIVERSITY @ CENTRAL ARKANSAS (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>QUEENS UNIVERSITY</actor>
+      <actor>CENTRAL ARKANSAS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 013">
+    <title lang="en">QUEENS UNIVERSITY @ CENTRAL ARKANSAS (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>QUEENS UNIVERSITY</actor>
+      <actor>CENTRAL ARKANSAS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 013">
+    <title lang="en">QUEENS UNIVERSITY @ CENTRAL ARKANSAS (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>QUEENS UNIVERSITY</actor>
+      <actor>CENTRAL ARKANSAS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 013">
+    <title lang="en">QUEENS UNIVERSITY @ CENTRAL ARKANSAS (M) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>QUEENS UNIVERSITY</actor>
+      <actor>CENTRAL ARKANSAS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308213000 +0000" channel="NCAAB 013">
+    <title lang="en">QUEENS UNIVERSITY @ CENTRAL ARKANSAS (M)</title>
+    <desc lang="en">Network: ESPN2</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>QUEENS UNIVERSITY</actor>
+      <actor>CENTRAL ARKANSAS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 014">
+    <title lang="en">WEBER STATE @ IDAHO (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WEBER STATE</actor>
+      <actor>IDAHO (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 014">
+    <title lang="en">WEBER STATE @ IDAHO (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WEBER STATE</actor>
+      <actor>IDAHO (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 014">
+    <title lang="en">WEBER STATE @ IDAHO (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WEBER STATE</actor>
+      <actor>IDAHO (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 014">
+    <title lang="en">WEBER STATE @ IDAHO (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WEBER STATE</actor>
+      <actor>IDAHO (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308213000 +0000" channel="NCAAB 014">
+    <title lang="en">WEBER STATE @ IDAHO (W)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WEBER STATE</actor>
+      <actor>IDAHO (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 015">
+    <title lang="en">9 IOWA @ 2 UCLA (W) - starts at 2:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>9 IOWA</actor>
+      <actor>2 UCLA (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Gainbridge Fieldhouse</sub-title>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 015">
+    <title lang="en">9 IOWA @ 2 UCLA (W) - starts at 2:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>9 IOWA</actor>
+      <actor>2 UCLA (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Gainbridge Fieldhouse</sub-title>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 015">
+    <title lang="en">9 IOWA @ 2 UCLA (W) - starts at 2:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>9 IOWA</actor>
+      <actor>2 UCLA (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Gainbridge Fieldhouse</sub-title>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 015">
+    <title lang="en">9 IOWA @ 2 UCLA (W) - starts at 2:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>9 IOWA</actor>
+      <actor>2 UCLA (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Gainbridge Fieldhouse</sub-title>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308181500 +0000" channel="NCAAB 015">
+    <title lang="en">9 IOWA @ 2 UCLA (W) - starts at 2:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>9 IOWA</actor>
+      <actor>2 UCLA (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Gainbridge Fieldhouse</sub-title>
+  </programme>
+  <programme start="20260308181500 +0000" stop="20260308214500 +0000" channel="NCAAB 015">
+    <title lang="en">9 IOWA @ 2 UCLA (W)</title>
+    <desc lang="en">Network: CBS PARAMOUNT+ | Venue: Gainbridge Fieldhouse, Indianapolis</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>9 IOWA</actor>
+      <actor>2 UCLA (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Gainbridge Fieldhouse</sub-title>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 016">
+    <title lang="en">CREIGHTON @ 1 UCONN (W) - starts at 2:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CREIGHTON</actor>
+      <actor>1 UCONN (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Mohegan Sun Arena</sub-title>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 016">
+    <title lang="en">CREIGHTON @ 1 UCONN (W) - starts at 2:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CREIGHTON</actor>
+      <actor>1 UCONN (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Mohegan Sun Arena</sub-title>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 016">
+    <title lang="en">CREIGHTON @ 1 UCONN (W) - starts at 2:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CREIGHTON</actor>
+      <actor>1 UCONN (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Mohegan Sun Arena</sub-title>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 016">
+    <title lang="en">CREIGHTON @ 1 UCONN (W) - starts at 2:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CREIGHTON</actor>
+      <actor>1 UCONN (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Mohegan Sun Arena</sub-title>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308183000 +0000" channel="NCAAB 016">
+    <title lang="en">CREIGHTON @ 1 UCONN (W) - starts at 2:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CREIGHTON</actor>
+      <actor>1 UCONN (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Mohegan Sun Arena</sub-title>
+  </programme>
+  <programme start="20260308183000 +0000" stop="20260308220000 +0000" channel="NCAAB 016">
+    <title lang="en">CREIGHTON @ 1 UCONN (W)</title>
+    <desc lang="en">Network: PEACOCK | Venue: Mohegan Sun Arena, Uncasville</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CREIGHTON</actor>
+      <actor>1 UCONN (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Mohegan Sun Arena</sub-title>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 017">
+    <title lang="en">MERRIMACK @ 25 FAIRFIELD (W) - starts at 2:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MERRIMACK</actor>
+      <actor>25 FAIRFIELD (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Jim Whelan Boardwalk Hall</sub-title>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 017">
+    <title lang="en">MERRIMACK @ 25 FAIRFIELD (W) - starts at 2:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MERRIMACK</actor>
+      <actor>25 FAIRFIELD (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Jim Whelan Boardwalk Hall</sub-title>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 017">
+    <title lang="en">MERRIMACK @ 25 FAIRFIELD (W) - starts at 2:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MERRIMACK</actor>
+      <actor>25 FAIRFIELD (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Jim Whelan Boardwalk Hall</sub-title>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 017">
+    <title lang="en">MERRIMACK @ 25 FAIRFIELD (W) - starts at 2:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MERRIMACK</actor>
+      <actor>25 FAIRFIELD (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Jim Whelan Boardwalk Hall</sub-title>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308183000 +0000" channel="NCAAB 017">
+    <title lang="en">MERRIMACK @ 25 FAIRFIELD (W) - starts at 2:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MERRIMACK</actor>
+      <actor>25 FAIRFIELD (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Jim Whelan Boardwalk Hall</sub-title>
+  </programme>
+  <programme start="20260308183000 +0000" stop="20260308220000 +0000" channel="NCAAB 017">
+    <title lang="en">MERRIMACK @ 25 FAIRFIELD (W)</title>
+    <desc lang="en">Network: ESPN+ | Venue: Jim Whelan Boardwalk Hall, Atlantic City</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MERRIMACK</actor>
+      <actor>25 FAIRFIELD (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Jim Whelan Boardwalk Hall</sub-title>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 018">
+    <title lang="en">PORTLAND @ OREGON STATE (W) - starts at 2:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>PORTLAND</actor>
+      <actor>OREGON STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 018">
+    <title lang="en">PORTLAND @ OREGON STATE (W) - starts at 2:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>PORTLAND</actor>
+      <actor>OREGON STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 018">
+    <title lang="en">PORTLAND @ OREGON STATE (W) - starts at 2:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>PORTLAND</actor>
+      <actor>OREGON STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 018">
+    <title lang="en">PORTLAND @ OREGON STATE (W) - starts at 2:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>PORTLAND</actor>
+      <actor>OREGON STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308183000 +0000" channel="NCAAB 018">
+    <title lang="en">PORTLAND @ OREGON STATE (W) - starts at 2:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>PORTLAND</actor>
+      <actor>OREGON STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308183000 +0000" stop="20260308220000 +0000" channel="NCAAB 018">
+    <title lang="en">PORTLAND @ OREGON STATE (W)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>PORTLAND</actor>
+      <actor>OREGON STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 019">
+    <title lang="en">11 ILLINOIS @ MARYLAND (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>11 ILLINOIS</actor>
+      <actor>MARYLAND (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: XFINITY Center</sub-title>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 019">
+    <title lang="en">11 ILLINOIS @ MARYLAND (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>11 ILLINOIS</actor>
+      <actor>MARYLAND (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: XFINITY Center</sub-title>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 019">
+    <title lang="en">11 ILLINOIS @ MARYLAND (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>11 ILLINOIS</actor>
+      <actor>MARYLAND (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: XFINITY Center</sub-title>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 019">
+    <title lang="en">11 ILLINOIS @ MARYLAND (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>11 ILLINOIS</actor>
+      <actor>MARYLAND (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: XFINITY Center</sub-title>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308190000 +0000" channel="NCAAB 019">
+    <title lang="en">11 ILLINOIS @ MARYLAND (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>11 ILLINOIS</actor>
+      <actor>MARYLAND (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: XFINITY Center</sub-title>
+  </programme>
+  <programme start="20260308190000 +0000" stop="20260308223000 +0000" channel="NCAAB 019">
+    <title lang="en">11 ILLINOIS @ MARYLAND (M)</title>
+    <desc lang="en">Network: FOX | Venue: XFINITY Center, College Park</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>11 ILLINOIS</actor>
+      <actor>MARYLAND (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: XFINITY Center</sub-title>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 020">
+    <title lang="en">4 TEXAS @ 3 SOUTH CAROLINA (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>4 TEXAS</actor>
+      <actor>3 SOUTH CAROLINA (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Bon Secours Wellness Arena</sub-title>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 020">
+    <title lang="en">4 TEXAS @ 3 SOUTH CAROLINA (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>4 TEXAS</actor>
+      <actor>3 SOUTH CAROLINA (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Bon Secours Wellness Arena</sub-title>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 020">
+    <title lang="en">4 TEXAS @ 3 SOUTH CAROLINA (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>4 TEXAS</actor>
+      <actor>3 SOUTH CAROLINA (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Bon Secours Wellness Arena</sub-title>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 020">
+    <title lang="en">4 TEXAS @ 3 SOUTH CAROLINA (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>4 TEXAS</actor>
+      <actor>3 SOUTH CAROLINA (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Bon Secours Wellness Arena</sub-title>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308190000 +0000" channel="NCAAB 020">
+    <title lang="en">4 TEXAS @ 3 SOUTH CAROLINA (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>4 TEXAS</actor>
+      <actor>3 SOUTH CAROLINA (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Bon Secours Wellness Arena</sub-title>
+  </programme>
+  <programme start="20260308190000 +0000" stop="20260308223000 +0000" channel="NCAAB 020">
+    <title lang="en">4 TEXAS @ 3 SOUTH CAROLINA (W)</title>
+    <desc lang="en">Network: ESPN | Venue: Bon Secours Wellness Arena, Greenville</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>4 TEXAS</actor>
+      <actor>3 SOUTH CAROLINA (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Bon Secours Wellness Arena</sub-title>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 021">
+    <title lang="en">ARKANSAS STATE @ TROY (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>ARKANSAS STATE</actor>
+      <actor>TROY (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 021">
+    <title lang="en">ARKANSAS STATE @ TROY (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>ARKANSAS STATE</actor>
+      <actor>TROY (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 021">
+    <title lang="en">ARKANSAS STATE @ TROY (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>ARKANSAS STATE</actor>
+      <actor>TROY (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 021">
+    <title lang="en">ARKANSAS STATE @ TROY (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>ARKANSAS STATE</actor>
+      <actor>TROY (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308190000 +0000" channel="NCAAB 021">
+    <title lang="en">ARKANSAS STATE @ TROY (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>ARKANSAS STATE</actor>
+      <actor>TROY (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308190000 +0000" stop="20260308223000 +0000" channel="NCAAB 021">
+    <title lang="en">ARKANSAS STATE @ TROY (W)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>ARKANSAS STATE</actor>
+      <actor>TROY (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 022">
+    <title lang="en">DRAKE @ NORTHERN IOWA (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>DRAKE</actor>
+      <actor>NORTHERN IOWA (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Gainbridge Fieldhouse</sub-title>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 022">
+    <title lang="en">DRAKE @ NORTHERN IOWA (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>DRAKE</actor>
+      <actor>NORTHERN IOWA (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Gainbridge Fieldhouse</sub-title>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 022">
+    <title lang="en">DRAKE @ NORTHERN IOWA (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>DRAKE</actor>
+      <actor>NORTHERN IOWA (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Gainbridge Fieldhouse</sub-title>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 022">
+    <title lang="en">DRAKE @ NORTHERN IOWA (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>DRAKE</actor>
+      <actor>NORTHERN IOWA (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Gainbridge Fieldhouse</sub-title>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308190000 +0000" channel="NCAAB 022">
+    <title lang="en">DRAKE @ NORTHERN IOWA (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>DRAKE</actor>
+      <actor>NORTHERN IOWA (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Gainbridge Fieldhouse</sub-title>
+  </programme>
+  <programme start="20260308190000 +0000" stop="20260308223000 +0000" channel="NCAAB 022">
+    <title lang="en">DRAKE @ NORTHERN IOWA (W)</title>
+    <desc lang="en">Network: ESPN+ | Venue: Gainbridge Fieldhouse, Indianapolis</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>DRAKE</actor>
+      <actor>NORTHERN IOWA (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Gainbridge Fieldhouse</sub-title>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 023">
+    <title lang="en">EAST CAROLINA @ UAB (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>EAST CAROLINA</actor>
+      <actor>UAB (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 023">
+    <title lang="en">EAST CAROLINA @ UAB (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>EAST CAROLINA</actor>
+      <actor>UAB (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 023">
+    <title lang="en">EAST CAROLINA @ UAB (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>EAST CAROLINA</actor>
+      <actor>UAB (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 023">
+    <title lang="en">EAST CAROLINA @ UAB (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>EAST CAROLINA</actor>
+      <actor>UAB (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308190000 +0000" channel="NCAAB 023">
+    <title lang="en">EAST CAROLINA @ UAB (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>EAST CAROLINA</actor>
+      <actor>UAB (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308190000 +0000" stop="20260308223000 +0000" channel="NCAAB 023">
+    <title lang="en">EAST CAROLINA @ UAB (M)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>EAST CAROLINA</actor>
+      <actor>UAB (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 024">
+    <title lang="en">ILLINOIS STATE @ BRADLEY (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>ILLINOIS STATE</actor>
+      <actor>BRADLEY (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 024">
+    <title lang="en">ILLINOIS STATE @ BRADLEY (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>ILLINOIS STATE</actor>
+      <actor>BRADLEY (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 024">
+    <title lang="en">ILLINOIS STATE @ BRADLEY (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>ILLINOIS STATE</actor>
+      <actor>BRADLEY (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 024">
+    <title lang="en">ILLINOIS STATE @ BRADLEY (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>ILLINOIS STATE</actor>
+      <actor>BRADLEY (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308190000 +0000" channel="NCAAB 024">
+    <title lang="en">ILLINOIS STATE @ BRADLEY (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>ILLINOIS STATE</actor>
+      <actor>BRADLEY (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308190000 +0000" stop="20260308223000 +0000" channel="NCAAB 024">
+    <title lang="en">ILLINOIS STATE @ BRADLEY (W)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>ILLINOIS STATE</actor>
+      <actor>BRADLEY (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 025">
+    <title lang="en">SOUTHERN ILLINOIS @ EVANSVILLE (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SOUTHERN ILLINOIS</actor>
+      <actor>EVANSVILLE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 025">
+    <title lang="en">SOUTHERN ILLINOIS @ EVANSVILLE (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SOUTHERN ILLINOIS</actor>
+      <actor>EVANSVILLE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 025">
+    <title lang="en">SOUTHERN ILLINOIS @ EVANSVILLE (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SOUTHERN ILLINOIS</actor>
+      <actor>EVANSVILLE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 025">
+    <title lang="en">SOUTHERN ILLINOIS @ EVANSVILLE (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SOUTHERN ILLINOIS</actor>
+      <actor>EVANSVILLE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308190000 +0000" channel="NCAAB 025">
+    <title lang="en">SOUTHERN ILLINOIS @ EVANSVILLE (W) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SOUTHERN ILLINOIS</actor>
+      <actor>EVANSVILLE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308190000 +0000" stop="20260308223000 +0000" channel="NCAAB 025">
+    <title lang="en">SOUTHERN ILLINOIS @ EVANSVILLE (W)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SOUTHERN ILLINOIS</actor>
+      <actor>EVANSVILLE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 026">
+    <title lang="en">TEMPLE @ TULSA (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>TEMPLE</actor>
+      <actor>TULSA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 026">
+    <title lang="en">TEMPLE @ TULSA (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>TEMPLE</actor>
+      <actor>TULSA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 026">
+    <title lang="en">TEMPLE @ TULSA (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>TEMPLE</actor>
+      <actor>TULSA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 026">
+    <title lang="en">TEMPLE @ TULSA (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>TEMPLE</actor>
+      <actor>TULSA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308190000 +0000" channel="NCAAB 026">
+    <title lang="en">TEMPLE @ TULSA (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>TEMPLE</actor>
+      <actor>TULSA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308190000 +0000" stop="20260308223000 +0000" channel="NCAAB 026">
+    <title lang="en">TEMPLE @ TULSA (M)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>TEMPLE</actor>
+      <actor>TULSA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 027">
+    <title lang="en">UTSA @ RICE (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>UTSA</actor>
+      <actor>RICE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 027">
+    <title lang="en">UTSA @ RICE (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>UTSA</actor>
+      <actor>RICE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 027">
+    <title lang="en">UTSA @ RICE (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>UTSA</actor>
+      <actor>RICE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 027">
+    <title lang="en">UTSA @ RICE (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>UTSA</actor>
+      <actor>RICE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308190000 +0000" channel="NCAAB 027">
+    <title lang="en">UTSA @ RICE (M) - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>UTSA</actor>
+      <actor>RICE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308190000 +0000" stop="20260308223000 +0000" channel="NCAAB 027">
+    <title lang="en">UTSA @ RICE (M)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>UTSA</actor>
+      <actor>RICE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 028">
+    <title lang="en">NORTHERN KENTUCKY @ GREEN BAY (M) - starts at 3:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTHERN KENTUCKY</actor>
+      <actor>GREEN BAY (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 028">
+    <title lang="en">NORTHERN KENTUCKY @ GREEN BAY (M) - starts at 3:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTHERN KENTUCKY</actor>
+      <actor>GREEN BAY (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 028">
+    <title lang="en">NORTHERN KENTUCKY @ GREEN BAY (M) - starts at 3:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTHERN KENTUCKY</actor>
+      <actor>GREEN BAY (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 028">
+    <title lang="en">NORTHERN KENTUCKY @ GREEN BAY (M) - starts at 3:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTHERN KENTUCKY</actor>
+      <actor>GREEN BAY (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308193000 +0000" channel="NCAAB 028">
+    <title lang="en">NORTHERN KENTUCKY @ GREEN BAY (M) - starts at 3:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTHERN KENTUCKY</actor>
+      <actor>GREEN BAY (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308193000 +0000" stop="20260308230000 +0000" channel="NCAAB 028">
+    <title lang="en">NORTHERN KENTUCKY @ GREEN BAY (M)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTHERN KENTUCKY</actor>
+      <actor>GREEN BAY (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 029">
+    <title lang="en">GEORGE MASON @ RHODE ISLAND (W) - starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>GEORGE MASON</actor>
+      <actor>RHODE ISLAND (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 029">
+    <title lang="en">GEORGE MASON @ RHODE ISLAND (W) - starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>GEORGE MASON</actor>
+      <actor>RHODE ISLAND (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 029">
+    <title lang="en">GEORGE MASON @ RHODE ISLAND (W) - starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>GEORGE MASON</actor>
+      <actor>RHODE ISLAND (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 029">
+    <title lang="en">GEORGE MASON @ RHODE ISLAND (W) - starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>GEORGE MASON</actor>
+      <actor>RHODE ISLAND (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308200000 +0000" channel="NCAAB 029">
+    <title lang="en">GEORGE MASON @ RHODE ISLAND (W) - starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>GEORGE MASON</actor>
+      <actor>RHODE ISLAND (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308200000 +0000" stop="20260308233000 +0000" channel="NCAAB 029">
+    <title lang="en">GEORGE MASON @ RHODE ISLAND (W)</title>
+    <desc lang="en">Network: ESPN2</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>GEORGE MASON</actor>
+      <actor>RHODE ISLAND (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 030">
+    <title lang="en">SOUTH DAKOTA STATE @ NORTH DAKOTA STATE (W) - starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SOUTH DAKOTA STATE</actor>
+      <actor>NORTH DAKOTA STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 030">
+    <title lang="en">SOUTH DAKOTA STATE @ NORTH DAKOTA STATE (W) - starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SOUTH DAKOTA STATE</actor>
+      <actor>NORTH DAKOTA STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 030">
+    <title lang="en">SOUTH DAKOTA STATE @ NORTH DAKOTA STATE (W) - starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SOUTH DAKOTA STATE</actor>
+      <actor>NORTH DAKOTA STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 030">
+    <title lang="en">SOUTH DAKOTA STATE @ NORTH DAKOTA STATE (W) - starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SOUTH DAKOTA STATE</actor>
+      <actor>NORTH DAKOTA STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308200000 +0000" channel="NCAAB 030">
+    <title lang="en">SOUTH DAKOTA STATE @ NORTH DAKOTA STATE (W) - starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SOUTH DAKOTA STATE</actor>
+      <actor>NORTH DAKOTA STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308200000 +0000" stop="20260308233000 +0000" channel="NCAAB 030">
+    <title lang="en">SOUTH DAKOTA STATE @ NORTH DAKOTA STATE (W)</title>
+    <desc lang="en">Network: CBSSN</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SOUTH DAKOTA STATE</actor>
+      <actor>NORTH DAKOTA STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 031">
+    <title lang="en">WESTERN CAROLINA @ EAST TENNESSEE STATE (M) - starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WESTERN CAROLINA</actor>
+      <actor>EAST TENNESSEE STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 031">
+    <title lang="en">WESTERN CAROLINA @ EAST TENNESSEE STATE (M) - starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WESTERN CAROLINA</actor>
+      <actor>EAST TENNESSEE STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 031">
+    <title lang="en">WESTERN CAROLINA @ EAST TENNESSEE STATE (M) - starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WESTERN CAROLINA</actor>
+      <actor>EAST TENNESSEE STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 031">
+    <title lang="en">WESTERN CAROLINA @ EAST TENNESSEE STATE (M) - starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WESTERN CAROLINA</actor>
+      <actor>EAST TENNESSEE STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308200000 +0000" channel="NCAAB 031">
+    <title lang="en">WESTERN CAROLINA @ EAST TENNESSEE STATE (M) - starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WESTERN CAROLINA</actor>
+      <actor>EAST TENNESSEE STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308200000 +0000" stop="20260308233000 +0000" channel="NCAAB 031">
+    <title lang="en">WESTERN CAROLINA @ EAST TENNESSEE STATE (M)</title>
+    <desc lang="en">Network: ESPNU</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WESTERN CAROLINA</actor>
+      <actor>EAST TENNESSEE STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 032">
+    <title lang="en">8 MICHIGAN STATE @ 3 MICHIGAN (M) - starts at 4:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>8 MICHIGAN STATE</actor>
+      <actor>3 MICHIGAN (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Crisler Center</sub-title>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 032">
+    <title lang="en">8 MICHIGAN STATE @ 3 MICHIGAN (M) - starts at 4:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>8 MICHIGAN STATE</actor>
+      <actor>3 MICHIGAN (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Crisler Center</sub-title>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 032">
+    <title lang="en">8 MICHIGAN STATE @ 3 MICHIGAN (M) - starts at 4:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>8 MICHIGAN STATE</actor>
+      <actor>3 MICHIGAN (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Crisler Center</sub-title>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 032">
+    <title lang="en">8 MICHIGAN STATE @ 3 MICHIGAN (M) - starts at 4:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>8 MICHIGAN STATE</actor>
+      <actor>3 MICHIGAN (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Crisler Center</sub-title>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308200000 +0000" channel="NCAAB 032">
+    <title lang="en">8 MICHIGAN STATE @ 3 MICHIGAN (M) - starts at 4:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>8 MICHIGAN STATE</actor>
+      <actor>3 MICHIGAN (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Crisler Center</sub-title>
+  </programme>
+  <programme start="20260308200000 +0000" stop="20260308203000 +0000" channel="NCAAB 032">
+    <title lang="en">8 MICHIGAN STATE @ 3 MICHIGAN (M) - starts at 4:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>8 MICHIGAN STATE</actor>
+      <actor>3 MICHIGAN (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Crisler Center</sub-title>
+  </programme>
+  <programme start="20260308203000 +0000" stop="20260309000000 +0000" channel="NCAAB 032">
+    <title lang="en">8 MICHIGAN STATE @ 3 MICHIGAN (M)</title>
+    <desc lang="en">Network: CBS | Venue: Crisler Center, Ann Arbor</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>8 MICHIGAN STATE</actor>
+      <actor>3 MICHIGAN (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Crisler Center</sub-title>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 033">
+    <title lang="en">MONTANA @ MONTANA STATE (W) - starts at 4:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MONTANA</actor>
+      <actor>MONTANA STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 033">
+    <title lang="en">MONTANA @ MONTANA STATE (W) - starts at 4:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MONTANA</actor>
+      <actor>MONTANA STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 033">
+    <title lang="en">MONTANA @ MONTANA STATE (W) - starts at 4:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MONTANA</actor>
+      <actor>MONTANA STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 033">
+    <title lang="en">MONTANA @ MONTANA STATE (W) - starts at 4:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MONTANA</actor>
+      <actor>MONTANA STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308200000 +0000" channel="NCAAB 033">
+    <title lang="en">MONTANA @ MONTANA STATE (W) - starts at 4:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MONTANA</actor>
+      <actor>MONTANA STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308200000 +0000" stop="20260308203000 +0000" channel="NCAAB 033">
+    <title lang="en">MONTANA @ MONTANA STATE (W) - starts at 4:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MONTANA</actor>
+      <actor>MONTANA STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308203000 +0000" stop="20260309000000 +0000" channel="NCAAB 033">
+    <title lang="en">MONTANA @ MONTANA STATE (W)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MONTANA</actor>
+      <actor>MONTANA STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 034">
+    <title lang="en">15 WEST VIRGINIA @ 10 TCU (W) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>15 WEST VIRGINIA</actor>
+      <actor>10 TCU (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: T-Mobile Center</sub-title>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 034">
+    <title lang="en">15 WEST VIRGINIA @ 10 TCU (W) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>15 WEST VIRGINIA</actor>
+      <actor>10 TCU (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: T-Mobile Center</sub-title>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 034">
+    <title lang="en">15 WEST VIRGINIA @ 10 TCU (W) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>15 WEST VIRGINIA</actor>
+      <actor>10 TCU (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: T-Mobile Center</sub-title>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 034">
+    <title lang="en">15 WEST VIRGINIA @ 10 TCU (W) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>15 WEST VIRGINIA</actor>
+      <actor>10 TCU (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: T-Mobile Center</sub-title>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308200000 +0000" channel="NCAAB 034">
+    <title lang="en">15 WEST VIRGINIA @ 10 TCU (W) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>15 WEST VIRGINIA</actor>
+      <actor>10 TCU (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: T-Mobile Center</sub-title>
+  </programme>
+  <programme start="20260308200000 +0000" stop="20260308210000 +0000" channel="NCAAB 034">
+    <title lang="en">15 WEST VIRGINIA @ 10 TCU (W) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>15 WEST VIRGINIA</actor>
+      <actor>10 TCU (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: T-Mobile Center</sub-title>
+  </programme>
+  <programme start="20260308210000 +0000" stop="20260309003000 +0000" channel="NCAAB 034">
+    <title lang="en">15 WEST VIRGINIA @ 10 TCU (W)</title>
+    <desc lang="en">Network: ESPN | Venue: T-Mobile Center, Kansas City</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>15 WEST VIRGINIA</actor>
+      <actor>10 TCU (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: T-Mobile Center</sub-title>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 035">
+    <title lang="en">IOWA @ 9 NEBRASKA (M) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IOWA</actor>
+      <actor>9 NEBRASKA (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Pinnacle Bank Arena</sub-title>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 035">
+    <title lang="en">IOWA @ 9 NEBRASKA (M) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IOWA</actor>
+      <actor>9 NEBRASKA (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Pinnacle Bank Arena</sub-title>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 035">
+    <title lang="en">IOWA @ 9 NEBRASKA (M) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IOWA</actor>
+      <actor>9 NEBRASKA (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Pinnacle Bank Arena</sub-title>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 035">
+    <title lang="en">IOWA @ 9 NEBRASKA (M) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IOWA</actor>
+      <actor>9 NEBRASKA (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Pinnacle Bank Arena</sub-title>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308200000 +0000" channel="NCAAB 035">
+    <title lang="en">IOWA @ 9 NEBRASKA (M) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IOWA</actor>
+      <actor>9 NEBRASKA (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Pinnacle Bank Arena</sub-title>
+  </programme>
+  <programme start="20260308200000 +0000" stop="20260308210000 +0000" channel="NCAAB 035">
+    <title lang="en">IOWA @ 9 NEBRASKA (M) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IOWA</actor>
+      <actor>9 NEBRASKA (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Pinnacle Bank Arena</sub-title>
+  </programme>
+  <programme start="20260308210000 +0000" stop="20260309003000 +0000" channel="NCAAB 035">
+    <title lang="en">IOWA @ 9 NEBRASKA (M)</title>
+    <desc lang="en">Network: FOX | Venue: Pinnacle Bank Arena, Lincoln</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IOWA</actor>
+      <actor>9 NEBRASKA (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Pinnacle Bank Arena</sub-title>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 036">
+    <title lang="en">SAN FRANCISCO @ SANTA CLARA (W) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SAN FRANCISCO</actor>
+      <actor>SANTA CLARA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 036">
+    <title lang="en">SAN FRANCISCO @ SANTA CLARA (W) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SAN FRANCISCO</actor>
+      <actor>SANTA CLARA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 036">
+    <title lang="en">SAN FRANCISCO @ SANTA CLARA (W) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SAN FRANCISCO</actor>
+      <actor>SANTA CLARA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 036">
+    <title lang="en">SAN FRANCISCO @ SANTA CLARA (W) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SAN FRANCISCO</actor>
+      <actor>SANTA CLARA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308200000 +0000" channel="NCAAB 036">
+    <title lang="en">SAN FRANCISCO @ SANTA CLARA (W) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SAN FRANCISCO</actor>
+      <actor>SANTA CLARA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308200000 +0000" stop="20260308210000 +0000" channel="NCAAB 036">
+    <title lang="en">SAN FRANCISCO @ SANTA CLARA (W) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SAN FRANCISCO</actor>
+      <actor>SANTA CLARA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308210000 +0000" stop="20260309003000 +0000" channel="NCAAB 036">
+    <title lang="en">SAN FRANCISCO @ SANTA CLARA (W)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SAN FRANCISCO</actor>
+      <actor>SANTA CLARA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 037">
+    <title lang="en">SETON HALL @ VILLANOVA (W) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SETON HALL</actor>
+      <actor>VILLANOVA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 037">
+    <title lang="en">SETON HALL @ VILLANOVA (W) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SETON HALL</actor>
+      <actor>VILLANOVA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 037">
+    <title lang="en">SETON HALL @ VILLANOVA (W) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SETON HALL</actor>
+      <actor>VILLANOVA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 037">
+    <title lang="en">SETON HALL @ VILLANOVA (W) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SETON HALL</actor>
+      <actor>VILLANOVA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308200000 +0000" channel="NCAAB 037">
+    <title lang="en">SETON HALL @ VILLANOVA (W) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SETON HALL</actor>
+      <actor>VILLANOVA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308200000 +0000" stop="20260308210000 +0000" channel="NCAAB 037">
+    <title lang="en">SETON HALL @ VILLANOVA (W) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SETON HALL</actor>
+      <actor>VILLANOVA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308210000 +0000" stop="20260309003000 +0000" channel="NCAAB 037">
+    <title lang="en">SETON HALL @ VILLANOVA (W)</title>
+    <desc lang="en">Network: PEACOCK</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SETON HALL</actor>
+      <actor>VILLANOVA (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 038">
+    <title lang="en">HOUSTON CHRISTIAN @ NEW ORLEANS (M) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>HOUSTON CHRISTIAN</actor>
+      <actor>NEW ORLEANS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 038">
+    <title lang="en">HOUSTON CHRISTIAN @ NEW ORLEANS (M) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>HOUSTON CHRISTIAN</actor>
+      <actor>NEW ORLEANS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 038">
+    <title lang="en">HOUSTON CHRISTIAN @ NEW ORLEANS (M) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>HOUSTON CHRISTIAN</actor>
+      <actor>NEW ORLEANS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 038">
+    <title lang="en">HOUSTON CHRISTIAN @ NEW ORLEANS (M) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>HOUSTON CHRISTIAN</actor>
+      <actor>NEW ORLEANS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308200000 +0000" channel="NCAAB 038">
+    <title lang="en">HOUSTON CHRISTIAN @ NEW ORLEANS (M) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>HOUSTON CHRISTIAN</actor>
+      <actor>NEW ORLEANS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308200000 +0000" stop="20260308220000 +0000" channel="NCAAB 038">
+    <title lang="en">HOUSTON CHRISTIAN @ NEW ORLEANS (M) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>HOUSTON CHRISTIAN</actor>
+      <actor>NEW ORLEANS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308220000 +0000" stop="20260309013000 +0000" channel="NCAAB 038">
+    <title lang="en">HOUSTON CHRISTIAN @ NEW ORLEANS (M)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>HOUSTON CHRISTIAN</actor>
+      <actor>NEW ORLEANS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 039">
+    <title lang="en">MARIST @ MERRIMACK (M) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MARIST</actor>
+      <actor>MERRIMACK (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 039">
+    <title lang="en">MARIST @ MERRIMACK (M) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MARIST</actor>
+      <actor>MERRIMACK (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 039">
+    <title lang="en">MARIST @ MERRIMACK (M) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MARIST</actor>
+      <actor>MERRIMACK (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 039">
+    <title lang="en">MARIST @ MERRIMACK (M) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MARIST</actor>
+      <actor>MERRIMACK (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308200000 +0000" channel="NCAAB 039">
+    <title lang="en">MARIST @ MERRIMACK (M) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MARIST</actor>
+      <actor>MERRIMACK (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308200000 +0000" stop="20260308220000 +0000" channel="NCAAB 039">
+    <title lang="en">MARIST @ MERRIMACK (M) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MARIST</actor>
+      <actor>MERRIMACK (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308220000 +0000" stop="20260309013000 +0000" channel="NCAAB 039">
+    <title lang="en">MARIST @ MERRIMACK (M)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>MARIST</actor>
+      <actor>MERRIMACK (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 040">
+    <title lang="en">RADFORD @ HIGH POINT (W) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>RADFORD</actor>
+      <actor>HIGH POINT (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 040">
+    <title lang="en">RADFORD @ HIGH POINT (W) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>RADFORD</actor>
+      <actor>HIGH POINT (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 040">
+    <title lang="en">RADFORD @ HIGH POINT (W) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>RADFORD</actor>
+      <actor>HIGH POINT (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 040">
+    <title lang="en">RADFORD @ HIGH POINT (W) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>RADFORD</actor>
+      <actor>HIGH POINT (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308200000 +0000" channel="NCAAB 040">
+    <title lang="en">RADFORD @ HIGH POINT (W) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>RADFORD</actor>
+      <actor>HIGH POINT (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308200000 +0000" stop="20260308220000 +0000" channel="NCAAB 040">
+    <title lang="en">RADFORD @ HIGH POINT (W) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>RADFORD</actor>
+      <actor>HIGH POINT (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308220000 +0000" stop="20260309013000 +0000" channel="NCAAB 040">
+    <title lang="en">RADFORD @ HIGH POINT (W)</title>
+    <desc lang="en">Network: ESPN2</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>RADFORD</actor>
+      <actor>HIGH POINT (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 041">
+    <title lang="en">SOUTHERN MISS @ TROY (M) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SOUTHERN MISS</actor>
+      <actor>TROY (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 041">
+    <title lang="en">SOUTHERN MISS @ TROY (M) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SOUTHERN MISS</actor>
+      <actor>TROY (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 041">
+    <title lang="en">SOUTHERN MISS @ TROY (M) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SOUTHERN MISS</actor>
+      <actor>TROY (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 041">
+    <title lang="en">SOUTHERN MISS @ TROY (M) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SOUTHERN MISS</actor>
+      <actor>TROY (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308200000 +0000" channel="NCAAB 041">
+    <title lang="en">SOUTHERN MISS @ TROY (M) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SOUTHERN MISS</actor>
+      <actor>TROY (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308200000 +0000" stop="20260308220000 +0000" channel="NCAAB 041">
+    <title lang="en">SOUTHERN MISS @ TROY (M) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SOUTHERN MISS</actor>
+      <actor>TROY (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308220000 +0000" stop="20260309013000 +0000" channel="NCAAB 041">
+    <title lang="en">SOUTHERN MISS @ TROY (M)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SOUTHERN MISS</actor>
+      <actor>TROY (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 042">
+    <title lang="en">UNC GREENSBORO @ FURMAN (M) - starts at 6:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>UNC GREENSBORO</actor>
+      <actor>FURMAN (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 042">
+    <title lang="en">UNC GREENSBORO @ FURMAN (M) - starts at 6:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>UNC GREENSBORO</actor>
+      <actor>FURMAN (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 042">
+    <title lang="en">UNC GREENSBORO @ FURMAN (M) - starts at 6:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>UNC GREENSBORO</actor>
+      <actor>FURMAN (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 042">
+    <title lang="en">UNC GREENSBORO @ FURMAN (M) - starts at 6:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>UNC GREENSBORO</actor>
+      <actor>FURMAN (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308200000 +0000" channel="NCAAB 042">
+    <title lang="en">UNC GREENSBORO @ FURMAN (M) - starts at 6:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>UNC GREENSBORO</actor>
+      <actor>FURMAN (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308200000 +0000" stop="20260308220000 +0000" channel="NCAAB 042">
+    <title lang="en">UNC GREENSBORO @ FURMAN (M) - starts at 6:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>UNC GREENSBORO</actor>
+      <actor>FURMAN (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308220000 +0000" stop="20260308223000 +0000" channel="NCAAB 042">
+    <title lang="en">UNC GREENSBORO @ FURMAN (M) - starts at 6:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>UNC GREENSBORO</actor>
+      <actor>FURMAN (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308223000 +0000" stop="20260309020000 +0000" channel="NCAAB 042">
+    <title lang="en">UNC GREENSBORO @ FURMAN (M)</title>
+    <desc lang="en">Network: ESPNU</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>UNC GREENSBORO</actor>
+      <actor>FURMAN (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 043">
+    <title lang="en">IDAHO STATE @ PORTLAND STATE (M) - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IDAHO STATE</actor>
+      <actor>PORTLAND STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 043">
+    <title lang="en">IDAHO STATE @ PORTLAND STATE (M) - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IDAHO STATE</actor>
+      <actor>PORTLAND STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 043">
+    <title lang="en">IDAHO STATE @ PORTLAND STATE (M) - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IDAHO STATE</actor>
+      <actor>PORTLAND STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 043">
+    <title lang="en">IDAHO STATE @ PORTLAND STATE (M) - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IDAHO STATE</actor>
+      <actor>PORTLAND STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308200000 +0000" channel="NCAAB 043">
+    <title lang="en">IDAHO STATE @ PORTLAND STATE (M) - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IDAHO STATE</actor>
+      <actor>PORTLAND STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308200000 +0000" stop="20260308220000 +0000" channel="NCAAB 043">
+    <title lang="en">IDAHO STATE @ PORTLAND STATE (M) - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IDAHO STATE</actor>
+      <actor>PORTLAND STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308220000 +0000" stop="20260308233000 +0000" channel="NCAAB 043">
+    <title lang="en">IDAHO STATE @ PORTLAND STATE (M) - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IDAHO STATE</actor>
+      <actor>PORTLAND STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308233000 +0000" stop="20260309030000 +0000" channel="NCAAB 043">
+    <title lang="en">IDAHO STATE @ PORTLAND STATE (M)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IDAHO STATE</actor>
+      <actor>PORTLAND STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 044">
+    <title lang="en">FAIRFIELD @ SIENA (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>FAIRFIELD</actor>
+      <actor>SIENA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 044">
+    <title lang="en">FAIRFIELD @ SIENA (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>FAIRFIELD</actor>
+      <actor>SIENA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 044">
+    <title lang="en">FAIRFIELD @ SIENA (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>FAIRFIELD</actor>
+      <actor>SIENA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 044">
+    <title lang="en">FAIRFIELD @ SIENA (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>FAIRFIELD</actor>
+      <actor>SIENA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308200000 +0000" channel="NCAAB 044">
+    <title lang="en">FAIRFIELD @ SIENA (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>FAIRFIELD</actor>
+      <actor>SIENA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308200000 +0000" stop="20260308220000 +0000" channel="NCAAB 044">
+    <title lang="en">FAIRFIELD @ SIENA (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>FAIRFIELD</actor>
+      <actor>SIENA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308220000 +0000" stop="20260309000000 +0000" channel="NCAAB 044">
+    <title lang="en">FAIRFIELD @ SIENA (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>FAIRFIELD</actor>
+      <actor>SIENA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260309000000 +0000" stop="20260309003000 +0000" channel="NCAAB 044">
+    <title lang="en">FAIRFIELD @ SIENA (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>FAIRFIELD</actor>
+      <actor>SIENA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260309003000 +0000" stop="20260309040000 +0000" channel="NCAAB 044">
+    <title lang="en">FAIRFIELD @ SIENA (M)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>FAIRFIELD</actor>
+      <actor>SIENA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 045">
+    <title lang="en">GEORGIA SOUTHERN @ MARSHALL (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>GEORGIA SOUTHERN</actor>
+      <actor>MARSHALL (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 045">
+    <title lang="en">GEORGIA SOUTHERN @ MARSHALL (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>GEORGIA SOUTHERN</actor>
+      <actor>MARSHALL (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 045">
+    <title lang="en">GEORGIA SOUTHERN @ MARSHALL (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>GEORGIA SOUTHERN</actor>
+      <actor>MARSHALL (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 045">
+    <title lang="en">GEORGIA SOUTHERN @ MARSHALL (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>GEORGIA SOUTHERN</actor>
+      <actor>MARSHALL (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308200000 +0000" channel="NCAAB 045">
+    <title lang="en">GEORGIA SOUTHERN @ MARSHALL (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>GEORGIA SOUTHERN</actor>
+      <actor>MARSHALL (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308200000 +0000" stop="20260308220000 +0000" channel="NCAAB 045">
+    <title lang="en">GEORGIA SOUTHERN @ MARSHALL (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>GEORGIA SOUTHERN</actor>
+      <actor>MARSHALL (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308220000 +0000" stop="20260309000000 +0000" channel="NCAAB 045">
+    <title lang="en">GEORGIA SOUTHERN @ MARSHALL (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>GEORGIA SOUTHERN</actor>
+      <actor>MARSHALL (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260309000000 +0000" stop="20260309003000 +0000" channel="NCAAB 045">
+    <title lang="en">GEORGIA SOUTHERN @ MARSHALL (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>GEORGIA SOUTHERN</actor>
+      <actor>MARSHALL (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260309003000 +0000" stop="20260309040000 +0000" channel="NCAAB 045">
+    <title lang="en">GEORGIA SOUTHERN @ MARSHALL (M)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>GEORGIA SOUTHERN</actor>
+      <actor>MARSHALL (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 046">
+    <title lang="en">NORTHWESTERN STATE @ NICHOLLS (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTHWESTERN STATE</actor>
+      <actor>NICHOLLS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 046">
+    <title lang="en">NORTHWESTERN STATE @ NICHOLLS (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTHWESTERN STATE</actor>
+      <actor>NICHOLLS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 046">
+    <title lang="en">NORTHWESTERN STATE @ NICHOLLS (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTHWESTERN STATE</actor>
+      <actor>NICHOLLS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 046">
+    <title lang="en">NORTHWESTERN STATE @ NICHOLLS (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTHWESTERN STATE</actor>
+      <actor>NICHOLLS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308200000 +0000" channel="NCAAB 046">
+    <title lang="en">NORTHWESTERN STATE @ NICHOLLS (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTHWESTERN STATE</actor>
+      <actor>NICHOLLS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308200000 +0000" stop="20260308220000 +0000" channel="NCAAB 046">
+    <title lang="en">NORTHWESTERN STATE @ NICHOLLS (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTHWESTERN STATE</actor>
+      <actor>NICHOLLS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308220000 +0000" stop="20260309000000 +0000" channel="NCAAB 046">
+    <title lang="en">NORTHWESTERN STATE @ NICHOLLS (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTHWESTERN STATE</actor>
+      <actor>NICHOLLS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260309000000 +0000" stop="20260309003000 +0000" channel="NCAAB 046">
+    <title lang="en">NORTHWESTERN STATE @ NICHOLLS (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTHWESTERN STATE</actor>
+      <actor>NICHOLLS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260309003000 +0000" stop="20260309040000 +0000" channel="NCAAB 046">
+    <title lang="en">NORTHWESTERN STATE @ NICHOLLS (M)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTHWESTERN STATE</actor>
+      <actor>NICHOLLS (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 047">
+    <title lang="en">SAN FRANCISCO @ OREGON STATE (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SAN FRANCISCO</actor>
+      <actor>OREGON STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 047">
+    <title lang="en">SAN FRANCISCO @ OREGON STATE (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SAN FRANCISCO</actor>
+      <actor>OREGON STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 047">
+    <title lang="en">SAN FRANCISCO @ OREGON STATE (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SAN FRANCISCO</actor>
+      <actor>OREGON STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 047">
+    <title lang="en">SAN FRANCISCO @ OREGON STATE (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SAN FRANCISCO</actor>
+      <actor>OREGON STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308200000 +0000" channel="NCAAB 047">
+    <title lang="en">SAN FRANCISCO @ OREGON STATE (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SAN FRANCISCO</actor>
+      <actor>OREGON STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308200000 +0000" stop="20260308220000 +0000" channel="NCAAB 047">
+    <title lang="en">SAN FRANCISCO @ OREGON STATE (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SAN FRANCISCO</actor>
+      <actor>OREGON STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308220000 +0000" stop="20260309000000 +0000" channel="NCAAB 047">
+    <title lang="en">SAN FRANCISCO @ OREGON STATE (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SAN FRANCISCO</actor>
+      <actor>OREGON STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260309000000 +0000" stop="20260309003000 +0000" channel="NCAAB 047">
+    <title lang="en">SAN FRANCISCO @ OREGON STATE (M) - starts at 8:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SAN FRANCISCO</actor>
+      <actor>OREGON STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260309003000 +0000" stop="20260309040000 +0000" channel="NCAAB 047">
+    <title lang="en">SAN FRANCISCO @ OREGON STATE (M)</title>
+    <desc lang="en">Network: ESPN2</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>SAN FRANCISCO</actor>
+      <actor>OREGON STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 048">
+    <title lang="en">NORTH DAKOTA @ NORTH DAKOTA STATE (M) - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTH DAKOTA</actor>
+      <actor>NORTH DAKOTA STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 048">
+    <title lang="en">NORTH DAKOTA @ NORTH DAKOTA STATE (M) - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTH DAKOTA</actor>
+      <actor>NORTH DAKOTA STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 048">
+    <title lang="en">NORTH DAKOTA @ NORTH DAKOTA STATE (M) - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTH DAKOTA</actor>
+      <actor>NORTH DAKOTA STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 048">
+    <title lang="en">NORTH DAKOTA @ NORTH DAKOTA STATE (M) - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTH DAKOTA</actor>
+      <actor>NORTH DAKOTA STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308200000 +0000" channel="NCAAB 048">
+    <title lang="en">NORTH DAKOTA @ NORTH DAKOTA STATE (M) - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTH DAKOTA</actor>
+      <actor>NORTH DAKOTA STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308200000 +0000" stop="20260308220000 +0000" channel="NCAAB 048">
+    <title lang="en">NORTH DAKOTA @ NORTH DAKOTA STATE (M) - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTH DAKOTA</actor>
+      <actor>NORTH DAKOTA STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308220000 +0000" stop="20260309000000 +0000" channel="NCAAB 048">
+    <title lang="en">NORTH DAKOTA @ NORTH DAKOTA STATE (M) - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTH DAKOTA</actor>
+      <actor>NORTH DAKOTA STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260309000000 +0000" stop="20260309010000 +0000" channel="NCAAB 048">
+    <title lang="en">NORTH DAKOTA @ NORTH DAKOTA STATE (M) - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTH DAKOTA</actor>
+      <actor>NORTH DAKOTA STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260309010000 +0000" stop="20260309043000 +0000" channel="NCAAB 048">
+    <title lang="en">NORTH DAKOTA @ NORTH DAKOTA STATE (M)</title>
+    <desc lang="en">Network: CBSSN</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>NORTH DAKOTA</actor>
+      <actor>NORTH DAKOTA STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 049">
+    <title lang="en">IDAHO @ MONTANA STATE (M) - starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IDAHO</actor>
+      <actor>MONTANA STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 049">
+    <title lang="en">IDAHO @ MONTANA STATE (M) - starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IDAHO</actor>
+      <actor>MONTANA STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 049">
+    <title lang="en">IDAHO @ MONTANA STATE (M) - starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IDAHO</actor>
+      <actor>MONTANA STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 049">
+    <title lang="en">IDAHO @ MONTANA STATE (M) - starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IDAHO</actor>
+      <actor>MONTANA STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308200000 +0000" channel="NCAAB 049">
+    <title lang="en">IDAHO @ MONTANA STATE (M) - starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IDAHO</actor>
+      <actor>MONTANA STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308200000 +0000" stop="20260308220000 +0000" channel="NCAAB 049">
+    <title lang="en">IDAHO @ MONTANA STATE (M) - starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IDAHO</actor>
+      <actor>MONTANA STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308220000 +0000" stop="20260309000000 +0000" channel="NCAAB 049">
+    <title lang="en">IDAHO @ MONTANA STATE (M) - starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IDAHO</actor>
+      <actor>MONTANA STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260309000000 +0000" stop="20260309020000 +0000" channel="NCAAB 049">
+    <title lang="en">IDAHO @ MONTANA STATE (M) - starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IDAHO</actor>
+      <actor>MONTANA STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260309020000 +0000" stop="20260309053000 +0000" channel="NCAAB 049">
+    <title lang="en">IDAHO @ MONTANA STATE (M)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>IDAHO</actor>
+      <actor>MONTANA STATE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="NCAAB 050">
+    <title lang="en">PACIFIC @ SANTA CLARA (M) - starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>PACIFIC</actor>
+      <actor>SANTA CLARA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="NCAAB 050">
+    <title lang="en">PACIFIC @ SANTA CLARA (M) - starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>PACIFIC</actor>
+      <actor>SANTA CLARA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="NCAAB 050">
+    <title lang="en">PACIFIC @ SANTA CLARA (M) - starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>PACIFIC</actor>
+      <actor>SANTA CLARA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="NCAAB 050">
+    <title lang="en">PACIFIC @ SANTA CLARA (M) - starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>PACIFIC</actor>
+      <actor>SANTA CLARA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308180000 +0000" stop="20260308200000 +0000" channel="NCAAB 050">
+    <title lang="en">PACIFIC @ SANTA CLARA (M) - starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>PACIFIC</actor>
+      <actor>SANTA CLARA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308200000 +0000" stop="20260308220000 +0000" channel="NCAAB 050">
+    <title lang="en">PACIFIC @ SANTA CLARA (M) - starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>PACIFIC</actor>
+      <actor>SANTA CLARA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260308220000 +0000" stop="20260309000000 +0000" channel="NCAAB 050">
+    <title lang="en">PACIFIC @ SANTA CLARA (M) - starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>PACIFIC</actor>
+      <actor>SANTA CLARA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260309000000 +0000" stop="20260309020000 +0000" channel="NCAAB 050">
+    <title lang="en">PACIFIC @ SANTA CLARA (M) - starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>PACIFIC</actor>
+      <actor>SANTA CLARA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260309020000 +0000" stop="20260309030000 +0000" channel="NCAAB 050">
+    <title lang="en">PACIFIC @ SANTA CLARA (M) - starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>PACIFIC</actor>
+      <actor>SANTA CLARA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260309030000 +0000" stop="20260309063000 +0000" channel="NCAAB 050">
+    <title lang="en">PACIFIC @ SANTA CLARA (M)</title>
+    <desc lang="en">Network: ESPN2</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>PACIFIC</actor>
+      <actor>SANTA CLARA (M)</actor>
+    </credits>
+  </programme>
   <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="SOCCER 01">
     <title lang="en">Villarreal @ Elche - starts at 9:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
