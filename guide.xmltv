@@ -210,382 +210,76 @@
   <channel id="PPV 70">
     <display-name>PPV 70</display-name>
   </channel>
-  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: USAC Road Racing at Sebring starts at 9:00 AM ET</title>
+  <programme start="20260309100000 +0000" stop="20260309120000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night RAW starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>USAC Road Racing at Sebring</actor>
+      <actor>WWE Monday Night RAW</actor>
     </credits>
   </programme>
-  <programme start="20260308120000 +0000" stop="20260308130000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: USAC Road Racing at Sebring starts at 9:00 AM ET</title>
+  <programme start="20260309120000 +0000" stop="20260309140000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night RAW starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>USAC Road Racing at Sebring</actor>
+      <actor>WWE Monday Night RAW</actor>
     </credits>
   </programme>
-  <programme start="20260308130000 +0000" stop="20260308160000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: USAC Road Racing at Sebring (3.8 9:00 AM ET)</title>
+  <programme start="20260309140000 +0000" stop="20260309160000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night RAW starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night RAW</actor>
+    </credits>
+  </programme>
+  <programme start="20260309160000 +0000" stop="20260309180000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night RAW starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night RAW</actor>
+    </credits>
+  </programme>
+  <programme start="20260309180000 +0000" stop="20260309200000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night RAW starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night RAW</actor>
+    </credits>
+  </programme>
+  <programme start="20260309200000 +0000" stop="20260309220000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night RAW starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night RAW</actor>
+    </credits>
+  </programme>
+  <programme start="20260309220000 +0000" stop="20260310000000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night RAW starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night RAW</actor>
+    </credits>
+  </programme>
+  <programme start="20260310000000 +0000" stop="20260310030000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night RAW (3.9 8:00 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>USAC Road Racing at Sebring</actor>
-    </credits>
-  </programme>
-  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: True Grit Wrestling Redemption starts at 11:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>True Grit Wrestling Redemption</actor>
-    </credits>
-  </programme>
-  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: True Grit Wrestling Redemption starts at 11:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>True Grit Wrestling Redemption</actor>
-    </credits>
-  </programme>
-  <programme start="20260308140000 +0000" stop="20260308150000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: True Grit Wrestling Redemption starts at 11:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>True Grit Wrestling Redemption</actor>
-    </credits>
-  </programme>
-  <programme start="20260308150000 +0000" stop="20260308180000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: True Grit Wrestling Redemption (3.8 11:00 AM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>True Grit Wrestling Redemption</actor>
-    </credits>
-  </programme>
-  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: wXw 16 Carat Gold Night 3 starts at 12:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>wXw 16 Carat Gold Night 3</actor>
-    </credits>
-  </programme>
-  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: wXw 16 Carat Gold Night 3 starts at 12:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>wXw 16 Carat Gold Night 3</actor>
-    </credits>
-  </programme>
-  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: wXw 16 Carat Gold Night 3 starts at 12:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>wXw 16 Carat Gold Night 3</actor>
-    </credits>
-  </programme>
-  <programme start="20260308160000 +0000" stop="20260308163000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: wXw 16 Carat Gold Night 3 starts at 12:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>wXw 16 Carat Gold Night 3</actor>
-    </credits>
-  </programme>
-  <programme start="20260308163000 +0000" stop="20260308193000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: wXw 16 Carat Gold Night 3 (3.8 12:30 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>wXw 16 Carat Gold Night 3</actor>
-    </credits>
-  </programme>
-  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: GCW Ransom starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>GCW Ransom</actor>
-    </credits>
-  </programme>
-  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: GCW Ransom starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>GCW Ransom</actor>
-    </credits>
-  </programme>
-  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: GCW Ransom starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>GCW Ransom</actor>
-    </credits>
-  </programme>
-  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: GCW Ransom starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>GCW Ransom</actor>
-    </credits>
-  </programme>
-  <programme start="20260308180000 +0000" stop="20260308200000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: GCW Ransom starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>GCW Ransom</actor>
-    </credits>
-  </programme>
-  <programme start="20260308200000 +0000" stop="20260308220000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: GCW Ransom starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>GCW Ransom</actor>
-    </credits>
-  </programme>
-  <programme start="20260308220000 +0000" stop="20260308230000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: GCW Ransom starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>GCW Ransom</actor>
-    </credits>
-  </programme>
-  <programme start="20260308230000 +0000" stop="20260309020000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: GCW Ransom (3.8 7:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>GCW Ransom</actor>
-    </credits>
-  </programme>
-  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: UWN Sunday Night Slam starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>UWN Sunday Night Slam</actor>
-    </credits>
-  </programme>
-  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: UWN Sunday Night Slam starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>UWN Sunday Night Slam</actor>
-    </credits>
-  </programme>
-  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: UWN Sunday Night Slam starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>UWN Sunday Night Slam</actor>
-    </credits>
-  </programme>
-  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: UWN Sunday Night Slam starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>UWN Sunday Night Slam</actor>
-    </credits>
-  </programme>
-  <programme start="20260308180000 +0000" stop="20260308200000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: UWN Sunday Night Slam starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>UWN Sunday Night Slam</actor>
-    </credits>
-  </programme>
-  <programme start="20260308200000 +0000" stop="20260308220000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: UWN Sunday Night Slam starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>UWN Sunday Night Slam</actor>
-    </credits>
-  </programme>
-  <programme start="20260308220000 +0000" stop="20260309000000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: UWN Sunday Night Slam starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>UWN Sunday Night Slam</actor>
-    </credits>
-  </programme>
-  <programme start="20260309000000 +0000" stop="20260309013000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: UWN Sunday Night Slam starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>UWN Sunday Night Slam</actor>
-    </credits>
-  </programme>
-  <programme start="20260309013000 +0000" stop="20260309043000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: UWN Sunday Night Slam (3.8 9:30 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>UWN Sunday Night Slam</actor>
-    </credits>
-  </programme>
-  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: Opetaia vs. Glanton starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Opetaia vs. Glanton</actor>
-    </credits>
-  </programme>
-  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: Opetaia vs. Glanton starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Opetaia vs. Glanton</actor>
-    </credits>
-  </programme>
-  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: Opetaia vs. Glanton starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Opetaia vs. Glanton</actor>
-    </credits>
-  </programme>
-  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: Opetaia vs. Glanton starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Opetaia vs. Glanton</actor>
-    </credits>
-  </programme>
-  <programme start="20260308180000 +0000" stop="20260308200000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: Opetaia vs. Glanton starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Opetaia vs. Glanton</actor>
-    </credits>
-  </programme>
-  <programme start="20260308200000 +0000" stop="20260308213000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: Opetaia vs. Glanton starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Opetaia vs. Glanton</actor>
-    </credits>
-  </programme>
-  <programme start="20260308213000 +0000" stop="20260309003000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: Opetaia vs. Glanton (3.8 5:30 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Opetaia vs. Glanton</actor>
-    </credits>
-  </programme>
-  <programme start="20260308100000 +0000" stop="20260308120000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: 410 Sprints at Lincoln starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>410 Sprints at Lincoln</actor>
-    </credits>
-  </programme>
-  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: 410 Sprints at Lincoln starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>410 Sprints at Lincoln</actor>
-    </credits>
-  </programme>
-  <programme start="20260308140000 +0000" stop="20260308160000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: 410 Sprints at Lincoln starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>410 Sprints at Lincoln</actor>
-    </credits>
-  </programme>
-  <programme start="20260308160000 +0000" stop="20260308180000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: 410 Sprints at Lincoln starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>410 Sprints at Lincoln</actor>
-    </credits>
-  </programme>
-  <programme start="20260308180000 +0000" stop="20260308183000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: 410 Sprints at Lincoln starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>410 Sprints at Lincoln</actor>
-    </credits>
-  </programme>
-  <programme start="20260308183000 +0000" stop="20260308213000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: 410 Sprints at Lincoln (3.8 2:30 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>410 Sprints at Lincoln</actor>
+      <actor>WWE Monday Night RAW</actor>
     </credits>
   </programme>
 </tv>
