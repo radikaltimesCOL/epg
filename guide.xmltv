@@ -210,7 +210,7 @@
   <channel id="PPV 70">
     <display-name>PPV 70</display-name>
   </channel>
-  <programme start="20260310100000 +0000" stop="20260310120000 +0000" channel="PPV 01">
+  <programme start="20260311100000 +0000" stop="20260311120000 +0000" channel="PPV 01">
     <title lang="en">EVENT 01: Millbridge Speedway starts at 6:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -219,7 +219,7 @@
       <actor>Millbridge Speedway</actor>
     </credits>
   </programme>
-  <programme start="20260310120000 +0000" stop="20260310140000 +0000" channel="PPV 01">
+  <programme start="20260311120000 +0000" stop="20260311140000 +0000" channel="PPV 01">
     <title lang="en">EVENT 01: Millbridge Speedway starts at 6:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -228,7 +228,7 @@
       <actor>Millbridge Speedway</actor>
     </credits>
   </programme>
-  <programme start="20260310140000 +0000" stop="20260310160000 +0000" channel="PPV 01">
+  <programme start="20260311140000 +0000" stop="20260311160000 +0000" channel="PPV 01">
     <title lang="en">EVENT 01: Millbridge Speedway starts at 6:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -237,7 +237,7 @@
       <actor>Millbridge Speedway</actor>
     </credits>
   </programme>
-  <programme start="20260310160000 +0000" stop="20260310180000 +0000" channel="PPV 01">
+  <programme start="20260311160000 +0000" stop="20260311180000 +0000" channel="PPV 01">
     <title lang="en">EVENT 01: Millbridge Speedway starts at 6:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -246,7 +246,7 @@
       <actor>Millbridge Speedway</actor>
     </credits>
   </programme>
-  <programme start="20260310180000 +0000" stop="20260310200000 +0000" channel="PPV 01">
+  <programme start="20260311180000 +0000" stop="20260311200000 +0000" channel="PPV 01">
     <title lang="en">EVENT 01: Millbridge Speedway starts at 6:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -255,7 +255,7 @@
       <actor>Millbridge Speedway</actor>
     </credits>
   </programme>
-  <programme start="20260310200000 +0000" stop="20260310220000 +0000" channel="PPV 01">
+  <programme start="20260311200000 +0000" stop="20260311220000 +0000" channel="PPV 01">
     <title lang="en">EVENT 01: Millbridge Speedway starts at 6:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -264,7 +264,7 @@
       <actor>Millbridge Speedway</actor>
     </credits>
   </programme>
-  <programme start="20260310220000 +0000" stop="20260310221500 +0000" channel="PPV 01">
+  <programme start="20260311220000 +0000" stop="20260311221500 +0000" channel="PPV 01">
     <title lang="en">EVENT 01: Millbridge Speedway starts at 6:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -273,8 +273,8 @@
       <actor>Millbridge Speedway</actor>
     </credits>
   </programme>
-  <programme start="20260310221500 +0000" stop="20260311011500 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Millbridge Speedway (3.10 6:15 PM ET)</title>
+  <programme start="20260311221500 +0000" stop="20260312011500 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Millbridge Speedway (3.11 6:15 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -282,94 +282,76 @@
       <actor>Millbridge Speedway</actor>
     </credits>
   </programme>
-  <programme start="20260310100000 +0000" stop="20260310120000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Hoodslam Blood Omen starts at 11:00 PM ET</title>
+  <programme start="20260311100000 +0000" stop="20260311120000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: HYPE Brazil Tsarukyan vs. Mokaev starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>Hoodslam Blood Omen</actor>
+      <actor>HYPE Brazil Tsarukyan vs. Mokaev</actor>
     </credits>
   </programme>
-  <programme start="20260310120000 +0000" stop="20260310140000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Hoodslam Blood Omen starts at 11:00 PM ET</title>
+  <programme start="20260311120000 +0000" stop="20260311140000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: HYPE Brazil Tsarukyan vs. Mokaev starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>Hoodslam Blood Omen</actor>
+      <actor>HYPE Brazil Tsarukyan vs. Mokaev</actor>
     </credits>
   </programme>
-  <programme start="20260310140000 +0000" stop="20260310160000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Hoodslam Blood Omen starts at 11:00 PM ET</title>
+  <programme start="20260311140000 +0000" stop="20260311160000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: HYPE Brazil Tsarukyan vs. Mokaev starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>Hoodslam Blood Omen</actor>
+      <actor>HYPE Brazil Tsarukyan vs. Mokaev</actor>
     </credits>
   </programme>
-  <programme start="20260310160000 +0000" stop="20260310180000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Hoodslam Blood Omen starts at 11:00 PM ET</title>
+  <programme start="20260311160000 +0000" stop="20260311180000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: HYPE Brazil Tsarukyan vs. Mokaev starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>Hoodslam Blood Omen</actor>
+      <actor>HYPE Brazil Tsarukyan vs. Mokaev</actor>
     </credits>
   </programme>
-  <programme start="20260310180000 +0000" stop="20260310200000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Hoodslam Blood Omen starts at 11:00 PM ET</title>
+  <programme start="20260311180000 +0000" stop="20260311200000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: HYPE Brazil Tsarukyan vs. Mokaev starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>Hoodslam Blood Omen</actor>
+      <actor>HYPE Brazil Tsarukyan vs. Mokaev</actor>
     </credits>
   </programme>
-  <programme start="20260310200000 +0000" stop="20260310220000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Hoodslam Blood Omen starts at 11:00 PM ET</title>
+  <programme start="20260311200000 +0000" stop="20260311220000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: HYPE Brazil Tsarukyan vs. Mokaev starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>Hoodslam Blood Omen</actor>
+      <actor>HYPE Brazil Tsarukyan vs. Mokaev</actor>
     </credits>
   </programme>
-  <programme start="20260310220000 +0000" stop="20260311000000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Hoodslam Blood Omen starts at 11:00 PM ET</title>
+  <programme start="20260311220000 +0000" stop="20260311230000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: HYPE Brazil Tsarukyan vs. Mokaev starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>Hoodslam Blood Omen</actor>
+      <actor>HYPE Brazil Tsarukyan vs. Mokaev</actor>
     </credits>
   </programme>
-  <programme start="20260311000000 +0000" stop="20260311020000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Hoodslam Blood Omen starts at 11:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>Hoodslam Blood Omen</actor>
-    </credits>
-  </programme>
-  <programme start="20260311020000 +0000" stop="20260311030000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Hoodslam Blood Omen starts at 11:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>Hoodslam Blood Omen</actor>
-    </credits>
-  </programme>
-  <programme start="20260311030000 +0000" stop="20260311060000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Hoodslam Blood Omen (3.10 11:00 PM ET)</title>
+  <programme start="20260311230000 +0000" stop="20260312020000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: HYPE Brazil Tsarukyan vs. Mokaev (3.11 7:00 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>Hoodslam Blood Omen</actor>
+      <actor>HYPE Brazil Tsarukyan vs. Mokaev</actor>
     </credits>
   </programme>
 </tv>
