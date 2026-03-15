@@ -2097,6 +2097,440 @@
   <channel id="SOCCER 99">
     <display-name>SOCCER 99</display-name>
   </channel>
+  <programme start="20260315100000 +0000" stop="20260315120000 +0000" channel="NCAAB 001">
+    <title lang="en">LEHIGH @ HOLY CROSS (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>LEHIGH</actor>
+      <actor>HOLY CROSS (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Hart Center</sub-title>
+  </programme>
+  <programme start="20260315120000 +0000" stop="20260315140000 +0000" channel="NCAAB 001">
+    <title lang="en">LEHIGH @ HOLY CROSS (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>LEHIGH</actor>
+      <actor>HOLY CROSS (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Hart Center</sub-title>
+  </programme>
+  <programme start="20260315140000 +0000" stop="20260315160000 +0000" channel="NCAAB 001">
+    <title lang="en">LEHIGH @ HOLY CROSS (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>LEHIGH</actor>
+      <actor>HOLY CROSS (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Hart Center</sub-title>
+  </programme>
+  <programme start="20260315160000 +0000" stop="20260315193000 +0000" channel="NCAAB 001">
+    <title lang="en">LEHIGH @ HOLY CROSS (W)</title>
+    <desc lang="en">Network: CBSSN | Venue: Hart Center, Worcester</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>LEHIGH</actor>
+      <actor>HOLY CROSS (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Hart Center</sub-title>
+  </programme>
+  <programme start="20260315100000 +0000" stop="20260315120000 +0000" channel="NCAAB 002">
+    <title lang="en">LONG ISLAND UNIVERSITY @ FAIRLEIGH DICKINSON (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>LONG ISLAND UNIVERSITY</actor>
+      <actor>FAIRLEIGH DICKINSON (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Bogota Savings Bank Center</sub-title>
+  </programme>
+  <programme start="20260315120000 +0000" stop="20260315140000 +0000" channel="NCAAB 002">
+    <title lang="en">LONG ISLAND UNIVERSITY @ FAIRLEIGH DICKINSON (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>LONG ISLAND UNIVERSITY</actor>
+      <actor>FAIRLEIGH DICKINSON (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Bogota Savings Bank Center</sub-title>
+  </programme>
+  <programme start="20260315140000 +0000" stop="20260315160000 +0000" channel="NCAAB 002">
+    <title lang="en">LONG ISLAND UNIVERSITY @ FAIRLEIGH DICKINSON (W) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>LONG ISLAND UNIVERSITY</actor>
+      <actor>FAIRLEIGH DICKINSON (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Bogota Savings Bank Center</sub-title>
+  </programme>
+  <programme start="20260315160000 +0000" stop="20260315193000 +0000" channel="NCAAB 002">
+    <title lang="en">LONG ISLAND UNIVERSITY @ FAIRLEIGH DICKINSON (W)</title>
+    <desc lang="en">Network: ESPNU | Venue: Bogota Savings Bank Center, Hackensack</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>LONG ISLAND UNIVERSITY</actor>
+      <actor>FAIRLEIGH DICKINSON (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Bogota Savings Bank Center</sub-title>
+  </programme>
+  <programme start="20260315100000 +0000" stop="20260315120000 +0000" channel="NCAAB 003">
+    <title lang="en">PENNSYLVANIA @ YALE (M) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>PENNSYLVANIA</actor>
+      <actor>YALE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260315120000 +0000" stop="20260315140000 +0000" channel="NCAAB 003">
+    <title lang="en">PENNSYLVANIA @ YALE (M) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>PENNSYLVANIA</actor>
+      <actor>YALE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260315140000 +0000" stop="20260315160000 +0000" channel="NCAAB 003">
+    <title lang="en">PENNSYLVANIA @ YALE (M) - starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>PENNSYLVANIA</actor>
+      <actor>YALE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260315160000 +0000" stop="20260315193000 +0000" channel="NCAAB 003">
+    <title lang="en">PENNSYLVANIA @ YALE (M)</title>
+    <desc lang="en">Network: ESPN2</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>PENNSYLVANIA</actor>
+      <actor>YALE (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260315100000 +0000" stop="20260315120000 +0000" channel="NCAAB 004">
+    <title lang="en">22 VANDERBILT @ 17 ARKANSAS (M) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>22 VANDERBILT</actor>
+      <actor>17 ARKANSAS (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Bridgestone Arena</sub-title>
+  </programme>
+  <programme start="20260315120000 +0000" stop="20260315140000 +0000" channel="NCAAB 004">
+    <title lang="en">22 VANDERBILT @ 17 ARKANSAS (M) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>22 VANDERBILT</actor>
+      <actor>17 ARKANSAS (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Bridgestone Arena</sub-title>
+  </programme>
+  <programme start="20260315140000 +0000" stop="20260315160000 +0000" channel="NCAAB 004">
+    <title lang="en">22 VANDERBILT @ 17 ARKANSAS (M) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>22 VANDERBILT</actor>
+      <actor>17 ARKANSAS (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Bridgestone Arena</sub-title>
+  </programme>
+  <programme start="20260315160000 +0000" stop="20260315170000 +0000" channel="NCAAB 004">
+    <title lang="en">22 VANDERBILT @ 17 ARKANSAS (M) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>22 VANDERBILT</actor>
+      <actor>17 ARKANSAS (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Bridgestone Arena</sub-title>
+  </programme>
+  <programme start="20260315170000 +0000" stop="20260315203000 +0000" channel="NCAAB 004">
+    <title lang="en">22 VANDERBILT @ 17 ARKANSAS (M)</title>
+    <desc lang="en">Network: ESPN | Venue: Bridgestone Arena, Nashville</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>22 VANDERBILT</actor>
+      <actor>17 ARKANSAS (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Bridgestone Arena</sub-title>
+  </programme>
+  <programme start="20260315100000 +0000" stop="20260315120000 +0000" channel="NCAAB 005">
+    <title lang="en">DAYTON @ VCU (M) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>DAYTON</actor>
+      <actor>VCU (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260315120000 +0000" stop="20260315140000 +0000" channel="NCAAB 005">
+    <title lang="en">DAYTON @ VCU (M) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>DAYTON</actor>
+      <actor>VCU (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260315140000 +0000" stop="20260315160000 +0000" channel="NCAAB 005">
+    <title lang="en">DAYTON @ VCU (M) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>DAYTON</actor>
+      <actor>VCU (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260315160000 +0000" stop="20260315170000 +0000" channel="NCAAB 005">
+    <title lang="en">DAYTON @ VCU (M) - starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>DAYTON</actor>
+      <actor>VCU (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260315170000 +0000" stop="20260315203000 +0000" channel="NCAAB 005">
+    <title lang="en">DAYTON @ VCU (M)</title>
+    <desc lang="en">Network: CBS</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>DAYTON</actor>
+      <actor>VCU (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260315100000 +0000" stop="20260315120000 +0000" channel="NCAAB 006">
+    <title lang="en">EVANSVILLE @ MURRAY STATE (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>EVANSVILLE</actor>
+      <actor>MURRAY STATE (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Xtream Arena</sub-title>
+  </programme>
+  <programme start="20260315120000 +0000" stop="20260315140000 +0000" channel="NCAAB 006">
+    <title lang="en">EVANSVILLE @ MURRAY STATE (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>EVANSVILLE</actor>
+      <actor>MURRAY STATE (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Xtream Arena</sub-title>
+  </programme>
+  <programme start="20260315140000 +0000" stop="20260315160000 +0000" channel="NCAAB 006">
+    <title lang="en">EVANSVILLE @ MURRAY STATE (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>EVANSVILLE</actor>
+      <actor>MURRAY STATE (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Xtream Arena</sub-title>
+  </programme>
+  <programme start="20260315160000 +0000" stop="20260315180000 +0000" channel="NCAAB 006">
+    <title lang="en">EVANSVILLE @ MURRAY STATE (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>EVANSVILLE</actor>
+      <actor>MURRAY STATE (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Xtream Arena</sub-title>
+  </programme>
+  <programme start="20260315180000 +0000" stop="20260315213000 +0000" channel="NCAAB 006">
+    <title lang="en">EVANSVILLE @ MURRAY STATE (W)</title>
+    <desc lang="en">Network: ESPN2 | Venue: Xtream Arena, Coralville</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>EVANSVILLE</actor>
+      <actor>MURRAY STATE (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: Xtream Arena</sub-title>
+  </programme>
+  <programme start="20260315100000 +0000" stop="20260315120000 +0000" channel="NCAAB 007">
+    <title lang="en">HOFSTRA @ CHARLESTON (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>HOFSTRA</actor>
+      <actor>CHARLESTON (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: CareFirst Arena</sub-title>
+  </programme>
+  <programme start="20260315120000 +0000" stop="20260315140000 +0000" channel="NCAAB 007">
+    <title lang="en">HOFSTRA @ CHARLESTON (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>HOFSTRA</actor>
+      <actor>CHARLESTON (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: CareFirst Arena</sub-title>
+  </programme>
+  <programme start="20260315140000 +0000" stop="20260315160000 +0000" channel="NCAAB 007">
+    <title lang="en">HOFSTRA @ CHARLESTON (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>HOFSTRA</actor>
+      <actor>CHARLESTON (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: CareFirst Arena</sub-title>
+  </programme>
+  <programme start="20260315160000 +0000" stop="20260315180000 +0000" channel="NCAAB 007">
+    <title lang="en">HOFSTRA @ CHARLESTON (W) - starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>HOFSTRA</actor>
+      <actor>CHARLESTON (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: CareFirst Arena</sub-title>
+  </programme>
+  <programme start="20260315180000 +0000" stop="20260315213000 +0000" channel="NCAAB 007">
+    <title lang="en">HOFSTRA @ CHARLESTON (W)</title>
+    <desc lang="en">Network: CBSSN | Venue: CareFirst Arena, Washington</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>HOFSTRA</actor>
+      <actor>CHARLESTON (W)</actor>
+    </credits>
+    <sub-title lang="en">Venue: CareFirst Arena</sub-title>
+  </programme>
+  <programme start="20260315100000 +0000" stop="20260315120000 +0000" channel="NCAAB 008">
+    <title lang="en">WICHITA STATE @ SOUTH FLORIDA (M) - starts at 3:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WICHITA STATE</actor>
+      <actor>SOUTH FLORIDA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260315120000 +0000" stop="20260315140000 +0000" channel="NCAAB 008">
+    <title lang="en">WICHITA STATE @ SOUTH FLORIDA (M) - starts at 3:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WICHITA STATE</actor>
+      <actor>SOUTH FLORIDA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260315140000 +0000" stop="20260315160000 +0000" channel="NCAAB 008">
+    <title lang="en">WICHITA STATE @ SOUTH FLORIDA (M) - starts at 3:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WICHITA STATE</actor>
+      <actor>SOUTH FLORIDA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260315160000 +0000" stop="20260315180000 +0000" channel="NCAAB 008">
+    <title lang="en">WICHITA STATE @ SOUTH FLORIDA (M) - starts at 3:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WICHITA STATE</actor>
+      <actor>SOUTH FLORIDA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260315180000 +0000" stop="20260315191500 +0000" channel="NCAAB 008">
+    <title lang="en">WICHITA STATE @ SOUTH FLORIDA (M) - starts at 3:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WICHITA STATE</actor>
+      <actor>SOUTH FLORIDA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260315191500 +0000" stop="20260315224500 +0000" channel="NCAAB 008">
+    <title lang="en">WICHITA STATE @ SOUTH FLORIDA (M)</title>
+    <desc lang="en">Network: ESPN</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>WICHITA STATE</actor>
+      <actor>SOUTH FLORIDA (M)</actor>
+    </credits>
+  </programme>
+  <programme start="20260315100000 +0000" stop="20260315120000 +0000" channel="NCAAB 009">
+    <title lang="en">18 PURDUE @ 3 MICHIGAN (M) - starts at 3:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>18 PURDUE</actor>
+      <actor>3 MICHIGAN (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: United Center</sub-title>
+  </programme>
+  <programme start="20260315120000 +0000" stop="20260315140000 +0000" channel="NCAAB 009">
+    <title lang="en">18 PURDUE @ 3 MICHIGAN (M) - starts at 3:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>18 PURDUE</actor>
+      <actor>3 MICHIGAN (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: United Center</sub-title>
+  </programme>
+  <programme start="20260315140000 +0000" stop="20260315160000 +0000" channel="NCAAB 009">
+    <title lang="en">18 PURDUE @ 3 MICHIGAN (M) - starts at 3:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>18 PURDUE</actor>
+      <actor>3 MICHIGAN (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: United Center</sub-title>
+  </programme>
+  <programme start="20260315160000 +0000" stop="20260315180000 +0000" channel="NCAAB 009">
+    <title lang="en">18 PURDUE @ 3 MICHIGAN (M) - starts at 3:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>18 PURDUE</actor>
+      <actor>3 MICHIGAN (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: United Center</sub-title>
+  </programme>
+  <programme start="20260315180000 +0000" stop="20260315193000 +0000" channel="NCAAB 009">
+    <title lang="en">18 PURDUE @ 3 MICHIGAN (M) - starts at 3:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>18 PURDUE</actor>
+      <actor>3 MICHIGAN (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: United Center</sub-title>
+  </programme>
+  <programme start="20260315193000 +0000" stop="20260315230000 +0000" channel="NCAAB 009">
+    <title lang="en">18 PURDUE @ 3 MICHIGAN (M)</title>
+    <desc lang="en">Network: CBS | Venue: United Center, Chicago</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>18 PURDUE</actor>
+      <actor>3 MICHIGAN (M)</actor>
+    </credits>
+    <sub-title lang="en">Venue: United Center</sub-title>
+  </programme>
   <programme start="20260315100000 +0000" stop="20260315120000 +0000" channel="SOCCER 01">
     <title lang="en">Crystal Palace @ Leeds United - starts at 10:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
