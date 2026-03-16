@@ -210,481 +210,76 @@
   <channel id="PPV 70">
     <display-name>PPV 70</display-name>
   </channel>
-  <programme start="20260315100000 +0000" stop="20260315120000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Zenith Racing Series at Sonoma starts at 11:15 AM ET</title>
+  <programme start="20260316100000 +0000" stop="20260316120000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Zenith Racing Series at Sonoma</actor>
+      <actor>WWE Monday Night Raw</actor>
     </credits>
   </programme>
-  <programme start="20260315120000 +0000" stop="20260315140000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Zenith Racing Series at Sonoma starts at 11:15 AM ET</title>
+  <programme start="20260316120000 +0000" stop="20260316140000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Zenith Racing Series at Sonoma</actor>
+      <actor>WWE Monday Night Raw</actor>
     </credits>
   </programme>
-  <programme start="20260315140000 +0000" stop="20260315151500 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Zenith Racing Series at Sonoma starts at 11:15 AM ET</title>
+  <programme start="20260316140000 +0000" stop="20260316160000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Zenith Racing Series at Sonoma</actor>
+      <actor>WWE Monday Night Raw</actor>
     </credits>
   </programme>
-  <programme start="20260315151500 +0000" stop="20260315181500 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Zenith Racing Series at Sonoma (3.15 11:15 AM ET)</title>
+  <programme start="20260316160000 +0000" stop="20260316180000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260316180000 +0000" stop="20260316200000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260316200000 +0000" stop="20260316220000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260316220000 +0000" stop="20260317000000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260317000000 +0000" stop="20260317030000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw (3.16 8:00 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Zenith Racing Series at Sonoma</actor>
-    </credits>
-  </programme>
-  <programme start="20260315100000 +0000" stop="20260315120000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: NASCAR Youth Series at Las Vegas starts at 11:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>NASCAR Youth Series at Las Vegas</actor>
-    </credits>
-  </programme>
-  <programme start="20260315120000 +0000" stop="20260315140000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: NASCAR Youth Series at Las Vegas starts at 11:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>NASCAR Youth Series at Las Vegas</actor>
-    </credits>
-  </programme>
-  <programme start="20260315140000 +0000" stop="20260315150000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: NASCAR Youth Series at Las Vegas starts at 11:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>NASCAR Youth Series at Las Vegas</actor>
-    </credits>
-  </programme>
-  <programme start="20260315150000 +0000" stop="20260315180000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: NASCAR Youth Series at Las Vegas (3.15 11:00 AM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>NASCAR Youth Series at Las Vegas</actor>
-    </credits>
-  </programme>
-  <programme start="20260315100000 +0000" stop="20260315120000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: GCW So Much Fun starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>GCW So Much Fun</actor>
-    </credits>
-  </programme>
-  <programme start="20260315120000 +0000" stop="20260315140000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: GCW So Much Fun starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>GCW So Much Fun</actor>
-    </credits>
-  </programme>
-  <programme start="20260315140000 +0000" stop="20260315160000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: GCW So Much Fun starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>GCW So Much Fun</actor>
-    </credits>
-  </programme>
-  <programme start="20260315160000 +0000" stop="20260315180000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: GCW So Much Fun starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>GCW So Much Fun</actor>
-    </credits>
-  </programme>
-  <programme start="20260315180000 +0000" stop="20260315200000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: GCW So Much Fun starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>GCW So Much Fun</actor>
-    </credits>
-  </programme>
-  <programme start="20260315200000 +0000" stop="20260315210000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: GCW So Much Fun starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>GCW So Much Fun</actor>
-    </credits>
-  </programme>
-  <programme start="20260315210000 +0000" stop="20260316000000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: GCW So Much Fun (3.15 5:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>GCW So Much Fun</actor>
-    </credits>
-  </programme>
-  <programme start="20260315100000 +0000" stop="20260315120000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: FMS Fight Night 10 (em Portuguese) starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>FMS Fight Night 10 (em Portuguese)</actor>
-    </credits>
-  </programme>
-  <programme start="20260315120000 +0000" stop="20260315140000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: FMS Fight Night 10 (em Portuguese) starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>FMS Fight Night 10 (em Portuguese)</actor>
-    </credits>
-  </programme>
-  <programme start="20260315140000 +0000" stop="20260315160000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: FMS Fight Night 10 (em Portuguese) starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>FMS Fight Night 10 (em Portuguese)</actor>
-    </credits>
-  </programme>
-  <programme start="20260315160000 +0000" stop="20260315180000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: FMS Fight Night 10 (em Portuguese) starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>FMS Fight Night 10 (em Portuguese)</actor>
-    </credits>
-  </programme>
-  <programme start="20260315180000 +0000" stop="20260315200000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: FMS Fight Night 10 (em Portuguese) starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>FMS Fight Night 10 (em Portuguese)</actor>
-    </credits>
-  </programme>
-  <programme start="20260315200000 +0000" stop="20260315213000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: FMS Fight Night 10 (em Portuguese) starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>FMS Fight Night 10 (em Portuguese)</actor>
-    </credits>
-  </programme>
-  <programme start="20260315213000 +0000" stop="20260316003000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: FMS Fight Night 10 (em Portuguese) (3.15 5:30 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>FMS Fight Night 10 (em Portuguese)</actor>
-    </credits>
-  </programme>
-  <programme start="20260315100000 +0000" stop="20260315120000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: OVW March Mayhem starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>OVW March Mayhem</actor>
-    </credits>
-  </programme>
-  <programme start="20260315120000 +0000" stop="20260315140000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: OVW March Mayhem starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>OVW March Mayhem</actor>
-    </credits>
-  </programme>
-  <programme start="20260315140000 +0000" stop="20260315160000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: OVW March Mayhem starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>OVW March Mayhem</actor>
-    </credits>
-  </programme>
-  <programme start="20260315160000 +0000" stop="20260315180000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: OVW March Mayhem starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>OVW March Mayhem</actor>
-    </credits>
-  </programme>
-  <programme start="20260315180000 +0000" stop="20260315200000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: OVW March Mayhem starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>OVW March Mayhem</actor>
-    </credits>
-  </programme>
-  <programme start="20260315200000 +0000" stop="20260315220000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: OVW March Mayhem starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>OVW March Mayhem</actor>
-    </credits>
-  </programme>
-  <programme start="20260315220000 +0000" stop="20260316010000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: OVW March Mayhem (3.15 6:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>OVW March Mayhem</actor>
-    </credits>
-  </programme>
-  <programme start="20260315100000 +0000" stop="20260315120000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: AEW Revolution starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>AEW Revolution</actor>
-    </credits>
-  </programme>
-  <programme start="20260315120000 +0000" stop="20260315140000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: AEW Revolution starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>AEW Revolution</actor>
-    </credits>
-  </programme>
-  <programme start="20260315140000 +0000" stop="20260315160000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: AEW Revolution starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>AEW Revolution</actor>
-    </credits>
-  </programme>
-  <programme start="20260315160000 +0000" stop="20260315180000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: AEW Revolution starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>AEW Revolution</actor>
-    </credits>
-  </programme>
-  <programme start="20260315180000 +0000" stop="20260315200000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: AEW Revolution starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>AEW Revolution</actor>
-    </credits>
-  </programme>
-  <programme start="20260315200000 +0000" stop="20260315220000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: AEW Revolution starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>AEW Revolution</actor>
-    </credits>
-  </programme>
-  <programme start="20260315220000 +0000" stop="20260316000000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: AEW Revolution starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>AEW Revolution</actor>
-    </credits>
-  </programme>
-  <programme start="20260316000000 +0000" stop="20260316030000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: AEW Revolution (3.15 8:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>AEW Revolution</actor>
-    </credits>
-  </programme>
-  <programme start="20260315100000 +0000" stop="20260315120000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Primos Pro Wrestling Prom Night starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Primos Pro Wrestling Prom Night</actor>
-    </credits>
-  </programme>
-  <programme start="20260315120000 +0000" stop="20260315140000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Primos Pro Wrestling Prom Night starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Primos Pro Wrestling Prom Night</actor>
-    </credits>
-  </programme>
-  <programme start="20260315140000 +0000" stop="20260315160000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Primos Pro Wrestling Prom Night starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Primos Pro Wrestling Prom Night</actor>
-    </credits>
-  </programme>
-  <programme start="20260315160000 +0000" stop="20260315180000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Primos Pro Wrestling Prom Night starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Primos Pro Wrestling Prom Night</actor>
-    </credits>
-  </programme>
-  <programme start="20260315180000 +0000" stop="20260315200000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Primos Pro Wrestling Prom Night starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Primos Pro Wrestling Prom Night</actor>
-    </credits>
-  </programme>
-  <programme start="20260315200000 +0000" stop="20260315220000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Primos Pro Wrestling Prom Night starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Primos Pro Wrestling Prom Night</actor>
-    </credits>
-  </programme>
-  <programme start="20260315220000 +0000" stop="20260316000000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Primos Pro Wrestling Prom Night starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Primos Pro Wrestling Prom Night</actor>
-    </credits>
-  </programme>
-  <programme start="20260316000000 +0000" stop="20260316020000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Primos Pro Wrestling Prom Night starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Primos Pro Wrestling Prom Night</actor>
-    </credits>
-  </programme>
-  <programme start="20260316020000 +0000" stop="20260316050000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Primos Pro Wrestling Prom Night (3.15 10:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Primos Pro Wrestling Prom Night</actor>
-    </credits>
-  </programme>
-  <programme start="20260315100000 +0000" stop="20260315120000 +0000" channel="PPV 08">
-    <title lang="en">EVENT 08: Fury FC 117 starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 08</actor>
-      <actor>Fury FC 117</actor>
-    </credits>
-  </programme>
-  <programme start="20260315120000 +0000" stop="20260315140000 +0000" channel="PPV 08">
-    <title lang="en">EVENT 08: Fury FC 117 starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 08</actor>
-      <actor>Fury FC 117</actor>
-    </credits>
-  </programme>
-  <programme start="20260315140000 +0000" stop="20260315160000 +0000" channel="PPV 08">
-    <title lang="en">EVENT 08: Fury FC 117 starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 08</actor>
-      <actor>Fury FC 117</actor>
-    </credits>
-  </programme>
-  <programme start="20260315160000 +0000" stop="20260315180000 +0000" channel="PPV 08">
-    <title lang="en">EVENT 08: Fury FC 117 starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 08</actor>
-      <actor>Fury FC 117</actor>
-    </credits>
-  </programme>
-  <programme start="20260315180000 +0000" stop="20260315200000 +0000" channel="PPV 08">
-    <title lang="en">EVENT 08: Fury FC 117 starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 08</actor>
-      <actor>Fury FC 117</actor>
-    </credits>
-  </programme>
-  <programme start="20260315200000 +0000" stop="20260315210000 +0000" channel="PPV 08">
-    <title lang="en">EVENT 08: Fury FC 117 starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 08</actor>
-      <actor>Fury FC 117</actor>
-    </credits>
-  </programme>
-  <programme start="20260315210000 +0000" stop="20260316000000 +0000" channel="PPV 08">
-    <title lang="en">EVENT 08: Fury FC 117 (3.15 5:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 08</actor>
-      <actor>Fury FC 117</actor>
+      <actor>WWE Monday Night Raw</actor>
     </credits>
   </programme>
 </tv>
