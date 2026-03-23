@@ -210,391 +210,76 @@
   <channel id="PPV 70">
     <display-name>PPV 70</display-name>
   </channel>
-  <programme start="20260322100000 +0000" stop="20260322120000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: TX2K26 starts at 10:30 AM ET</title>
+  <programme start="20260323100000 +0000" stop="20260323120000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>TX2K26</actor>
+      <actor>WWE Monday Night Raw</actor>
     </credits>
   </programme>
-  <programme start="20260322120000 +0000" stop="20260322140000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: TX2K26 starts at 10:30 AM ET</title>
+  <programme start="20260323120000 +0000" stop="20260323140000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>TX2K26</actor>
+      <actor>WWE Monday Night Raw</actor>
     </credits>
   </programme>
-  <programme start="20260322140000 +0000" stop="20260322143000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: TX2K26 starts at 10:30 AM ET</title>
+  <programme start="20260323140000 +0000" stop="20260323160000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>TX2K26</actor>
+      <actor>WWE Monday Night Raw</actor>
     </credits>
   </programme>
-  <programme start="20260322143000 +0000" stop="20260322173000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: TX2K26 (3.22 10:30 AM ET)</title>
+  <programme start="20260323160000 +0000" stop="20260323180000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260323180000 +0000" stop="20260323200000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260323200000 +0000" stop="20260323220000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260323220000 +0000" stop="20260324000000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260324000000 +0000" stop="20260324030000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw (3.23 8:00 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>TX2K26</actor>
-    </credits>
-  </programme>
-  <programme start="20260322100000 +0000" stop="20260322120000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Short Track Super Series at Bridgeport starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>Short Track Super Series at Bridgeport</actor>
-    </credits>
-  </programme>
-  <programme start="20260322120000 +0000" stop="20260322140000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Short Track Super Series at Bridgeport starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>Short Track Super Series at Bridgeport</actor>
-    </credits>
-  </programme>
-  <programme start="20260322140000 +0000" stop="20260322160000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Short Track Super Series at Bridgeport starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>Short Track Super Series at Bridgeport</actor>
-    </credits>
-  </programme>
-  <programme start="20260322160000 +0000" stop="20260322180000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Short Track Super Series at Bridgeport starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>Short Track Super Series at Bridgeport</actor>
-    </credits>
-  </programme>
-  <programme start="20260322180000 +0000" stop="20260322190000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Short Track Super Series at Bridgeport starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>Short Track Super Series at Bridgeport</actor>
-    </credits>
-  </programme>
-  <programme start="20260322190000 +0000" stop="20260322220000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Short Track Super Series at Bridgeport (3.22 3:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>Short Track Super Series at Bridgeport</actor>
-    </credits>
-  </programme>
-  <programme start="20260322100000 +0000" stop="20260322120000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: Williams Grove Speedway starts at 1:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>Williams Grove Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260322120000 +0000" stop="20260322140000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: Williams Grove Speedway starts at 1:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>Williams Grove Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260322140000 +0000" stop="20260322160000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: Williams Grove Speedway starts at 1:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>Williams Grove Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260322160000 +0000" stop="20260322173000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: Williams Grove Speedway starts at 1:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>Williams Grove Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260322173000 +0000" stop="20260322203000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: Williams Grove Speedway (3.22 1:30 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>Williams Grove Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260322100000 +0000" stop="20260322120000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: UWC 57 starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>UWC 57</actor>
-    </credits>
-  </programme>
-  <programme start="20260322120000 +0000" stop="20260322140000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: UWC 57 starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>UWC 57</actor>
-    </credits>
-  </programme>
-  <programme start="20260322140000 +0000" stop="20260322160000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: UWC 57 starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>UWC 57</actor>
-    </credits>
-  </programme>
-  <programme start="20260322160000 +0000" stop="20260322180000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: UWC 57 starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>UWC 57</actor>
-    </credits>
-  </programme>
-  <programme start="20260322180000 +0000" stop="20260322200000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: UWC 57 starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>UWC 57</actor>
-    </credits>
-  </programme>
-  <programme start="20260322200000 +0000" stop="20260322220000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: UWC 57 starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>UWC 57</actor>
-    </credits>
-  </programme>
-  <programme start="20260322220000 +0000" stop="20260322230000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: UWC 57 starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>UWC 57</actor>
-    </credits>
-  </programme>
-  <programme start="20260322230000 +0000" stop="20260323020000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: UWC 57 (3.22 7:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>UWC 57</actor>
-    </credits>
-  </programme>
-  <programme start="20260322100000 +0000" stop="20260322120000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Anthony Pettis FC 22 starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Anthony Pettis FC 22</actor>
-    </credits>
-  </programme>
-  <programme start="20260322120000 +0000" stop="20260322140000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Anthony Pettis FC 22 starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Anthony Pettis FC 22</actor>
-    </credits>
-  </programme>
-  <programme start="20260322140000 +0000" stop="20260322160000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Anthony Pettis FC 22 starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Anthony Pettis FC 22</actor>
-    </credits>
-  </programme>
-  <programme start="20260322160000 +0000" stop="20260322180000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Anthony Pettis FC 22 starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Anthony Pettis FC 22</actor>
-    </credits>
-  </programme>
-  <programme start="20260322180000 +0000" stop="20260322200000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Anthony Pettis FC 22 starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Anthony Pettis FC 22</actor>
-    </credits>
-  </programme>
-  <programme start="20260322200000 +0000" stop="20260322220000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Anthony Pettis FC 22 starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Anthony Pettis FC 22</actor>
-    </credits>
-  </programme>
-  <programme start="20260322220000 +0000" stop="20260323000000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Anthony Pettis FC 22 starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Anthony Pettis FC 22</actor>
-    </credits>
-  </programme>
-  <programme start="20260323000000 +0000" stop="20260323010000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Anthony Pettis FC 22 starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Anthony Pettis FC 22</actor>
-    </credits>
-  </programme>
-  <programme start="20260323010000 +0000" stop="20260323040000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Anthony Pettis FC 22 (3.22 9:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Anthony Pettis FC 22</actor>
-    </credits>
-  </programme>
-  <programme start="20260322100000 +0000" stop="20260322120000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: Gorilla 2 Birmingham starts at 11:30 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Gorilla 2 Birmingham</actor>
-    </credits>
-  </programme>
-  <programme start="20260322120000 +0000" stop="20260322140000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: Gorilla 2 Birmingham starts at 11:30 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Gorilla 2 Birmingham</actor>
-    </credits>
-  </programme>
-  <programme start="20260322140000 +0000" stop="20260322153000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: Gorilla 2 Birmingham starts at 11:30 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Gorilla 2 Birmingham</actor>
-    </credits>
-  </programme>
-  <programme start="20260322153000 +0000" stop="20260322183000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: Gorilla 2 Birmingham (3.22 11:30 AM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>Gorilla 2 Birmingham</actor>
-    </credits>
-  </programme>
-  <programme start="20260322100000 +0000" stop="20260322120000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Bama Bash Talladega Short Track starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Bama Bash Talladega Short Track</actor>
-    </credits>
-  </programme>
-  <programme start="20260322120000 +0000" stop="20260322140000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Bama Bash Talladega Short Track starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Bama Bash Talladega Short Track</actor>
-    </credits>
-  </programme>
-  <programme start="20260322140000 +0000" stop="20260322160000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Bama Bash Talladega Short Track starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Bama Bash Talladega Short Track</actor>
-    </credits>
-  </programme>
-  <programme start="20260322160000 +0000" stop="20260322180000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Bama Bash Talladega Short Track starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Bama Bash Talladega Short Track</actor>
-    </credits>
-  </programme>
-  <programme start="20260322180000 +0000" stop="20260322200000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Bama Bash Talladega Short Track starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Bama Bash Talladega Short Track</actor>
-    </credits>
-  </programme>
-  <programme start="20260322200000 +0000" stop="20260322210000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Bama Bash Talladega Short Track starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Bama Bash Talladega Short Track</actor>
-    </credits>
-  </programme>
-  <programme start="20260322210000 +0000" stop="20260323000000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Bama Bash Talladega Short Track (3.22 5:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Bama Bash Talladega Short Track</actor>
+      <actor>WWE Monday Night Raw</actor>
     </credits>
   </programme>
 </tv>
