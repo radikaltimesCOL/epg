@@ -210,157 +210,139 @@
   <channel id="PPV 70">
     <display-name>PPV 70</display-name>
   </channel>
-  <programme start="20260325100000 +0000" stop="20260325120000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: KKM Challenge Series at Lemoore starts at 9:00 PM ET</title>
+  <programme start="20260326100000 +0000" stop="20260326120000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: PDRA Carolina Nationals starts at 4:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>KKM Challenge Series at Lemoore</actor>
+      <actor>PDRA Carolina Nationals</actor>
     </credits>
   </programme>
-  <programme start="20260325120000 +0000" stop="20260325140000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: KKM Challenge Series at Lemoore starts at 9:00 PM ET</title>
+  <programme start="20260326120000 +0000" stop="20260326140000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: PDRA Carolina Nationals starts at 4:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>KKM Challenge Series at Lemoore</actor>
+      <actor>PDRA Carolina Nationals</actor>
     </credits>
   </programme>
-  <programme start="20260325140000 +0000" stop="20260325160000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: KKM Challenge Series at Lemoore starts at 9:00 PM ET</title>
+  <programme start="20260326140000 +0000" stop="20260326160000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: PDRA Carolina Nationals starts at 4:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>KKM Challenge Series at Lemoore</actor>
+      <actor>PDRA Carolina Nationals</actor>
     </credits>
   </programme>
-  <programme start="20260325160000 +0000" stop="20260325180000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: KKM Challenge Series at Lemoore starts at 9:00 PM ET</title>
+  <programme start="20260326160000 +0000" stop="20260326180000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: PDRA Carolina Nationals starts at 4:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>KKM Challenge Series at Lemoore</actor>
+      <actor>PDRA Carolina Nationals</actor>
     </credits>
   </programme>
-  <programme start="20260325180000 +0000" stop="20260325200000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: KKM Challenge Series at Lemoore starts at 9:00 PM ET</title>
+  <programme start="20260326180000 +0000" stop="20260326200000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: PDRA Carolina Nationals starts at 4:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>KKM Challenge Series at Lemoore</actor>
+      <actor>PDRA Carolina Nationals</actor>
     </credits>
   </programme>
-  <programme start="20260325200000 +0000" stop="20260325220000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: KKM Challenge Series at Lemoore starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>KKM Challenge Series at Lemoore</actor>
-    </credits>
-  </programme>
-  <programme start="20260325220000 +0000" stop="20260326000000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: KKM Challenge Series at Lemoore starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>KKM Challenge Series at Lemoore</actor>
-    </credits>
-  </programme>
-  <programme start="20260326000000 +0000" stop="20260326010000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: KKM Challenge Series at Lemoore starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>KKM Challenge Series at Lemoore</actor>
-    </credits>
-  </programme>
-  <programme start="20260326010000 +0000" stop="20260326040000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: KKM Challenge Series at Lemoore (3.25 9:00 PM ET)</title>
+  <programme start="20260326200000 +0000" stop="20260326230000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: PDRA Carolina Nationals (3.26 4:00 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>KKM Challenge Series at Lemoore</actor>
+      <actor>PDRA Carolina Nationals</actor>
     </credits>
   </programme>
-  <programme start="20260325100000 +0000" stop="20260325120000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Millbridge Speedway starts at 6:15 PM ET</title>
+  <programme start="20260326100000 +0000" stop="20260326120000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: KKM Challenge Series at Plaza Park starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>Millbridge Speedway</actor>
+      <actor>KKM Challenge Series at Plaza Park</actor>
     </credits>
   </programme>
-  <programme start="20260325120000 +0000" stop="20260325140000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Millbridge Speedway starts at 6:15 PM ET</title>
+  <programme start="20260326120000 +0000" stop="20260326140000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: KKM Challenge Series at Plaza Park starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>Millbridge Speedway</actor>
+      <actor>KKM Challenge Series at Plaza Park</actor>
     </credits>
   </programme>
-  <programme start="20260325140000 +0000" stop="20260325160000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Millbridge Speedway starts at 6:15 PM ET</title>
+  <programme start="20260326140000 +0000" stop="20260326160000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: KKM Challenge Series at Plaza Park starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>Millbridge Speedway</actor>
+      <actor>KKM Challenge Series at Plaza Park</actor>
     </credits>
   </programme>
-  <programme start="20260325160000 +0000" stop="20260325180000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Millbridge Speedway starts at 6:15 PM ET</title>
+  <programme start="20260326160000 +0000" stop="20260326180000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: KKM Challenge Series at Plaza Park starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>Millbridge Speedway</actor>
+      <actor>KKM Challenge Series at Plaza Park</actor>
     </credits>
   </programme>
-  <programme start="20260325180000 +0000" stop="20260325200000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Millbridge Speedway starts at 6:15 PM ET</title>
+  <programme start="20260326180000 +0000" stop="20260326200000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: KKM Challenge Series at Plaza Park starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>Millbridge Speedway</actor>
+      <actor>KKM Challenge Series at Plaza Park</actor>
     </credits>
   </programme>
-  <programme start="20260325200000 +0000" stop="20260325220000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Millbridge Speedway starts at 6:15 PM ET</title>
+  <programme start="20260326200000 +0000" stop="20260326220000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: KKM Challenge Series at Plaza Park starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>Millbridge Speedway</actor>
+      <actor>KKM Challenge Series at Plaza Park</actor>
     </credits>
   </programme>
-  <programme start="20260325220000 +0000" stop="20260325221500 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Millbridge Speedway starts at 6:15 PM ET</title>
+  <programme start="20260326220000 +0000" stop="20260327000000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: KKM Challenge Series at Plaza Park starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>Millbridge Speedway</actor>
+      <actor>KKM Challenge Series at Plaza Park</actor>
     </credits>
   </programme>
-  <programme start="20260325221500 +0000" stop="20260326011500 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Millbridge Speedway (3.25 6:15 PM ET)</title>
+  <programme start="20260327000000 +0000" stop="20260327010000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: KKM Challenge Series at Plaza Park starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>KKM Challenge Series at Plaza Park</actor>
+    </credits>
+  </programme>
+  <programme start="20260327010000 +0000" stop="20260327040000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: KKM Challenge Series at Plaza Park (3.26 9:00 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>Millbridge Speedway</actor>
+      <actor>KKM Challenge Series at Plaza Park</actor>
     </credits>
   </programme>
 </tv>
