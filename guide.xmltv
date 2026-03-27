@@ -210,8 +210,8 @@
   <channel id="PPV 70">
     <display-name>PPV 70</display-name>
   </channel>
-  <programme start="20260326100000 +0000" stop="20260326120000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: PDRA Carolina Nationals starts at 4:00 PM ET</title>
+  <programme start="20260327100000 +0000" stop="20260327120000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: PDRA Carolina Nationals starts at 9:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -219,8 +219,8 @@
       <actor>PDRA Carolina Nationals</actor>
     </credits>
   </programme>
-  <programme start="20260326120000 +0000" stop="20260326140000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: PDRA Carolina Nationals starts at 4:00 PM ET</title>
+  <programme start="20260327120000 +0000" stop="20260327130000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: PDRA Carolina Nationals starts at 9:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -228,35 +228,8 @@
       <actor>PDRA Carolina Nationals</actor>
     </credits>
   </programme>
-  <programme start="20260326140000 +0000" stop="20260326160000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: PDRA Carolina Nationals starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>PDRA Carolina Nationals</actor>
-    </credits>
-  </programme>
-  <programme start="20260326160000 +0000" stop="20260326180000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: PDRA Carolina Nationals starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>PDRA Carolina Nationals</actor>
-    </credits>
-  </programme>
-  <programme start="20260326180000 +0000" stop="20260326200000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: PDRA Carolina Nationals starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>PDRA Carolina Nationals</actor>
-    </credits>
-  </programme>
-  <programme start="20260326200000 +0000" stop="20260326230000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: PDRA Carolina Nationals (3.26 4:00 PM ET)</title>
+  <programme start="20260327130000 +0000" stop="20260327160000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: PDRA Carolina Nationals (3.27 9:00 AM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -264,7 +237,7 @@
       <actor>PDRA Carolina Nationals</actor>
     </credits>
   </programme>
-  <programme start="20260326100000 +0000" stop="20260326120000 +0000" channel="PPV 02">
+  <programme start="20260327100000 +0000" stop="20260327120000 +0000" channel="PPV 02">
     <title lang="en">EVENT 02: KKM Challenge Series at Plaza Park starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -273,7 +246,7 @@
       <actor>KKM Challenge Series at Plaza Park</actor>
     </credits>
   </programme>
-  <programme start="20260326120000 +0000" stop="20260326140000 +0000" channel="PPV 02">
+  <programme start="20260327120000 +0000" stop="20260327140000 +0000" channel="PPV 02">
     <title lang="en">EVENT 02: KKM Challenge Series at Plaza Park starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -282,7 +255,7 @@
       <actor>KKM Challenge Series at Plaza Park</actor>
     </credits>
   </programme>
-  <programme start="20260326140000 +0000" stop="20260326160000 +0000" channel="PPV 02">
+  <programme start="20260327140000 +0000" stop="20260327160000 +0000" channel="PPV 02">
     <title lang="en">EVENT 02: KKM Challenge Series at Plaza Park starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -291,7 +264,7 @@
       <actor>KKM Challenge Series at Plaza Park</actor>
     </credits>
   </programme>
-  <programme start="20260326160000 +0000" stop="20260326180000 +0000" channel="PPV 02">
+  <programme start="20260327160000 +0000" stop="20260327180000 +0000" channel="PPV 02">
     <title lang="en">EVENT 02: KKM Challenge Series at Plaza Park starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -300,7 +273,7 @@
       <actor>KKM Challenge Series at Plaza Park</actor>
     </credits>
   </programme>
-  <programme start="20260326180000 +0000" stop="20260326200000 +0000" channel="PPV 02">
+  <programme start="20260327180000 +0000" stop="20260327200000 +0000" channel="PPV 02">
     <title lang="en">EVENT 02: KKM Challenge Series at Plaza Park starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -309,7 +282,7 @@
       <actor>KKM Challenge Series at Plaza Park</actor>
     </credits>
   </programme>
-  <programme start="20260326200000 +0000" stop="20260326220000 +0000" channel="PPV 02">
+  <programme start="20260327200000 +0000" stop="20260327220000 +0000" channel="PPV 02">
     <title lang="en">EVENT 02: KKM Challenge Series at Plaza Park starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -318,7 +291,7 @@
       <actor>KKM Challenge Series at Plaza Park</actor>
     </credits>
   </programme>
-  <programme start="20260326220000 +0000" stop="20260327000000 +0000" channel="PPV 02">
+  <programme start="20260327220000 +0000" stop="20260328000000 +0000" channel="PPV 02">
     <title lang="en">EVENT 02: KKM Challenge Series at Plaza Park starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -327,7 +300,7 @@
       <actor>KKM Challenge Series at Plaza Park</actor>
     </credits>
   </programme>
-  <programme start="20260327000000 +0000" stop="20260327010000 +0000" channel="PPV 02">
+  <programme start="20260328000000 +0000" stop="20260328010000 +0000" channel="PPV 02">
     <title lang="en">EVENT 02: KKM Challenge Series at Plaza Park starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -336,13 +309,1084 @@
       <actor>KKM Challenge Series at Plaza Park</actor>
     </credits>
   </programme>
-  <programme start="20260327010000 +0000" stop="20260327040000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: KKM Challenge Series at Plaza Park (3.26 9:00 PM ET)</title>
+  <programme start="20260328010000 +0000" stop="20260328040000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: KKM Challenge Series at Plaza Park (3.27 9:00 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
       <actor>KKM Challenge Series at Plaza Park</actor>
+    </credits>
+  </programme>
+  <programme start="20260327100000 +0000" stop="20260327120000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: RMSHA at Tamarack Resort Round 1 starts at 10:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>RMSHA at Tamarack Resort Round 1</actor>
+    </credits>
+  </programme>
+  <programme start="20260327120000 +0000" stop="20260327140000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: RMSHA at Tamarack Resort Round 1 starts at 10:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>RMSHA at Tamarack Resort Round 1</actor>
+    </credits>
+  </programme>
+  <programme start="20260327140000 +0000" stop="20260327170000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: RMSHA at Tamarack Resort Round 1 (3.27 10:00 AM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>RMSHA at Tamarack Resort Round 1</actor>
+    </credits>
+  </programme>
+  <programme start="20260327100000 +0000" stop="20260327120000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: Porsche Sprint Challenge and Mustang Cup at Barber starts at 1:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>Porsche Sprint Challenge and Mustang Cup at Barber</actor>
+    </credits>
+  </programme>
+  <programme start="20260327120000 +0000" stop="20260327140000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: Porsche Sprint Challenge and Mustang Cup at Barber starts at 1:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>Porsche Sprint Challenge and Mustang Cup at Barber</actor>
+    </credits>
+  </programme>
+  <programme start="20260327140000 +0000" stop="20260327160000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: Porsche Sprint Challenge and Mustang Cup at Barber starts at 1:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>Porsche Sprint Challenge and Mustang Cup at Barber</actor>
+    </credits>
+  </programme>
+  <programme start="20260327160000 +0000" stop="20260327171500 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: Porsche Sprint Challenge and Mustang Cup at Barber starts at 1:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>Porsche Sprint Challenge and Mustang Cup at Barber</actor>
+    </credits>
+  </programme>
+  <programme start="20260327171500 +0000" stop="20260327201500 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: Porsche Sprint Challenge and Mustang Cup at Barber (3.27 1:15 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>Porsche Sprint Challenge and Mustang Cup at Barber</actor>
+    </credits>
+  </programme>
+  <programme start="20260327100000 +0000" stop="20260327120000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: High Limit Racing at Route 66 starts at 6:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>High Limit Racing at Route 66</actor>
+    </credits>
+  </programme>
+  <programme start="20260327120000 +0000" stop="20260327140000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: High Limit Racing at Route 66 starts at 6:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>High Limit Racing at Route 66</actor>
+    </credits>
+  </programme>
+  <programme start="20260327140000 +0000" stop="20260327160000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: High Limit Racing at Route 66 starts at 6:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>High Limit Racing at Route 66</actor>
+    </credits>
+  </programme>
+  <programme start="20260327160000 +0000" stop="20260327180000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: High Limit Racing at Route 66 starts at 6:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>High Limit Racing at Route 66</actor>
+    </credits>
+  </programme>
+  <programme start="20260327180000 +0000" stop="20260327200000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: High Limit Racing at Route 66 starts at 6:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>High Limit Racing at Route 66</actor>
+    </credits>
+  </programme>
+  <programme start="20260327200000 +0000" stop="20260327220000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: High Limit Racing at Route 66 starts at 6:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>High Limit Racing at Route 66</actor>
+    </credits>
+  </programme>
+  <programme start="20260327220000 +0000" stop="20260327221500 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: High Limit Racing at Route 66 starts at 6:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>High Limit Racing at Route 66</actor>
+    </credits>
+  </programme>
+  <programme start="20260327221500 +0000" stop="20260328011500 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: High Limit Racing at Route 66 (3.27 6:15 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>High Limit Racing at Route 66</actor>
+    </credits>
+  </programme>
+  <programme start="20260327100000 +0000" stop="20260327120000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: NASCAR Whelen Modified Tour at Martinsville starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>NASCAR Whelen Modified Tour at Martinsville</actor>
+    </credits>
+  </programme>
+  <programme start="20260327120000 +0000" stop="20260327140000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: NASCAR Whelen Modified Tour at Martinsville starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>NASCAR Whelen Modified Tour at Martinsville</actor>
+    </credits>
+  </programme>
+  <programme start="20260327140000 +0000" stop="20260327160000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: NASCAR Whelen Modified Tour at Martinsville starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>NASCAR Whelen Modified Tour at Martinsville</actor>
+    </credits>
+  </programme>
+  <programme start="20260327160000 +0000" stop="20260327180000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: NASCAR Whelen Modified Tour at Martinsville starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>NASCAR Whelen Modified Tour at Martinsville</actor>
+    </credits>
+  </programme>
+  <programme start="20260327180000 +0000" stop="20260327200000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: NASCAR Whelen Modified Tour at Martinsville starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>NASCAR Whelen Modified Tour at Martinsville</actor>
+    </credits>
+  </programme>
+  <programme start="20260327200000 +0000" stop="20260327220000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: NASCAR Whelen Modified Tour at Martinsville starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>NASCAR Whelen Modified Tour at Martinsville</actor>
+    </credits>
+  </programme>
+  <programme start="20260327220000 +0000" stop="20260327230000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: NASCAR Whelen Modified Tour at Martinsville starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>NASCAR Whelen Modified Tour at Martinsville</actor>
+    </credits>
+  </programme>
+  <programme start="20260327230000 +0000" stop="20260328020000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: NASCAR Whelen Modified Tour at Martinsville (3.27 7:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>NASCAR Whelen Modified Tour at Martinsville</actor>
+    </credits>
+  </programme>
+  <programme start="20260327100000 +0000" stop="20260327120000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: Spring Nationals at Thunderhill starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>Spring Nationals at Thunderhill</actor>
+    </credits>
+  </programme>
+  <programme start="20260327120000 +0000" stop="20260327140000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: Spring Nationals at Thunderhill starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>Spring Nationals at Thunderhill</actor>
+    </credits>
+  </programme>
+  <programme start="20260327140000 +0000" stop="20260327160000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: Spring Nationals at Thunderhill starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>Spring Nationals at Thunderhill</actor>
+    </credits>
+  </programme>
+  <programme start="20260327160000 +0000" stop="20260327180000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: Spring Nationals at Thunderhill starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>Spring Nationals at Thunderhill</actor>
+    </credits>
+  </programme>
+  <programme start="20260327180000 +0000" stop="20260327200000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: Spring Nationals at Thunderhill starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>Spring Nationals at Thunderhill</actor>
+    </credits>
+  </programme>
+  <programme start="20260327200000 +0000" stop="20260327220000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: Spring Nationals at Thunderhill starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>Spring Nationals at Thunderhill</actor>
+    </credits>
+  </programme>
+  <programme start="20260327220000 +0000" stop="20260328000000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: Spring Nationals at Thunderhill starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>Spring Nationals at Thunderhill</actor>
+    </credits>
+  </programme>
+  <programme start="20260328000000 +0000" stop="20260328030000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: Spring Nationals at Thunderhill (3.27 8:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>Spring Nationals at Thunderhill</actor>
+    </credits>
+  </programme>
+  <programme start="20260327100000 +0000" stop="20260327120000 +0000" channel="PPV 08">
+    <title lang="en">EVENT 08: East Alabama Motor Speedway starts at 6:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 08</actor>
+      <actor>East Alabama Motor Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260327120000 +0000" stop="20260327140000 +0000" channel="PPV 08">
+    <title lang="en">EVENT 08: East Alabama Motor Speedway starts at 6:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 08</actor>
+      <actor>East Alabama Motor Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260327140000 +0000" stop="20260327160000 +0000" channel="PPV 08">
+    <title lang="en">EVENT 08: East Alabama Motor Speedway starts at 6:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 08</actor>
+      <actor>East Alabama Motor Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260327160000 +0000" stop="20260327180000 +0000" channel="PPV 08">
+    <title lang="en">EVENT 08: East Alabama Motor Speedway starts at 6:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 08</actor>
+      <actor>East Alabama Motor Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260327180000 +0000" stop="20260327200000 +0000" channel="PPV 08">
+    <title lang="en">EVENT 08: East Alabama Motor Speedway starts at 6:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 08</actor>
+      <actor>East Alabama Motor Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260327200000 +0000" stop="20260327220000 +0000" channel="PPV 08">
+    <title lang="en">EVENT 08: East Alabama Motor Speedway starts at 6:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 08</actor>
+      <actor>East Alabama Motor Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260327220000 +0000" stop="20260327221500 +0000" channel="PPV 08">
+    <title lang="en">EVENT 08: East Alabama Motor Speedway starts at 6:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 08</actor>
+      <actor>East Alabama Motor Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260327221500 +0000" stop="20260328011500 +0000" channel="PPV 08">
+    <title lang="en">EVENT 08: East Alabama Motor Speedway (3.27 6:15 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 08</actor>
+      <actor>East Alabama Motor Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260327100000 +0000" stop="20260327120000 +0000" channel="PPV 09">
+    <title lang="en">EVENT 09: Williams Grove Speedway starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 09</actor>
+      <actor>Williams Grove Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260327120000 +0000" stop="20260327140000 +0000" channel="PPV 09">
+    <title lang="en">EVENT 09: Williams Grove Speedway starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 09</actor>
+      <actor>Williams Grove Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260327140000 +0000" stop="20260327160000 +0000" channel="PPV 09">
+    <title lang="en">EVENT 09: Williams Grove Speedway starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 09</actor>
+      <actor>Williams Grove Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260327160000 +0000" stop="20260327180000 +0000" channel="PPV 09">
+    <title lang="en">EVENT 09: Williams Grove Speedway starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 09</actor>
+      <actor>Williams Grove Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260327180000 +0000" stop="20260327200000 +0000" channel="PPV 09">
+    <title lang="en">EVENT 09: Williams Grove Speedway starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 09</actor>
+      <actor>Williams Grove Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260327200000 +0000" stop="20260327220000 +0000" channel="PPV 09">
+    <title lang="en">EVENT 09: Williams Grove Speedway starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 09</actor>
+      <actor>Williams Grove Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260327220000 +0000" stop="20260327230000 +0000" channel="PPV 09">
+    <title lang="en">EVENT 09: Williams Grove Speedway starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 09</actor>
+      <actor>Williams Grove Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260327230000 +0000" stop="20260328020000 +0000" channel="PPV 09">
+    <title lang="en">EVENT 09: Williams Grove Speedway (3.27 7:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 09</actor>
+      <actor>Williams Grove Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260327100000 +0000" stop="20260327120000 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: US 36 Raceway starts at 7:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>US 36 Raceway</actor>
+    </credits>
+  </programme>
+  <programme start="20260327120000 +0000" stop="20260327140000 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: US 36 Raceway starts at 7:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>US 36 Raceway</actor>
+    </credits>
+  </programme>
+  <programme start="20260327140000 +0000" stop="20260327160000 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: US 36 Raceway starts at 7:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>US 36 Raceway</actor>
+    </credits>
+  </programme>
+  <programme start="20260327160000 +0000" stop="20260327180000 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: US 36 Raceway starts at 7:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>US 36 Raceway</actor>
+    </credits>
+  </programme>
+  <programme start="20260327180000 +0000" stop="20260327200000 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: US 36 Raceway starts at 7:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>US 36 Raceway</actor>
+    </credits>
+  </programme>
+  <programme start="20260327200000 +0000" stop="20260327220000 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: US 36 Raceway starts at 7:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>US 36 Raceway</actor>
+    </credits>
+  </programme>
+  <programme start="20260327220000 +0000" stop="20260327231500 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: US 36 Raceway starts at 7:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>US 36 Raceway</actor>
+    </credits>
+  </programme>
+  <programme start="20260327231500 +0000" stop="20260328021500 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: US 36 Raceway (3.27 7:15 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>US 36 Raceway</actor>
+    </credits>
+  </programme>
+  <programme start="20260327100000 +0000" stop="20260327120000 +0000" channel="PPV 11">
+    <title lang="en">EVENT 11: ROH MLP Global Wars Canada starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 11</actor>
+      <actor>ROH MLP Global Wars Canada</actor>
+    </credits>
+  </programme>
+  <programme start="20260327120000 +0000" stop="20260327140000 +0000" channel="PPV 11">
+    <title lang="en">EVENT 11: ROH MLP Global Wars Canada starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 11</actor>
+      <actor>ROH MLP Global Wars Canada</actor>
+    </credits>
+  </programme>
+  <programme start="20260327140000 +0000" stop="20260327160000 +0000" channel="PPV 11">
+    <title lang="en">EVENT 11: ROH MLP Global Wars Canada starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 11</actor>
+      <actor>ROH MLP Global Wars Canada</actor>
+    </credits>
+  </programme>
+  <programme start="20260327160000 +0000" stop="20260327180000 +0000" channel="PPV 11">
+    <title lang="en">EVENT 11: ROH MLP Global Wars Canada starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 11</actor>
+      <actor>ROH MLP Global Wars Canada</actor>
+    </credits>
+  </programme>
+  <programme start="20260327180000 +0000" stop="20260327200000 +0000" channel="PPV 11">
+    <title lang="en">EVENT 11: ROH MLP Global Wars Canada starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 11</actor>
+      <actor>ROH MLP Global Wars Canada</actor>
+    </credits>
+  </programme>
+  <programme start="20260327200000 +0000" stop="20260327220000 +0000" channel="PPV 11">
+    <title lang="en">EVENT 11: ROH MLP Global Wars Canada starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 11</actor>
+      <actor>ROH MLP Global Wars Canada</actor>
+    </credits>
+  </programme>
+  <programme start="20260327220000 +0000" stop="20260327230000 +0000" channel="PPV 11">
+    <title lang="en">EVENT 11: ROH MLP Global Wars Canada starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 11</actor>
+      <actor>ROH MLP Global Wars Canada</actor>
+    </credits>
+  </programme>
+  <programme start="20260327230000 +0000" stop="20260328020000 +0000" channel="PPV 11">
+    <title lang="en">EVENT 11: ROH MLP Global Wars Canada (3.27 7:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 11</actor>
+      <actor>ROH MLP Global Wars Canada</actor>
+    </credits>
+  </programme>
+  <programme start="20260327100000 +0000" stop="20260327120000 +0000" channel="PPV 12">
+    <title lang="en">EVENT 12: Thunders Friday Night Fights Night of Champions IX starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 12</actor>
+      <actor>Thunders Friday Night Fights Night of Champions IX</actor>
+    </credits>
+  </programme>
+  <programme start="20260327120000 +0000" stop="20260327140000 +0000" channel="PPV 12">
+    <title lang="en">EVENT 12: Thunders Friday Night Fights Night of Champions IX starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 12</actor>
+      <actor>Thunders Friday Night Fights Night of Champions IX</actor>
+    </credits>
+  </programme>
+  <programme start="20260327140000 +0000" stop="20260327160000 +0000" channel="PPV 12">
+    <title lang="en">EVENT 12: Thunders Friday Night Fights Night of Champions IX starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 12</actor>
+      <actor>Thunders Friday Night Fights Night of Champions IX</actor>
+    </credits>
+  </programme>
+  <programme start="20260327160000 +0000" stop="20260327180000 +0000" channel="PPV 12">
+    <title lang="en">EVENT 12: Thunders Friday Night Fights Night of Champions IX starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 12</actor>
+      <actor>Thunders Friday Night Fights Night of Champions IX</actor>
+    </credits>
+  </programme>
+  <programme start="20260327180000 +0000" stop="20260327200000 +0000" channel="PPV 12">
+    <title lang="en">EVENT 12: Thunders Friday Night Fights Night of Champions IX starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 12</actor>
+      <actor>Thunders Friday Night Fights Night of Champions IX</actor>
+    </credits>
+  </programme>
+  <programme start="20260327200000 +0000" stop="20260327220000 +0000" channel="PPV 12">
+    <title lang="en">EVENT 12: Thunders Friday Night Fights Night of Champions IX starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 12</actor>
+      <actor>Thunders Friday Night Fights Night of Champions IX</actor>
+    </credits>
+  </programme>
+  <programme start="20260327220000 +0000" stop="20260328000000 +0000" channel="PPV 12">
+    <title lang="en">EVENT 12: Thunders Friday Night Fights Night of Champions IX starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 12</actor>
+      <actor>Thunders Friday Night Fights Night of Champions IX</actor>
+    </credits>
+  </programme>
+  <programme start="20260328000000 +0000" stop="20260328020000 +0000" channel="PPV 12">
+    <title lang="en">EVENT 12: Thunders Friday Night Fights Night of Champions IX starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 12</actor>
+      <actor>Thunders Friday Night Fights Night of Champions IX</actor>
+    </credits>
+  </programme>
+  <programme start="20260328020000 +0000" stop="20260328050000 +0000" channel="PPV 12">
+    <title lang="en">EVENT 12: Thunders Friday Night Fights Night of Champions IX (3.27 10:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 12</actor>
+      <actor>Thunders Friday Night Fights Night of Champions IX</actor>
+    </credits>
+  </programme>
+  <programme start="20260327100000 +0000" stop="20260327120000 +0000" channel="PPV 13">
+    <title lang="en">EVENT 13: UAE Warriors 68 starts at 10:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 13</actor>
+      <actor>UAE Warriors 68</actor>
+    </credits>
+  </programme>
+  <programme start="20260327120000 +0000" stop="20260327140000 +0000" channel="PPV 13">
+    <title lang="en">EVENT 13: UAE Warriors 68 starts at 10:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 13</actor>
+      <actor>UAE Warriors 68</actor>
+    </credits>
+  </programme>
+  <programme start="20260327140000 +0000" stop="20260327170000 +0000" channel="PPV 13">
+    <title lang="en">EVENT 13: UAE Warriors 68 (3.27 10:00 AM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 13</actor>
+      <actor>UAE Warriors 68</actor>
+    </credits>
+  </programme>
+  <programme start="20260327100000 +0000" stop="20260327120000 +0000" channel="PPV 14">
+    <title lang="en">EVENT 14: Samourai MMA 18 starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 14</actor>
+      <actor>Samourai MMA 18</actor>
+    </credits>
+  </programme>
+  <programme start="20260327120000 +0000" stop="20260327140000 +0000" channel="PPV 14">
+    <title lang="en">EVENT 14: Samourai MMA 18 starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 14</actor>
+      <actor>Samourai MMA 18</actor>
+    </credits>
+  </programme>
+  <programme start="20260327140000 +0000" stop="20260327160000 +0000" channel="PPV 14">
+    <title lang="en">EVENT 14: Samourai MMA 18 starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 14</actor>
+      <actor>Samourai MMA 18</actor>
+    </credits>
+  </programme>
+  <programme start="20260327160000 +0000" stop="20260327180000 +0000" channel="PPV 14">
+    <title lang="en">EVENT 14: Samourai MMA 18 starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 14</actor>
+      <actor>Samourai MMA 18</actor>
+    </credits>
+  </programme>
+  <programme start="20260327180000 +0000" stop="20260327200000 +0000" channel="PPV 14">
+    <title lang="en">EVENT 14: Samourai MMA 18 starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 14</actor>
+      <actor>Samourai MMA 18</actor>
+    </credits>
+  </programme>
+  <programme start="20260327200000 +0000" stop="20260327220000 +0000" channel="PPV 14">
+    <title lang="en">EVENT 14: Samourai MMA 18 starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 14</actor>
+      <actor>Samourai MMA 18</actor>
+    </credits>
+  </programme>
+  <programme start="20260327220000 +0000" stop="20260327230000 +0000" channel="PPV 14">
+    <title lang="en">EVENT 14: Samourai MMA 18 starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 14</actor>
+      <actor>Samourai MMA 18</actor>
+    </credits>
+  </programme>
+  <programme start="20260327230000 +0000" stop="20260328020000 +0000" channel="PPV 14">
+    <title lang="en">EVENT 14: Samourai MMA 18 (3.27 7:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 14</actor>
+      <actor>Samourai MMA 18</actor>
+    </credits>
+  </programme>
+  <programme start="20260327100000 +0000" stop="20260327120000 +0000" channel="PPV 15">
+    <title lang="en">EVENT 15: Cage Fury FC 152 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 15</actor>
+      <actor>Cage Fury FC 152</actor>
+    </credits>
+  </programme>
+  <programme start="20260327120000 +0000" stop="20260327140000 +0000" channel="PPV 15">
+    <title lang="en">EVENT 15: Cage Fury FC 152 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 15</actor>
+      <actor>Cage Fury FC 152</actor>
+    </credits>
+  </programme>
+  <programme start="20260327140000 +0000" stop="20260327160000 +0000" channel="PPV 15">
+    <title lang="en">EVENT 15: Cage Fury FC 152 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 15</actor>
+      <actor>Cage Fury FC 152</actor>
+    </credits>
+  </programme>
+  <programme start="20260327160000 +0000" stop="20260327180000 +0000" channel="PPV 15">
+    <title lang="en">EVENT 15: Cage Fury FC 152 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 15</actor>
+      <actor>Cage Fury FC 152</actor>
+    </credits>
+  </programme>
+  <programme start="20260327180000 +0000" stop="20260327200000 +0000" channel="PPV 15">
+    <title lang="en">EVENT 15: Cage Fury FC 152 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 15</actor>
+      <actor>Cage Fury FC 152</actor>
+    </credits>
+  </programme>
+  <programme start="20260327200000 +0000" stop="20260327220000 +0000" channel="PPV 15">
+    <title lang="en">EVENT 15: Cage Fury FC 152 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 15</actor>
+      <actor>Cage Fury FC 152</actor>
+    </credits>
+  </programme>
+  <programme start="20260327220000 +0000" stop="20260328000000 +0000" channel="PPV 15">
+    <title lang="en">EVENT 15: Cage Fury FC 152 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 15</actor>
+      <actor>Cage Fury FC 152</actor>
+    </credits>
+  </programme>
+  <programme start="20260328000000 +0000" stop="20260328010000 +0000" channel="PPV 15">
+    <title lang="en">EVENT 15: Cage Fury FC 152 starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 15</actor>
+      <actor>Cage Fury FC 152</actor>
+    </credits>
+  </programme>
+  <programme start="20260328010000 +0000" stop="20260328040000 +0000" channel="PPV 15">
+    <title lang="en">EVENT 15: Cage Fury FC 152 (3.27 9:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 15</actor>
+      <actor>Cage Fury FC 152</actor>
+    </credits>
+  </programme>
+  <programme start="20260327100000 +0000" stop="20260327120000 +0000" channel="PPV 16">
+    <title lang="en">EVENT 16: Urijah Fabers A1 Combat 34 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 16</actor>
+      <actor>Urijah Fabers A1 Combat 34</actor>
+    </credits>
+  </programme>
+  <programme start="20260327120000 +0000" stop="20260327140000 +0000" channel="PPV 16">
+    <title lang="en">EVENT 16: Urijah Fabers A1 Combat 34 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 16</actor>
+      <actor>Urijah Fabers A1 Combat 34</actor>
+    </credits>
+  </programme>
+  <programme start="20260327140000 +0000" stop="20260327160000 +0000" channel="PPV 16">
+    <title lang="en">EVENT 16: Urijah Fabers A1 Combat 34 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 16</actor>
+      <actor>Urijah Fabers A1 Combat 34</actor>
+    </credits>
+  </programme>
+  <programme start="20260327160000 +0000" stop="20260327180000 +0000" channel="PPV 16">
+    <title lang="en">EVENT 16: Urijah Fabers A1 Combat 34 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 16</actor>
+      <actor>Urijah Fabers A1 Combat 34</actor>
+    </credits>
+  </programme>
+  <programme start="20260327180000 +0000" stop="20260327200000 +0000" channel="PPV 16">
+    <title lang="en">EVENT 16: Urijah Fabers A1 Combat 34 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 16</actor>
+      <actor>Urijah Fabers A1 Combat 34</actor>
+    </credits>
+  </programme>
+  <programme start="20260327200000 +0000" stop="20260327220000 +0000" channel="PPV 16">
+    <title lang="en">EVENT 16: Urijah Fabers A1 Combat 34 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 16</actor>
+      <actor>Urijah Fabers A1 Combat 34</actor>
+    </credits>
+  </programme>
+  <programme start="20260327220000 +0000" stop="20260328000000 +0000" channel="PPV 16">
+    <title lang="en">EVENT 16: Urijah Fabers A1 Combat 34 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 16</actor>
+      <actor>Urijah Fabers A1 Combat 34</actor>
+    </credits>
+  </programme>
+  <programme start="20260328000000 +0000" stop="20260328020000 +0000" channel="PPV 16">
+    <title lang="en">EVENT 16: Urijah Fabers A1 Combat 34 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 16</actor>
+      <actor>Urijah Fabers A1 Combat 34</actor>
+    </credits>
+  </programme>
+  <programme start="20260328020000 +0000" stop="20260328050000 +0000" channel="PPV 16">
+    <title lang="en">EVENT 16: Urijah Fabers A1 Combat 34 (3.27 10:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 16</actor>
+      <actor>Urijah Fabers A1 Combat 34</actor>
+    </credits>
+  </programme>
+  <programme start="20260327100000 +0000" stop="20260327120000 +0000" channel="PPV 17">
+    <title lang="en">EVENT 17: Joel Mafaud vs. Mariano Farias (ESP) starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 17</actor>
+      <actor>Joel Mafaud vs. Mariano Farias (ESP)</actor>
+    </credits>
+  </programme>
+  <programme start="20260327120000 +0000" stop="20260327140000 +0000" channel="PPV 17">
+    <title lang="en">EVENT 17: Joel Mafaud vs. Mariano Farias (ESP) starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 17</actor>
+      <actor>Joel Mafaud vs. Mariano Farias (ESP)</actor>
+    </credits>
+  </programme>
+  <programme start="20260327140000 +0000" stop="20260327160000 +0000" channel="PPV 17">
+    <title lang="en">EVENT 17: Joel Mafaud vs. Mariano Farias (ESP) starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 17</actor>
+      <actor>Joel Mafaud vs. Mariano Farias (ESP)</actor>
+    </credits>
+  </programme>
+  <programme start="20260327160000 +0000" stop="20260327180000 +0000" channel="PPV 17">
+    <title lang="en">EVENT 17: Joel Mafaud vs. Mariano Farias (ESP) starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 17</actor>
+      <actor>Joel Mafaud vs. Mariano Farias (ESP)</actor>
+    </credits>
+  </programme>
+  <programme start="20260327180000 +0000" stop="20260327200000 +0000" channel="PPV 17">
+    <title lang="en">EVENT 17: Joel Mafaud vs. Mariano Farias (ESP) starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 17</actor>
+      <actor>Joel Mafaud vs. Mariano Farias (ESP)</actor>
+    </credits>
+  </programme>
+  <programme start="20260327200000 +0000" stop="20260327220000 +0000" channel="PPV 17">
+    <title lang="en">EVENT 17: Joel Mafaud vs. Mariano Farias (ESP) starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 17</actor>
+      <actor>Joel Mafaud vs. Mariano Farias (ESP)</actor>
+    </credits>
+  </programme>
+  <programme start="20260327220000 +0000" stop="20260328000000 +0000" channel="PPV 17">
+    <title lang="en">EVENT 17: Joel Mafaud vs. Mariano Farias (ESP) starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 17</actor>
+      <actor>Joel Mafaud vs. Mariano Farias (ESP)</actor>
+    </credits>
+  </programme>
+  <programme start="20260328000000 +0000" stop="20260328010000 +0000" channel="PPV 17">
+    <title lang="en">EVENT 17: Joel Mafaud vs. Mariano Farias (ESP) starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 17</actor>
+      <actor>Joel Mafaud vs. Mariano Farias (ESP)</actor>
+    </credits>
+  </programme>
+  <programme start="20260328010000 +0000" stop="20260328040000 +0000" channel="PPV 17">
+    <title lang="en">EVENT 17: Joel Mafaud vs. Mariano Farias (ESP) (3.27 9:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 17</actor>
+      <actor>Joel Mafaud vs. Mariano Farias (ESP)</actor>
+    </credits>
+  </programme>
+  <programme start="20260327100000 +0000" stop="20260327120000 +0000" channel="PPV 18">
+    <title lang="en">EVENT 18: TNA Sacrifice starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 18</actor>
+      <actor>TNA Sacrifice</actor>
+    </credits>
+  </programme>
+  <programme start="20260327120000 +0000" stop="20260327140000 +0000" channel="PPV 18">
+    <title lang="en">EVENT 18: TNA Sacrifice starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 18</actor>
+      <actor>TNA Sacrifice</actor>
+    </credits>
+  </programme>
+  <programme start="20260327140000 +0000" stop="20260327160000 +0000" channel="PPV 18">
+    <title lang="en">EVENT 18: TNA Sacrifice starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 18</actor>
+      <actor>TNA Sacrifice</actor>
+    </credits>
+  </programme>
+  <programme start="20260327160000 +0000" stop="20260327180000 +0000" channel="PPV 18">
+    <title lang="en">EVENT 18: TNA Sacrifice starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 18</actor>
+      <actor>TNA Sacrifice</actor>
+    </credits>
+  </programme>
+  <programme start="20260327180000 +0000" stop="20260327200000 +0000" channel="PPV 18">
+    <title lang="en">EVENT 18: TNA Sacrifice starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 18</actor>
+      <actor>TNA Sacrifice</actor>
+    </credits>
+  </programme>
+  <programme start="20260327200000 +0000" stop="20260327220000 +0000" channel="PPV 18">
+    <title lang="en">EVENT 18: TNA Sacrifice starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 18</actor>
+      <actor>TNA Sacrifice</actor>
+    </credits>
+  </programme>
+  <programme start="20260327220000 +0000" stop="20260328000000 +0000" channel="PPV 18">
+    <title lang="en">EVENT 18: TNA Sacrifice starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 18</actor>
+      <actor>TNA Sacrifice</actor>
+    </credits>
+  </programme>
+  <programme start="20260328000000 +0000" stop="20260328030000 +0000" channel="PPV 18">
+    <title lang="en">EVENT 18: TNA Sacrifice (3.27 8:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 18</actor>
+      <actor>TNA Sacrifice</actor>
     </credits>
   </programme>
 </tv>
