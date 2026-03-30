@@ -2097,572 +2097,757 @@
   <channel id="SOCCER 99">
     <display-name>SOCCER 99</display-name>
   </channel>
-  <programme start="20260329100000 +0000" stop="20260329120000 +0000" channel="NCAAB 001">
-    <title lang="en">6 NOTRE DAME @ 1 UCONN (W) - starts at 1:00 PM ET</title>
+  <programme start="20260330100000 +0000" stop="20260330120000 +0000" channel="NCAAB 001">
+    <title lang="en">COLUMBIA @ WISCONSIN (W) - starts at 2:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>6 NOTRE DAME</actor>
-      <actor>1 UCONN (W)</actor>
+      <actor>COLUMBIA</actor>
+      <actor>WISCONSIN (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330120000 +0000" stop="20260330140000 +0000" channel="NCAAB 001">
+    <title lang="en">COLUMBIA @ WISCONSIN (W) - starts at 2:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>COLUMBIA</actor>
+      <actor>WISCONSIN (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330140000 +0000" stop="20260330160000 +0000" channel="NCAAB 001">
+    <title lang="en">COLUMBIA @ WISCONSIN (W) - starts at 2:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>COLUMBIA</actor>
+      <actor>WISCONSIN (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330160000 +0000" stop="20260330180000 +0000" channel="NCAAB 001">
+    <title lang="en">COLUMBIA @ WISCONSIN (W) - starts at 2:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>COLUMBIA</actor>
+      <actor>WISCONSIN (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330180000 +0000" stop="20260330183000 +0000" channel="NCAAB 001">
+    <title lang="en">COLUMBIA @ WISCONSIN (W) - starts at 2:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>COLUMBIA</actor>
+      <actor>WISCONSIN (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330183000 +0000" stop="20260330220000 +0000" channel="NCAAB 001">
+    <title lang="en">COLUMBIA @ WISCONSIN (W)</title>
+    <desc lang="en">Network: ESPNU</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>COLUMBIA</actor>
+      <actor>WISCONSIN (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330100000 +0000" stop="20260330120000 +0000" channel="NCAAB 002">
+    <title lang="en">KANSAS @ BYU (W) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>KANSAS</actor>
+      <actor>BYU (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330120000 +0000" stop="20260330140000 +0000" channel="NCAAB 002">
+    <title lang="en">KANSAS @ BYU (W) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>KANSAS</actor>
+      <actor>BYU (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330140000 +0000" stop="20260330160000 +0000" channel="NCAAB 002">
+    <title lang="en">KANSAS @ BYU (W) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>KANSAS</actor>
+      <actor>BYU (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330160000 +0000" stop="20260330180000 +0000" channel="NCAAB 002">
+    <title lang="en">KANSAS @ BYU (W) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>KANSAS</actor>
+      <actor>BYU (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330180000 +0000" stop="20260330200000 +0000" channel="NCAAB 002">
+    <title lang="en">KANSAS @ BYU (W) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>KANSAS</actor>
+      <actor>BYU (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330200000 +0000" stop="20260330210000 +0000" channel="NCAAB 002">
+    <title lang="en">KANSAS @ BYU (W) - starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>KANSAS</actor>
+      <actor>BYU (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330210000 +0000" stop="20260331003000 +0000" channel="NCAAB 002">
+    <title lang="en">KANSAS @ BYU (W)</title>
+    <desc lang="en">Network: ESPNU</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>KANSAS</actor>
+      <actor>BYU (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330100000 +0000" stop="20260330120000 +0000" channel="NCAAB 003">
+    <title lang="en">2 MICHIGAN @ 1 TEXAS (W) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>2 MICHIGAN</actor>
+      <actor>1 TEXAS (W)</actor>
     </credits>
     <sub-title lang="en">Venue: Dickies Arena</sub-title>
   </programme>
-  <programme start="20260329120000 +0000" stop="20260329140000 +0000" channel="NCAAB 001">
-    <title lang="en">6 NOTRE DAME @ 1 UCONN (W) - starts at 1:00 PM ET</title>
+  <programme start="20260330120000 +0000" stop="20260330140000 +0000" channel="NCAAB 003">
+    <title lang="en">2 MICHIGAN @ 1 TEXAS (W) - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>6 NOTRE DAME</actor>
-      <actor>1 UCONN (W)</actor>
+      <actor>2 MICHIGAN</actor>
+      <actor>1 TEXAS (W)</actor>
     </credits>
     <sub-title lang="en">Venue: Dickies Arena</sub-title>
   </programme>
-  <programme start="20260329140000 +0000" stop="20260329160000 +0000" channel="NCAAB 001">
-    <title lang="en">6 NOTRE DAME @ 1 UCONN (W) - starts at 1:00 PM ET</title>
+  <programme start="20260330140000 +0000" stop="20260330160000 +0000" channel="NCAAB 003">
+    <title lang="en">2 MICHIGAN @ 1 TEXAS (W) - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>6 NOTRE DAME</actor>
-      <actor>1 UCONN (W)</actor>
+      <actor>2 MICHIGAN</actor>
+      <actor>1 TEXAS (W)</actor>
     </credits>
     <sub-title lang="en">Venue: Dickies Arena</sub-title>
   </programme>
-  <programme start="20260329160000 +0000" stop="20260329170000 +0000" channel="NCAAB 001">
-    <title lang="en">6 NOTRE DAME @ 1 UCONN (W) - starts at 1:00 PM ET</title>
+  <programme start="20260330160000 +0000" stop="20260330180000 +0000" channel="NCAAB 003">
+    <title lang="en">2 MICHIGAN @ 1 TEXAS (W) - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>6 NOTRE DAME</actor>
-      <actor>1 UCONN (W)</actor>
+      <actor>2 MICHIGAN</actor>
+      <actor>1 TEXAS (W)</actor>
     </credits>
     <sub-title lang="en">Venue: Dickies Arena</sub-title>
   </programme>
-  <programme start="20260329170000 +0000" stop="20260329203000 +0000" channel="NCAAB 001">
-    <title lang="en">6 NOTRE DAME @ 1 UCONN (W)</title>
-    <desc lang="en">Network: ABC | Venue: Dickies Arena, Fort Worth</desc>
-    <category lang="en">Sports</category>
+  <programme start="20260330180000 +0000" stop="20260330200000 +0000" channel="NCAAB 003">
+    <title lang="en">2 MICHIGAN @ 1 TEXAS (W) - starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>6 NOTRE DAME</actor>
-      <actor>1 UCONN (W)</actor>
+      <actor>2 MICHIGAN</actor>
+      <actor>1 TEXAS (W)</actor>
     </credits>
     <sub-title lang="en">Venue: Dickies Arena</sub-title>
   </programme>
-  <programme start="20260329100000 +0000" stop="20260329120000 +0000" channel="NCAAB 002">
-    <title lang="en">6 TENNESSEE @ 1 MICHIGAN (M) - starts at 2:15 PM ET</title>
+  <programme start="20260330200000 +0000" stop="20260330220000 +0000" channel="NCAAB 003">
+    <title lang="en">2 MICHIGAN @ 1 TEXAS (W) - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>6 TENNESSEE</actor>
-      <actor>1 MICHIGAN (M)</actor>
+      <actor>2 MICHIGAN</actor>
+      <actor>1 TEXAS (W)</actor>
     </credits>
-    <sub-title lang="en">Venue: United Center</sub-title>
+    <sub-title lang="en">Venue: Dickies Arena</sub-title>
   </programme>
-  <programme start="20260329120000 +0000" stop="20260329140000 +0000" channel="NCAAB 002">
-    <title lang="en">6 TENNESSEE @ 1 MICHIGAN (M) - starts at 2:15 PM ET</title>
+  <programme start="20260330220000 +0000" stop="20260330230000 +0000" channel="NCAAB 003">
+    <title lang="en">2 MICHIGAN @ 1 TEXAS (W) - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>6 TENNESSEE</actor>
-      <actor>1 MICHIGAN (M)</actor>
+      <actor>2 MICHIGAN</actor>
+      <actor>1 TEXAS (W)</actor>
     </credits>
-    <sub-title lang="en">Venue: United Center</sub-title>
+    <sub-title lang="en">Venue: Dickies Arena</sub-title>
   </programme>
-  <programme start="20260329140000 +0000" stop="20260329160000 +0000" channel="NCAAB 002">
-    <title lang="en">6 TENNESSEE @ 1 MICHIGAN (M) - starts at 2:15 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>6 TENNESSEE</actor>
-      <actor>1 MICHIGAN (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: United Center</sub-title>
-  </programme>
-  <programme start="20260329160000 +0000" stop="20260329180000 +0000" channel="NCAAB 002">
-    <title lang="en">6 TENNESSEE @ 1 MICHIGAN (M) - starts at 2:15 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>6 TENNESSEE</actor>
-      <actor>1 MICHIGAN (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: United Center</sub-title>
-  </programme>
-  <programme start="20260329180000 +0000" stop="20260329181500 +0000" channel="NCAAB 002">
-    <title lang="en">6 TENNESSEE @ 1 MICHIGAN (M) - starts at 2:15 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>6 TENNESSEE</actor>
-      <actor>1 MICHIGAN (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: United Center</sub-title>
-  </programme>
-  <programme start="20260329181500 +0000" stop="20260329214500 +0000" channel="NCAAB 002">
-    <title lang="en">6 TENNESSEE @ 1 MICHIGAN (M)</title>
-    <desc lang="en">Network: CBS | Venue: United Center, Chicago</desc>
+  <programme start="20260330230000 +0000" stop="20260331023000 +0000" channel="NCAAB 003">
+    <title lang="en">2 MICHIGAN @ 1 TEXAS (W)</title>
+    <desc lang="en">Network: ESPN | Venue: Dickies Arena, Fort Worth</desc>
     <category lang="en">Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>6 TENNESSEE</actor>
-      <actor>1 MICHIGAN (M)</actor>
+      <actor>2 MICHIGAN</actor>
+      <actor>1 TEXAS (W)</actor>
     </credits>
-    <sub-title lang="en">Venue: United Center</sub-title>
+    <sub-title lang="en">Venue: Dickies Arena</sub-title>
   </programme>
-  <programme start="20260329100000 +0000" stop="20260329120000 +0000" channel="NCAAB 003">
-    <title lang="en">3 DUKE @ 1 UCLA (W) - starts at 3:00 PM ET</title>
+  <programme start="20260330100000 +0000" stop="20260330120000 +0000" channel="NCAAB 004">
+    <title lang="en">3 TCU @ 1 SOUTH CAROLINA (W) - starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>3 DUKE</actor>
-      <actor>1 UCLA (W)</actor>
+      <actor>3 TCU</actor>
+      <actor>1 SOUTH CAROLINA (W)</actor>
     </credits>
     <sub-title lang="en">Venue: Golden 1 Center</sub-title>
   </programme>
-  <programme start="20260329120000 +0000" stop="20260329140000 +0000" channel="NCAAB 003">
-    <title lang="en">3 DUKE @ 1 UCLA (W) - starts at 3:00 PM ET</title>
+  <programme start="20260330120000 +0000" stop="20260330140000 +0000" channel="NCAAB 004">
+    <title lang="en">3 TCU @ 1 SOUTH CAROLINA (W) - starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>3 DUKE</actor>
-      <actor>1 UCLA (W)</actor>
+      <actor>3 TCU</actor>
+      <actor>1 SOUTH CAROLINA (W)</actor>
     </credits>
     <sub-title lang="en">Venue: Golden 1 Center</sub-title>
   </programme>
-  <programme start="20260329140000 +0000" stop="20260329160000 +0000" channel="NCAAB 003">
-    <title lang="en">3 DUKE @ 1 UCLA (W) - starts at 3:00 PM ET</title>
+  <programme start="20260330140000 +0000" stop="20260330160000 +0000" channel="NCAAB 004">
+    <title lang="en">3 TCU @ 1 SOUTH CAROLINA (W) - starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>3 DUKE</actor>
-      <actor>1 UCLA (W)</actor>
+      <actor>3 TCU</actor>
+      <actor>1 SOUTH CAROLINA (W)</actor>
     </credits>
     <sub-title lang="en">Venue: Golden 1 Center</sub-title>
   </programme>
-  <programme start="20260329160000 +0000" stop="20260329180000 +0000" channel="NCAAB 003">
-    <title lang="en">3 DUKE @ 1 UCLA (W) - starts at 3:00 PM ET</title>
+  <programme start="20260330160000 +0000" stop="20260330180000 +0000" channel="NCAAB 004">
+    <title lang="en">3 TCU @ 1 SOUTH CAROLINA (W) - starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>3 DUKE</actor>
-      <actor>1 UCLA (W)</actor>
+      <actor>3 TCU</actor>
+      <actor>1 SOUTH CAROLINA (W)</actor>
     </credits>
     <sub-title lang="en">Venue: Golden 1 Center</sub-title>
   </programme>
-  <programme start="20260329180000 +0000" stop="20260329190000 +0000" channel="NCAAB 003">
-    <title lang="en">3 DUKE @ 1 UCLA (W) - starts at 3:00 PM ET</title>
+  <programme start="20260330180000 +0000" stop="20260330200000 +0000" channel="NCAAB 004">
+    <title lang="en">3 TCU @ 1 SOUTH CAROLINA (W) - starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>3 DUKE</actor>
-      <actor>1 UCLA (W)</actor>
+      <actor>3 TCU</actor>
+      <actor>1 SOUTH CAROLINA (W)</actor>
     </credits>
     <sub-title lang="en">Venue: Golden 1 Center</sub-title>
   </programme>
-  <programme start="20260329190000 +0000" stop="20260329223000 +0000" channel="NCAAB 003">
-    <title lang="en">3 DUKE @ 1 UCLA (W)</title>
-    <desc lang="en">Network: ABC | Venue: Golden 1 Center, Sacramento</desc>
-    <category lang="en">Sports</category>
+  <programme start="20260330200000 +0000" stop="20260330220000 +0000" channel="NCAAB 004">
+    <title lang="en">3 TCU @ 1 SOUTH CAROLINA (W) - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>3 DUKE</actor>
-      <actor>1 UCLA (W)</actor>
+      <actor>3 TCU</actor>
+      <actor>1 SOUTH CAROLINA (W)</actor>
     </credits>
     <sub-title lang="en">Venue: Golden 1 Center</sub-title>
   </programme>
-  <programme start="20260329100000 +0000" stop="20260329120000 +0000" channel="NCAAB 004">
-    <title lang="en">2 UCONN @ 1 DUKE (M) - starts at 5:05 PM ET</title>
+  <programme start="20260330220000 +0000" stop="20260331000000 +0000" channel="NCAAB 004">
+    <title lang="en">3 TCU @ 1 SOUTH CAROLINA (W) - starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>2 UCONN</actor>
-      <actor>1 DUKE (M)</actor>
+      <actor>3 TCU</actor>
+      <actor>1 SOUTH CAROLINA (W)</actor>
     </credits>
-    <sub-title lang="en">Venue: Capital One Arena</sub-title>
+    <sub-title lang="en">Venue: Golden 1 Center</sub-title>
   </programme>
-  <programme start="20260329120000 +0000" stop="20260329140000 +0000" channel="NCAAB 004">
-    <title lang="en">2 UCONN @ 1 DUKE (M) - starts at 5:05 PM ET</title>
+  <programme start="20260331000000 +0000" stop="20260331010000 +0000" channel="NCAAB 004">
+    <title lang="en">3 TCU @ 1 SOUTH CAROLINA (W) - starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>2 UCONN</actor>
-      <actor>1 DUKE (M)</actor>
+      <actor>3 TCU</actor>
+      <actor>1 SOUTH CAROLINA (W)</actor>
     </credits>
-    <sub-title lang="en">Venue: Capital One Arena</sub-title>
+    <sub-title lang="en">Venue: Golden 1 Center</sub-title>
   </programme>
-  <programme start="20260329140000 +0000" stop="20260329160000 +0000" channel="NCAAB 004">
-    <title lang="en">2 UCONN @ 1 DUKE (M) - starts at 5:05 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>2 UCONN</actor>
-      <actor>1 DUKE (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: Capital One Arena</sub-title>
-  </programme>
-  <programme start="20260329160000 +0000" stop="20260329180000 +0000" channel="NCAAB 004">
-    <title lang="en">2 UCONN @ 1 DUKE (M) - starts at 5:05 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>2 UCONN</actor>
-      <actor>1 DUKE (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: Capital One Arena</sub-title>
-  </programme>
-  <programme start="20260329180000 +0000" stop="20260329200000 +0000" channel="NCAAB 004">
-    <title lang="en">2 UCONN @ 1 DUKE (M) - starts at 5:05 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>2 UCONN</actor>
-      <actor>1 DUKE (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: Capital One Arena</sub-title>
-  </programme>
-  <programme start="20260329200000 +0000" stop="20260329210500 +0000" channel="NCAAB 004">
-    <title lang="en">2 UCONN @ 1 DUKE (M) - starts at 5:05 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">NCAAB</category>
-    <credits>
-      <actor>2 UCONN</actor>
-      <actor>1 DUKE (M)</actor>
-    </credits>
-    <sub-title lang="en">Venue: Capital One Arena</sub-title>
-  </programme>
-  <programme start="20260329210500 +0000" stop="20260330003500 +0000" channel="NCAAB 004">
-    <title lang="en">2 UCONN @ 1 DUKE (M)</title>
-    <desc lang="en">Network: CBS | Venue: Capital One Arena, Washington</desc>
+  <programme start="20260331010000 +0000" stop="20260331043000 +0000" channel="NCAAB 004">
+    <title lang="en">3 TCU @ 1 SOUTH CAROLINA (W)</title>
+    <desc lang="en">Network: ESPN | Venue: Golden 1 Center, Sacramento</desc>
     <category lang="en">Sports</category>
     <category lang="en">NCAAB</category>
     <credits>
-      <actor>2 UCONN</actor>
-      <actor>1 DUKE (M)</actor>
+      <actor>3 TCU</actor>
+      <actor>1 SOUTH CAROLINA (W)</actor>
     </credits>
-    <sub-title lang="en">Venue: Capital One Arena</sub-title>
+    <sub-title lang="en">Venue: Golden 1 Center</sub-title>
   </programme>
-  <programme start="20260329100000 +0000" stop="20260329120000 +0000" channel="SOCCER 01">
-    <title lang="en">Lithuania @ Georgia - starts at 9:00 AM ET</title>
+  <programme start="20260330100000 +0000" stop="20260330120000 +0000" channel="NCAAB 005">
+    <title lang="en">ARMY @ MARSHALL (W) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>ARMY</actor>
+      <actor>MARSHALL (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330120000 +0000" stop="20260330140000 +0000" channel="NCAAB 005">
+    <title lang="en">ARMY @ MARSHALL (W) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>ARMY</actor>
+      <actor>MARSHALL (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330140000 +0000" stop="20260330160000 +0000" channel="NCAAB 005">
+    <title lang="en">ARMY @ MARSHALL (W) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>ARMY</actor>
+      <actor>MARSHALL (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330160000 +0000" stop="20260330180000 +0000" channel="NCAAB 005">
+    <title lang="en">ARMY @ MARSHALL (W) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>ARMY</actor>
+      <actor>MARSHALL (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330180000 +0000" stop="20260330200000 +0000" channel="NCAAB 005">
+    <title lang="en">ARMY @ MARSHALL (W) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>ARMY</actor>
+      <actor>MARSHALL (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330200000 +0000" stop="20260330220000 +0000" channel="NCAAB 005">
+    <title lang="en">ARMY @ MARSHALL (W) - starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>ARMY</actor>
+      <actor>MARSHALL (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330220000 +0000" stop="20260331013000 +0000" channel="NCAAB 005">
+    <title lang="en">ARMY @ MARSHALL (W)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>ARMY</actor>
+      <actor>MARSHALL (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330100000 +0000" stop="20260330120000 +0000" channel="NCAAB 006">
+    <title lang="en">GEORGE WASHINGTON @ ILLINOIS STATE (W) - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>GEORGE WASHINGTON</actor>
+      <actor>ILLINOIS STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330120000 +0000" stop="20260330140000 +0000" channel="NCAAB 006">
+    <title lang="en">GEORGE WASHINGTON @ ILLINOIS STATE (W) - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>GEORGE WASHINGTON</actor>
+      <actor>ILLINOIS STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330140000 +0000" stop="20260330160000 +0000" channel="NCAAB 006">
+    <title lang="en">GEORGE WASHINGTON @ ILLINOIS STATE (W) - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>GEORGE WASHINGTON</actor>
+      <actor>ILLINOIS STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330160000 +0000" stop="20260330180000 +0000" channel="NCAAB 006">
+    <title lang="en">GEORGE WASHINGTON @ ILLINOIS STATE (W) - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>GEORGE WASHINGTON</actor>
+      <actor>ILLINOIS STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330180000 +0000" stop="20260330200000 +0000" channel="NCAAB 006">
+    <title lang="en">GEORGE WASHINGTON @ ILLINOIS STATE (W) - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>GEORGE WASHINGTON</actor>
+      <actor>ILLINOIS STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330200000 +0000" stop="20260330220000 +0000" channel="NCAAB 006">
+    <title lang="en">GEORGE WASHINGTON @ ILLINOIS STATE (W) - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>GEORGE WASHINGTON</actor>
+      <actor>ILLINOIS STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330220000 +0000" stop="20260330233000 +0000" channel="NCAAB 006">
+    <title lang="en">GEORGE WASHINGTON @ ILLINOIS STATE (W) - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>GEORGE WASHINGTON</actor>
+      <actor>ILLINOIS STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330233000 +0000" stop="20260331030000 +0000" channel="NCAAB 006">
+    <title lang="en">GEORGE WASHINGTON @ ILLINOIS STATE (W)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>GEORGE WASHINGTON</actor>
+      <actor>ILLINOIS STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330100000 +0000" stop="20260330120000 +0000" channel="NCAAB 007">
+    <title lang="en">CLEVELAND STATE @ ARKANSAS STATE (W) - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CLEVELAND STATE</actor>
+      <actor>ARKANSAS STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330120000 +0000" stop="20260330140000 +0000" channel="NCAAB 007">
+    <title lang="en">CLEVELAND STATE @ ARKANSAS STATE (W) - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CLEVELAND STATE</actor>
+      <actor>ARKANSAS STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330140000 +0000" stop="20260330160000 +0000" channel="NCAAB 007">
+    <title lang="en">CLEVELAND STATE @ ARKANSAS STATE (W) - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CLEVELAND STATE</actor>
+      <actor>ARKANSAS STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330160000 +0000" stop="20260330180000 +0000" channel="NCAAB 007">
+    <title lang="en">CLEVELAND STATE @ ARKANSAS STATE (W) - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CLEVELAND STATE</actor>
+      <actor>ARKANSAS STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330180000 +0000" stop="20260330200000 +0000" channel="NCAAB 007">
+    <title lang="en">CLEVELAND STATE @ ARKANSAS STATE (W) - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CLEVELAND STATE</actor>
+      <actor>ARKANSAS STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330200000 +0000" stop="20260330220000 +0000" channel="NCAAB 007">
+    <title lang="en">CLEVELAND STATE @ ARKANSAS STATE (W) - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CLEVELAND STATE</actor>
+      <actor>ARKANSAS STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330220000 +0000" stop="20260331000000 +0000" channel="NCAAB 007">
+    <title lang="en">CLEVELAND STATE @ ARKANSAS STATE (W) - starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CLEVELAND STATE</actor>
+      <actor>ARKANSAS STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260331000000 +0000" stop="20260331033000 +0000" channel="NCAAB 007">
+    <title lang="en">CLEVELAND STATE @ ARKANSAS STATE (W)</title>
+    <desc lang="en">Network: ESPN+</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">NCAAB</category>
+    <credits>
+      <actor>CLEVELAND STATE</actor>
+      <actor>ARKANSAS STATE (W)</actor>
+    </credits>
+  </programme>
+  <programme start="20260330100000 +0000" stop="20260330120000 +0000" channel="SOCCER 01">
+    <title lang="en">Indonesia @ Bulgaria - starts at 9:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">FRIENDLY</category>
     <credits>
-      <actor>Lithuania</actor>
-      <actor>Georgia</actor>
+      <actor>Indonesia</actor>
+      <actor>Bulgaria</actor>
     </credits>
   </programme>
-  <programme start="20260329120000 +0000" stop="20260329130000 +0000" channel="SOCCER 01">
-    <title lang="en">Lithuania @ Georgia - starts at 9:00 AM ET</title>
+  <programme start="20260330120000 +0000" stop="20260330130000 +0000" channel="SOCCER 01">
+    <title lang="en">Indonesia @ Bulgaria - starts at 9:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">FRIENDLY</category>
     <credits>
-      <actor>Lithuania</actor>
-      <actor>Georgia</actor>
+      <actor>Indonesia</actor>
+      <actor>Bulgaria</actor>
     </credits>
   </programme>
-  <programme start="20260329130000 +0000" stop="20260329150000 +0000" channel="SOCCER 01">
-    <title lang="en">Lithuania @ Georgia</title>
+  <programme start="20260330130000 +0000" stop="20260330150000 +0000" channel="SOCCER 01">
+    <title lang="en">Indonesia @ Bulgaria</title>
     <category lang="en">Sports</category>
     <category lang="en">FRIENDLY</category>
     <credits>
-      <actor>Lithuania</actor>
-      <actor>Georgia</actor>
+      <actor>Indonesia</actor>
+      <actor>Bulgaria</actor>
     </credits>
   </programme>
-  <programme start="20260329100000 +0000" stop="20260329120000 +0000" channel="SOCCER 02">
-    <title lang="en">Armenia @ Belarus - starts at 10:00 AM ET</title>
+  <programme start="20260330100000 +0000" stop="20260330120000 +0000" channel="SOCCER 02">
+    <title lang="en">Grenada @ Kenya - starts at 10:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">FRIENDLY</category>
     <credits>
-      <actor>Armenia</actor>
-      <actor>Belarus</actor>
+      <actor>Grenada</actor>
+      <actor>Kenya</actor>
     </credits>
   </programme>
-  <programme start="20260329120000 +0000" stop="20260329140000 +0000" channel="SOCCER 02">
-    <title lang="en">Armenia @ Belarus - starts at 10:00 AM ET</title>
+  <programme start="20260330120000 +0000" stop="20260330140000 +0000" channel="SOCCER 02">
+    <title lang="en">Grenada @ Kenya - starts at 10:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">FRIENDLY</category>
     <credits>
-      <actor>Armenia</actor>
-      <actor>Belarus</actor>
+      <actor>Grenada</actor>
+      <actor>Kenya</actor>
     </credits>
   </programme>
-  <programme start="20260329140000 +0000" stop="20260329160000 +0000" channel="SOCCER 02">
-    <title lang="en">Armenia @ Belarus</title>
+  <programme start="20260330140000 +0000" stop="20260330160000 +0000" channel="SOCCER 02">
+    <title lang="en">Grenada @ Kenya</title>
     <category lang="en">Sports</category>
     <category lang="en">FRIENDLY</category>
     <credits>
-      <actor>Armenia</actor>
-      <actor>Belarus</actor>
+      <actor>Grenada</actor>
+      <actor>Kenya</actor>
     </credits>
   </programme>
-  <programme start="20260329100000 +0000" stop="20260329120000 +0000" channel="SOCCER 03">
-    <title lang="en">Colombia @ France - starts at 3:00 PM ET</title>
+  <programme start="20260330100000 +0000" stop="20260330120000 +0000" channel="SOCCER 03">
+    <title lang="en">Uzbekistan @ Venezuela - starts at 10:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">FRIENDLY</category>
     <credits>
-      <actor>Colombia</actor>
-      <actor>France</actor>
+      <actor>Uzbekistan</actor>
+      <actor>Venezuela</actor>
     </credits>
   </programme>
-  <programme start="20260329120000 +0000" stop="20260329140000 +0000" channel="SOCCER 03">
-    <title lang="en">Colombia @ France - starts at 3:00 PM ET</title>
+  <programme start="20260330120000 +0000" stop="20260330140000 +0000" channel="SOCCER 03">
+    <title lang="en">Uzbekistan @ Venezuela - starts at 10:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">FRIENDLY</category>
     <credits>
-      <actor>Colombia</actor>
-      <actor>France</actor>
+      <actor>Uzbekistan</actor>
+      <actor>Venezuela</actor>
     </credits>
   </programme>
-  <programme start="20260329140000 +0000" stop="20260329160000 +0000" channel="SOCCER 03">
-    <title lang="en">Colombia @ France - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">FRIENDLY</category>
-    <credits>
-      <actor>Colombia</actor>
-      <actor>France</actor>
-    </credits>
-  </programme>
-  <programme start="20260329160000 +0000" stop="20260329180000 +0000" channel="SOCCER 03">
-    <title lang="en">Colombia @ France - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">FRIENDLY</category>
-    <credits>
-      <actor>Colombia</actor>
-      <actor>France</actor>
-    </credits>
-  </programme>
-  <programme start="20260329180000 +0000" stop="20260329190000 +0000" channel="SOCCER 03">
-    <title lang="en">Colombia @ France - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">FRIENDLY</category>
-    <credits>
-      <actor>Colombia</actor>
-      <actor>France</actor>
-    </credits>
-  </programme>
-  <programme start="20260329190000 +0000" stop="20260329210000 +0000" channel="SOCCER 03">
-    <title lang="en">Colombia @ France</title>
+  <programme start="20260330140000 +0000" stop="20260330160000 +0000" channel="SOCCER 03">
+    <title lang="en">Uzbekistan @ Venezuela</title>
     <category lang="en">Sports</category>
     <category lang="en">FRIENDLY</category>
     <credits>
-      <actor>Colombia</actor>
-      <actor>France</actor>
+      <actor>Uzbekistan</actor>
+      <actor>Venezuela</actor>
     </credits>
   </programme>
-  <programme start="20260329100000 +0000" stop="20260329120000 +0000" channel="SOCCER 04">
-    <title lang="en">Martinique @ El Salvador - starts at 3:00 PM ET</title>
+  <programme start="20260330100000 +0000" stop="20260330120000 +0000" channel="SOCCER 04">
+    <title lang="en">Azerbaijan @ Sierra Leone - starts at 11:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">FRIENDLY</category>
     <credits>
-      <actor>Martinique</actor>
-      <actor>El Salvador</actor>
+      <actor>Azerbaijan</actor>
+      <actor>Sierra Leone</actor>
     </credits>
   </programme>
-  <programme start="20260329120000 +0000" stop="20260329140000 +0000" channel="SOCCER 04">
-    <title lang="en">Martinique @ El Salvador - starts at 3:00 PM ET</title>
+  <programme start="20260330120000 +0000" stop="20260330140000 +0000" channel="SOCCER 04">
+    <title lang="en">Azerbaijan @ Sierra Leone - starts at 11:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">FRIENDLY</category>
     <credits>
-      <actor>Martinique</actor>
-      <actor>El Salvador</actor>
+      <actor>Azerbaijan</actor>
+      <actor>Sierra Leone</actor>
     </credits>
   </programme>
-  <programme start="20260329140000 +0000" stop="20260329160000 +0000" channel="SOCCER 04">
-    <title lang="en">Martinique @ El Salvador - starts at 3:00 PM ET</title>
+  <programme start="20260330140000 +0000" stop="20260330150000 +0000" channel="SOCCER 04">
+    <title lang="en">Azerbaijan @ Sierra Leone - starts at 11:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">FRIENDLY</category>
     <credits>
-      <actor>Martinique</actor>
-      <actor>El Salvador</actor>
+      <actor>Azerbaijan</actor>
+      <actor>Sierra Leone</actor>
     </credits>
   </programme>
-  <programme start="20260329160000 +0000" stop="20260329180000 +0000" channel="SOCCER 04">
-    <title lang="en">Martinique @ El Salvador - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">FRIENDLY</category>
-    <credits>
-      <actor>Martinique</actor>
-      <actor>El Salvador</actor>
-    </credits>
-  </programme>
-  <programme start="20260329180000 +0000" stop="20260329190000 +0000" channel="SOCCER 04">
-    <title lang="en">Martinique @ El Salvador - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">FRIENDLY</category>
-    <credits>
-      <actor>Martinique</actor>
-      <actor>El Salvador</actor>
-    </credits>
-  </programme>
-  <programme start="20260329190000 +0000" stop="20260329210000 +0000" channel="SOCCER 04">
-    <title lang="en">Martinique @ El Salvador</title>
+  <programme start="20260330150000 +0000" stop="20260330170000 +0000" channel="SOCCER 04">
+    <title lang="en">Azerbaijan @ Sierra Leone</title>
     <category lang="en">Sports</category>
     <category lang="en">FRIENDLY</category>
     <credits>
-      <actor>Martinique</actor>
-      <actor>El Salvador</actor>
+      <actor>Azerbaijan</actor>
+      <actor>Sierra Leone</actor>
     </credits>
   </programme>
-  <programme start="20260329100000 +0000" stop="20260329120000 +0000" channel="SOCCER 05">
-    <title lang="en">Cape Verde @ Finland - starts at 11:00 PM ET</title>
+  <programme start="20260330100000 +0000" stop="20260330120000 +0000" channel="SOCCER 05">
+    <title lang="en">Cyprus @ Moldova - starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">FRIENDLY</category>
     <credits>
-      <actor>Cape Verde</actor>
-      <actor>Finland</actor>
+      <actor>Cyprus</actor>
+      <actor>Moldova</actor>
     </credits>
   </programme>
-  <programme start="20260329120000 +0000" stop="20260329140000 +0000" channel="SOCCER 05">
-    <title lang="en">Cape Verde @ Finland - starts at 11:00 PM ET</title>
+  <programme start="20260330120000 +0000" stop="20260330140000 +0000" channel="SOCCER 05">
+    <title lang="en">Cyprus @ Moldova - starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">FRIENDLY</category>
     <credits>
-      <actor>Cape Verde</actor>
-      <actor>Finland</actor>
+      <actor>Cyprus</actor>
+      <actor>Moldova</actor>
     </credits>
   </programme>
-  <programme start="20260329140000 +0000" stop="20260329160000 +0000" channel="SOCCER 05">
-    <title lang="en">Cape Verde @ Finland - starts at 11:00 PM ET</title>
+  <programme start="20260330140000 +0000" stop="20260330160000 +0000" channel="SOCCER 05">
+    <title lang="en">Cyprus @ Moldova - starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">FRIENDLY</category>
     <credits>
-      <actor>Cape Verde</actor>
-      <actor>Finland</actor>
+      <actor>Cyprus</actor>
+      <actor>Moldova</actor>
     </credits>
   </programme>
-  <programme start="20260329160000 +0000" stop="20260329180000 +0000" channel="SOCCER 05">
-    <title lang="en">Cape Verde @ Finland - starts at 11:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">FRIENDLY</category>
-    <credits>
-      <actor>Cape Verde</actor>
-      <actor>Finland</actor>
-    </credits>
-  </programme>
-  <programme start="20260329180000 +0000" stop="20260329200000 +0000" channel="SOCCER 05">
-    <title lang="en">Cape Verde @ Finland - starts at 11:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">FRIENDLY</category>
-    <credits>
-      <actor>Cape Verde</actor>
-      <actor>Finland</actor>
-    </credits>
-  </programme>
-  <programme start="20260329200000 +0000" stop="20260329220000 +0000" channel="SOCCER 05">
-    <title lang="en">Cape Verde @ Finland - starts at 11:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">FRIENDLY</category>
-    <credits>
-      <actor>Cape Verde</actor>
-      <actor>Finland</actor>
-    </credits>
-  </programme>
-  <programme start="20260329220000 +0000" stop="20260330000000 +0000" channel="SOCCER 05">
-    <title lang="en">Cape Verde @ Finland - starts at 11:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">FRIENDLY</category>
-    <credits>
-      <actor>Cape Verde</actor>
-      <actor>Finland</actor>
-    </credits>
-  </programme>
-  <programme start="20260330000000 +0000" stop="20260330020000 +0000" channel="SOCCER 05">
-    <title lang="en">Cape Verde @ Finland - starts at 11:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">FRIENDLY</category>
-    <credits>
-      <actor>Cape Verde</actor>
-      <actor>Finland</actor>
-    </credits>
-  </programme>
-  <programme start="20260330020000 +0000" stop="20260330030000 +0000" channel="SOCCER 05">
-    <title lang="en">Cape Verde @ Finland - starts at 11:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">FRIENDLY</category>
-    <credits>
-      <actor>Cape Verde</actor>
-      <actor>Finland</actor>
-    </credits>
-  </programme>
-  <programme start="20260330030000 +0000" stop="20260330050000 +0000" channel="SOCCER 05">
-    <title lang="en">Cape Verde @ Finland</title>
+  <programme start="20260330160000 +0000" stop="20260330180000 +0000" channel="SOCCER 05">
+    <title lang="en">Cyprus @ Moldova</title>
     <category lang="en">Sports</category>
     <category lang="en">FRIENDLY</category>
     <credits>
-      <actor>Cape Verde</actor>
-      <actor>Finland</actor>
+      <actor>Cyprus</actor>
+      <actor>Moldova</actor>
     </credits>
   </programme>
-  <programme start="20260329100000 +0000" stop="20260329120000 +0000" channel="SOCCER 06">
-    <title lang="en">Athletico-PR @ Botafogo - starts at 6:30 PM ET</title>
+  <programme start="20260330100000 +0000" stop="20260330120000 +0000" channel="SOCCER 06">
+    <title lang="en">Rwanda @ Estonia - starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">BRASILEIRO</category>
+    <category lang="en">FRIENDLY</category>
     <credits>
-      <actor>Athletico-PR</actor>
-      <actor>Botafogo</actor>
+      <actor>Rwanda</actor>
+      <actor>Estonia</actor>
     </credits>
   </programme>
-  <programme start="20260329120000 +0000" stop="20260329140000 +0000" channel="SOCCER 06">
-    <title lang="en">Athletico-PR @ Botafogo - starts at 6:30 PM ET</title>
+  <programme start="20260330120000 +0000" stop="20260330140000 +0000" channel="SOCCER 06">
+    <title lang="en">Rwanda @ Estonia - starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">BRASILEIRO</category>
+    <category lang="en">FRIENDLY</category>
     <credits>
-      <actor>Athletico-PR</actor>
-      <actor>Botafogo</actor>
+      <actor>Rwanda</actor>
+      <actor>Estonia</actor>
     </credits>
   </programme>
-  <programme start="20260329140000 +0000" stop="20260329160000 +0000" channel="SOCCER 06">
-    <title lang="en">Athletico-PR @ Botafogo - starts at 6:30 PM ET</title>
+  <programme start="20260330140000 +0000" stop="20260330160000 +0000" channel="SOCCER 06">
+    <title lang="en">Rwanda @ Estonia - starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">BRASILEIRO</category>
+    <category lang="en">FRIENDLY</category>
     <credits>
-      <actor>Athletico-PR</actor>
-      <actor>Botafogo</actor>
+      <actor>Rwanda</actor>
+      <actor>Estonia</actor>
     </credits>
   </programme>
-  <programme start="20260329160000 +0000" stop="20260329180000 +0000" channel="SOCCER 06">
-    <title lang="en">Athletico-PR @ Botafogo - starts at 6:30 PM ET</title>
+  <programme start="20260330160000 +0000" stop="20260330173000 +0000" channel="SOCCER 06">
+    <title lang="en">Rwanda @ Estonia - starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">BRASILEIRO</category>
+    <category lang="en">FRIENDLY</category>
     <credits>
-      <actor>Athletico-PR</actor>
-      <actor>Botafogo</actor>
+      <actor>Rwanda</actor>
+      <actor>Estonia</actor>
     </credits>
   </programme>
-  <programme start="20260329180000 +0000" stop="20260329200000 +0000" channel="SOCCER 06">
-    <title lang="en">Athletico-PR @ Botafogo - starts at 6:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">BRASILEIRO</category>
-    <credits>
-      <actor>Athletico-PR</actor>
-      <actor>Botafogo</actor>
-    </credits>
-  </programme>
-  <programme start="20260329200000 +0000" stop="20260329220000 +0000" channel="SOCCER 06">
-    <title lang="en">Athletico-PR @ Botafogo - starts at 6:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">BRASILEIRO</category>
-    <credits>
-      <actor>Athletico-PR</actor>
-      <actor>Botafogo</actor>
-    </credits>
-  </programme>
-  <programme start="20260329220000 +0000" stop="20260329223000 +0000" channel="SOCCER 06">
-    <title lang="en">Athletico-PR @ Botafogo - starts at 6:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">BRASILEIRO</category>
-    <credits>
-      <actor>Athletico-PR</actor>
-      <actor>Botafogo</actor>
-    </credits>
-  </programme>
-  <programme start="20260329223000 +0000" stop="20260330003000 +0000" channel="SOCCER 06">
-    <title lang="en">Athletico-PR @ Botafogo</title>
+  <programme start="20260330173000 +0000" stop="20260330193000 +0000" channel="SOCCER 06">
+    <title lang="en">Rwanda @ Estonia</title>
     <category lang="en">Sports</category>
-    <category lang="en">BRASILEIRO</category>
+    <category lang="en">FRIENDLY</category>
     <credits>
-      <actor>Athletico-PR</actor>
-      <actor>Botafogo</actor>
+      <actor>Rwanda</actor>
+      <actor>Estonia</actor>
+    </credits>
+  </programme>
+  <programme start="20260330100000 +0000" stop="20260330120000 +0000" channel="SOCCER 07">
+    <title lang="en">Germany @ Ghana - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">FRIENDLY</category>
+    <credits>
+      <actor>Germany</actor>
+      <actor>Ghana</actor>
+    </credits>
+  </programme>
+  <programme start="20260330120000 +0000" stop="20260330140000 +0000" channel="SOCCER 07">
+    <title lang="en">Germany @ Ghana - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">FRIENDLY</category>
+    <credits>
+      <actor>Germany</actor>
+      <actor>Ghana</actor>
+    </credits>
+  </programme>
+  <programme start="20260330140000 +0000" stop="20260330160000 +0000" channel="SOCCER 07">
+    <title lang="en">Germany @ Ghana - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">FRIENDLY</category>
+    <credits>
+      <actor>Germany</actor>
+      <actor>Ghana</actor>
+    </credits>
+  </programme>
+  <programme start="20260330160000 +0000" stop="20260330180000 +0000" channel="SOCCER 07">
+    <title lang="en">Germany @ Ghana - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">FRIENDLY</category>
+    <credits>
+      <actor>Germany</actor>
+      <actor>Ghana</actor>
+    </credits>
+  </programme>
+  <programme start="20260330180000 +0000" stop="20260330184500 +0000" channel="SOCCER 07">
+    <title lang="en">Germany @ Ghana - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">FRIENDLY</category>
+    <credits>
+      <actor>Germany</actor>
+      <actor>Ghana</actor>
+    </credits>
+  </programme>
+  <programme start="20260330184500 +0000" stop="20260330204500 +0000" channel="SOCCER 07">
+    <title lang="en">Germany @ Ghana</title>
+    <category lang="en">Sports</category>
+    <category lang="en">FRIENDLY</category>
+    <credits>
+      <actor>Germany</actor>
+      <actor>Ghana</actor>
     </credits>
   </programme>
 </tv>
