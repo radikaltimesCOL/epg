@@ -210,4 +210,85 @@
   <channel id="PPV 70">
     <display-name>PPV 70</display-name>
   </channel>
+  <programme start="20260401100000 +0000" stop="20260401120000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Inka MMA 55 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>Inka MMA 55</actor>
+    </credits>
+  </programme>
+  <programme start="20260401120000 +0000" stop="20260401140000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Inka MMA 55 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>Inka MMA 55</actor>
+    </credits>
+  </programme>
+  <programme start="20260401140000 +0000" stop="20260401160000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Inka MMA 55 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>Inka MMA 55</actor>
+    </credits>
+  </programme>
+  <programme start="20260401160000 +0000" stop="20260401180000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Inka MMA 55 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>Inka MMA 55</actor>
+    </credits>
+  </programme>
+  <programme start="20260401180000 +0000" stop="20260401200000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Inka MMA 55 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>Inka MMA 55</actor>
+    </credits>
+  </programme>
+  <programme start="20260401200000 +0000" stop="20260401220000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Inka MMA 55 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>Inka MMA 55</actor>
+    </credits>
+  </programme>
+  <programme start="20260401220000 +0000" stop="20260402000000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Inka MMA 55 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>Inka MMA 55</actor>
+    </credits>
+  </programme>
+  <programme start="20260402000000 +0000" stop="20260402020000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Inka MMA 55 starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>Inka MMA 55</actor>
+    </credits>
+  </programme>
+  <programme start="20260402020000 +0000" stop="20260402050000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Inka MMA 55 (4.1 10:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>Inka MMA 55</actor>
+    </credits>
+  </programme>
 </tv>
