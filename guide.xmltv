@@ -210,85 +210,148 @@
   <channel id="PPV 70">
     <display-name>PPV 70</display-name>
   </channel>
-  <programme start="20260401100000 +0000" stop="20260401120000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Inka MMA 55 starts at 10:00 PM ET</title>
+  <programme start="20260402100000 +0000" stop="20260402120000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Spring Nationals at I75 starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Inka MMA 55</actor>
+      <actor>Spring Nationals at I75</actor>
     </credits>
   </programme>
-  <programme start="20260401120000 +0000" stop="20260401140000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Inka MMA 55 starts at 10:00 PM ET</title>
+  <programme start="20260402120000 +0000" stop="20260402140000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Spring Nationals at I75 starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Inka MMA 55</actor>
+      <actor>Spring Nationals at I75</actor>
     </credits>
   </programme>
-  <programme start="20260401140000 +0000" stop="20260401160000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Inka MMA 55 starts at 10:00 PM ET</title>
+  <programme start="20260402140000 +0000" stop="20260402160000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Spring Nationals at I75 starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Inka MMA 55</actor>
+      <actor>Spring Nationals at I75</actor>
     </credits>
   </programme>
-  <programme start="20260401160000 +0000" stop="20260401180000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Inka MMA 55 starts at 10:00 PM ET</title>
+  <programme start="20260402160000 +0000" stop="20260402180000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Spring Nationals at I75 starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Inka MMA 55</actor>
+      <actor>Spring Nationals at I75</actor>
     </credits>
   </programme>
-  <programme start="20260401180000 +0000" stop="20260401200000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Inka MMA 55 starts at 10:00 PM ET</title>
+  <programme start="20260402180000 +0000" stop="20260402200000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Spring Nationals at I75 starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Inka MMA 55</actor>
+      <actor>Spring Nationals at I75</actor>
     </credits>
   </programme>
-  <programme start="20260401200000 +0000" stop="20260401220000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Inka MMA 55 starts at 10:00 PM ET</title>
+  <programme start="20260402200000 +0000" stop="20260402220000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Spring Nationals at I75 starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Inka MMA 55</actor>
+      <actor>Spring Nationals at I75</actor>
     </credits>
   </programme>
-  <programme start="20260401220000 +0000" stop="20260402000000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Inka MMA 55 starts at 10:00 PM ET</title>
+  <programme start="20260402220000 +0000" stop="20260402230000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Spring Nationals at I75 starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Inka MMA 55</actor>
+      <actor>Spring Nationals at I75</actor>
     </credits>
   </programme>
-  <programme start="20260402000000 +0000" stop="20260402020000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Inka MMA 55 starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>Inka MMA 55</actor>
-    </credits>
-  </programme>
-  <programme start="20260402020000 +0000" stop="20260402050000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Inka MMA 55 (4.1 10:00 PM ET)</title>
+  <programme start="20260402230000 +0000" stop="20260403020000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Spring Nationals at I75 (4.2 7:00 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Inka MMA 55</actor>
+      <actor>Spring Nationals at I75</actor>
+    </credits>
+  </programme>
+  <programme start="20260402100000 +0000" stop="20260402120000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: BJJ 7 Tackett vs. Rocha starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>BJJ 7 Tackett vs. Rocha</actor>
+    </credits>
+  </programme>
+  <programme start="20260402120000 +0000" stop="20260402140000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: BJJ 7 Tackett vs. Rocha starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>BJJ 7 Tackett vs. Rocha</actor>
+    </credits>
+  </programme>
+  <programme start="20260402140000 +0000" stop="20260402160000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: BJJ 7 Tackett vs. Rocha starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>BJJ 7 Tackett vs. Rocha</actor>
+    </credits>
+  </programme>
+  <programme start="20260402160000 +0000" stop="20260402180000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: BJJ 7 Tackett vs. Rocha starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>BJJ 7 Tackett vs. Rocha</actor>
+    </credits>
+  </programme>
+  <programme start="20260402180000 +0000" stop="20260402200000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: BJJ 7 Tackett vs. Rocha starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>BJJ 7 Tackett vs. Rocha</actor>
+    </credits>
+  </programme>
+  <programme start="20260402200000 +0000" stop="20260402220000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: BJJ 7 Tackett vs. Rocha starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>BJJ 7 Tackett vs. Rocha</actor>
+    </credits>
+  </programme>
+  <programme start="20260402220000 +0000" stop="20260403000000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: BJJ 7 Tackett vs. Rocha starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>BJJ 7 Tackett vs. Rocha</actor>
+    </credits>
+  </programme>
+  <programme start="20260403000000 +0000" stop="20260403030000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: BJJ 7 Tackett vs. Rocha (4.2 8:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>BJJ 7 Tackett vs. Rocha</actor>
     </credits>
   </programme>
 </tv>
