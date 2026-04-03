@@ -210,148 +210,625 @@
   <channel id="PPV 70">
     <display-name>PPV 70</display-name>
   </channel>
-  <programme start="20260402100000 +0000" stop="20260402120000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Spring Nationals at I75 starts at 7:00 PM ET</title>
+  <programme start="20260403100000 +0000" stop="20260403120000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: RMSHA at Tamarack Resort Round 2 starts at 10:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Spring Nationals at I75</actor>
+      <actor>RMSHA at Tamarack Resort Round 2</actor>
     </credits>
   </programme>
-  <programme start="20260402120000 +0000" stop="20260402140000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Spring Nationals at I75 starts at 7:00 PM ET</title>
+  <programme start="20260403120000 +0000" stop="20260403140000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: RMSHA at Tamarack Resort Round 2 starts at 10:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Spring Nationals at I75</actor>
+      <actor>RMSHA at Tamarack Resort Round 2</actor>
     </credits>
   </programme>
-  <programme start="20260402140000 +0000" stop="20260402160000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Spring Nationals at I75 starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>Spring Nationals at I75</actor>
-    </credits>
-  </programme>
-  <programme start="20260402160000 +0000" stop="20260402180000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Spring Nationals at I75 starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>Spring Nationals at I75</actor>
-    </credits>
-  </programme>
-  <programme start="20260402180000 +0000" stop="20260402200000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Spring Nationals at I75 starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>Spring Nationals at I75</actor>
-    </credits>
-  </programme>
-  <programme start="20260402200000 +0000" stop="20260402220000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Spring Nationals at I75 starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>Spring Nationals at I75</actor>
-    </credits>
-  </programme>
-  <programme start="20260402220000 +0000" stop="20260402230000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Spring Nationals at I75 starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>Spring Nationals at I75</actor>
-    </credits>
-  </programme>
-  <programme start="20260402230000 +0000" stop="20260403020000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Spring Nationals at I75 (4.2 7:00 PM ET)</title>
+  <programme start="20260403140000 +0000" stop="20260403170000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: RMSHA at Tamarack Resort Round 2 (4.3 10:00 AM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Spring Nationals at I75</actor>
+      <actor>RMSHA at Tamarack Resort Round 2</actor>
     </credits>
   </programme>
-  <programme start="20260402100000 +0000" stop="20260402120000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: BJJ 7 Tackett vs. Rocha starts at 8:00 PM ET</title>
+  <programme start="20260403100000 +0000" stop="20260403120000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Snocross National at Spirit Mountain starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>BJJ 7 Tackett vs. Rocha</actor>
+      <actor>Snocross National at Spirit Mountain</actor>
     </credits>
   </programme>
-  <programme start="20260402120000 +0000" stop="20260402140000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: BJJ 7 Tackett vs. Rocha starts at 8:00 PM ET</title>
+  <programme start="20260403120000 +0000" stop="20260403140000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Snocross National at Spirit Mountain starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>BJJ 7 Tackett vs. Rocha</actor>
+      <actor>Snocross National at Spirit Mountain</actor>
     </credits>
   </programme>
-  <programme start="20260402140000 +0000" stop="20260402160000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: BJJ 7 Tackett vs. Rocha starts at 8:00 PM ET</title>
+  <programme start="20260403140000 +0000" stop="20260403160000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Snocross National at Spirit Mountain starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>BJJ 7 Tackett vs. Rocha</actor>
+      <actor>Snocross National at Spirit Mountain</actor>
     </credits>
   </programme>
-  <programme start="20260402160000 +0000" stop="20260402180000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: BJJ 7 Tackett vs. Rocha starts at 8:00 PM ET</title>
+  <programme start="20260403160000 +0000" stop="20260403180000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Snocross National at Spirit Mountain starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>BJJ 7 Tackett vs. Rocha</actor>
+      <actor>Snocross National at Spirit Mountain</actor>
     </credits>
   </programme>
-  <programme start="20260402180000 +0000" stop="20260402200000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: BJJ 7 Tackett vs. Rocha starts at 8:00 PM ET</title>
+  <programme start="20260403180000 +0000" stop="20260403190000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Snocross National at Spirit Mountain starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>BJJ 7 Tackett vs. Rocha</actor>
+      <actor>Snocross National at Spirit Mountain</actor>
     </credits>
   </programme>
-  <programme start="20260402200000 +0000" stop="20260402220000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: BJJ 7 Tackett vs. Rocha starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>BJJ 7 Tackett vs. Rocha</actor>
-    </credits>
-  </programme>
-  <programme start="20260402220000 +0000" stop="20260403000000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: BJJ 7 Tackett vs. Rocha starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>BJJ 7 Tackett vs. Rocha</actor>
-    </credits>
-  </programme>
-  <programme start="20260403000000 +0000" stop="20260403030000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: BJJ 7 Tackett vs. Rocha (4.2 8:00 PM ET)</title>
+  <programme start="20260403190000 +0000" stop="20260403220000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Snocross National at Spirit Mountain (4.3 3:00 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>BJJ 7 Tackett vs. Rocha</actor>
+      <actor>Snocross National at Spirit Mountain</actor>
+    </credits>
+  </programme>
+  <programme start="20260403100000 +0000" stop="20260403120000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Spring Nationals at Wythe starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>Spring Nationals at Wythe</actor>
+    </credits>
+  </programme>
+  <programme start="20260403120000 +0000" stop="20260403140000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Spring Nationals at Wythe starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>Spring Nationals at Wythe</actor>
+    </credits>
+  </programme>
+  <programme start="20260403140000 +0000" stop="20260403160000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Spring Nationals at Wythe starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>Spring Nationals at Wythe</actor>
+    </credits>
+  </programme>
+  <programme start="20260403160000 +0000" stop="20260403180000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Spring Nationals at Wythe starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>Spring Nationals at Wythe</actor>
+    </credits>
+  </programme>
+  <programme start="20260403180000 +0000" stop="20260403200000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Spring Nationals at Wythe starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>Spring Nationals at Wythe</actor>
+    </credits>
+  </programme>
+  <programme start="20260403200000 +0000" stop="20260403220000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Spring Nationals at Wythe starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>Spring Nationals at Wythe</actor>
+    </credits>
+  </programme>
+  <programme start="20260403220000 +0000" stop="20260403230000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Spring Nationals at Wythe starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>Spring Nationals at Wythe</actor>
+    </credits>
+  </programme>
+  <programme start="20260403230000 +0000" stop="20260404020000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Spring Nationals at Wythe (4.3 7:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>Spring Nationals at Wythe</actor>
+    </credits>
+  </programme>
+  <programme start="20260403100000 +0000" stop="20260403120000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: USAC AMSOIL National Sprint Cars at Red Hill starts at 7:10 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>USAC AMSOIL National Sprint Cars at Red Hill</actor>
+    </credits>
+  </programme>
+  <programme start="20260403120000 +0000" stop="20260403140000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: USAC AMSOIL National Sprint Cars at Red Hill starts at 7:10 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>USAC AMSOIL National Sprint Cars at Red Hill</actor>
+    </credits>
+  </programme>
+  <programme start="20260403140000 +0000" stop="20260403160000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: USAC AMSOIL National Sprint Cars at Red Hill starts at 7:10 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>USAC AMSOIL National Sprint Cars at Red Hill</actor>
+    </credits>
+  </programme>
+  <programme start="20260403160000 +0000" stop="20260403180000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: USAC AMSOIL National Sprint Cars at Red Hill starts at 7:10 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>USAC AMSOIL National Sprint Cars at Red Hill</actor>
+    </credits>
+  </programme>
+  <programme start="20260403180000 +0000" stop="20260403200000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: USAC AMSOIL National Sprint Cars at Red Hill starts at 7:10 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>USAC AMSOIL National Sprint Cars at Red Hill</actor>
+    </credits>
+  </programme>
+  <programme start="20260403200000 +0000" stop="20260403220000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: USAC AMSOIL National Sprint Cars at Red Hill starts at 7:10 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>USAC AMSOIL National Sprint Cars at Red Hill</actor>
+    </credits>
+  </programme>
+  <programme start="20260403220000 +0000" stop="20260403231000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: USAC AMSOIL National Sprint Cars at Red Hill starts at 7:10 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>USAC AMSOIL National Sprint Cars at Red Hill</actor>
+    </credits>
+  </programme>
+  <programme start="20260403231000 +0000" stop="20260404021000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: USAC AMSOIL National Sprint Cars at Red Hill (4.3 7:10 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>USAC AMSOIL National Sprint Cars at Red Hill</actor>
+    </credits>
+  </programme>
+  <programme start="20260403100000 +0000" stop="20260403120000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: Williams Grove Speedway starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>Williams Grove Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260403120000 +0000" stop="20260403140000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: Williams Grove Speedway starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>Williams Grove Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260403140000 +0000" stop="20260403160000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: Williams Grove Speedway starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>Williams Grove Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260403160000 +0000" stop="20260403180000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: Williams Grove Speedway starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>Williams Grove Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260403180000 +0000" stop="20260403200000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: Williams Grove Speedway starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>Williams Grove Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260403200000 +0000" stop="20260403220000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: Williams Grove Speedway starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>Williams Grove Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260403220000 +0000" stop="20260403230000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: Williams Grove Speedway starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>Williams Grove Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260403230000 +0000" stop="20260404020000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: Williams Grove Speedway (4.3 7:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>Williams Grove Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260403100000 +0000" stop="20260403120000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: GCW Last Call starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>GCW Last Call</actor>
+    </credits>
+  </programme>
+  <programme start="20260403120000 +0000" stop="20260403140000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: GCW Last Call starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>GCW Last Call</actor>
+    </credits>
+  </programme>
+  <programme start="20260403140000 +0000" stop="20260403160000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: GCW Last Call starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>GCW Last Call</actor>
+    </credits>
+  </programme>
+  <programme start="20260403160000 +0000" stop="20260403180000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: GCW Last Call starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>GCW Last Call</actor>
+    </credits>
+  </programme>
+  <programme start="20260403180000 +0000" stop="20260403200000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: GCW Last Call starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>GCW Last Call</actor>
+    </credits>
+  </programme>
+  <programme start="20260403200000 +0000" stop="20260403220000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: GCW Last Call starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>GCW Last Call</actor>
+    </credits>
+  </programme>
+  <programme start="20260403220000 +0000" stop="20260404000000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: GCW Last Call starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>GCW Last Call</actor>
+    </credits>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260404020000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: GCW Last Call starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>GCW Last Call</actor>
+    </credits>
+  </programme>
+  <programme start="20260404020000 +0000" stop="20260404030000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: GCW Last Call starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>GCW Last Call</actor>
+    </credits>
+  </programme>
+  <programme start="20260404030000 +0000" stop="20260404060000 +0000" channel="PPV 06">
+    <title lang="en">EVENT 06: GCW Last Call (4.3 11:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 06</actor>
+      <actor>GCW Last Call</actor>
+    </credits>
+  </programme>
+  <programme start="20260403100000 +0000" stop="20260403120000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: CFFC BJJ 17 starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>CFFC BJJ 17</actor>
+    </credits>
+  </programme>
+  <programme start="20260403120000 +0000" stop="20260403140000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: CFFC BJJ 17 starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>CFFC BJJ 17</actor>
+    </credits>
+  </programme>
+  <programme start="20260403140000 +0000" stop="20260403160000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: CFFC BJJ 17 starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>CFFC BJJ 17</actor>
+    </credits>
+  </programme>
+  <programme start="20260403160000 +0000" stop="20260403180000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: CFFC BJJ 17 starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>CFFC BJJ 17</actor>
+    </credits>
+  </programme>
+  <programme start="20260403180000 +0000" stop="20260403200000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: CFFC BJJ 17 starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>CFFC BJJ 17</actor>
+    </credits>
+  </programme>
+  <programme start="20260403200000 +0000" stop="20260403220000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: CFFC BJJ 17 starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>CFFC BJJ 17</actor>
+    </credits>
+  </programme>
+  <programme start="20260403220000 +0000" stop="20260404000000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: CFFC BJJ 17 starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>CFFC BJJ 17</actor>
+    </credits>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260404030000 +0000" channel="PPV 07">
+    <title lang="en">EVENT 07: CFFC BJJ 17 (4.3 8:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 07</actor>
+      <actor>CFFC BJJ 17</actor>
+    </credits>
+  </programme>
+  <programme start="20260403100000 +0000" stop="20260403120000 +0000" channel="PPV 08">
+    <title lang="en">EVENT 08: PRELIMS Brown vs. Ducar starts at 12:10 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 08</actor>
+      <actor>PRELIMS Brown vs. Ducar</actor>
+    </credits>
+  </programme>
+  <programme start="20260403120000 +0000" stop="20260403140000 +0000" channel="PPV 08">
+    <title lang="en">EVENT 08: PRELIMS Brown vs. Ducar starts at 12:10 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 08</actor>
+      <actor>PRELIMS Brown vs. Ducar</actor>
+    </credits>
+  </programme>
+  <programme start="20260403140000 +0000" stop="20260403160000 +0000" channel="PPV 08">
+    <title lang="en">EVENT 08: PRELIMS Brown vs. Ducar starts at 12:10 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 08</actor>
+      <actor>PRELIMS Brown vs. Ducar</actor>
+    </credits>
+  </programme>
+  <programme start="20260403160000 +0000" stop="20260403161000 +0000" channel="PPV 08">
+    <title lang="en">EVENT 08: PRELIMS Brown vs. Ducar starts at 12:10 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 08</actor>
+      <actor>PRELIMS Brown vs. Ducar</actor>
+    </credits>
+  </programme>
+  <programme start="20260403161000 +0000" stop="20260403191000 +0000" channel="PPV 08">
+    <title lang="en">EVENT 08: PRELIMS Brown vs. Ducar (4.3 12:10 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 08</actor>
+      <actor>PRELIMS Brown vs. Ducar</actor>
+    </credits>
+  </programme>
+  <programme start="20260403100000 +0000" stop="20260403120000 +0000" channel="PPV 09">
+    <title lang="en">EVENT 09: Brown vs. Ducar starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 09</actor>
+      <actor>Brown vs. Ducar</actor>
+    </credits>
+  </programme>
+  <programme start="20260403120000 +0000" stop="20260403140000 +0000" channel="PPV 09">
+    <title lang="en">EVENT 09: Brown vs. Ducar starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 09</actor>
+      <actor>Brown vs. Ducar</actor>
+    </credits>
+  </programme>
+  <programme start="20260403140000 +0000" stop="20260403160000 +0000" channel="PPV 09">
+    <title lang="en">EVENT 09: Brown vs. Ducar starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 09</actor>
+      <actor>Brown vs. Ducar</actor>
+    </credits>
+  </programme>
+  <programme start="20260403160000 +0000" stop="20260403180000 +0000" channel="PPV 09">
+    <title lang="en">EVENT 09: Brown vs. Ducar starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 09</actor>
+      <actor>Brown vs. Ducar</actor>
+    </credits>
+  </programme>
+  <programme start="20260403180000 +0000" stop="20260403210000 +0000" channel="PPV 09">
+    <title lang="en">EVENT 09: Brown vs. Ducar (4.3 2:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 09</actor>
+      <actor>Brown vs. Ducar</actor>
+    </credits>
+  </programme>
+  <programme start="20260403100000 +0000" stop="20260403120000 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: Perez vs. Montoya starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>Perez vs. Montoya</actor>
+    </credits>
+  </programme>
+  <programme start="20260403120000 +0000" stop="20260403140000 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: Perez vs. Montoya starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>Perez vs. Montoya</actor>
+    </credits>
+  </programme>
+  <programme start="20260403140000 +0000" stop="20260403160000 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: Perez vs. Montoya starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>Perez vs. Montoya</actor>
+    </credits>
+  </programme>
+  <programme start="20260403160000 +0000" stop="20260403180000 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: Perez vs. Montoya starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>Perez vs. Montoya</actor>
+    </credits>
+  </programme>
+  <programme start="20260403180000 +0000" stop="20260403200000 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: Perez vs. Montoya starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>Perez vs. Montoya</actor>
+    </credits>
+  </programme>
+  <programme start="20260403200000 +0000" stop="20260403220000 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: Perez vs. Montoya starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>Perez vs. Montoya</actor>
+    </credits>
+  </programme>
+  <programme start="20260403220000 +0000" stop="20260404000000 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: Perez vs. Montoya starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>Perez vs. Montoya</actor>
+    </credits>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260404030000 +0000" channel="PPV 10">
+    <title lang="en">EVENT 10: Perez vs. Montoya (4.3 8:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 10</actor>
+      <actor>Perez vs. Montoya</actor>
     </credits>
   </programme>
 </tv>
