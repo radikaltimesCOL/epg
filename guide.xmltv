@@ -210,310 +210,157 @@
   <channel id="PPV 70">
     <display-name>PPV 70</display-name>
   </channel>
-  <programme start="20260412100000 +0000" stop="20260412120000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Porsche Sprint Challenge at Sonoma starts at 11:15 AM ET</title>
+  <programme start="20260413100000 +0000" stop="20260413120000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Porsche Sprint Challenge at Sonoma</actor>
+      <actor>WWE Monday Night Raw</actor>
     </credits>
   </programme>
-  <programme start="20260412120000 +0000" stop="20260412140000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Porsche Sprint Challenge at Sonoma starts at 11:15 AM ET</title>
+  <programme start="20260413120000 +0000" stop="20260413140000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Porsche Sprint Challenge at Sonoma</actor>
+      <actor>WWE Monday Night Raw</actor>
     </credits>
   </programme>
-  <programme start="20260412140000 +0000" stop="20260412151500 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Porsche Sprint Challenge at Sonoma starts at 11:15 AM ET</title>
+  <programme start="20260413140000 +0000" stop="20260413160000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Porsche Sprint Challenge at Sonoma</actor>
+      <actor>WWE Monday Night Raw</actor>
     </credits>
   </programme>
-  <programme start="20260412151500 +0000" stop="20260412181500 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Porsche Sprint Challenge at Sonoma (4.12 11:15 AM ET)</title>
+  <programme start="20260413160000 +0000" stop="20260413180000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260413180000 +0000" stop="20260413200000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260413200000 +0000" stop="20260413220000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260413220000 +0000" stop="20260414000000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260414000000 +0000" stop="20260414030000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw (4.13 8:00 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Porsche Sprint Challenge at Sonoma</actor>
+      <actor>WWE Monday Night Raw</actor>
     </credits>
   </programme>
-  <programme start="20260412100000 +0000" stop="20260412120000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: NASCAR Whelen Modified Tour at Thompson starts at 4:15 PM ET</title>
+  <programme start="20260413100000 +0000" stop="20260413120000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: The Roast of Mick Foley starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>NASCAR Whelen Modified Tour at Thompson</actor>
+      <actor>The Roast of Mick Foley</actor>
     </credits>
   </programme>
-  <programme start="20260412120000 +0000" stop="20260412140000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: NASCAR Whelen Modified Tour at Thompson starts at 4:15 PM ET</title>
+  <programme start="20260413120000 +0000" stop="20260413140000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: The Roast of Mick Foley starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>NASCAR Whelen Modified Tour at Thompson</actor>
+      <actor>The Roast of Mick Foley</actor>
     </credits>
   </programme>
-  <programme start="20260412140000 +0000" stop="20260412160000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: NASCAR Whelen Modified Tour at Thompson starts at 4:15 PM ET</title>
+  <programme start="20260413140000 +0000" stop="20260413160000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: The Roast of Mick Foley starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>NASCAR Whelen Modified Tour at Thompson</actor>
+      <actor>The Roast of Mick Foley</actor>
     </credits>
   </programme>
-  <programme start="20260412160000 +0000" stop="20260412180000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: NASCAR Whelen Modified Tour at Thompson starts at 4:15 PM ET</title>
+  <programme start="20260413160000 +0000" stop="20260413180000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: The Roast of Mick Foley starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>NASCAR Whelen Modified Tour at Thompson</actor>
+      <actor>The Roast of Mick Foley</actor>
     </credits>
   </programme>
-  <programme start="20260412180000 +0000" stop="20260412200000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: NASCAR Whelen Modified Tour at Thompson starts at 4:15 PM ET</title>
+  <programme start="20260413180000 +0000" stop="20260413200000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: The Roast of Mick Foley starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>NASCAR Whelen Modified Tour at Thompson</actor>
+      <actor>The Roast of Mick Foley</actor>
     </credits>
   </programme>
-  <programme start="20260412200000 +0000" stop="20260412201500 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: NASCAR Whelen Modified Tour at Thompson starts at 4:15 PM ET</title>
+  <programme start="20260413200000 +0000" stop="20260413220000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: The Roast of Mick Foley starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>NASCAR Whelen Modified Tour at Thompson</actor>
+      <actor>The Roast of Mick Foley</actor>
     </credits>
   </programme>
-  <programme start="20260412201500 +0000" stop="20260412231500 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: NASCAR Whelen Modified Tour at Thompson (4.12 4:15 PM ET)</title>
+  <programme start="20260413220000 +0000" stop="20260414000000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: The Roast of Mick Foley starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>The Roast of Mick Foley</actor>
+    </credits>
+  </programme>
+  <programme start="20260414000000 +0000" stop="20260414010000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: The Roast of Mick Foley starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>The Roast of Mick Foley</actor>
+    </credits>
+  </programme>
+  <programme start="20260414010000 +0000" stop="20260414040000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: The Roast of Mick Foley (4.13 9:00 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>NASCAR Whelen Modified Tour at Thompson</actor>
-    </credits>
-  </programme>
-  <programme start="20260412100000 +0000" stop="20260412120000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: USAC Jim Hurtubise Classic at Terre Haute starts at 6:10 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>USAC Jim Hurtubise Classic at Terre Haute</actor>
-    </credits>
-  </programme>
-  <programme start="20260412120000 +0000" stop="20260412140000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: USAC Jim Hurtubise Classic at Terre Haute starts at 6:10 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>USAC Jim Hurtubise Classic at Terre Haute</actor>
-    </credits>
-  </programme>
-  <programme start="20260412140000 +0000" stop="20260412160000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: USAC Jim Hurtubise Classic at Terre Haute starts at 6:10 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>USAC Jim Hurtubise Classic at Terre Haute</actor>
-    </credits>
-  </programme>
-  <programme start="20260412160000 +0000" stop="20260412180000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: USAC Jim Hurtubise Classic at Terre Haute starts at 6:10 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>USAC Jim Hurtubise Classic at Terre Haute</actor>
-    </credits>
-  </programme>
-  <programme start="20260412180000 +0000" stop="20260412200000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: USAC Jim Hurtubise Classic at Terre Haute starts at 6:10 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>USAC Jim Hurtubise Classic at Terre Haute</actor>
-    </credits>
-  </programme>
-  <programme start="20260412200000 +0000" stop="20260412220000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: USAC Jim Hurtubise Classic at Terre Haute starts at 6:10 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>USAC Jim Hurtubise Classic at Terre Haute</actor>
-    </credits>
-  </programme>
-  <programme start="20260412220000 +0000" stop="20260412221000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: USAC Jim Hurtubise Classic at Terre Haute starts at 6:10 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>USAC Jim Hurtubise Classic at Terre Haute</actor>
-    </credits>
-  </programme>
-  <programme start="20260412221000 +0000" stop="20260413011000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: USAC Jim Hurtubise Classic at Terre Haute (4.12 6:10 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>USAC Jim Hurtubise Classic at Terre Haute</actor>
-    </credits>
-  </programme>
-  <programme start="20260412100000 +0000" stop="20260412120000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: AEW Dynasty starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>AEW Dynasty</actor>
-    </credits>
-  </programme>
-  <programme start="20260412120000 +0000" stop="20260412140000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: AEW Dynasty starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>AEW Dynasty</actor>
-    </credits>
-  </programme>
-  <programme start="20260412140000 +0000" stop="20260412160000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: AEW Dynasty starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>AEW Dynasty</actor>
-    </credits>
-  </programme>
-  <programme start="20260412160000 +0000" stop="20260412180000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: AEW Dynasty starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>AEW Dynasty</actor>
-    </credits>
-  </programme>
-  <programme start="20260412180000 +0000" stop="20260412200000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: AEW Dynasty starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>AEW Dynasty</actor>
-    </credits>
-  </programme>
-  <programme start="20260412200000 +0000" stop="20260412220000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: AEW Dynasty starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>AEW Dynasty</actor>
-    </credits>
-  </programme>
-  <programme start="20260412220000 +0000" stop="20260413000000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: AEW Dynasty starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>AEW Dynasty</actor>
-    </credits>
-  </programme>
-  <programme start="20260413000000 +0000" stop="20260413030000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: AEW Dynasty (4.12 8:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>AEW Dynasty</actor>
-    </credits>
-  </programme>
-  <programme start="20260412100000 +0000" stop="20260412120000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Fury FC 118 starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Fury FC 118</actor>
-    </credits>
-  </programme>
-  <programme start="20260412120000 +0000" stop="20260412140000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Fury FC 118 starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Fury FC 118</actor>
-    </credits>
-  </programme>
-  <programme start="20260412140000 +0000" stop="20260412160000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Fury FC 118 starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Fury FC 118</actor>
-    </credits>
-  </programme>
-  <programme start="20260412160000 +0000" stop="20260412180000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Fury FC 118 starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Fury FC 118</actor>
-    </credits>
-  </programme>
-  <programme start="20260412180000 +0000" stop="20260412200000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Fury FC 118 starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Fury FC 118</actor>
-    </credits>
-  </programme>
-  <programme start="20260412200000 +0000" stop="20260412213000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Fury FC 118 starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Fury FC 118</actor>
-    </credits>
-  </programme>
-  <programme start="20260412213000 +0000" stop="20260413003000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Fury FC 118 (4.12 5:30 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Fury FC 118</actor>
+      <actor>The Roast of Mick Foley</actor>
     </credits>
   </programme>
 </tv>
