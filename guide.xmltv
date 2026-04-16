@@ -210,148 +210,301 @@
   <channel id="PPV 70">
     <display-name>PPV 70</display-name>
   </channel>
-  <programme start="20260415100000 +0000" stop="20260415120000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Millbridge Speedway starts at 6:15 PM ET</title>
+  <programme start="20260416100000 +0000" stop="20260416120000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: PDRA East Coast Nationals starts at 11:45 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Millbridge Speedway</actor>
+      <actor>PDRA East Coast Nationals</actor>
     </credits>
   </programme>
-  <programme start="20260415120000 +0000" stop="20260415140000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Millbridge Speedway starts at 6:15 PM ET</title>
+  <programme start="20260416120000 +0000" stop="20260416140000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: PDRA East Coast Nationals starts at 11:45 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Millbridge Speedway</actor>
+      <actor>PDRA East Coast Nationals</actor>
     </credits>
   </programme>
-  <programme start="20260415140000 +0000" stop="20260415160000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Millbridge Speedway starts at 6:15 PM ET</title>
+  <programme start="20260416140000 +0000" stop="20260416154500 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: PDRA East Coast Nationals starts at 11:45 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Millbridge Speedway</actor>
+      <actor>PDRA East Coast Nationals</actor>
     </credits>
   </programme>
-  <programme start="20260415160000 +0000" stop="20260415180000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Millbridge Speedway starts at 6:15 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>Millbridge Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260415180000 +0000" stop="20260415200000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Millbridge Speedway starts at 6:15 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>Millbridge Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260415200000 +0000" stop="20260415220000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Millbridge Speedway starts at 6:15 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>Millbridge Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260415220000 +0000" stop="20260415221500 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Millbridge Speedway starts at 6:15 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>Millbridge Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260415221500 +0000" stop="20260416011500 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Millbridge Speedway (4.15 6:15 PM ET)</title>
+  <programme start="20260416154500 +0000" stop="20260416184500 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: PDRA East Coast Nationals (4.16 11:45 AM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>Millbridge Speedway</actor>
+      <actor>PDRA East Coast Nationals</actor>
     </credits>
   </programme>
-  <programme start="20260415100000 +0000" stop="20260415120000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: The Gauntlet at The Gap Night Two starts at 7:00 PM ET</title>
+  <programme start="20260416100000 +0000" stop="20260416120000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Cedar Lake Speedway starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>The Gauntlet at The Gap Night Two</actor>
+      <actor>Cedar Lake Speedway</actor>
     </credits>
   </programme>
-  <programme start="20260415120000 +0000" stop="20260415140000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: The Gauntlet at The Gap Night Two starts at 7:00 PM ET</title>
+  <programme start="20260416120000 +0000" stop="20260416140000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Cedar Lake Speedway starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>The Gauntlet at The Gap Night Two</actor>
+      <actor>Cedar Lake Speedway</actor>
     </credits>
   </programme>
-  <programme start="20260415140000 +0000" stop="20260415160000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: The Gauntlet at The Gap Night Two starts at 7:00 PM ET</title>
+  <programme start="20260416140000 +0000" stop="20260416160000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Cedar Lake Speedway starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>The Gauntlet at The Gap Night Two</actor>
+      <actor>Cedar Lake Speedway</actor>
     </credits>
   </programme>
-  <programme start="20260415160000 +0000" stop="20260415180000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: The Gauntlet at The Gap Night Two starts at 7:00 PM ET</title>
+  <programme start="20260416160000 +0000" stop="20260416180000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Cedar Lake Speedway starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>The Gauntlet at The Gap Night Two</actor>
+      <actor>Cedar Lake Speedway</actor>
     </credits>
   </programme>
-  <programme start="20260415180000 +0000" stop="20260415200000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: The Gauntlet at The Gap Night Two starts at 7:00 PM ET</title>
+  <programme start="20260416180000 +0000" stop="20260416200000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Cedar Lake Speedway starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>The Gauntlet at The Gap Night Two</actor>
+      <actor>Cedar Lake Speedway</actor>
     </credits>
   </programme>
-  <programme start="20260415200000 +0000" stop="20260415220000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: The Gauntlet at The Gap Night Two starts at 7:00 PM ET</title>
+  <programme start="20260416200000 +0000" stop="20260416213000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Cedar Lake Speedway starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>The Gauntlet at The Gap Night Two</actor>
+      <actor>Cedar Lake Speedway</actor>
     </credits>
   </programme>
-  <programme start="20260415220000 +0000" stop="20260415230000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: The Gauntlet at The Gap Night Two starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>The Gauntlet at The Gap Night Two</actor>
-    </credits>
-  </programme>
-  <programme start="20260415230000 +0000" stop="20260416020000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: The Gauntlet at The Gap Night Two (4.15 7:00 PM ET)</title>
+  <programme start="20260416213000 +0000" stop="20260417003000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Cedar Lake Speedway (4.16 5:30 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>The Gauntlet at The Gap Night Two</actor>
+      <actor>Cedar Lake Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260416100000 +0000" stop="20260416120000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: TJPW live in Las Vegas starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>TJPW live in Las Vegas</actor>
+    </credits>
+  </programme>
+  <programme start="20260416120000 +0000" stop="20260416140000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: TJPW live in Las Vegas starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>TJPW live in Las Vegas</actor>
+    </credits>
+  </programme>
+  <programme start="20260416140000 +0000" stop="20260416160000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: TJPW live in Las Vegas starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>TJPW live in Las Vegas</actor>
+    </credits>
+  </programme>
+  <programme start="20260416160000 +0000" stop="20260416180000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: TJPW live in Las Vegas starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>TJPW live in Las Vegas</actor>
+    </credits>
+  </programme>
+  <programme start="20260416180000 +0000" stop="20260416210000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: TJPW live in Las Vegas (4.16 2:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>TJPW live in Las Vegas</actor>
+    </credits>
+  </programme>
+  <programme start="20260416100000 +0000" stop="20260416120000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: CMLL at Palms Slam Fest starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>CMLL at Palms Slam Fest</actor>
+    </credits>
+  </programme>
+  <programme start="20260416120000 +0000" stop="20260416140000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: CMLL at Palms Slam Fest starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>CMLL at Palms Slam Fest</actor>
+    </credits>
+  </programme>
+  <programme start="20260416140000 +0000" stop="20260416160000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: CMLL at Palms Slam Fest starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>CMLL at Palms Slam Fest</actor>
+    </credits>
+  </programme>
+  <programme start="20260416160000 +0000" stop="20260416180000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: CMLL at Palms Slam Fest starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>CMLL at Palms Slam Fest</actor>
+    </credits>
+  </programme>
+  <programme start="20260416180000 +0000" stop="20260416200000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: CMLL at Palms Slam Fest starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>CMLL at Palms Slam Fest</actor>
+    </credits>
+  </programme>
+  <programme start="20260416200000 +0000" stop="20260416220000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: CMLL at Palms Slam Fest starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>CMLL at Palms Slam Fest</actor>
+    </credits>
+  </programme>
+  <programme start="20260416220000 +0000" stop="20260417010000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: CMLL at Palms Slam Fest (4.16 6:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>CMLL at Palms Slam Fest</actor>
+    </credits>
+  </programme>
+  <programme start="20260416100000 +0000" stop="20260416120000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: HOG Las Vegas Culture Clash starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>HOG Las Vegas Culture Clash</actor>
+    </credits>
+  </programme>
+  <programme start="20260416120000 +0000" stop="20260416140000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: HOG Las Vegas Culture Clash starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>HOG Las Vegas Culture Clash</actor>
+    </credits>
+  </programme>
+  <programme start="20260416140000 +0000" stop="20260416160000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: HOG Las Vegas Culture Clash starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>HOG Las Vegas Culture Clash</actor>
+    </credits>
+  </programme>
+  <programme start="20260416160000 +0000" stop="20260416180000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: HOG Las Vegas Culture Clash starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>HOG Las Vegas Culture Clash</actor>
+    </credits>
+  </programme>
+  <programme start="20260416180000 +0000" stop="20260416200000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: HOG Las Vegas Culture Clash starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>HOG Las Vegas Culture Clash</actor>
+    </credits>
+  </programme>
+  <programme start="20260416200000 +0000" stop="20260416220000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: HOG Las Vegas Culture Clash starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>HOG Las Vegas Culture Clash</actor>
+    </credits>
+  </programme>
+  <programme start="20260416220000 +0000" stop="20260417000000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: HOG Las Vegas Culture Clash starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>HOG Las Vegas Culture Clash</actor>
+    </credits>
+  </programme>
+  <programme start="20260417000000 +0000" stop="20260417020000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: HOG Las Vegas Culture Clash starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>HOG Las Vegas Culture Clash</actor>
+    </credits>
+  </programme>
+  <programme start="20260417020000 +0000" stop="20260417030000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: HOG Las Vegas Culture Clash starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>HOG Las Vegas Culture Clash</actor>
+    </credits>
+  </programme>
+  <programme start="20260417030000 +0000" stop="20260417060000 +0000" channel="PPV 05">
+    <title lang="en">EVENT 05: HOG Las Vegas Culture Clash (4.16 11:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 05</actor>
+      <actor>HOG Las Vegas Culture Clash</actor>
     </credits>
   </programme>
 </tv>
