@@ -2097,540 +2097,518 @@
   <channel id="SOCCER 99">
     <display-name>SOCCER 99</display-name>
   </channel>
-  <programme start="20260423100000 +0000" stop="20260423120000 +0000" channel="SOCCER 01">
-    <title lang="en">Levante @ Sevilla - starts at 1:00 PM ET</title>
+  <programme start="20260424100000 +0000" stop="20260424120000 +0000" channel="SOCCER 01">
+    <title lang="en">Sunderland @ Nottingham Forest - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Sunderland</actor>
+      <actor>Nottingham Forest</actor>
+    </credits>
+    <sub-title lang="en">Venue: Stadium of Light</sub-title>
+  </programme>
+  <programme start="20260424120000 +0000" stop="20260424140000 +0000" channel="SOCCER 01">
+    <title lang="en">Sunderland @ Nottingham Forest - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Sunderland</actor>
+      <actor>Nottingham Forest</actor>
+    </credits>
+    <sub-title lang="en">Venue: Stadium of Light</sub-title>
+  </programme>
+  <programme start="20260424140000 +0000" stop="20260424160000 +0000" channel="SOCCER 01">
+    <title lang="en">Sunderland @ Nottingham Forest - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Sunderland</actor>
+      <actor>Nottingham Forest</actor>
+    </credits>
+    <sub-title lang="en">Venue: Stadium of Light</sub-title>
+  </programme>
+  <programme start="20260424160000 +0000" stop="20260424180000 +0000" channel="SOCCER 01">
+    <title lang="en">Sunderland @ Nottingham Forest - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Sunderland</actor>
+      <actor>Nottingham Forest</actor>
+    </credits>
+    <sub-title lang="en">Venue: Stadium of Light</sub-title>
+  </programme>
+  <programme start="20260424180000 +0000" stop="20260424190000 +0000" channel="SOCCER 01">
+    <title lang="en">Sunderland @ Nottingham Forest - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Sunderland</actor>
+      <actor>Nottingham Forest</actor>
+    </credits>
+    <sub-title lang="en">Venue: Stadium of Light</sub-title>
+  </programme>
+  <programme start="20260424190000 +0000" stop="20260424210000 +0000" channel="SOCCER 01">
+    <title lang="en">Sunderland @ Nottingham Forest</title>
+    <desc lang="en">2025 26 English Premier League | Network: USA Net | Venue: Stadium of Light, Sunderland</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Sunderland</actor>
+      <actor>Nottingham Forest</actor>
+    </credits>
+    <sub-title lang="en">Venue: Stadium of Light</sub-title>
+  </programme>
+  <programme start="20260424100000 +0000" stop="20260424120000 +0000" channel="SOCCER 02">
+    <title lang="en">Real Betis @ Real Madrid - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">LA LIGA</category>
     <credits>
-      <actor>Levante</actor>
-      <actor>Sevilla</actor>
+      <actor>Real Betis</actor>
+      <actor>Real Madrid</actor>
     </credits>
-    <sub-title lang="en">Venue: Estadi Ciutat de València</sub-title>
+    <sub-title lang="en">Venue: Estadio La Cartuja</sub-title>
   </programme>
-  <programme start="20260423120000 +0000" stop="20260423140000 +0000" channel="SOCCER 01">
-    <title lang="en">Levante @ Sevilla - starts at 1:00 PM ET</title>
+  <programme start="20260424120000 +0000" stop="20260424140000 +0000" channel="SOCCER 02">
+    <title lang="en">Real Betis @ Real Madrid - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">LA LIGA</category>
     <credits>
-      <actor>Levante</actor>
-      <actor>Sevilla</actor>
+      <actor>Real Betis</actor>
+      <actor>Real Madrid</actor>
     </credits>
-    <sub-title lang="en">Venue: Estadi Ciutat de València</sub-title>
+    <sub-title lang="en">Venue: Estadio La Cartuja</sub-title>
   </programme>
-  <programme start="20260423140000 +0000" stop="20260423160000 +0000" channel="SOCCER 01">
-    <title lang="en">Levante @ Sevilla - starts at 1:00 PM ET</title>
+  <programme start="20260424140000 +0000" stop="20260424160000 +0000" channel="SOCCER 02">
+    <title lang="en">Real Betis @ Real Madrid - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">LA LIGA</category>
     <credits>
-      <actor>Levante</actor>
-      <actor>Sevilla</actor>
+      <actor>Real Betis</actor>
+      <actor>Real Madrid</actor>
     </credits>
-    <sub-title lang="en">Venue: Estadi Ciutat de València</sub-title>
+    <sub-title lang="en">Venue: Estadio La Cartuja</sub-title>
   </programme>
-  <programme start="20260423160000 +0000" stop="20260423170000 +0000" channel="SOCCER 01">
-    <title lang="en">Levante @ Sevilla - starts at 1:00 PM ET</title>
+  <programme start="20260424160000 +0000" stop="20260424180000 +0000" channel="SOCCER 02">
+    <title lang="en">Real Betis @ Real Madrid - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">LA LIGA</category>
     <credits>
-      <actor>Levante</actor>
-      <actor>Sevilla</actor>
+      <actor>Real Betis</actor>
+      <actor>Real Madrid</actor>
     </credits>
-    <sub-title lang="en">Venue: Estadi Ciutat de València</sub-title>
+    <sub-title lang="en">Venue: Estadio La Cartuja</sub-title>
   </programme>
-  <programme start="20260423170000 +0000" stop="20260423190000 +0000" channel="SOCCER 01">
-    <title lang="en">Levante @ Sevilla</title>
-    <desc lang="en">2025 26 Laliga | Network: ESPN+ | Venue: Estadi Ciutat de València, Manises</desc>
+  <programme start="20260424180000 +0000" stop="20260424190000 +0000" channel="SOCCER 02">
+    <title lang="en">Real Betis @ Real Madrid - starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">LA LIGA</category>
+    <credits>
+      <actor>Real Betis</actor>
+      <actor>Real Madrid</actor>
+    </credits>
+    <sub-title lang="en">Venue: Estadio La Cartuja</sub-title>
+  </programme>
+  <programme start="20260424190000 +0000" stop="20260424210000 +0000" channel="SOCCER 02">
+    <title lang="en">Real Betis @ Real Madrid</title>
+    <desc lang="en">2025 26 Laliga | Network: ESPN Deportes, ESPN+ | Venue: Estadio La Cartuja, Sevilla</desc>
     <category lang="en">Sports</category>
     <category lang="en">LA LIGA</category>
     <credits>
-      <actor>Levante</actor>
-      <actor>Sevilla</actor>
+      <actor>Real Betis</actor>
+      <actor>Real Madrid</actor>
     </credits>
-    <sub-title lang="en">Venue: Estadi Ciutat de València</sub-title>
+    <sub-title lang="en">Venue: Estadio La Cartuja</sub-title>
   </programme>
-  <programme start="20260423100000 +0000" stop="20260423120000 +0000" channel="SOCCER 02">
-    <title lang="en">Rayo Vallecano @ Espanyol - starts at 2:00 PM ET</title>
+  <programme start="20260424100000 +0000" stop="20260424120000 +0000" channel="SOCCER 03">
+    <title lang="en">RB Leipzig @ 1. FC Union Berlin - starts at 2:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
+    <category lang="en">BUNDESLIGA</category>
     <credits>
-      <actor>Rayo Vallecano</actor>
-      <actor>Espanyol</actor>
+      <actor>RB Leipzig</actor>
+      <actor>1. FC Union Berlin</actor>
     </credits>
-    <sub-title lang="en">Venue: Estadio de Vallecas</sub-title>
+    <sub-title lang="en">Venue: Red Bull Arena</sub-title>
   </programme>
-  <programme start="20260423120000 +0000" stop="20260423140000 +0000" channel="SOCCER 02">
-    <title lang="en">Rayo Vallecano @ Espanyol - starts at 2:00 PM ET</title>
+  <programme start="20260424120000 +0000" stop="20260424140000 +0000" channel="SOCCER 03">
+    <title lang="en">RB Leipzig @ 1. FC Union Berlin - starts at 2:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
+    <category lang="en">BUNDESLIGA</category>
     <credits>
-      <actor>Rayo Vallecano</actor>
-      <actor>Espanyol</actor>
+      <actor>RB Leipzig</actor>
+      <actor>1. FC Union Berlin</actor>
     </credits>
-    <sub-title lang="en">Venue: Estadio de Vallecas</sub-title>
+    <sub-title lang="en">Venue: Red Bull Arena</sub-title>
   </programme>
-  <programme start="20260423140000 +0000" stop="20260423160000 +0000" channel="SOCCER 02">
-    <title lang="en">Rayo Vallecano @ Espanyol - starts at 2:00 PM ET</title>
+  <programme start="20260424140000 +0000" stop="20260424160000 +0000" channel="SOCCER 03">
+    <title lang="en">RB Leipzig @ 1. FC Union Berlin - starts at 2:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
+    <category lang="en">BUNDESLIGA</category>
     <credits>
-      <actor>Rayo Vallecano</actor>
-      <actor>Espanyol</actor>
+      <actor>RB Leipzig</actor>
+      <actor>1. FC Union Berlin</actor>
     </credits>
-    <sub-title lang="en">Venue: Estadio de Vallecas</sub-title>
+    <sub-title lang="en">Venue: Red Bull Arena</sub-title>
   </programme>
-  <programme start="20260423160000 +0000" stop="20260423180000 +0000" channel="SOCCER 02">
-    <title lang="en">Rayo Vallecano @ Espanyol - starts at 2:00 PM ET</title>
+  <programme start="20260424160000 +0000" stop="20260424180000 +0000" channel="SOCCER 03">
+    <title lang="en">RB Leipzig @ 1. FC Union Berlin - starts at 2:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
+    <category lang="en">BUNDESLIGA</category>
     <credits>
-      <actor>Rayo Vallecano</actor>
-      <actor>Espanyol</actor>
+      <actor>RB Leipzig</actor>
+      <actor>1. FC Union Berlin</actor>
     </credits>
-    <sub-title lang="en">Venue: Estadio de Vallecas</sub-title>
+    <sub-title lang="en">Venue: Red Bull Arena</sub-title>
   </programme>
-  <programme start="20260423180000 +0000" stop="20260423200000 +0000" channel="SOCCER 02">
-    <title lang="en">Rayo Vallecano @ Espanyol</title>
-    <desc lang="en">2025 26 Laliga | Network: ESPN+ | Venue: Estadio de Vallecas, Madrid</desc>
+  <programme start="20260424180000 +0000" stop="20260424183000 +0000" channel="SOCCER 03">
+    <title lang="en">RB Leipzig @ 1. FC Union Berlin - starts at 2:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">BUNDESLIGA</category>
+    <credits>
+      <actor>RB Leipzig</actor>
+      <actor>1. FC Union Berlin</actor>
+    </credits>
+    <sub-title lang="en">Venue: Red Bull Arena</sub-title>
+  </programme>
+  <programme start="20260424183000 +0000" stop="20260424203000 +0000" channel="SOCCER 03">
+    <title lang="en">RB Leipzig @ 1. FC Union Berlin</title>
+    <desc lang="en">2025 26 German Bundesliga | Network: ESPN+ | Venue: Red Bull Arena, Leipzig</desc>
     <category lang="en">Sports</category>
-    <category lang="en">LA LIGA</category>
+    <category lang="en">BUNDESLIGA</category>
     <credits>
-      <actor>Rayo Vallecano</actor>
-      <actor>Espanyol</actor>
+      <actor>RB Leipzig</actor>
+      <actor>1. FC Union Berlin</actor>
     </credits>
-    <sub-title lang="en">Venue: Estadio de Vallecas</sub-title>
+    <sub-title lang="en">Venue: Red Bull Arena</sub-title>
   </programme>
-  <programme start="20260423100000 +0000" stop="20260423120000 +0000" channel="SOCCER 03">
-    <title lang="en">Real Oviedo @ Villarreal - starts at 3:30 PM ET</title>
+  <programme start="20260424100000 +0000" stop="20260424120000 +0000" channel="SOCCER 04">
+    <title lang="en">Napoli @ Cremonese - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
+    <category lang="en">SERIE A</category>
     <credits>
-      <actor>Real Oviedo</actor>
-      <actor>Villarreal</actor>
+      <actor>Napoli</actor>
+      <actor>Cremonese</actor>
     </credits>
-    <sub-title lang="en">Venue: Estadio Carlos Tartiere</sub-title>
+    <sub-title lang="en">Venue: Stadio Diego Armando Maradona</sub-title>
   </programme>
-  <programme start="20260423120000 +0000" stop="20260423140000 +0000" channel="SOCCER 03">
-    <title lang="en">Real Oviedo @ Villarreal - starts at 3:30 PM ET</title>
+  <programme start="20260424120000 +0000" stop="20260424140000 +0000" channel="SOCCER 04">
+    <title lang="en">Napoli @ Cremonese - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
+    <category lang="en">SERIE A</category>
     <credits>
-      <actor>Real Oviedo</actor>
-      <actor>Villarreal</actor>
+      <actor>Napoli</actor>
+      <actor>Cremonese</actor>
     </credits>
-    <sub-title lang="en">Venue: Estadio Carlos Tartiere</sub-title>
+    <sub-title lang="en">Venue: Stadio Diego Armando Maradona</sub-title>
   </programme>
-  <programme start="20260423140000 +0000" stop="20260423160000 +0000" channel="SOCCER 03">
-    <title lang="en">Real Oviedo @ Villarreal - starts at 3:30 PM ET</title>
+  <programme start="20260424140000 +0000" stop="20260424160000 +0000" channel="SOCCER 04">
+    <title lang="en">Napoli @ Cremonese - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
+    <category lang="en">SERIE A</category>
     <credits>
-      <actor>Real Oviedo</actor>
-      <actor>Villarreal</actor>
+      <actor>Napoli</actor>
+      <actor>Cremonese</actor>
     </credits>
-    <sub-title lang="en">Venue: Estadio Carlos Tartiere</sub-title>
+    <sub-title lang="en">Venue: Stadio Diego Armando Maradona</sub-title>
   </programme>
-  <programme start="20260423160000 +0000" stop="20260423180000 +0000" channel="SOCCER 03">
-    <title lang="en">Real Oviedo @ Villarreal - starts at 3:30 PM ET</title>
+  <programme start="20260424160000 +0000" stop="20260424180000 +0000" channel="SOCCER 04">
+    <title lang="en">Napoli @ Cremonese - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
+    <category lang="en">SERIE A</category>
     <credits>
-      <actor>Real Oviedo</actor>
-      <actor>Villarreal</actor>
+      <actor>Napoli</actor>
+      <actor>Cremonese</actor>
     </credits>
-    <sub-title lang="en">Venue: Estadio Carlos Tartiere</sub-title>
+    <sub-title lang="en">Venue: Stadio Diego Armando Maradona</sub-title>
   </programme>
-  <programme start="20260423180000 +0000" stop="20260423193000 +0000" channel="SOCCER 03">
-    <title lang="en">Real Oviedo @ Villarreal - starts at 3:30 PM ET</title>
+  <programme start="20260424180000 +0000" stop="20260424184500 +0000" channel="SOCCER 04">
+    <title lang="en">Napoli @ Cremonese - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
+    <category lang="en">SERIE A</category>
     <credits>
-      <actor>Real Oviedo</actor>
-      <actor>Villarreal</actor>
+      <actor>Napoli</actor>
+      <actor>Cremonese</actor>
     </credits>
-    <sub-title lang="en">Venue: Estadio Carlos Tartiere</sub-title>
+    <sub-title lang="en">Venue: Stadio Diego Armando Maradona</sub-title>
   </programme>
-  <programme start="20260423193000 +0000" stop="20260423213000 +0000" channel="SOCCER 03">
-    <title lang="en">Real Oviedo @ Villarreal</title>
-    <desc lang="en">2025 26 Laliga | Network: ESPN+ | Venue: Estadio Carlos Tartiere, Oviedo</desc>
+  <programme start="20260424184500 +0000" stop="20260424204500 +0000" channel="SOCCER 04">
+    <title lang="en">Napoli @ Cremonese</title>
+    <desc lang="en">2025 26 Italian Serie A | Network: Paramount+ | Venue: Stadio Diego Armando Maradona, Napoli</desc>
     <category lang="en">Sports</category>
-    <category lang="en">LA LIGA</category>
+    <category lang="en">SERIE A</category>
     <credits>
-      <actor>Real Oviedo</actor>
-      <actor>Villarreal</actor>
+      <actor>Napoli</actor>
+      <actor>Cremonese</actor>
     </credits>
-    <sub-title lang="en">Venue: Estadio Carlos Tartiere</sub-title>
+    <sub-title lang="en">Venue: Stadio Diego Armando Maradona</sub-title>
   </programme>
-  <programme start="20260423100000 +0000" stop="20260423120000 +0000" channel="SOCCER 04">
-    <title lang="en">VfB Stuttgart @ SC Freiburg - starts at 2:45 PM ET</title>
+  <programme start="20260424100000 +0000" stop="20260424120000 +0000" channel="SOCCER 05">
+    <title lang="en">Brest @ Lens - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">POKAL</category>
+    <category lang="en">LIGUE 1</category>
     <credits>
-      <actor>VfB Stuttgart</actor>
-      <actor>SC Freiburg</actor>
+      <actor>Brest</actor>
+      <actor>Lens</actor>
     </credits>
+    <sub-title lang="en">Venue: Stade Francis-Le Blé</sub-title>
   </programme>
-  <programme start="20260423120000 +0000" stop="20260423140000 +0000" channel="SOCCER 04">
-    <title lang="en">VfB Stuttgart @ SC Freiburg - starts at 2:45 PM ET</title>
+  <programme start="20260424120000 +0000" stop="20260424140000 +0000" channel="SOCCER 05">
+    <title lang="en">Brest @ Lens - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">POKAL</category>
+    <category lang="en">LIGUE 1</category>
     <credits>
-      <actor>VfB Stuttgart</actor>
-      <actor>SC Freiburg</actor>
+      <actor>Brest</actor>
+      <actor>Lens</actor>
     </credits>
+    <sub-title lang="en">Venue: Stade Francis-Le Blé</sub-title>
   </programme>
-  <programme start="20260423140000 +0000" stop="20260423160000 +0000" channel="SOCCER 04">
-    <title lang="en">VfB Stuttgart @ SC Freiburg - starts at 2:45 PM ET</title>
+  <programme start="20260424140000 +0000" stop="20260424160000 +0000" channel="SOCCER 05">
+    <title lang="en">Brest @ Lens - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">POKAL</category>
+    <category lang="en">LIGUE 1</category>
     <credits>
-      <actor>VfB Stuttgart</actor>
-      <actor>SC Freiburg</actor>
+      <actor>Brest</actor>
+      <actor>Lens</actor>
     </credits>
+    <sub-title lang="en">Venue: Stade Francis-Le Blé</sub-title>
   </programme>
-  <programme start="20260423160000 +0000" stop="20260423180000 +0000" channel="SOCCER 04">
-    <title lang="en">VfB Stuttgart @ SC Freiburg - starts at 2:45 PM ET</title>
+  <programme start="20260424160000 +0000" stop="20260424180000 +0000" channel="SOCCER 05">
+    <title lang="en">Brest @ Lens - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">POKAL</category>
+    <category lang="en">LIGUE 1</category>
     <credits>
-      <actor>VfB Stuttgart</actor>
-      <actor>SC Freiburg</actor>
+      <actor>Brest</actor>
+      <actor>Lens</actor>
     </credits>
+    <sub-title lang="en">Venue: Stade Francis-Le Blé</sub-title>
   </programme>
-  <programme start="20260423180000 +0000" stop="20260423184500 +0000" channel="SOCCER 04">
-    <title lang="en">VfB Stuttgart @ SC Freiburg - starts at 2:45 PM ET</title>
+  <programme start="20260424180000 +0000" stop="20260424184500 +0000" channel="SOCCER 05">
+    <title lang="en">Brest @ Lens - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">POKAL</category>
+    <category lang="en">LIGUE 1</category>
     <credits>
-      <actor>VfB Stuttgart</actor>
-      <actor>SC Freiburg</actor>
+      <actor>Brest</actor>
+      <actor>Lens</actor>
     </credits>
+    <sub-title lang="en">Venue: Stade Francis-Le Blé</sub-title>
   </programme>
-  <programme start="20260423184500 +0000" stop="20260423204500 +0000" channel="SOCCER 04">
-    <title lang="en">VfB Stuttgart @ SC Freiburg</title>
+  <programme start="20260424184500 +0000" stop="20260424204500 +0000" channel="SOCCER 05">
+    <title lang="en">Brest @ Lens</title>
+    <desc lang="en">2025 26 Ligue 1 | Venue: Stade Francis-Le Blé, Brest</desc>
     <category lang="en">Sports</category>
-    <category lang="en">POKAL</category>
+    <category lang="en">LIGUE 1</category>
     <credits>
-      <actor>VfB Stuttgart</actor>
-      <actor>SC Freiburg</actor>
+      <actor>Brest</actor>
+      <actor>Lens</actor>
     </credits>
+    <sub-title lang="en">Venue: Stade Francis-Le Blé</sub-title>
   </programme>
-  <programme start="20260423100000 +0000" stop="20260423120000 +0000" channel="SOCCER 05">
-    <title lang="en">Torreense @ Fafe - starts at 3:45 PM ET</title>
+  <programme start="20260424100000 +0000" stop="20260424120000 +0000" channel="SOCCER 06">
+    <title lang="en">Leicester City @ Millwall - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">TACA</category>
+    <category lang="en">EFL</category>
     <credits>
-      <actor>Torreense</actor>
-      <actor>Fafe</actor>
+      <actor>Leicester City</actor>
+      <actor>Millwall</actor>
     </credits>
   </programme>
-  <programme start="20260423120000 +0000" stop="20260423140000 +0000" channel="SOCCER 05">
-    <title lang="en">Torreense @ Fafe - starts at 3:45 PM ET</title>
+  <programme start="20260424120000 +0000" stop="20260424140000 +0000" channel="SOCCER 06">
+    <title lang="en">Leicester City @ Millwall - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">TACA</category>
+    <category lang="en">EFL</category>
     <credits>
-      <actor>Torreense</actor>
-      <actor>Fafe</actor>
+      <actor>Leicester City</actor>
+      <actor>Millwall</actor>
     </credits>
   </programme>
-  <programme start="20260423140000 +0000" stop="20260423160000 +0000" channel="SOCCER 05">
-    <title lang="en">Torreense @ Fafe - starts at 3:45 PM ET</title>
+  <programme start="20260424140000 +0000" stop="20260424160000 +0000" channel="SOCCER 06">
+    <title lang="en">Leicester City @ Millwall - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">TACA</category>
+    <category lang="en">EFL</category>
     <credits>
-      <actor>Torreense</actor>
-      <actor>Fafe</actor>
+      <actor>Leicester City</actor>
+      <actor>Millwall</actor>
     </credits>
   </programme>
-  <programme start="20260423160000 +0000" stop="20260423180000 +0000" channel="SOCCER 05">
-    <title lang="en">Torreense @ Fafe - starts at 3:45 PM ET</title>
+  <programme start="20260424160000 +0000" stop="20260424180000 +0000" channel="SOCCER 06">
+    <title lang="en">Leicester City @ Millwall - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">TACA</category>
+    <category lang="en">EFL</category>
     <credits>
-      <actor>Torreense</actor>
-      <actor>Fafe</actor>
+      <actor>Leicester City</actor>
+      <actor>Millwall</actor>
     </credits>
   </programme>
-  <programme start="20260423180000 +0000" stop="20260423194500 +0000" channel="SOCCER 05">
-    <title lang="en">Torreense @ Fafe - starts at 3:45 PM ET</title>
+  <programme start="20260424180000 +0000" stop="20260424190000 +0000" channel="SOCCER 06">
+    <title lang="en">Leicester City @ Millwall - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">TACA</category>
+    <category lang="en">EFL</category>
     <credits>
-      <actor>Torreense</actor>
-      <actor>Fafe</actor>
+      <actor>Leicester City</actor>
+      <actor>Millwall</actor>
     </credits>
   </programme>
-  <programme start="20260423194500 +0000" stop="20260423214500 +0000" channel="SOCCER 05">
-    <title lang="en">Torreense @ Fafe</title>
+  <programme start="20260424190000 +0000" stop="20260424210000 +0000" channel="SOCCER 06">
+    <title lang="en">Leicester City @ Millwall</title>
     <category lang="en">Sports</category>
-    <category lang="en">TACA</category>
+    <category lang="en">EFL</category>
     <credits>
-      <actor>Torreense</actor>
-      <actor>Fafe</actor>
+      <actor>Leicester City</actor>
+      <actor>Millwall</actor>
     </credits>
   </programme>
-  <programme start="20260423100000 +0000" stop="20260423120000 +0000" channel="SOCCER 06">
-    <title lang="en">Casa Pia @ Braga - starts at 2:00 PM ET</title>
+  <programme start="20260424100000 +0000" stop="20260424120000 +0000" channel="SOCCER 07">
+    <title lang="en">Alverca @ Arouca - starts at 3:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">BETCLIC</category>
     <credits>
-      <actor>Casa Pia</actor>
-      <actor>Braga</actor>
+      <actor>Alverca</actor>
+      <actor>Arouca</actor>
     </credits>
   </programme>
-  <programme start="20260423120000 +0000" stop="20260423140000 +0000" channel="SOCCER 06">
-    <title lang="en">Casa Pia @ Braga - starts at 2:00 PM ET</title>
+  <programme start="20260424120000 +0000" stop="20260424140000 +0000" channel="SOCCER 07">
+    <title lang="en">Alverca @ Arouca - starts at 3:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">BETCLIC</category>
     <credits>
-      <actor>Casa Pia</actor>
-      <actor>Braga</actor>
+      <actor>Alverca</actor>
+      <actor>Arouca</actor>
     </credits>
   </programme>
-  <programme start="20260423140000 +0000" stop="20260423160000 +0000" channel="SOCCER 06">
-    <title lang="en">Casa Pia @ Braga - starts at 2:00 PM ET</title>
+  <programme start="20260424140000 +0000" stop="20260424160000 +0000" channel="SOCCER 07">
+    <title lang="en">Alverca @ Arouca - starts at 3:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">BETCLIC</category>
     <credits>
-      <actor>Casa Pia</actor>
-      <actor>Braga</actor>
+      <actor>Alverca</actor>
+      <actor>Arouca</actor>
     </credits>
   </programme>
-  <programme start="20260423160000 +0000" stop="20260423180000 +0000" channel="SOCCER 06">
-    <title lang="en">Casa Pia @ Braga - starts at 2:00 PM ET</title>
+  <programme start="20260424160000 +0000" stop="20260424180000 +0000" channel="SOCCER 07">
+    <title lang="en">Alverca @ Arouca - starts at 3:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">BETCLIC</category>
     <credits>
-      <actor>Casa Pia</actor>
-      <actor>Braga</actor>
+      <actor>Alverca</actor>
+      <actor>Arouca</actor>
     </credits>
   </programme>
-  <programme start="20260423180000 +0000" stop="20260423200000 +0000" channel="SOCCER 06">
-    <title lang="en">Casa Pia @ Braga</title>
+  <programme start="20260424180000 +0000" stop="20260424191500 +0000" channel="SOCCER 07">
+    <title lang="en">Alverca @ Arouca - starts at 3:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">BETCLIC</category>
+    <credits>
+      <actor>Alverca</actor>
+      <actor>Arouca</actor>
+    </credits>
+  </programme>
+  <programme start="20260424191500 +0000" stop="20260424211500 +0000" channel="SOCCER 07">
+    <title lang="en">Alverca @ Arouca</title>
     <category lang="en">Sports</category>
     <category lang="en">BETCLIC</category>
     <credits>
-      <actor>Casa Pia</actor>
-      <actor>Braga</actor>
+      <actor>Alverca</actor>
+      <actor>Arouca</actor>
     </credits>
   </programme>
-  <programme start="20260423100000 +0000" stop="20260423120000 +0000" channel="SOCCER 07">
-    <title lang="en">Sint-Truidense @ Anderlecht - starts at 2:30 PM ET</title>
+  <programme start="20260424100000 +0000" stop="20260424120000 +0000" channel="SOCCER 08">
+    <title lang="en">Puebla @ Querétaro - starts at 11:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">JUPILER</category>
+    <category lang="en">LIGA MX</category>
     <credits>
-      <actor>Sint-Truidense</actor>
-      <actor>Anderlecht</actor>
+      <actor>Puebla</actor>
+      <actor>Querétaro</actor>
     </credits>
+    <sub-title lang="en">Venue: Estadio Cuauhtémoc</sub-title>
   </programme>
-  <programme start="20260423120000 +0000" stop="20260423140000 +0000" channel="SOCCER 07">
-    <title lang="en">Sint-Truidense @ Anderlecht - starts at 2:30 PM ET</title>
+  <programme start="20260424120000 +0000" stop="20260424140000 +0000" channel="SOCCER 08">
+    <title lang="en">Puebla @ Querétaro - starts at 11:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">JUPILER</category>
+    <category lang="en">LIGA MX</category>
     <credits>
-      <actor>Sint-Truidense</actor>
-      <actor>Anderlecht</actor>
+      <actor>Puebla</actor>
+      <actor>Querétaro</actor>
     </credits>
+    <sub-title lang="en">Venue: Estadio Cuauhtémoc</sub-title>
   </programme>
-  <programme start="20260423140000 +0000" stop="20260423160000 +0000" channel="SOCCER 07">
-    <title lang="en">Sint-Truidense @ Anderlecht - starts at 2:30 PM ET</title>
+  <programme start="20260424140000 +0000" stop="20260424160000 +0000" channel="SOCCER 08">
+    <title lang="en">Puebla @ Querétaro - starts at 11:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">JUPILER</category>
+    <category lang="en">LIGA MX</category>
     <credits>
-      <actor>Sint-Truidense</actor>
-      <actor>Anderlecht</actor>
+      <actor>Puebla</actor>
+      <actor>Querétaro</actor>
     </credits>
+    <sub-title lang="en">Venue: Estadio Cuauhtémoc</sub-title>
   </programme>
-  <programme start="20260423160000 +0000" stop="20260423180000 +0000" channel="SOCCER 07">
-    <title lang="en">Sint-Truidense @ Anderlecht - starts at 2:30 PM ET</title>
+  <programme start="20260424160000 +0000" stop="20260424180000 +0000" channel="SOCCER 08">
+    <title lang="en">Puebla @ Querétaro - starts at 11:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">JUPILER</category>
+    <category lang="en">LIGA MX</category>
     <credits>
-      <actor>Sint-Truidense</actor>
-      <actor>Anderlecht</actor>
+      <actor>Puebla</actor>
+      <actor>Querétaro</actor>
     </credits>
+    <sub-title lang="en">Venue: Estadio Cuauhtémoc</sub-title>
   </programme>
-  <programme start="20260423180000 +0000" stop="20260423183000 +0000" channel="SOCCER 07">
-    <title lang="en">Sint-Truidense @ Anderlecht - starts at 2:30 PM ET</title>
+  <programme start="20260424180000 +0000" stop="20260424200000 +0000" channel="SOCCER 08">
+    <title lang="en">Puebla @ Querétaro - starts at 11:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">JUPILER</category>
+    <category lang="en">LIGA MX</category>
     <credits>
-      <actor>Sint-Truidense</actor>
-      <actor>Anderlecht</actor>
+      <actor>Puebla</actor>
+      <actor>Querétaro</actor>
     </credits>
+    <sub-title lang="en">Venue: Estadio Cuauhtémoc</sub-title>
   </programme>
-  <programme start="20260423183000 +0000" stop="20260423203000 +0000" channel="SOCCER 07">
-    <title lang="en">Sint-Truidense @ Anderlecht</title>
+  <programme start="20260424200000 +0000" stop="20260424220000 +0000" channel="SOCCER 08">
+    <title lang="en">Puebla @ Querétaro - starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">LIGA MX</category>
+    <credits>
+      <actor>Puebla</actor>
+      <actor>Querétaro</actor>
+    </credits>
+    <sub-title lang="en">Venue: Estadio Cuauhtémoc</sub-title>
+  </programme>
+  <programme start="20260424220000 +0000" stop="20260425000000 +0000" channel="SOCCER 08">
+    <title lang="en">Puebla @ Querétaro - starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">LIGA MX</category>
+    <credits>
+      <actor>Puebla</actor>
+      <actor>Querétaro</actor>
+    </credits>
+    <sub-title lang="en">Venue: Estadio Cuauhtémoc</sub-title>
+  </programme>
+  <programme start="20260425000000 +0000" stop="20260425020000 +0000" channel="SOCCER 08">
+    <title lang="en">Puebla @ Querétaro - starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">LIGA MX</category>
+    <credits>
+      <actor>Puebla</actor>
+      <actor>Querétaro</actor>
+    </credits>
+    <sub-title lang="en">Venue: Estadio Cuauhtémoc</sub-title>
+  </programme>
+  <programme start="20260425020000 +0000" stop="20260425030000 +0000" channel="SOCCER 08">
+    <title lang="en">Puebla @ Querétaro - starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">LIGA MX</category>
+    <credits>
+      <actor>Puebla</actor>
+      <actor>Querétaro</actor>
+    </credits>
+    <sub-title lang="en">Venue: Estadio Cuauhtémoc</sub-title>
+  </programme>
+  <programme start="20260425030000 +0000" stop="20260425050000 +0000" channel="SOCCER 08">
+    <title lang="en">Puebla @ Querétaro</title>
+    <desc lang="en">Torneo Clausura | Venue: Estadio Cuauhtémoc, Puebla</desc>
     <category lang="en">Sports</category>
-    <category lang="en">JUPILER</category>
+    <category lang="en">LIGA MX</category>
     <credits>
-      <actor>Sint-Truidense</actor>
-      <actor>Anderlecht</actor>
+      <actor>Puebla</actor>
+      <actor>Querétaro</actor>
     </credits>
-  </programme>
-  <programme start="20260423100000 +0000" stop="20260423120000 +0000" channel="SOCCER 08">
-    <title lang="en">Go Ahead Eagles @ AZ Alkmaar - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">EREDIVISIE</category>
-    <credits>
-      <actor>Go Ahead Eagles</actor>
-      <actor>AZ Alkmaar</actor>
-    </credits>
-    <sub-title lang="en">Venue: De Adelaarshorst</sub-title>
-  </programme>
-  <programme start="20260423120000 +0000" stop="20260423140000 +0000" channel="SOCCER 08">
-    <title lang="en">Go Ahead Eagles @ AZ Alkmaar - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">EREDIVISIE</category>
-    <credits>
-      <actor>Go Ahead Eagles</actor>
-      <actor>AZ Alkmaar</actor>
-    </credits>
-    <sub-title lang="en">Venue: De Adelaarshorst</sub-title>
-  </programme>
-  <programme start="20260423140000 +0000" stop="20260423160000 +0000" channel="SOCCER 08">
-    <title lang="en">Go Ahead Eagles @ AZ Alkmaar - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">EREDIVISIE</category>
-    <credits>
-      <actor>Go Ahead Eagles</actor>
-      <actor>AZ Alkmaar</actor>
-    </credits>
-    <sub-title lang="en">Venue: De Adelaarshorst</sub-title>
-  </programme>
-  <programme start="20260423160000 +0000" stop="20260423164500 +0000" channel="SOCCER 08">
-    <title lang="en">Go Ahead Eagles @ AZ Alkmaar - starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">EREDIVISIE</category>
-    <credits>
-      <actor>Go Ahead Eagles</actor>
-      <actor>AZ Alkmaar</actor>
-    </credits>
-    <sub-title lang="en">Venue: De Adelaarshorst</sub-title>
-  </programme>
-  <programme start="20260423164500 +0000" stop="20260423184500 +0000" channel="SOCCER 08">
-    <title lang="en">Go Ahead Eagles @ AZ Alkmaar</title>
-    <desc lang="en">Network: ESPN+ | Venue: De Adelaarshorst, Deventer</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">EREDIVISIE</category>
-    <credits>
-      <actor>Go Ahead Eagles</actor>
-      <actor>AZ Alkmaar</actor>
-    </credits>
-    <sub-title lang="en">Venue: De Adelaarshorst</sub-title>
-  </programme>
-  <programme start="20260423100000 +0000" stop="20260423120000 +0000" channel="SOCCER 09">
-    <title lang="en">PSV Eindhoven @ PEC Zwolle - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">EREDIVISIE</category>
-    <credits>
-      <actor>PSV Eindhoven</actor>
-      <actor>PEC Zwolle</actor>
-    </credits>
-    <sub-title lang="en">Venue: Philips Stadion</sub-title>
-  </programme>
-  <programme start="20260423120000 +0000" stop="20260423140000 +0000" channel="SOCCER 09">
-    <title lang="en">PSV Eindhoven @ PEC Zwolle - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">EREDIVISIE</category>
-    <credits>
-      <actor>PSV Eindhoven</actor>
-      <actor>PEC Zwolle</actor>
-    </credits>
-    <sub-title lang="en">Venue: Philips Stadion</sub-title>
-  </programme>
-  <programme start="20260423140000 +0000" stop="20260423160000 +0000" channel="SOCCER 09">
-    <title lang="en">PSV Eindhoven @ PEC Zwolle - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">EREDIVISIE</category>
-    <credits>
-      <actor>PSV Eindhoven</actor>
-      <actor>PEC Zwolle</actor>
-    </credits>
-    <sub-title lang="en">Venue: Philips Stadion</sub-title>
-  </programme>
-  <programme start="20260423160000 +0000" stop="20260423180000 +0000" channel="SOCCER 09">
-    <title lang="en">PSV Eindhoven @ PEC Zwolle - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">EREDIVISIE</category>
-    <credits>
-      <actor>PSV Eindhoven</actor>
-      <actor>PEC Zwolle</actor>
-    </credits>
-    <sub-title lang="en">Venue: Philips Stadion</sub-title>
-  </programme>
-  <programme start="20260423180000 +0000" stop="20260423190000 +0000" channel="SOCCER 09">
-    <title lang="en">PSV Eindhoven @ PEC Zwolle - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">EREDIVISIE</category>
-    <credits>
-      <actor>PSV Eindhoven</actor>
-      <actor>PEC Zwolle</actor>
-    </credits>
-    <sub-title lang="en">Venue: Philips Stadion</sub-title>
-  </programme>
-  <programme start="20260423190000 +0000" stop="20260423210000 +0000" channel="SOCCER 09">
-    <title lang="en">PSV Eindhoven @ PEC Zwolle</title>
-    <desc lang="en">Network: ESPN+ | Venue: Philips Stadion, Eindhoven</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">EREDIVISIE</category>
-    <credits>
-      <actor>PSV Eindhoven</actor>
-      <actor>PEC Zwolle</actor>
-    </credits>
-    <sub-title lang="en">Venue: Philips Stadion</sub-title>
-  </programme>
-  <programme start="20260423100000 +0000" stop="20260423120000 +0000" channel="SOCCER 10">
-    <title lang="en">Salford City @ Bromley - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">EFL L2</category>
-    <credits>
-      <actor>Salford City</actor>
-      <actor>Bromley</actor>
-    </credits>
-  </programme>
-  <programme start="20260423120000 +0000" stop="20260423140000 +0000" channel="SOCCER 10">
-    <title lang="en">Salford City @ Bromley - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">EFL L2</category>
-    <credits>
-      <actor>Salford City</actor>
-      <actor>Bromley</actor>
-    </credits>
-  </programme>
-  <programme start="20260423140000 +0000" stop="20260423160000 +0000" channel="SOCCER 10">
-    <title lang="en">Salford City @ Bromley - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">EFL L2</category>
-    <credits>
-      <actor>Salford City</actor>
-      <actor>Bromley</actor>
-    </credits>
-  </programme>
-  <programme start="20260423160000 +0000" stop="20260423180000 +0000" channel="SOCCER 10">
-    <title lang="en">Salford City @ Bromley - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">EFL L2</category>
-    <credits>
-      <actor>Salford City</actor>
-      <actor>Bromley</actor>
-    </credits>
-  </programme>
-  <programme start="20260423180000 +0000" stop="20260423190000 +0000" channel="SOCCER 10">
-    <title lang="en">Salford City @ Bromley - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">EFL L2</category>
-    <credits>
-      <actor>Salford City</actor>
-      <actor>Bromley</actor>
-    </credits>
-  </programme>
-  <programme start="20260423190000 +0000" stop="20260423210000 +0000" channel="SOCCER 10">
-    <title lang="en">Salford City @ Bromley</title>
-    <category lang="en">Sports</category>
-    <category lang="en">EFL L2</category>
-    <credits>
-      <actor>Salford City</actor>
-      <actor>Bromley</actor>
-    </credits>
+    <sub-title lang="en">Venue: Estadio Cuauhtémoc</sub-title>
   </programme>
 </tv>
