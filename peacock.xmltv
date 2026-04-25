@@ -300,150 +300,1279 @@
   <channel id="PEACOCK 100">
     <display-name>PEACOCK 100</display-name>
   </channel>
-  <programme start="20260424100000 +0000" stop="20260424120000 +0000" channel="PEACOCK 001">
-    <title lang="en">Home Feed: CLE at TOR starts at 7:00 PM ET</title>
+  <programme start="20260425100000 +0000" stop="20260425120000 +0000" channel="PEACOCK 001">
+    <title lang="en">England v. Wales starts at 9:15 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: CLE at TOR</actor>
-      <actor>Home Feed: CLE at TOR</actor>
+      <actor>England v. Wales</actor>
+      <actor>England v. Wales</actor>
     </credits>
   </programme>
-  <programme start="20260424120000 +0000" stop="20260424140000 +0000" channel="PEACOCK 001">
-    <title lang="en">Home Feed: CLE at TOR starts at 7:00 PM ET</title>
+  <programme start="20260425120000 +0000" stop="20260425131500 +0000" channel="PEACOCK 001">
+    <title lang="en">England v. Wales starts at 9:15 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: CLE at TOR</actor>
-      <actor>Home Feed: CLE at TOR</actor>
+      <actor>England v. Wales</actor>
+      <actor>England v. Wales</actor>
     </credits>
   </programme>
-  <programme start="20260424140000 +0000" stop="20260424160000 +0000" channel="PEACOCK 001">
-    <title lang="en">Home Feed: CLE at TOR starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: CLE at TOR</actor>
-      <actor>Home Feed: CLE at TOR</actor>
-    </credits>
-  </programme>
-  <programme start="20260424160000 +0000" stop="20260424180000 +0000" channel="PEACOCK 001">
-    <title lang="en">Home Feed: CLE at TOR starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: CLE at TOR</actor>
-      <actor>Home Feed: CLE at TOR</actor>
-    </credits>
-  </programme>
-  <programme start="20260424180000 +0000" stop="20260424200000 +0000" channel="PEACOCK 001">
-    <title lang="en">Home Feed: CLE at TOR starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: CLE at TOR</actor>
-      <actor>Home Feed: CLE at TOR</actor>
-    </credits>
-  </programme>
-  <programme start="20260424200000 +0000" stop="20260424220000 +0000" channel="PEACOCK 001">
-    <title lang="en">Home Feed: CLE at TOR starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: CLE at TOR</actor>
-      <actor>Home Feed: CLE at TOR</actor>
-    </credits>
-  </programme>
-  <programme start="20260424220000 +0000" stop="20260424230000 +0000" channel="PEACOCK 001">
-    <title lang="en">Home Feed: CLE at TOR starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: CLE at TOR</actor>
-      <actor>Home Feed: CLE at TOR</actor>
-    </credits>
-  </programme>
-  <programme start="20260424230000 +0000" stop="20260425030000 +0000" channel="PEACOCK 001">
-    <title lang="en">Home Feed: CLE at TOR</title>
+  <programme start="20260425131500 +0000" stop="20260425171500 +0000" channel="PEACOCK 001">
+    <title lang="en">England v. Wales</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: CLE at TOR</actor>
-      <actor>Home Feed: CLE at TOR</actor>
+      <actor>England v. Wales</actor>
+      <actor>England v. Wales</actor>
     </credits>
   </programme>
-  <programme start="20260424100000 +0000" stop="20260424120000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: CLE at TOR starts at 7:00 PM ET</title>
+  <programme start="20260425100000 +0000" stop="20260425120000 +0000" channel="PEACOCK 002">
+    <title lang="en">West Ham v. Everton starts at 9:50 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: CLE at TOR</actor>
-      <actor>Away Feed: CLE at TOR</actor>
+      <actor>West Ham v. Everton</actor>
+      <actor>West Ham v. Everton</actor>
     </credits>
   </programme>
-  <programme start="20260424120000 +0000" stop="20260424140000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: CLE at TOR starts at 7:00 PM ET</title>
+  <programme start="20260425120000 +0000" stop="20260425135000 +0000" channel="PEACOCK 002">
+    <title lang="en">West Ham v. Everton starts at 9:50 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: CLE at TOR</actor>
-      <actor>Away Feed: CLE at TOR</actor>
+      <actor>West Ham v. Everton</actor>
+      <actor>West Ham v. Everton</actor>
     </credits>
   </programme>
-  <programme start="20260424140000 +0000" stop="20260424160000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: CLE at TOR starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: CLE at TOR</actor>
-      <actor>Away Feed: CLE at TOR</actor>
-    </credits>
-  </programme>
-  <programme start="20260424160000 +0000" stop="20260424180000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: CLE at TOR starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: CLE at TOR</actor>
-      <actor>Away Feed: CLE at TOR</actor>
-    </credits>
-  </programme>
-  <programme start="20260424180000 +0000" stop="20260424200000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: CLE at TOR starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: CLE at TOR</actor>
-      <actor>Away Feed: CLE at TOR</actor>
-    </credits>
-  </programme>
-  <programme start="20260424200000 +0000" stop="20260424220000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: CLE at TOR starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: CLE at TOR</actor>
-      <actor>Away Feed: CLE at TOR</actor>
-    </credits>
-  </programme>
-  <programme start="20260424220000 +0000" stop="20260424230000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: CLE at TOR starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: CLE at TOR</actor>
-      <actor>Away Feed: CLE at TOR</actor>
-    </credits>
-  </programme>
-  <programme start="20260424230000 +0000" stop="20260425030000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: CLE at TOR</title>
+  <programme start="20260425135000 +0000" stop="20260425175000 +0000" channel="PEACOCK 002">
+    <title lang="en">West Ham v. Everton</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: CLE at TOR</actor>
-      <actor>Away Feed: CLE at TOR</actor>
+      <actor>West Ham v. Everton</actor>
+      <actor>West Ham v. Everton</actor>
+    </credits>
+  </programme>
+  <programme start="20260425100000 +0000" stop="20260425120000 +0000" channel="PEACOCK 003">
+    <title lang="en">Goal Rush: Matchweek 34 starts at 9:50 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Goal Rush: Matchweek 34</actor>
+      <actor>Goal Rush: Matchweek 34</actor>
+    </credits>
+  </programme>
+  <programme start="20260425120000 +0000" stop="20260425135000 +0000" channel="PEACOCK 003">
+    <title lang="en">Goal Rush: Matchweek 34 starts at 9:50 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Goal Rush: Matchweek 34</actor>
+      <actor>Goal Rush: Matchweek 34</actor>
+    </credits>
+  </programme>
+  <programme start="20260425135000 +0000" stop="20260425175000 +0000" channel="PEACOCK 003">
+    <title lang="en">Goal Rush: Matchweek 34</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Goal Rush: Matchweek 34</actor>
+      <actor>Goal Rush: Matchweek 34</actor>
+    </credits>
+  </programme>
+  <programme start="20260425100000 +0000" stop="20260425120000 +0000" channel="PEACOCK 004">
+    <title lang="en">Liverpool v. Crystal Palace starts at 9:50 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Liverpool v. Crystal Palace</actor>
+      <actor>Liverpool v. Crystal Palace</actor>
+    </credits>
+  </programme>
+  <programme start="20260425120000 +0000" stop="20260425135000 +0000" channel="PEACOCK 004">
+    <title lang="en">Liverpool v. Crystal Palace starts at 9:50 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Liverpool v. Crystal Palace</actor>
+      <actor>Liverpool v. Crystal Palace</actor>
+    </credits>
+  </programme>
+  <programme start="20260425135000 +0000" stop="20260425175000 +0000" channel="PEACOCK 004">
+    <title lang="en">Liverpool v. Crystal Palace</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Liverpool v. Crystal Palace</actor>
+      <actor>Liverpool v. Crystal Palace</actor>
+    </credits>
+  </programme>
+  <programme start="20260425100000 +0000" stop="20260425120000 +0000" channel="PEACOCK 005">
+    <title lang="en">Italy v. Scotland starts at 11:30 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Italy v. Scotland</actor>
+      <actor>Italy v. Scotland</actor>
+    </credits>
+  </programme>
+  <programme start="20260425120000 +0000" stop="20260425140000 +0000" channel="PEACOCK 005">
+    <title lang="en">Italy v. Scotland starts at 11:30 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Italy v. Scotland</actor>
+      <actor>Italy v. Scotland</actor>
+    </credits>
+  </programme>
+  <programme start="20260425140000 +0000" stop="20260425153000 +0000" channel="PEACOCK 005">
+    <title lang="en">Italy v. Scotland starts at 11:30 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Italy v. Scotland</actor>
+      <actor>Italy v. Scotland</actor>
+    </credits>
+  </programme>
+  <programme start="20260425153000 +0000" stop="20260425193000 +0000" channel="PEACOCK 005">
+    <title lang="en">Italy v. Scotland</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Italy v. Scotland</actor>
+      <actor>Italy v. Scotland</actor>
+    </credits>
+  </programme>
+  <programme start="20260425100000 +0000" stop="20260425120000 +0000" channel="PEACOCK 006">
+    <title lang="en">Performance View: DET vs. ORL starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Performance View: DET vs. ORL</actor>
+      <actor>Performance View: DET vs. ORL</actor>
+    </credits>
+  </programme>
+  <programme start="20260425120000 +0000" stop="20260425140000 +0000" channel="PEACOCK 006">
+    <title lang="en">Performance View: DET vs. ORL starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Performance View: DET vs. ORL</actor>
+      <actor>Performance View: DET vs. ORL</actor>
+    </credits>
+  </programme>
+  <programme start="20260425140000 +0000" stop="20260425160000 +0000" channel="PEACOCK 006">
+    <title lang="en">Performance View: DET vs. ORL starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Performance View: DET vs. ORL</actor>
+      <actor>Performance View: DET vs. ORL</actor>
+    </credits>
+  </programme>
+  <programme start="20260425160000 +0000" stop="20260425200000 +0000" channel="PEACOCK 006">
+    <title lang="en">Performance View: DET vs. ORL</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Performance View: DET vs. ORL</actor>
+      <actor>Performance View: DET vs. ORL</actor>
+    </credits>
+  </programme>
+  <programme start="20260425100000 +0000" stop="20260425120000 +0000" channel="PEACOCK 007">
+    <title lang="en">Game 3: Pistons vs. Magic starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Game 3: Pistons vs. Magic</actor>
+      <actor>Game 3: Pistons vs. Magic</actor>
+    </credits>
+  </programme>
+  <programme start="20260425120000 +0000" stop="20260425140000 +0000" channel="PEACOCK 007">
+    <title lang="en">Game 3: Pistons vs. Magic starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Game 3: Pistons vs. Magic</actor>
+      <actor>Game 3: Pistons vs. Magic</actor>
+    </credits>
+  </programme>
+  <programme start="20260425140000 +0000" stop="20260425160000 +0000" channel="PEACOCK 007">
+    <title lang="en">Game 3: Pistons vs. Magic starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Game 3: Pistons vs. Magic</actor>
+      <actor>Game 3: Pistons vs. Magic</actor>
+    </credits>
+  </programme>
+  <programme start="20260425160000 +0000" stop="20260425200000 +0000" channel="PEACOCK 007">
+    <title lang="en">Game 3: Pistons vs. Magic</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Game 3: Pistons vs. Magic</actor>
+      <actor>Game 3: Pistons vs. Magic</actor>
+    </credits>
+  </programme>
+  <programme start="20260425100000 +0000" stop="20260425120000 +0000" channel="PEACOCK 008">
+    <title lang="en">Race Day Live: Philadelphia starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Race Day Live: Philadelphia</actor>
+      <actor>Race Day Live: Philadelphia</actor>
+    </credits>
+  </programme>
+  <programme start="20260425120000 +0000" stop="20260425140000 +0000" channel="PEACOCK 008">
+    <title lang="en">Race Day Live: Philadelphia starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Race Day Live: Philadelphia</actor>
+      <actor>Race Day Live: Philadelphia</actor>
+    </credits>
+  </programme>
+  <programme start="20260425140000 +0000" stop="20260425160000 +0000" channel="PEACOCK 008">
+    <title lang="en">Race Day Live: Philadelphia starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Race Day Live: Philadelphia</actor>
+      <actor>Race Day Live: Philadelphia</actor>
+    </credits>
+  </programme>
+  <programme start="20260425160000 +0000" stop="20260425170000 +0000" channel="PEACOCK 008">
+    <title lang="en">Race Day Live: Philadelphia starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Race Day Live: Philadelphia</actor>
+      <actor>Race Day Live: Philadelphia</actor>
+    </credits>
+  </programme>
+  <programme start="20260425170000 +0000" stop="20260425210000 +0000" channel="PEACOCK 008">
+    <title lang="en">Race Day Live: Philadelphia</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Race Day Live: Philadelphia</actor>
+      <actor>Race Day Live: Philadelphia</actor>
+    </credits>
+  </programme>
+  <programme start="20260425100000 +0000" stop="20260425120000 +0000" channel="PEACOCK 009">
+    <title lang="en">Chevron Championship: Rd. 3 starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Chevron Championship: Rd. 3</actor>
+      <actor>Chevron Championship: Rd. 3</actor>
+    </credits>
+  </programme>
+  <programme start="20260425120000 +0000" stop="20260425140000 +0000" channel="PEACOCK 009">
+    <title lang="en">Chevron Championship: Rd. 3 starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Chevron Championship: Rd. 3</actor>
+      <actor>Chevron Championship: Rd. 3</actor>
+    </credits>
+  </programme>
+  <programme start="20260425140000 +0000" stop="20260425160000 +0000" channel="PEACOCK 009">
+    <title lang="en">Chevron Championship: Rd. 3 starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Chevron Championship: Rd. 3</actor>
+      <actor>Chevron Championship: Rd. 3</actor>
+    </credits>
+  </programme>
+  <programme start="20260425160000 +0000" stop="20260425170000 +0000" channel="PEACOCK 009">
+    <title lang="en">Chevron Championship: Rd. 3 starts at 1:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Chevron Championship: Rd. 3</actor>
+      <actor>Chevron Championship: Rd. 3</actor>
+    </credits>
+  </programme>
+  <programme start="20260425170000 +0000" stop="20260425210000 +0000" channel="PEACOCK 009">
+    <title lang="en">Chevron Championship: Rd. 3</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Chevron Championship: Rd. 3</actor>
+      <actor>Chevron Championship: Rd. 3</actor>
+    </credits>
+  </programme>
+  <programme start="20260425100000 +0000" stop="20260425120000 +0000" channel="PEACOCK 010">
+    <title lang="en">Sporting JAX v. Lexington SC starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Sporting JAX v. Lexington SC</actor>
+      <actor>Sporting JAX v. Lexington SC</actor>
+    </credits>
+  </programme>
+  <programme start="20260425120000 +0000" stop="20260425140000 +0000" channel="PEACOCK 010">
+    <title lang="en">Sporting JAX v. Lexington SC starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Sporting JAX v. Lexington SC</actor>
+      <actor>Sporting JAX v. Lexington SC</actor>
+    </credits>
+  </programme>
+  <programme start="20260425140000 +0000" stop="20260425160000 +0000" channel="PEACOCK 010">
+    <title lang="en">Sporting JAX v. Lexington SC starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Sporting JAX v. Lexington SC</actor>
+      <actor>Sporting JAX v. Lexington SC</actor>
+    </credits>
+  </programme>
+  <programme start="20260425160000 +0000" stop="20260425180000 +0000" channel="PEACOCK 010">
+    <title lang="en">Sporting JAX v. Lexington SC starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Sporting JAX v. Lexington SC</actor>
+      <actor>Sporting JAX v. Lexington SC</actor>
+    </credits>
+  </programme>
+  <programme start="20260425180000 +0000" stop="20260425220000 +0000" channel="PEACOCK 010">
+    <title lang="en">Sporting JAX v. Lexington SC</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Sporting JAX v. Lexington SC</actor>
+      <actor>Sporting JAX v. Lexington SC</actor>
+    </credits>
+  </programme>
+  <programme start="20260425100000 +0000" stop="20260425120000 +0000" channel="PEACOCK 011">
+    <title lang="en">Notre Dame Blue-Gold Game starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Notre Dame Blue-Gold Game</actor>
+      <actor>Notre Dame Blue-Gold Game</actor>
+    </credits>
+  </programme>
+  <programme start="20260425120000 +0000" stop="20260425140000 +0000" channel="PEACOCK 011">
+    <title lang="en">Notre Dame Blue-Gold Game starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Notre Dame Blue-Gold Game</actor>
+      <actor>Notre Dame Blue-Gold Game</actor>
+    </credits>
+  </programme>
+  <programme start="20260425140000 +0000" stop="20260425160000 +0000" channel="PEACOCK 011">
+    <title lang="en">Notre Dame Blue-Gold Game starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Notre Dame Blue-Gold Game</actor>
+      <actor>Notre Dame Blue-Gold Game</actor>
+    </credits>
+  </programme>
+  <programme start="20260425160000 +0000" stop="20260425180000 +0000" channel="PEACOCK 011">
+    <title lang="en">Notre Dame Blue-Gold Game starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Notre Dame Blue-Gold Game</actor>
+      <actor>Notre Dame Blue-Gold Game</actor>
+    </credits>
+  </programme>
+  <programme start="20260425180000 +0000" stop="20260425220000 +0000" channel="PEACOCK 011">
+    <title lang="en">Notre Dame Blue-Gold Game</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Notre Dame Blue-Gold Game</actor>
+      <actor>Notre Dame Blue-Gold Game</actor>
+    </credits>
+  </programme>
+  <programme start="20260425100000 +0000" stop="20260425120000 +0000" channel="PEACOCK 012">
+    <title lang="en">Kentucky Derby Opening Day starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Kentucky Derby Opening Day</actor>
+      <actor>Kentucky Derby Opening Day</actor>
+    </credits>
+  </programme>
+  <programme start="20260425120000 +0000" stop="20260425140000 +0000" channel="PEACOCK 012">
+    <title lang="en">Kentucky Derby Opening Day starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Kentucky Derby Opening Day</actor>
+      <actor>Kentucky Derby Opening Day</actor>
+    </credits>
+  </programme>
+  <programme start="20260425140000 +0000" stop="20260425160000 +0000" channel="PEACOCK 012">
+    <title lang="en">Kentucky Derby Opening Day starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Kentucky Derby Opening Day</actor>
+      <actor>Kentucky Derby Opening Day</actor>
+    </credits>
+  </programme>
+  <programme start="20260425160000 +0000" stop="20260425180000 +0000" channel="PEACOCK 012">
+    <title lang="en">Kentucky Derby Opening Day starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Kentucky Derby Opening Day</actor>
+      <actor>Kentucky Derby Opening Day</actor>
+    </credits>
+  </programme>
+  <programme start="20260425180000 +0000" stop="20260425220000 +0000" channel="PEACOCK 012">
+    <title lang="en">Kentucky Derby Opening Day</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Kentucky Derby Opening Day</actor>
+      <actor>Kentucky Derby Opening Day</actor>
+    </credits>
+  </programme>
+  <programme start="20260425100000 +0000" stop="20260425120000 +0000" channel="PEACOCK 013">
+    <title lang="en">Performance View: OKC vs. PHX starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Performance View: OKC vs. PHX</actor>
+      <actor>Performance View: OKC vs. PHX</actor>
+    </credits>
+  </programme>
+  <programme start="20260425120000 +0000" stop="20260425140000 +0000" channel="PEACOCK 013">
+    <title lang="en">Performance View: OKC vs. PHX starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Performance View: OKC vs. PHX</actor>
+      <actor>Performance View: OKC vs. PHX</actor>
+    </credits>
+  </programme>
+  <programme start="20260425140000 +0000" stop="20260425160000 +0000" channel="PEACOCK 013">
+    <title lang="en">Performance View: OKC vs. PHX starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Performance View: OKC vs. PHX</actor>
+      <actor>Performance View: OKC vs. PHX</actor>
+    </credits>
+  </programme>
+  <programme start="20260425160000 +0000" stop="20260425180000 +0000" channel="PEACOCK 013">
+    <title lang="en">Performance View: OKC vs. PHX starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Performance View: OKC vs. PHX</actor>
+      <actor>Performance View: OKC vs. PHX</actor>
+    </credits>
+  </programme>
+  <programme start="20260425180000 +0000" stop="20260425190000 +0000" channel="PEACOCK 013">
+    <title lang="en">Performance View: OKC vs. PHX starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Performance View: OKC vs. PHX</actor>
+      <actor>Performance View: OKC vs. PHX</actor>
+    </credits>
+  </programme>
+  <programme start="20260425190000 +0000" stop="20260425230000 +0000" channel="PEACOCK 013">
+    <title lang="en">Performance View: OKC vs. PHX</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Performance View: OKC vs. PHX</actor>
+      <actor>Performance View: OKC vs. PHX</actor>
+    </credits>
+  </programme>
+  <programme start="20260425100000 +0000" stop="20260425120000 +0000" channel="PEACOCK 014">
+    <title lang="en">Game 3: Thunder vs. Suns starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Game 3: Thunder vs. Suns</actor>
+      <actor>Game 3: Thunder vs. Suns</actor>
+    </credits>
+  </programme>
+  <programme start="20260425120000 +0000" stop="20260425140000 +0000" channel="PEACOCK 014">
+    <title lang="en">Game 3: Thunder vs. Suns starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Game 3: Thunder vs. Suns</actor>
+      <actor>Game 3: Thunder vs. Suns</actor>
+    </credits>
+  </programme>
+  <programme start="20260425140000 +0000" stop="20260425160000 +0000" channel="PEACOCK 014">
+    <title lang="en">Game 3: Thunder vs. Suns starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Game 3: Thunder vs. Suns</actor>
+      <actor>Game 3: Thunder vs. Suns</actor>
+    </credits>
+  </programme>
+  <programme start="20260425160000 +0000" stop="20260425180000 +0000" channel="PEACOCK 014">
+    <title lang="en">Game 3: Thunder vs. Suns starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Game 3: Thunder vs. Suns</actor>
+      <actor>Game 3: Thunder vs. Suns</actor>
+    </credits>
+  </programme>
+  <programme start="20260425180000 +0000" stop="20260425190000 +0000" channel="PEACOCK 014">
+    <title lang="en">Game 3: Thunder vs. Suns starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Game 3: Thunder vs. Suns</actor>
+      <actor>Game 3: Thunder vs. Suns</actor>
+    </credits>
+  </programme>
+  <programme start="20260425190000 +0000" stop="20260425230000 +0000" channel="PEACOCK 014">
+    <title lang="en">Game 3: Thunder vs. Suns</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Game 3: Thunder vs. Suns</actor>
+      <actor>Game 3: Thunder vs. Suns</actor>
+    </credits>
+  </programme>
+  <programme start="20260425100000 +0000" stop="20260425120000 +0000" channel="PEACOCK 015">
+    <title lang="en">France v. Ireland starts at 3:10 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>France v. Ireland</actor>
+      <actor>France v. Ireland</actor>
+    </credits>
+  </programme>
+  <programme start="20260425120000 +0000" stop="20260425140000 +0000" channel="PEACOCK 015">
+    <title lang="en">France v. Ireland starts at 3:10 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>France v. Ireland</actor>
+      <actor>France v. Ireland</actor>
+    </credits>
+  </programme>
+  <programme start="20260425140000 +0000" stop="20260425160000 +0000" channel="PEACOCK 015">
+    <title lang="en">France v. Ireland starts at 3:10 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>France v. Ireland</actor>
+      <actor>France v. Ireland</actor>
+    </credits>
+  </programme>
+  <programme start="20260425160000 +0000" stop="20260425180000 +0000" channel="PEACOCK 015">
+    <title lang="en">France v. Ireland starts at 3:10 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>France v. Ireland</actor>
+      <actor>France v. Ireland</actor>
+    </credits>
+  </programme>
+  <programme start="20260425180000 +0000" stop="20260425191000 +0000" channel="PEACOCK 015">
+    <title lang="en">France v. Ireland starts at 3:10 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>France v. Ireland</actor>
+      <actor>France v. Ireland</actor>
+    </credits>
+  </programme>
+  <programme start="20260425191000 +0000" stop="20260425231000 +0000" channel="PEACOCK 015">
+    <title lang="en">France v. Ireland</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>France v. Ireland</actor>
+      <actor>France v. Ireland</actor>
+    </credits>
+  </programme>
+  <programme start="20260425100000 +0000" stop="20260425120000 +0000" channel="PEACOCK 016">
+    <title lang="en">Rumbo al Mundial Objetivo 2026 starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Rumbo al Mundial Objetivo 2026</actor>
+      <actor>Rumbo al Mundial Objetivo 2026</actor>
+    </credits>
+  </programme>
+  <programme start="20260425120000 +0000" stop="20260425140000 +0000" channel="PEACOCK 016">
+    <title lang="en">Rumbo al Mundial Objetivo 2026 starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Rumbo al Mundial Objetivo 2026</actor>
+      <actor>Rumbo al Mundial Objetivo 2026</actor>
+    </credits>
+  </programme>
+  <programme start="20260425140000 +0000" stop="20260425160000 +0000" channel="PEACOCK 016">
+    <title lang="en">Rumbo al Mundial Objetivo 2026 starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Rumbo al Mundial Objetivo 2026</actor>
+      <actor>Rumbo al Mundial Objetivo 2026</actor>
+    </credits>
+  </programme>
+  <programme start="20260425160000 +0000" stop="20260425180000 +0000" channel="PEACOCK 016">
+    <title lang="en">Rumbo al Mundial Objetivo 2026 starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Rumbo al Mundial Objetivo 2026</actor>
+      <actor>Rumbo al Mundial Objetivo 2026</actor>
+    </credits>
+  </programme>
+  <programme start="20260425180000 +0000" stop="20260425200000 +0000" channel="PEACOCK 016">
+    <title lang="en">Rumbo al Mundial Objetivo 2026 starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Rumbo al Mundial Objetivo 2026</actor>
+      <actor>Rumbo al Mundial Objetivo 2026</actor>
+    </credits>
+  </programme>
+  <programme start="20260425200000 +0000" stop="20260425210000 +0000" channel="PEACOCK 016">
+    <title lang="en">Rumbo al Mundial Objetivo 2026 starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Rumbo al Mundial Objetivo 2026</actor>
+      <actor>Rumbo al Mundial Objetivo 2026</actor>
+    </credits>
+  </programme>
+  <programme start="20260425210000 +0000" stop="20260426010000 +0000" channel="PEACOCK 016">
+    <title lang="en">Rumbo al Mundial Objetivo 2026</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Rumbo al Mundial Objetivo 2026</actor>
+      <actor>Rumbo al Mundial Objetivo 2026</actor>
+    </credits>
+  </programme>
+  <programme start="20260425100000 +0000" stop="20260425120000 +0000" channel="PEACOCK 017">
+    <title lang="en">Game 4: Knicks vs. Hawks starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Game 4: Knicks vs. Hawks</actor>
+      <actor>Game 4: Knicks vs. Hawks</actor>
+    </credits>
+  </programme>
+  <programme start="20260425120000 +0000" stop="20260425140000 +0000" channel="PEACOCK 017">
+    <title lang="en">Game 4: Knicks vs. Hawks starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Game 4: Knicks vs. Hawks</actor>
+      <actor>Game 4: Knicks vs. Hawks</actor>
+    </credits>
+  </programme>
+  <programme start="20260425140000 +0000" stop="20260425160000 +0000" channel="PEACOCK 017">
+    <title lang="en">Game 4: Knicks vs. Hawks starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Game 4: Knicks vs. Hawks</actor>
+      <actor>Game 4: Knicks vs. Hawks</actor>
+    </credits>
+  </programme>
+  <programme start="20260425160000 +0000" stop="20260425180000 +0000" channel="PEACOCK 017">
+    <title lang="en">Game 4: Knicks vs. Hawks starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Game 4: Knicks vs. Hawks</actor>
+      <actor>Game 4: Knicks vs. Hawks</actor>
+    </credits>
+  </programme>
+  <programme start="20260425180000 +0000" stop="20260425200000 +0000" channel="PEACOCK 017">
+    <title lang="en">Game 4: Knicks vs. Hawks starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Game 4: Knicks vs. Hawks</actor>
+      <actor>Game 4: Knicks vs. Hawks</actor>
+    </credits>
+  </programme>
+  <programme start="20260425200000 +0000" stop="20260425220000 +0000" channel="PEACOCK 017">
+    <title lang="en">Game 4: Knicks vs. Hawks starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Game 4: Knicks vs. Hawks</actor>
+      <actor>Game 4: Knicks vs. Hawks</actor>
+    </credits>
+  </programme>
+  <programme start="20260425220000 +0000" stop="20260426020000 +0000" channel="PEACOCK 017">
+    <title lang="en">Game 4: Knicks vs. Hawks</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Game 4: Knicks vs. Hawks</actor>
+      <actor>Game 4: Knicks vs. Hawks</actor>
+    </credits>
+  </programme>
+  <programme start="20260425100000 +0000" stop="20260425120000 +0000" channel="PEACOCK 018">
+    <title lang="en">Performance View: NYK vs. ATL starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Performance View: NYK vs. ATL</actor>
+      <actor>Performance View: NYK vs. ATL</actor>
+    </credits>
+  </programme>
+  <programme start="20260425120000 +0000" stop="20260425140000 +0000" channel="PEACOCK 018">
+    <title lang="en">Performance View: NYK vs. ATL starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Performance View: NYK vs. ATL</actor>
+      <actor>Performance View: NYK vs. ATL</actor>
+    </credits>
+  </programme>
+  <programme start="20260425140000 +0000" stop="20260425160000 +0000" channel="PEACOCK 018">
+    <title lang="en">Performance View: NYK vs. ATL starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Performance View: NYK vs. ATL</actor>
+      <actor>Performance View: NYK vs. ATL</actor>
+    </credits>
+  </programme>
+  <programme start="20260425160000 +0000" stop="20260425180000 +0000" channel="PEACOCK 018">
+    <title lang="en">Performance View: NYK vs. ATL starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Performance View: NYK vs. ATL</actor>
+      <actor>Performance View: NYK vs. ATL</actor>
+    </credits>
+  </programme>
+  <programme start="20260425180000 +0000" stop="20260425200000 +0000" channel="PEACOCK 018">
+    <title lang="en">Performance View: NYK vs. ATL starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Performance View: NYK vs. ATL</actor>
+      <actor>Performance View: NYK vs. ATL</actor>
+    </credits>
+  </programme>
+  <programme start="20260425200000 +0000" stop="20260425220000 +0000" channel="PEACOCK 018">
+    <title lang="en">Performance View: NYK vs. ATL starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Performance View: NYK vs. ATL</actor>
+      <actor>Performance View: NYK vs. ATL</actor>
+    </credits>
+  </programme>
+  <programme start="20260425220000 +0000" stop="20260426020000 +0000" channel="PEACOCK 018">
+    <title lang="en">Performance View: NYK vs. ATL</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Performance View: NYK vs. ATL</actor>
+      <actor>Performance View: NYK vs. ATL</actor>
+    </credits>
+  </programme>
+  <programme start="20260425100000 +0000" stop="20260425120000 +0000" channel="PEACOCK 019">
+    <title lang="en">Tigres vs. Mazatlán F.C. (Español) starts at 6:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Tigres vs. Mazatlán F.C. (Español)</actor>
+      <actor>Tigres vs. Mazatlán F.C. (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260425120000 +0000" stop="20260425140000 +0000" channel="PEACOCK 019">
+    <title lang="en">Tigres vs. Mazatlán F.C. (Español) starts at 6:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Tigres vs. Mazatlán F.C. (Español)</actor>
+      <actor>Tigres vs. Mazatlán F.C. (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260425140000 +0000" stop="20260425160000 +0000" channel="PEACOCK 019">
+    <title lang="en">Tigres vs. Mazatlán F.C. (Español) starts at 6:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Tigres vs. Mazatlán F.C. (Español)</actor>
+      <actor>Tigres vs. Mazatlán F.C. (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260425160000 +0000" stop="20260425180000 +0000" channel="PEACOCK 019">
+    <title lang="en">Tigres vs. Mazatlán F.C. (Español) starts at 6:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Tigres vs. Mazatlán F.C. (Español)</actor>
+      <actor>Tigres vs. Mazatlán F.C. (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260425180000 +0000" stop="20260425200000 +0000" channel="PEACOCK 019">
+    <title lang="en">Tigres vs. Mazatlán F.C. (Español) starts at 6:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Tigres vs. Mazatlán F.C. (Español)</actor>
+      <actor>Tigres vs. Mazatlán F.C. (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260425200000 +0000" stop="20260425220000 +0000" channel="PEACOCK 019">
+    <title lang="en">Tigres vs. Mazatlán F.C. (Español) starts at 6:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Tigres vs. Mazatlán F.C. (Español)</actor>
+      <actor>Tigres vs. Mazatlán F.C. (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260425220000 +0000" stop="20260425223000 +0000" channel="PEACOCK 019">
+    <title lang="en">Tigres vs. Mazatlán F.C. (Español) starts at 6:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Tigres vs. Mazatlán F.C. (Español)</actor>
+      <actor>Tigres vs. Mazatlán F.C. (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260425223000 +0000" stop="20260426023000 +0000" channel="PEACOCK 019">
+    <title lang="en">Tigres vs. Mazatlán F.C. (Español)</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Tigres vs. Mazatlán F.C. (Español)</actor>
+      <actor>Tigres vs. Mazatlán F.C. (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260425100000 +0000" stop="20260425120000 +0000" channel="PEACOCK 020">
+    <title lang="en">Brooklyn FC v. Trinity FC starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Brooklyn FC v. Trinity FC</actor>
+      <actor>Brooklyn FC v. Trinity FC</actor>
+    </credits>
+  </programme>
+  <programme start="20260425120000 +0000" stop="20260425140000 +0000" channel="PEACOCK 020">
+    <title lang="en">Brooklyn FC v. Trinity FC starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Brooklyn FC v. Trinity FC</actor>
+      <actor>Brooklyn FC v. Trinity FC</actor>
+    </credits>
+  </programme>
+  <programme start="20260425140000 +0000" stop="20260425160000 +0000" channel="PEACOCK 020">
+    <title lang="en">Brooklyn FC v. Trinity FC starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Brooklyn FC v. Trinity FC</actor>
+      <actor>Brooklyn FC v. Trinity FC</actor>
+    </credits>
+  </programme>
+  <programme start="20260425160000 +0000" stop="20260425180000 +0000" channel="PEACOCK 020">
+    <title lang="en">Brooklyn FC v. Trinity FC starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Brooklyn FC v. Trinity FC</actor>
+      <actor>Brooklyn FC v. Trinity FC</actor>
+    </credits>
+  </programme>
+  <programme start="20260425180000 +0000" stop="20260425200000 +0000" channel="PEACOCK 020">
+    <title lang="en">Brooklyn FC v. Trinity FC starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Brooklyn FC v. Trinity FC</actor>
+      <actor>Brooklyn FC v. Trinity FC</actor>
+    </credits>
+  </programme>
+  <programme start="20260425200000 +0000" stop="20260425220000 +0000" channel="PEACOCK 020">
+    <title lang="en">Brooklyn FC v. Trinity FC starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Brooklyn FC v. Trinity FC</actor>
+      <actor>Brooklyn FC v. Trinity FC</actor>
+    </credits>
+  </programme>
+  <programme start="20260425220000 +0000" stop="20260425230000 +0000" channel="PEACOCK 020">
+    <title lang="en">Brooklyn FC v. Trinity FC starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Brooklyn FC v. Trinity FC</actor>
+      <actor>Brooklyn FC v. Trinity FC</actor>
+    </credits>
+  </programme>
+  <programme start="20260425230000 +0000" stop="20260426030000 +0000" channel="PEACOCK 020">
+    <title lang="en">Brooklyn FC v. Trinity FC</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Brooklyn FC v. Trinity FC</actor>
+      <actor>Brooklyn FC v. Trinity FC</actor>
+    </credits>
+  </programme>
+  <programme start="20260425100000 +0000" stop="20260425120000 +0000" channel="PEACOCK 021">
+    <title lang="en">Supercross Rd. 15: Philadelphia starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Supercross Rd. 15: Philadelphia</actor>
+      <actor>Supercross Rd. 15: Philadelphia</actor>
+    </credits>
+  </programme>
+  <programme start="20260425120000 +0000" stop="20260425140000 +0000" channel="PEACOCK 021">
+    <title lang="en">Supercross Rd. 15: Philadelphia starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Supercross Rd. 15: Philadelphia</actor>
+      <actor>Supercross Rd. 15: Philadelphia</actor>
+    </credits>
+  </programme>
+  <programme start="20260425140000 +0000" stop="20260425160000 +0000" channel="PEACOCK 021">
+    <title lang="en">Supercross Rd. 15: Philadelphia starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Supercross Rd. 15: Philadelphia</actor>
+      <actor>Supercross Rd. 15: Philadelphia</actor>
+    </credits>
+  </programme>
+  <programme start="20260425160000 +0000" stop="20260425180000 +0000" channel="PEACOCK 021">
+    <title lang="en">Supercross Rd. 15: Philadelphia starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Supercross Rd. 15: Philadelphia</actor>
+      <actor>Supercross Rd. 15: Philadelphia</actor>
+    </credits>
+  </programme>
+  <programme start="20260425180000 +0000" stop="20260425200000 +0000" channel="PEACOCK 021">
+    <title lang="en">Supercross Rd. 15: Philadelphia starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Supercross Rd. 15: Philadelphia</actor>
+      <actor>Supercross Rd. 15: Philadelphia</actor>
+    </credits>
+  </programme>
+  <programme start="20260425200000 +0000" stop="20260425220000 +0000" channel="PEACOCK 021">
+    <title lang="en">Supercross Rd. 15: Philadelphia starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Supercross Rd. 15: Philadelphia</actor>
+      <actor>Supercross Rd. 15: Philadelphia</actor>
+    </credits>
+  </programme>
+  <programme start="20260425220000 +0000" stop="20260425230000 +0000" channel="PEACOCK 021">
+    <title lang="en">Supercross Rd. 15: Philadelphia starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Supercross Rd. 15: Philadelphia</actor>
+      <actor>Supercross Rd. 15: Philadelphia</actor>
+    </credits>
+  </programme>
+  <programme start="20260425230000 +0000" stop="20260426030000 +0000" channel="PEACOCK 021">
+    <title lang="en">Supercross Rd. 15: Philadelphia</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Supercross Rd. 15: Philadelphia</actor>
+      <actor>Supercross Rd. 15: Philadelphia</actor>
+    </credits>
+  </programme>
+  <programme start="20260425100000 +0000" stop="20260425120000 +0000" channel="PEACOCK 022">
+    <title lang="en">Sun FC v. Ascent FC starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Sun FC v. Ascent FC</actor>
+      <actor>Sun FC v. Ascent FC</actor>
+    </credits>
+  </programme>
+  <programme start="20260425120000 +0000" stop="20260425140000 +0000" channel="PEACOCK 022">
+    <title lang="en">Sun FC v. Ascent FC starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Sun FC v. Ascent FC</actor>
+      <actor>Sun FC v. Ascent FC</actor>
+    </credits>
+  </programme>
+  <programme start="20260425140000 +0000" stop="20260425160000 +0000" channel="PEACOCK 022">
+    <title lang="en">Sun FC v. Ascent FC starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Sun FC v. Ascent FC</actor>
+      <actor>Sun FC v. Ascent FC</actor>
+    </credits>
+  </programme>
+  <programme start="20260425160000 +0000" stop="20260425180000 +0000" channel="PEACOCK 022">
+    <title lang="en">Sun FC v. Ascent FC starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Sun FC v. Ascent FC</actor>
+      <actor>Sun FC v. Ascent FC</actor>
+    </credits>
+  </programme>
+  <programme start="20260425180000 +0000" stop="20260425200000 +0000" channel="PEACOCK 022">
+    <title lang="en">Sun FC v. Ascent FC starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Sun FC v. Ascent FC</actor>
+      <actor>Sun FC v. Ascent FC</actor>
+    </credits>
+  </programme>
+  <programme start="20260425200000 +0000" stop="20260425220000 +0000" channel="PEACOCK 022">
+    <title lang="en">Sun FC v. Ascent FC starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Sun FC v. Ascent FC</actor>
+      <actor>Sun FC v. Ascent FC</actor>
+    </credits>
+  </programme>
+  <programme start="20260425220000 +0000" stop="20260425233000 +0000" channel="PEACOCK 022">
+    <title lang="en">Sun FC v. Ascent FC starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Sun FC v. Ascent FC</actor>
+      <actor>Sun FC v. Ascent FC</actor>
+    </credits>
+  </programme>
+  <programme start="20260425233000 +0000" stop="20260426033000 +0000" channel="PEACOCK 022">
+    <title lang="en">Sun FC v. Ascent FC</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Sun FC v. Ascent FC</actor>
+      <actor>Sun FC v. Ascent FC</actor>
+    </credits>
+  </programme>
+  <programme start="20260425100000 +0000" stop="20260425120000 +0000" channel="PEACOCK 023">
+    <title lang="en">Chivas vs. Tijuana (Español) starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Chivas vs. Tijuana (Español)</actor>
+      <actor>Chivas vs. Tijuana (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260425120000 +0000" stop="20260425140000 +0000" channel="PEACOCK 023">
+    <title lang="en">Chivas vs. Tijuana (Español) starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Chivas vs. Tijuana (Español)</actor>
+      <actor>Chivas vs. Tijuana (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260425140000 +0000" stop="20260425160000 +0000" channel="PEACOCK 023">
+    <title lang="en">Chivas vs. Tijuana (Español) starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Chivas vs. Tijuana (Español)</actor>
+      <actor>Chivas vs. Tijuana (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260425160000 +0000" stop="20260425180000 +0000" channel="PEACOCK 023">
+    <title lang="en">Chivas vs. Tijuana (Español) starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Chivas vs. Tijuana (Español)</actor>
+      <actor>Chivas vs. Tijuana (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260425180000 +0000" stop="20260425200000 +0000" channel="PEACOCK 023">
+    <title lang="en">Chivas vs. Tijuana (Español) starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Chivas vs. Tijuana (Español)</actor>
+      <actor>Chivas vs. Tijuana (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260425200000 +0000" stop="20260425220000 +0000" channel="PEACOCK 023">
+    <title lang="en">Chivas vs. Tijuana (Español) starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Chivas vs. Tijuana (Español)</actor>
+      <actor>Chivas vs. Tijuana (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260425220000 +0000" stop="20260426000000 +0000" channel="PEACOCK 023">
+    <title lang="en">Chivas vs. Tijuana (Español) starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Chivas vs. Tijuana (Español)</actor>
+      <actor>Chivas vs. Tijuana (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260426000000 +0000" stop="20260426010000 +0000" channel="PEACOCK 023">
+    <title lang="en">Chivas vs. Tijuana (Español) starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Chivas vs. Tijuana (Español)</actor>
+      <actor>Chivas vs. Tijuana (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260426010000 +0000" stop="20260426050000 +0000" channel="PEACOCK 023">
+    <title lang="en">Chivas vs. Tijuana (Español)</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Chivas vs. Tijuana (Español)</actor>
+      <actor>Chivas vs. Tijuana (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260425100000 +0000" stop="20260425120000 +0000" channel="PEACOCK 024">
+    <title lang="en">FC Juárez vs. San Luis (Español) starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>FC Juárez vs. San Luis (Español)</actor>
+      <actor>FC Juárez vs. San Luis (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260425120000 +0000" stop="20260425140000 +0000" channel="PEACOCK 024">
+    <title lang="en">FC Juárez vs. San Luis (Español) starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>FC Juárez vs. San Luis (Español)</actor>
+      <actor>FC Juárez vs. San Luis (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260425140000 +0000" stop="20260425160000 +0000" channel="PEACOCK 024">
+    <title lang="en">FC Juárez vs. San Luis (Español) starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>FC Juárez vs. San Luis (Español)</actor>
+      <actor>FC Juárez vs. San Luis (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260425160000 +0000" stop="20260425180000 +0000" channel="PEACOCK 024">
+    <title lang="en">FC Juárez vs. San Luis (Español) starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>FC Juárez vs. San Luis (Español)</actor>
+      <actor>FC Juárez vs. San Luis (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260425180000 +0000" stop="20260425200000 +0000" channel="PEACOCK 024">
+    <title lang="en">FC Juárez vs. San Luis (Español) starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>FC Juárez vs. San Luis (Español)</actor>
+      <actor>FC Juárez vs. San Luis (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260425200000 +0000" stop="20260425220000 +0000" channel="PEACOCK 024">
+    <title lang="en">FC Juárez vs. San Luis (Español) starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>FC Juárez vs. San Luis (Español)</actor>
+      <actor>FC Juárez vs. San Luis (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260425220000 +0000" stop="20260426000000 +0000" channel="PEACOCK 024">
+    <title lang="en">FC Juárez vs. San Luis (Español) starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>FC Juárez vs. San Luis (Español)</actor>
+      <actor>FC Juárez vs. San Luis (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260426000000 +0000" stop="20260426020000 +0000" channel="PEACOCK 024">
+    <title lang="en">FC Juárez vs. San Luis (Español) starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>FC Juárez vs. San Luis (Español)</actor>
+      <actor>FC Juárez vs. San Luis (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260426020000 +0000" stop="20260426030000 +0000" channel="PEACOCK 024">
+    <title lang="en">FC Juárez vs. San Luis (Español) starts at 11:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>FC Juárez vs. San Luis (Español)</actor>
+      <actor>FC Juárez vs. San Luis (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260426030000 +0000" stop="20260426070000 +0000" channel="PEACOCK 024">
+    <title lang="en">FC Juárez vs. San Luis (Español)</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>FC Juárez vs. San Luis (Español)</actor>
+      <actor>FC Juárez vs. San Luis (Español)</actor>
     </credits>
   </programme>
 </tv>
