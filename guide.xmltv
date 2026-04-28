@@ -210,76 +210,220 @@
   <channel id="PPV 70">
     <display-name>PPV 70</display-name>
   </channel>
-  <programme start="20260427100000 +0000" stop="20260427120000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+  <programme start="20260428100000 +0000" stop="20260428120000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: High Limit Racing at Arrowhead starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
+      <actor>High Limit Racing at Arrowhead</actor>
     </credits>
   </programme>
-  <programme start="20260427120000 +0000" stop="20260427140000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+  <programme start="20260428120000 +0000" stop="20260428140000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: High Limit Racing at Arrowhead starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
+      <actor>High Limit Racing at Arrowhead</actor>
     </credits>
   </programme>
-  <programme start="20260427140000 +0000" stop="20260427160000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+  <programme start="20260428140000 +0000" stop="20260428160000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: High Limit Racing at Arrowhead starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
+      <actor>High Limit Racing at Arrowhead</actor>
     </credits>
   </programme>
-  <programme start="20260427160000 +0000" stop="20260427180000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+  <programme start="20260428160000 +0000" stop="20260428180000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: High Limit Racing at Arrowhead starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
+      <actor>High Limit Racing at Arrowhead</actor>
     </credits>
   </programme>
-  <programme start="20260427180000 +0000" stop="20260427200000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+  <programme start="20260428180000 +0000" stop="20260428200000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: High Limit Racing at Arrowhead starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
+      <actor>High Limit Racing at Arrowhead</actor>
     </credits>
   </programme>
-  <programme start="20260427200000 +0000" stop="20260427220000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+  <programme start="20260428200000 +0000" stop="20260428220000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: High Limit Racing at Arrowhead starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
+      <actor>High Limit Racing at Arrowhead</actor>
     </credits>
   </programme>
-  <programme start="20260427220000 +0000" stop="20260428000000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+  <programme start="20260428220000 +0000" stop="20260428230000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: High Limit Racing at Arrowhead starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
+      <actor>High Limit Racing at Arrowhead</actor>
     </credits>
   </programme>
-  <programme start="20260428000000 +0000" stop="20260428030000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw (4.27 8:00 PM ET)</title>
+  <programme start="20260428230000 +0000" stop="20260429020000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: High Limit Racing at Arrowhead (4.28 7:00 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
+      <actor>High Limit Racing at Arrowhead</actor>
+    </credits>
+  </programme>
+  <programme start="20260428100000 +0000" stop="20260428120000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 03: Independence Motor Speedway starts at 7:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>Independence Motor Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260428120000 +0000" stop="20260428140000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 03: Independence Motor Speedway starts at 7:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>Independence Motor Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260428140000 +0000" stop="20260428160000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 03: Independence Motor Speedway starts at 7:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>Independence Motor Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260428160000 +0000" stop="20260428180000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 03: Independence Motor Speedway starts at 7:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>Independence Motor Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260428180000 +0000" stop="20260428200000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 03: Independence Motor Speedway starts at 7:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>Independence Motor Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260428200000 +0000" stop="20260428220000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 03: Independence Motor Speedway starts at 7:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>Independence Motor Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260428220000 +0000" stop="20260428231500 +0000" channel="PPV 02">
+    <title lang="en">EVENT 03: Independence Motor Speedway starts at 7:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>Independence Motor Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260428231500 +0000" stop="20260429021500 +0000" channel="PPV 02">
+    <title lang="en">EVENT 03: Independence Motor Speedway (4.28 7:15 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>Independence Motor Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260428100000 +0000" stop="20260428120000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 04: Labor of Love Trust the Process starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>Labor of Love Trust the Process</actor>
+    </credits>
+  </programme>
+  <programme start="20260428120000 +0000" stop="20260428140000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 04: Labor of Love Trust the Process starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>Labor of Love Trust the Process</actor>
+    </credits>
+  </programme>
+  <programme start="20260428140000 +0000" stop="20260428160000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 04: Labor of Love Trust the Process starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>Labor of Love Trust the Process</actor>
+    </credits>
+  </programme>
+  <programme start="20260428160000 +0000" stop="20260428180000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 04: Labor of Love Trust the Process starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>Labor of Love Trust the Process</actor>
+    </credits>
+  </programme>
+  <programme start="20260428180000 +0000" stop="20260428200000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 04: Labor of Love Trust the Process starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>Labor of Love Trust the Process</actor>
+    </credits>
+  </programme>
+  <programme start="20260428200000 +0000" stop="20260428220000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 04: Labor of Love Trust the Process starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>Labor of Love Trust the Process</actor>
+    </credits>
+  </programme>
+  <programme start="20260428220000 +0000" stop="20260428230000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 04: Labor of Love Trust the Process starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>Labor of Love Trust the Process</actor>
+    </credits>
+  </programme>
+  <programme start="20260428230000 +0000" stop="20260429020000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 04: Labor of Love Trust the Process (4.28 7:00 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>Labor of Love Trust the Process</actor>
     </credits>
   </programme>
 </tv>
