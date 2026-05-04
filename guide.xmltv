@@ -210,214 +210,79 @@
   <channel id="PPV 70">
     <display-name>PPV 70</display-name>
   </channel>
-  <programme start="20260503100000 +0000" stop="20260503120000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: AMSOIL Championship Off Road In Wheatland starts at 9:45 AM ET</title>
+  <programme start="20260504100000 +0000" stop="20260504120000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>AMSOIL Championship Off Road In Wheatland</actor>
+      <actor>WWE Monday Night Raw</actor>
     </credits>
   </programme>
-  <programme start="20260503120000 +0000" stop="20260503134500 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: AMSOIL Championship Off Road In Wheatland starts at 9:45 AM ET</title>
+  <programme start="20260504120000 +0000" stop="20260504140000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>AMSOIL Championship Off Road In Wheatland</actor>
+      <actor>WWE Monday Night Raw</actor>
     </credits>
   </programme>
-  <programme start="20260503134500 +0000" stop="20260503164500 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: AMSOIL Championship Off Road In Wheatland (5.3 9:45 AM ET)</title>
+  <programme start="20260504140000 +0000" stop="20260504160000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260504160000 +0000" stop="20260504180000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260504180000 +0000" stop="20260504200000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260504200000 +0000" stop="20260504220000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260504220000 +0000" stop="20260505000000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260505000000 +0000" stop="20260505030000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw (5.4 8:00 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>AMSOIL Championship Off Road In Wheatland</actor>
+      <actor>WWE Monday Night Raw</actor>
     </credits>
   </programme>
-  <programme start="20260503100000 +0000" stop="20260503120000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: NASCAR Season Opener at Riverhead starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>NASCAR Season Opener at Riverhead</actor>
-    </credits>
-  </programme>
-  <programme start="20260503120000 +0000" stop="20260503140000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: NASCAR Season Opener at Riverhead starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>NASCAR Season Opener at Riverhead</actor>
-    </credits>
-  </programme>
-  <programme start="20260503140000 +0000" stop="20260503160000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: NASCAR Season Opener at Riverhead starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>NASCAR Season Opener at Riverhead</actor>
-    </credits>
-  </programme>
-  <programme start="20260503160000 +0000" stop="20260503164500 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: NASCAR Season Opener at Riverhead starts at 12:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>NASCAR Season Opener at Riverhead</actor>
-    </credits>
-  </programme>
-  <programme start="20260503164500 +0000" stop="20260503194500 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: NASCAR Season Opener at Riverhead (5.3 12:45 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>NASCAR Season Opener at Riverhead</actor>
-    </credits>
-  </programme>
-  <programme start="20260503100000 +0000" stop="20260503120000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: ACT Community Bank 150 at Thunder Road starts at 1:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>ACT Community Bank 150 at Thunder Road</actor>
-    </credits>
-  </programme>
-  <programme start="20260503120000 +0000" stop="20260503140000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: ACT Community Bank 150 at Thunder Road starts at 1:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>ACT Community Bank 150 at Thunder Road</actor>
-    </credits>
-  </programme>
-  <programme start="20260503140000 +0000" stop="20260503160000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: ACT Community Bank 150 at Thunder Road starts at 1:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>ACT Community Bank 150 at Thunder Road</actor>
-    </credits>
-  </programme>
-  <programme start="20260503160000 +0000" stop="20260503173000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: ACT Community Bank 150 at Thunder Road starts at 1:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>ACT Community Bank 150 at Thunder Road</actor>
-    </credits>
-  </programme>
-  <programme start="20260503173000 +0000" stop="20260503203000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: ACT Community Bank 150 at Thunder Road (5.3 1:30 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 03</actor>
-      <actor>ACT Community Bank 150 at Thunder Road</actor>
-    </credits>
-  </programme>
-  <programme start="20260503100000 +0000" stop="20260503120000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: Mark Balzano Memorial at West Virginia starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>Mark Balzano Memorial at West Virginia</actor>
-    </credits>
-  </programme>
-  <programme start="20260503120000 +0000" stop="20260503140000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: Mark Balzano Memorial at West Virginia starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>Mark Balzano Memorial at West Virginia</actor>
-    </credits>
-  </programme>
-  <programme start="20260503140000 +0000" stop="20260503160000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: Mark Balzano Memorial at West Virginia starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>Mark Balzano Memorial at West Virginia</actor>
-    </credits>
-  </programme>
-  <programme start="20260503160000 +0000" stop="20260503180000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: Mark Balzano Memorial at West Virginia starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>Mark Balzano Memorial at West Virginia</actor>
-    </credits>
-  </programme>
-  <programme start="20260503180000 +0000" stop="20260503200000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: Mark Balzano Memorial at West Virginia starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>Mark Balzano Memorial at West Virginia</actor>
-    </credits>
-  </programme>
-  <programme start="20260503200000 +0000" stop="20260503230000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: Mark Balzano Memorial at West Virginia (5.3 4:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>Mark Balzano Memorial at West Virginia</actor>
-    </credits>
-  </programme>
-  <programme start="20260503100000 +0000" stop="20260503120000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Al Ghena vs. Townsend starts at 11:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Al Ghena vs. Townsend</actor>
-    </credits>
-  </programme>
-  <programme start="20260503120000 +0000" stop="20260503140000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Al Ghena vs. Townsend starts at 11:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Al Ghena vs. Townsend</actor>
-    </credits>
-  </programme>
-  <programme start="20260503140000 +0000" stop="20260503150000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Al Ghena vs. Townsend starts at 11:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Al Ghena vs. Townsend</actor>
-    </credits>
-  </programme>
-  <programme start="20260503150000 +0000" stop="20260503180000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Al Ghena vs. Townsend (5.3 11:00 AM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Al Ghena vs. Townsend</actor>
-    </credits>
-  </programme>
-  <programme start="20260502100000 +0000" stop="20260502120000 +0000" channel="PPV 06">
+  <programme start="20260502100000 +0000" stop="20260502120000 +0000" channel="PPV 02">
     <title lang="en">EVENT 15: PFL Sioux Falls starts at 10:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -426,7 +291,7 @@
       <actor>PFL Sioux Falls</actor>
     </credits>
   </programme>
-  <programme start="20260502120000 +0000" stop="20260502140000 +0000" channel="PPV 06">
+  <programme start="20260502120000 +0000" stop="20260502140000 +0000" channel="PPV 02">
     <title lang="en">EVENT 15: PFL Sioux Falls starts at 10:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -435,7 +300,7 @@
       <actor>PFL Sioux Falls</actor>
     </credits>
   </programme>
-  <programme start="20260502140000 +0000" stop="20260502160000 +0000" channel="PPV 06">
+  <programme start="20260502140000 +0000" stop="20260502160000 +0000" channel="PPV 02">
     <title lang="en">EVENT 15: PFL Sioux Falls starts at 10:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -444,7 +309,7 @@
       <actor>PFL Sioux Falls</actor>
     </credits>
   </programme>
-  <programme start="20260502160000 +0000" stop="20260502180000 +0000" channel="PPV 06">
+  <programme start="20260502160000 +0000" stop="20260502180000 +0000" channel="PPV 02">
     <title lang="en">EVENT 15: PFL Sioux Falls starts at 10:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -453,7 +318,7 @@
       <actor>PFL Sioux Falls</actor>
     </credits>
   </programme>
-  <programme start="20260502180000 +0000" stop="20260502200000 +0000" channel="PPV 06">
+  <programme start="20260502180000 +0000" stop="20260502200000 +0000" channel="PPV 02">
     <title lang="en">EVENT 15: PFL Sioux Falls starts at 10:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -462,7 +327,7 @@
       <actor>PFL Sioux Falls</actor>
     </credits>
   </programme>
-  <programme start="20260502200000 +0000" stop="20260502220000 +0000" channel="PPV 06">
+  <programme start="20260502200000 +0000" stop="20260502220000 +0000" channel="PPV 02">
     <title lang="en">EVENT 15: PFL Sioux Falls starts at 10:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -471,7 +336,7 @@
       <actor>PFL Sioux Falls</actor>
     </credits>
   </programme>
-  <programme start="20260502220000 +0000" stop="20260503000000 +0000" channel="PPV 06">
+  <programme start="20260502220000 +0000" stop="20260503000000 +0000" channel="PPV 02">
     <title lang="en">EVENT 15: PFL Sioux Falls starts at 10:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -480,7 +345,7 @@
       <actor>PFL Sioux Falls</actor>
     </credits>
   </programme>
-  <programme start="20260503000000 +0000" stop="20260503020000 +0000" channel="PPV 06">
+  <programme start="20260503000000 +0000" stop="20260503020000 +0000" channel="PPV 02">
     <title lang="en">EVENT 15: PFL Sioux Falls starts at 10:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -489,7 +354,7 @@
       <actor>PFL Sioux Falls</actor>
     </credits>
   </programme>
-  <programme start="20260503020000 +0000" stop="20260503050000 +0000" channel="PPV 06">
+  <programme start="20260503020000 +0000" stop="20260503050000 +0000" channel="PPV 02">
     <title lang="en">EVENT 15: PFL Sioux Falls (5.2 10:00 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
