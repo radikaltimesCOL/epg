@@ -300,585 +300,223 @@
   <channel id="PEACOCK 100">
     <display-name>PEACOCK 100</display-name>
   </channel>
-  <programme start="20260517100000 +0000" stop="20260517111500 +0000" channel="PEACOCK 001">
-    <title lang="en">Wales v. Italy starts at 7:15 AM ET</title>
+  <programme start="20260519100000 +0000" stop="20260519120000 +0000" channel="PEACOCK 001">
+    <title lang="en">Chelsea v. Spurs starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Wales v. Italy</actor>
-      <actor>Wales v. Italy</actor>
+      <actor>Chelsea v. Spurs</actor>
+      <actor>Chelsea v. Spurs</actor>
     </credits>
   </programme>
-  <programme start="20260517111500 +0000" stop="20260517151500 +0000" channel="PEACOCK 001">
-    <title lang="en">Wales v. Italy</title>
+  <programme start="20260519120000 +0000" stop="20260519140000 +0000" channel="PEACOCK 001">
+    <title lang="en">Chelsea v. Spurs starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Chelsea v. Spurs</actor>
+      <actor>Chelsea v. Spurs</actor>
+    </credits>
+  </programme>
+  <programme start="20260519140000 +0000" stop="20260519160000 +0000" channel="PEACOCK 001">
+    <title lang="en">Chelsea v. Spurs starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Chelsea v. Spurs</actor>
+      <actor>Chelsea v. Spurs</actor>
+    </credits>
+  </programme>
+  <programme start="20260519160000 +0000" stop="20260519180000 +0000" channel="PEACOCK 001">
+    <title lang="en">Chelsea v. Spurs starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Chelsea v. Spurs</actor>
+      <actor>Chelsea v. Spurs</actor>
+    </credits>
+  </programme>
+  <programme start="20260519180000 +0000" stop="20260519190000 +0000" channel="PEACOCK 001">
+    <title lang="en">Chelsea v. Spurs starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Chelsea v. Spurs</actor>
+      <actor>Chelsea v. Spurs</actor>
+    </credits>
+  </programme>
+  <programme start="20260519190000 +0000" stop="20260519230000 +0000" channel="PEACOCK 001">
+    <title lang="en">Chelsea v. Spurs</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Wales v. Italy</actor>
-      <actor>Wales v. Italy</actor>
+      <actor>Chelsea v. Spurs</actor>
+      <actor>Chelsea v. Spurs</actor>
     </credits>
   </programme>
-  <programme start="20260517100000 +0000" stop="20260517120000 +0000" channel="PEACOCK 002">
-    <title lang="en">Ireland v. Scotland starts at 9:30 AM ET</title>
+  <programme start="20260519100000 +0000" stop="20260519120000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: CWS at SEA starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Ireland v. Scotland</actor>
-      <actor>Ireland v. Scotland</actor>
+      <actor>Away Feed: CWS at SEA</actor>
+      <actor>Away Feed: CWS at SEA</actor>
     </credits>
   </programme>
-  <programme start="20260517120000 +0000" stop="20260517133000 +0000" channel="PEACOCK 002">
-    <title lang="en">Ireland v. Scotland starts at 9:30 AM ET</title>
+  <programme start="20260519120000 +0000" stop="20260519140000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: CWS at SEA starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Ireland v. Scotland</actor>
-      <actor>Ireland v. Scotland</actor>
+      <actor>Away Feed: CWS at SEA</actor>
+      <actor>Away Feed: CWS at SEA</actor>
     </credits>
   </programme>
-  <programme start="20260517133000 +0000" stop="20260517173000 +0000" channel="PEACOCK 002">
-    <title lang="en">Ireland v. Scotland</title>
+  <programme start="20260519140000 +0000" stop="20260519160000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: CWS at SEA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: CWS at SEA</actor>
+      <actor>Away Feed: CWS at SEA</actor>
+    </credits>
+  </programme>
+  <programme start="20260519160000 +0000" stop="20260519180000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: CWS at SEA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: CWS at SEA</actor>
+      <actor>Away Feed: CWS at SEA</actor>
+    </credits>
+  </programme>
+  <programme start="20260519180000 +0000" stop="20260519200000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: CWS at SEA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: CWS at SEA</actor>
+      <actor>Away Feed: CWS at SEA</actor>
+    </credits>
+  </programme>
+  <programme start="20260519200000 +0000" stop="20260519220000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: CWS at SEA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: CWS at SEA</actor>
+      <actor>Away Feed: CWS at SEA</actor>
+    </credits>
+  </programme>
+  <programme start="20260519220000 +0000" stop="20260520000000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: CWS at SEA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: CWS at SEA</actor>
+      <actor>Away Feed: CWS at SEA</actor>
+    </credits>
+  </programme>
+  <programme start="20260520000000 +0000" stop="20260520013000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: CWS at SEA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: CWS at SEA</actor>
+      <actor>Away Feed: CWS at SEA</actor>
+    </credits>
+  </programme>
+  <programme start="20260520013000 +0000" stop="20260520053000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: CWS at SEA</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Ireland v. Scotland</actor>
-      <actor>Ireland v. Scotland</actor>
+      <actor>Away Feed: CWS at SEA</actor>
+      <actor>Away Feed: CWS at SEA</actor>
     </credits>
   </programme>
-  <programme start="20260517100000 +0000" stop="20260517120000 +0000" channel="PEACOCK 003">
-    <title lang="en">Goal Rush: Matchweek 37 starts at 9:50 AM ET</title>
+  <programme start="20260519100000 +0000" stop="20260519120000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: CWS at SEA starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Goal Rush: Matchweek 37</actor>
-      <actor>Goal Rush: Matchweek 37</actor>
+      <actor>Home Feed: CWS at SEA</actor>
+      <actor>Home Feed: CWS at SEA</actor>
     </credits>
   </programme>
-  <programme start="20260517120000 +0000" stop="20260517135000 +0000" channel="PEACOCK 003">
-    <title lang="en">Goal Rush: Matchweek 37 starts at 9:50 AM ET</title>
+  <programme start="20260519120000 +0000" stop="20260519140000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: CWS at SEA starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Goal Rush: Matchweek 37</actor>
-      <actor>Goal Rush: Matchweek 37</actor>
+      <actor>Home Feed: CWS at SEA</actor>
+      <actor>Home Feed: CWS at SEA</actor>
     </credits>
   </programme>
-  <programme start="20260517135000 +0000" stop="20260517175000 +0000" channel="PEACOCK 003">
-    <title lang="en">Goal Rush: Matchweek 37</title>
+  <programme start="20260519140000 +0000" stop="20260519160000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: CWS at SEA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: CWS at SEA</actor>
+      <actor>Home Feed: CWS at SEA</actor>
+    </credits>
+  </programme>
+  <programme start="20260519160000 +0000" stop="20260519180000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: CWS at SEA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: CWS at SEA</actor>
+      <actor>Home Feed: CWS at SEA</actor>
+    </credits>
+  </programme>
+  <programme start="20260519180000 +0000" stop="20260519200000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: CWS at SEA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: CWS at SEA</actor>
+      <actor>Home Feed: CWS at SEA</actor>
+    </credits>
+  </programme>
+  <programme start="20260519200000 +0000" stop="20260519220000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: CWS at SEA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: CWS at SEA</actor>
+      <actor>Home Feed: CWS at SEA</actor>
+    </credits>
+  </programme>
+  <programme start="20260519220000 +0000" stop="20260520000000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: CWS at SEA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: CWS at SEA</actor>
+      <actor>Home Feed: CWS at SEA</actor>
+    </credits>
+  </programme>
+  <programme start="20260520000000 +0000" stop="20260520013000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: CWS at SEA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: CWS at SEA</actor>
+      <actor>Home Feed: CWS at SEA</actor>
+    </credits>
+  </programme>
+  <programme start="20260520013000 +0000" stop="20260520053000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: CWS at SEA</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Goal Rush: Matchweek 37</actor>
-      <actor>Goal Rush: Matchweek 37</actor>
-    </credits>
-  </programme>
-  <programme start="20260517100000 +0000" stop="20260517120000 +0000" channel="PEACOCK 004">
-    <title lang="en">Wolves v. Fulham starts at 9:50 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Wolves v. Fulham</actor>
-      <actor>Wolves v. Fulham</actor>
-    </credits>
-  </programme>
-  <programme start="20260517120000 +0000" stop="20260517135000 +0000" channel="PEACOCK 004">
-    <title lang="en">Wolves v. Fulham starts at 9:50 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Wolves v. Fulham</actor>
-      <actor>Wolves v. Fulham</actor>
-    </credits>
-  </programme>
-  <programme start="20260517135000 +0000" stop="20260517175000 +0000" channel="PEACOCK 004">
-    <title lang="en">Wolves v. Fulham</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Wolves v. Fulham</actor>
-      <actor>Wolves v. Fulham</actor>
-    </credits>
-  </programme>
-  <programme start="20260517100000 +0000" stop="20260517120000 +0000" channel="PEACOCK 005">
-    <title lang="en">Everton v. Sunderland starts at 9:50 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Everton v. Sunderland</actor>
-      <actor>Everton v. Sunderland</actor>
-    </credits>
-  </programme>
-  <programme start="20260517120000 +0000" stop="20260517135000 +0000" channel="PEACOCK 005">
-    <title lang="en">Everton v. Sunderland starts at 9:50 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Everton v. Sunderland</actor>
-      <actor>Everton v. Sunderland</actor>
-    </credits>
-  </programme>
-  <programme start="20260517135000 +0000" stop="20260517175000 +0000" channel="PEACOCK 005">
-    <title lang="en">Everton v. Sunderland</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Everton v. Sunderland</actor>
-      <actor>Everton v. Sunderland</actor>
-    </credits>
-  </programme>
-  <programme start="20260517100000 +0000" stop="20260517120000 +0000" channel="PEACOCK 006">
-    <title lang="en">Brentford v. Crystal Palace starts at 9:50 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Brentford v. Crystal Palace</actor>
-      <actor>Brentford v. Crystal Palace</actor>
-    </credits>
-  </programme>
-  <programme start="20260517120000 +0000" stop="20260517135000 +0000" channel="PEACOCK 006">
-    <title lang="en">Brentford v. Crystal Palace starts at 9:50 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Brentford v. Crystal Palace</actor>
-      <actor>Brentford v. Crystal Palace</actor>
-    </credits>
-  </programme>
-  <programme start="20260517135000 +0000" stop="20260517175000 +0000" channel="PEACOCK 006">
-    <title lang="en">Brentford v. Crystal Palace</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Brentford v. Crystal Palace</actor>
-      <actor>Brentford v. Crystal Palace</actor>
-    </credits>
-  </programme>
-  <programme start="20260517100000 +0000" stop="20260517120000 +0000" channel="PEACOCK 007">
-    <title lang="en">France v. England starts at 11:45 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>France v. England</actor>
-      <actor>France v. England</actor>
-    </credits>
-  </programme>
-  <programme start="20260517120000 +0000" stop="20260517140000 +0000" channel="PEACOCK 007">
-    <title lang="en">France v. England starts at 11:45 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>France v. England</actor>
-      <actor>France v. England</actor>
-    </credits>
-  </programme>
-  <programme start="20260517140000 +0000" stop="20260517154500 +0000" channel="PEACOCK 007">
-    <title lang="en">France v. England starts at 11:45 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>France v. England</actor>
-      <actor>France v. England</actor>
-    </credits>
-  </programme>
-  <programme start="20260517154500 +0000" stop="20260517194500 +0000" channel="PEACOCK 007">
-    <title lang="en">France v. England</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>France v. England</actor>
-      <actor>France v. England</actor>
-    </credits>
-  </programme>
-  <programme start="20260517100000 +0000" stop="20260517120000 +0000" channel="PEACOCK 008">
-    <title lang="en">Marlins at Rays starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Marlins at Rays</actor>
-      <actor>Marlins at Rays</actor>
-    </credits>
-  </programme>
-  <programme start="20260517120000 +0000" stop="20260517140000 +0000" channel="PEACOCK 008">
-    <title lang="en">Marlins at Rays starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Marlins at Rays</actor>
-      <actor>Marlins at Rays</actor>
-    </credits>
-  </programme>
-  <programme start="20260517140000 +0000" stop="20260517160000 +0000" channel="PEACOCK 008">
-    <title lang="en">Marlins at Rays starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Marlins at Rays</actor>
-      <actor>Marlins at Rays</actor>
-    </credits>
-  </programme>
-  <programme start="20260517160000 +0000" stop="20260517200000 +0000" channel="PEACOCK 008">
-    <title lang="en">Marlins at Rays</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Marlins at Rays</actor>
-      <actor>Marlins at Rays</actor>
-    </credits>
-  </programme>
-  <programme start="20260517100000 +0000" stop="20260517120000 +0000" channel="PEACOCK 009">
-    <title lang="en">Aces vs. Dream starts at 1:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Aces vs. Dream</actor>
-      <actor>Aces vs. Dream</actor>
-    </credits>
-  </programme>
-  <programme start="20260517120000 +0000" stop="20260517140000 +0000" channel="PEACOCK 009">
-    <title lang="en">Aces vs. Dream starts at 1:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Aces vs. Dream</actor>
-      <actor>Aces vs. Dream</actor>
-    </credits>
-  </programme>
-  <programme start="20260517140000 +0000" stop="20260517160000 +0000" channel="PEACOCK 009">
-    <title lang="en">Aces vs. Dream starts at 1:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Aces vs. Dream</actor>
-      <actor>Aces vs. Dream</actor>
-    </credits>
-  </programme>
-  <programme start="20260517160000 +0000" stop="20260517170000 +0000" channel="PEACOCK 009">
-    <title lang="en">Aces vs. Dream starts at 1:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Aces vs. Dream</actor>
-      <actor>Aces vs. Dream</actor>
-    </credits>
-  </programme>
-  <programme start="20260517170000 +0000" stop="20260517210000 +0000" channel="PEACOCK 009">
-    <title lang="en">Aces vs. Dream</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Aces vs. Dream</actor>
-      <actor>Aces vs. Dream</actor>
-    </credits>
-  </programme>
-  <programme start="20260517100000 +0000" stop="20260517120000 +0000" channel="PEACOCK 010">
-    <title lang="en">MLB Sunday Stretch: 5.17.26 starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLB Sunday Stretch: 5.17.26</actor>
-      <actor>MLB Sunday Stretch: 5.17.26</actor>
-    </credits>
-  </programme>
-  <programme start="20260517120000 +0000" stop="20260517140000 +0000" channel="PEACOCK 010">
-    <title lang="en">MLB Sunday Stretch: 5.17.26 starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLB Sunday Stretch: 5.17.26</actor>
-      <actor>MLB Sunday Stretch: 5.17.26</actor>
-    </credits>
-  </programme>
-  <programme start="20260517140000 +0000" stop="20260517160000 +0000" channel="PEACOCK 010">
-    <title lang="en">MLB Sunday Stretch: 5.17.26 starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLB Sunday Stretch: 5.17.26</actor>
-      <actor>MLB Sunday Stretch: 5.17.26</actor>
-    </credits>
-  </programme>
-  <programme start="20260517160000 +0000" stop="20260517180000 +0000" channel="PEACOCK 010">
-    <title lang="en">MLB Sunday Stretch: 5.17.26 starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLB Sunday Stretch: 5.17.26</actor>
-      <actor>MLB Sunday Stretch: 5.17.26</actor>
-    </credits>
-  </programme>
-  <programme start="20260517180000 +0000" stop="20260517183000 +0000" channel="PEACOCK 010">
-    <title lang="en">MLB Sunday Stretch: 5.17.26 starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLB Sunday Stretch: 5.17.26</actor>
-      <actor>MLB Sunday Stretch: 5.17.26</actor>
-    </credits>
-  </programme>
-  <programme start="20260517183000 +0000" stop="20260517223000 +0000" channel="PEACOCK 010">
-    <title lang="en">MLB Sunday Stretch: 5.17.26</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLB Sunday Stretch: 5.17.26</actor>
-      <actor>MLB Sunday Stretch: 5.17.26</actor>
-    </credits>
-  </programme>
-  <programme start="20260517100000 +0000" stop="20260517120000 +0000" channel="PEACOCK 011">
-    <title lang="en">Home Feed: LAD at LAA starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: LAD at LAA</actor>
-      <actor>Home Feed: LAD at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260517120000 +0000" stop="20260517140000 +0000" channel="PEACOCK 011">
-    <title lang="en">Home Feed: LAD at LAA starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: LAD at LAA</actor>
-      <actor>Home Feed: LAD at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260517140000 +0000" stop="20260517160000 +0000" channel="PEACOCK 011">
-    <title lang="en">Home Feed: LAD at LAA starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: LAD at LAA</actor>
-      <actor>Home Feed: LAD at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260517160000 +0000" stop="20260517180000 +0000" channel="PEACOCK 011">
-    <title lang="en">Home Feed: LAD at LAA starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: LAD at LAA</actor>
-      <actor>Home Feed: LAD at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260517180000 +0000" stop="20260517200000 +0000" channel="PEACOCK 011">
-    <title lang="en">Home Feed: LAD at LAA starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: LAD at LAA</actor>
-      <actor>Home Feed: LAD at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260517200000 +0000" stop="20260518000000 +0000" channel="PEACOCK 011">
-    <title lang="en">Home Feed: LAD at LAA</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: LAD at LAA</actor>
-      <actor>Home Feed: LAD at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260517100000 +0000" stop="20260517120000 +0000" channel="PEACOCK 012">
-    <title lang="en">Away Feed: LAD at LAA starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: LAD at LAA</actor>
-      <actor>Away Feed: LAD at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260517120000 +0000" stop="20260517140000 +0000" channel="PEACOCK 012">
-    <title lang="en">Away Feed: LAD at LAA starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: LAD at LAA</actor>
-      <actor>Away Feed: LAD at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260517140000 +0000" stop="20260517160000 +0000" channel="PEACOCK 012">
-    <title lang="en">Away Feed: LAD at LAA starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: LAD at LAA</actor>
-      <actor>Away Feed: LAD at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260517160000 +0000" stop="20260517180000 +0000" channel="PEACOCK 012">
-    <title lang="en">Away Feed: LAD at LAA starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: LAD at LAA</actor>
-      <actor>Away Feed: LAD at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260517180000 +0000" stop="20260517200000 +0000" channel="PEACOCK 012">
-    <title lang="en">Away Feed: LAD at LAA starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: LAD at LAA</actor>
-      <actor>Away Feed: LAD at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260517200000 +0000" stop="20260518000000 +0000" channel="PEACOCK 012">
-    <title lang="en">Away Feed: LAD at LAA</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: LAD at LAA</actor>
-      <actor>Away Feed: LAD at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260517100000 +0000" stop="20260517120000 +0000" channel="PEACOCK 013">
-    <title lang="en">Storm vs. Fever starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Storm vs. Fever</actor>
-      <actor>Storm vs. Fever</actor>
-    </credits>
-  </programme>
-  <programme start="20260517120000 +0000" stop="20260517140000 +0000" channel="PEACOCK 013">
-    <title lang="en">Storm vs. Fever starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Storm vs. Fever</actor>
-      <actor>Storm vs. Fever</actor>
-    </credits>
-  </programme>
-  <programme start="20260517140000 +0000" stop="20260517160000 +0000" channel="PEACOCK 013">
-    <title lang="en">Storm vs. Fever starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Storm vs. Fever</actor>
-      <actor>Storm vs. Fever</actor>
-    </credits>
-  </programme>
-  <programme start="20260517160000 +0000" stop="20260517180000 +0000" channel="PEACOCK 013">
-    <title lang="en">Storm vs. Fever starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Storm vs. Fever</actor>
-      <actor>Storm vs. Fever</actor>
-    </credits>
-  </programme>
-  <programme start="20260517180000 +0000" stop="20260517200000 +0000" channel="PEACOCK 013">
-    <title lang="en">Storm vs. Fever starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Storm vs. Fever</actor>
-      <actor>Storm vs. Fever</actor>
-    </credits>
-  </programme>
-  <programme start="20260517200000 +0000" stop="20260517220000 +0000" channel="PEACOCK 013">
-    <title lang="en">Storm vs. Fever starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Storm vs. Fever</actor>
-      <actor>Storm vs. Fever</actor>
-    </credits>
-  </programme>
-  <programme start="20260517220000 +0000" stop="20260518020000 +0000" channel="PEACOCK 013">
-    <title lang="en">Storm vs. Fever</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Storm vs. Fever</actor>
-      <actor>Storm vs. Fever</actor>
-    </credits>
-  </programme>
-  <programme start="20260517100000 +0000" stop="20260517120000 +0000" channel="PEACOCK 014">
-    <title lang="en">Padres at Mariners starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Padres at Mariners</actor>
-      <actor>Padres at Mariners</actor>
-    </credits>
-  </programme>
-  <programme start="20260517120000 +0000" stop="20260517140000 +0000" channel="PEACOCK 014">
-    <title lang="en">Padres at Mariners starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Padres at Mariners</actor>
-      <actor>Padres at Mariners</actor>
-    </credits>
-  </programme>
-  <programme start="20260517140000 +0000" stop="20260517160000 +0000" channel="PEACOCK 014">
-    <title lang="en">Padres at Mariners starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Padres at Mariners</actor>
-      <actor>Padres at Mariners</actor>
-    </credits>
-  </programme>
-  <programme start="20260517160000 +0000" stop="20260517180000 +0000" channel="PEACOCK 014">
-    <title lang="en">Padres at Mariners starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Padres at Mariners</actor>
-      <actor>Padres at Mariners</actor>
-    </credits>
-  </programme>
-  <programme start="20260517180000 +0000" stop="20260517200000 +0000" channel="PEACOCK 014">
-    <title lang="en">Padres at Mariners starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Padres at Mariners</actor>
-      <actor>Padres at Mariners</actor>
-    </credits>
-  </programme>
-  <programme start="20260517200000 +0000" stop="20260517220000 +0000" channel="PEACOCK 014">
-    <title lang="en">Padres at Mariners starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Padres at Mariners</actor>
-      <actor>Padres at Mariners</actor>
-    </credits>
-  </programme>
-  <programme start="20260517220000 +0000" stop="20260517230000 +0000" channel="PEACOCK 014">
-    <title lang="en">Padres at Mariners starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Padres at Mariners</actor>
-      <actor>Padres at Mariners</actor>
-    </credits>
-  </programme>
-  <programme start="20260517230000 +0000" stop="20260518030000 +0000" channel="PEACOCK 014">
-    <title lang="en">Padres at Mariners</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Padres at Mariners</actor>
-      <actor>Padres at Mariners</actor>
+      <actor>Home Feed: CWS at SEA</actor>
+      <actor>Home Feed: CWS at SEA</actor>
     </credits>
   </programme>
 </tv>
