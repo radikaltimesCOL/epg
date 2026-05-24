@@ -2097,2064 +2097,1648 @@
   <channel id="SOCCER 99">
     <display-name>SOCCER 99</display-name>
   </channel>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 01">
-    <title lang="en">Alavés @ Rayo Vallecano - starts at 3:00 PM ET</title>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 01">
+    <title lang="en">Brighton &amp; Hove Albion @ Manchester United - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Brighton &amp; Hove Albion</actor>
+      <actor>Manchester United</actor>
+    </credits>
+    <sub-title lang="en">Venue: American Express Stadium</sub-title>
+  </programme>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 01">
+    <title lang="en">Brighton &amp; Hove Albion @ Manchester United - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Brighton &amp; Hove Albion</actor>
+      <actor>Manchester United</actor>
+    </credits>
+    <sub-title lang="en">Venue: American Express Stadium</sub-title>
+  </programme>
+  <programme start="20260524140000 +0000" stop="20260524150000 +0000" channel="SOCCER 01">
+    <title lang="en">Brighton &amp; Hove Albion @ Manchester United - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Brighton &amp; Hove Albion</actor>
+      <actor>Manchester United</actor>
+    </credits>
+    <sub-title lang="en">Venue: American Express Stadium</sub-title>
+  </programme>
+  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="SOCCER 01">
+    <title lang="en">Brighton &amp; Hove Albion @ Manchester United</title>
+    <desc lang="en">2025 26 English Premier League | Network: NBCSN, Peacock | Venue: American Express Stadium, Falmer</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Brighton &amp; Hove Albion</actor>
+      <actor>Manchester United</actor>
+    </credits>
+    <sub-title lang="en">Venue: American Express Stadium</sub-title>
+  </programme>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 02">
+    <title lang="en">Burnley @ Wolverhampton Wanderers - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Burnley</actor>
+      <actor>Wolverhampton Wanderers</actor>
+    </credits>
+    <sub-title lang="en">Venue: Turf Moor</sub-title>
+  </programme>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 02">
+    <title lang="en">Burnley @ Wolverhampton Wanderers - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Burnley</actor>
+      <actor>Wolverhampton Wanderers</actor>
+    </credits>
+    <sub-title lang="en">Venue: Turf Moor</sub-title>
+  </programme>
+  <programme start="20260524140000 +0000" stop="20260524150000 +0000" channel="SOCCER 02">
+    <title lang="en">Burnley @ Wolverhampton Wanderers - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Burnley</actor>
+      <actor>Wolverhampton Wanderers</actor>
+    </credits>
+    <sub-title lang="en">Venue: Turf Moor</sub-title>
+  </programme>
+  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="SOCCER 02">
+    <title lang="en">Burnley @ Wolverhampton Wanderers</title>
+    <desc lang="en">2025 26 English Premier League | Network: Peacock | Venue: Turf Moor, Burnley</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Burnley</actor>
+      <actor>Wolverhampton Wanderers</actor>
+    </credits>
+    <sub-title lang="en">Venue: Turf Moor</sub-title>
+  </programme>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 03">
+    <title lang="en">Crystal Palace @ Arsenal - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Crystal Palace</actor>
+      <actor>Arsenal</actor>
+    </credits>
+    <sub-title lang="en">Venue: Selhurst Park</sub-title>
+  </programme>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 03">
+    <title lang="en">Crystal Palace @ Arsenal - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Crystal Palace</actor>
+      <actor>Arsenal</actor>
+    </credits>
+    <sub-title lang="en">Venue: Selhurst Park</sub-title>
+  </programme>
+  <programme start="20260524140000 +0000" stop="20260524150000 +0000" channel="SOCCER 03">
+    <title lang="en">Crystal Palace @ Arsenal - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Crystal Palace</actor>
+      <actor>Arsenal</actor>
+    </credits>
+    <sub-title lang="en">Venue: Selhurst Park</sub-title>
+  </programme>
+  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="SOCCER 03">
+    <title lang="en">Crystal Palace @ Arsenal</title>
+    <desc lang="en">2025 26 English Premier League | Network: CNBC | Venue: Selhurst Park, London</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Crystal Palace</actor>
+      <actor>Arsenal</actor>
+    </credits>
+    <sub-title lang="en">Venue: Selhurst Park</sub-title>
+  </programme>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 04">
+    <title lang="en">Fulham @ Newcastle United - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Fulham</actor>
+      <actor>Newcastle United</actor>
+    </credits>
+    <sub-title lang="en">Venue: Craven Cottage</sub-title>
+  </programme>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 04">
+    <title lang="en">Fulham @ Newcastle United - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Fulham</actor>
+      <actor>Newcastle United</actor>
+    </credits>
+    <sub-title lang="en">Venue: Craven Cottage</sub-title>
+  </programme>
+  <programme start="20260524140000 +0000" stop="20260524150000 +0000" channel="SOCCER 04">
+    <title lang="en">Fulham @ Newcastle United - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Fulham</actor>
+      <actor>Newcastle United</actor>
+    </credits>
+    <sub-title lang="en">Venue: Craven Cottage</sub-title>
+  </programme>
+  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="SOCCER 04">
+    <title lang="en">Fulham @ Newcastle United</title>
+    <desc lang="en">2025 26 English Premier League | Network: Peacock | Venue: Craven Cottage, London</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Fulham</actor>
+      <actor>Newcastle United</actor>
+    </credits>
+    <sub-title lang="en">Venue: Craven Cottage</sub-title>
+  </programme>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 05">
+    <title lang="en">Liverpool @ Brentford - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Liverpool</actor>
+      <actor>Brentford</actor>
+    </credits>
+    <sub-title lang="en">Venue: Anfield</sub-title>
+  </programme>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 05">
+    <title lang="en">Liverpool @ Brentford - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Liverpool</actor>
+      <actor>Brentford</actor>
+    </credits>
+    <sub-title lang="en">Venue: Anfield</sub-title>
+  </programme>
+  <programme start="20260524140000 +0000" stop="20260524150000 +0000" channel="SOCCER 05">
+    <title lang="en">Liverpool @ Brentford - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Liverpool</actor>
+      <actor>Brentford</actor>
+    </credits>
+    <sub-title lang="en">Venue: Anfield</sub-title>
+  </programme>
+  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="SOCCER 05">
+    <title lang="en">Liverpool @ Brentford</title>
+    <desc lang="en">2025 26 English Premier League | Network: SYFY | Venue: Anfield, Liverpool</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Liverpool</actor>
+      <actor>Brentford</actor>
+    </credits>
+    <sub-title lang="en">Venue: Anfield</sub-title>
+  </programme>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 06">
+    <title lang="en">Manchester City @ Aston Villa - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Manchester City</actor>
+      <actor>Aston Villa</actor>
+    </credits>
+    <sub-title lang="en">Venue: Etihad Stadium</sub-title>
+  </programme>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 06">
+    <title lang="en">Manchester City @ Aston Villa - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Manchester City</actor>
+      <actor>Aston Villa</actor>
+    </credits>
+    <sub-title lang="en">Venue: Etihad Stadium</sub-title>
+  </programme>
+  <programme start="20260524140000 +0000" stop="20260524150000 +0000" channel="SOCCER 06">
+    <title lang="en">Manchester City @ Aston Villa - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Manchester City</actor>
+      <actor>Aston Villa</actor>
+    </credits>
+    <sub-title lang="en">Venue: Etihad Stadium</sub-title>
+  </programme>
+  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="SOCCER 06">
+    <title lang="en">Manchester City @ Aston Villa</title>
+    <desc lang="en">2025 26 English Premier League | Network: Peacock | Venue: Etihad Stadium, Manchester</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Manchester City</actor>
+      <actor>Aston Villa</actor>
+    </credits>
+    <sub-title lang="en">Venue: Etihad Stadium</sub-title>
+  </programme>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 07">
+    <title lang="en">Nottingham Forest @ AFC Bournemouth - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Nottingham Forest</actor>
+      <actor>AFC Bournemouth</actor>
+    </credits>
+    <sub-title lang="en">Venue: The City Ground</sub-title>
+  </programme>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 07">
+    <title lang="en">Nottingham Forest @ AFC Bournemouth - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Nottingham Forest</actor>
+      <actor>AFC Bournemouth</actor>
+    </credits>
+    <sub-title lang="en">Venue: The City Ground</sub-title>
+  </programme>
+  <programme start="20260524140000 +0000" stop="20260524150000 +0000" channel="SOCCER 07">
+    <title lang="en">Nottingham Forest @ AFC Bournemouth - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Nottingham Forest</actor>
+      <actor>AFC Bournemouth</actor>
+    </credits>
+    <sub-title lang="en">Venue: The City Ground</sub-title>
+  </programme>
+  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="SOCCER 07">
+    <title lang="en">Nottingham Forest @ AFC Bournemouth</title>
+    <desc lang="en">2025 26 English Premier League | Network: Peacock | Venue: The City Ground, Nottingham</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Nottingham Forest</actor>
+      <actor>AFC Bournemouth</actor>
+    </credits>
+    <sub-title lang="en">Venue: The City Ground</sub-title>
+  </programme>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 08">
+    <title lang="en">Sunderland @ Chelsea - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Sunderland</actor>
+      <actor>Chelsea</actor>
+    </credits>
+    <sub-title lang="en">Venue: Stadium of Light</sub-title>
+  </programme>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 08">
+    <title lang="en">Sunderland @ Chelsea - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Sunderland</actor>
+      <actor>Chelsea</actor>
+    </credits>
+    <sub-title lang="en">Venue: Stadium of Light</sub-title>
+  </programme>
+  <programme start="20260524140000 +0000" stop="20260524150000 +0000" channel="SOCCER 08">
+    <title lang="en">Sunderland @ Chelsea - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Sunderland</actor>
+      <actor>Chelsea</actor>
+    </credits>
+    <sub-title lang="en">Venue: Stadium of Light</sub-title>
+  </programme>
+  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="SOCCER 08">
+    <title lang="en">Sunderland @ Chelsea</title>
+    <desc lang="en">2025 26 English Premier League | Network: Peacock | Venue: Stadium of Light, Sunderland</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Sunderland</actor>
+      <actor>Chelsea</actor>
+    </credits>
+    <sub-title lang="en">Venue: Stadium of Light</sub-title>
+  </programme>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 09">
+    <title lang="en">Tottenham Hotspur @ Everton - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Tottenham Hotspur</actor>
+      <actor>Everton</actor>
+    </credits>
+    <sub-title lang="en">Venue: Tottenham Hotspur Stadium</sub-title>
+  </programme>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 09">
+    <title lang="en">Tottenham Hotspur @ Everton - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Tottenham Hotspur</actor>
+      <actor>Everton</actor>
+    </credits>
+    <sub-title lang="en">Venue: Tottenham Hotspur Stadium</sub-title>
+  </programme>
+  <programme start="20260524140000 +0000" stop="20260524150000 +0000" channel="SOCCER 09">
+    <title lang="en">Tottenham Hotspur @ Everton - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Tottenham Hotspur</actor>
+      <actor>Everton</actor>
+    </credits>
+    <sub-title lang="en">Venue: Tottenham Hotspur Stadium</sub-title>
+  </programme>
+  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="SOCCER 09">
+    <title lang="en">Tottenham Hotspur @ Everton</title>
+    <desc lang="en">2025 26 English Premier League | Network: NBC, Tele, Peacock | Venue: Tottenham Hotspur Stadium, London</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>Tottenham Hotspur</actor>
+      <actor>Everton</actor>
+    </credits>
+    <sub-title lang="en">Venue: Tottenham Hotspur Stadium</sub-title>
+  </programme>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 10">
+    <title lang="en">West Ham United @ Leeds United - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>West Ham United</actor>
+      <actor>Leeds United</actor>
+    </credits>
+    <sub-title lang="en">Venue: London Stadium</sub-title>
+  </programme>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 10">
+    <title lang="en">West Ham United @ Leeds United - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>West Ham United</actor>
+      <actor>Leeds United</actor>
+    </credits>
+    <sub-title lang="en">Venue: London Stadium</sub-title>
+  </programme>
+  <programme start="20260524140000 +0000" stop="20260524150000 +0000" channel="SOCCER 10">
+    <title lang="en">West Ham United @ Leeds United - starts at 11:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>West Ham United</actor>
+      <actor>Leeds United</actor>
+    </credits>
+    <sub-title lang="en">Venue: London Stadium</sub-title>
+  </programme>
+  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="SOCCER 10">
+    <title lang="en">West Ham United @ Leeds United</title>
+    <desc lang="en">2025 26 English Premier League | Network: USA Net, Universo | Venue: London Stadium, London</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">EPL</category>
+    <credits>
+      <actor>West Ham United</actor>
+      <actor>Leeds United</actor>
+    </credits>
+    <sub-title lang="en">Venue: London Stadium</sub-title>
+  </programme>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 11">
+    <title lang="en">Villarreal @ Atlético Madrid - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">LA LIGA</category>
     <credits>
-      <actor>Alavés</actor>
-      <actor>Rayo Vallecano</actor>
+      <actor>Villarreal</actor>
+      <actor>Atlético Madrid</actor>
     </credits>
-    <sub-title lang="en">Venue: Mendizorrotza</sub-title>
+    <sub-title lang="en">Venue: Estadio de la Cerámica</sub-title>
   </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 01">
-    <title lang="en">Alavés @ Rayo Vallecano - starts at 3:00 PM ET</title>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 11">
+    <title lang="en">Villarreal @ Atlético Madrid - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">LA LIGA</category>
     <credits>
-      <actor>Alavés</actor>
-      <actor>Rayo Vallecano</actor>
+      <actor>Villarreal</actor>
+      <actor>Atlético Madrid</actor>
     </credits>
-    <sub-title lang="en">Venue: Mendizorrotza</sub-title>
+    <sub-title lang="en">Venue: Estadio de la Cerámica</sub-title>
   </programme>
-  <programme start="20260523140000 +0000" stop="20260523160000 +0000" channel="SOCCER 01">
-    <title lang="en">Alavés @ Rayo Vallecano - starts at 3:00 PM ET</title>
+  <programme start="20260524140000 +0000" stop="20260524160000 +0000" channel="SOCCER 11">
+    <title lang="en">Villarreal @ Atlético Madrid - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">LA LIGA</category>
     <credits>
-      <actor>Alavés</actor>
-      <actor>Rayo Vallecano</actor>
+      <actor>Villarreal</actor>
+      <actor>Atlético Madrid</actor>
     </credits>
-    <sub-title lang="en">Venue: Mendizorrotza</sub-title>
+    <sub-title lang="en">Venue: Estadio de la Cerámica</sub-title>
   </programme>
-  <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="SOCCER 01">
-    <title lang="en">Alavés @ Rayo Vallecano - starts at 3:00 PM ET</title>
+  <programme start="20260524160000 +0000" stop="20260524180000 +0000" channel="SOCCER 11">
+    <title lang="en">Villarreal @ Atlético Madrid - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">LA LIGA</category>
     <credits>
-      <actor>Alavés</actor>
-      <actor>Rayo Vallecano</actor>
+      <actor>Villarreal</actor>
+      <actor>Atlético Madrid</actor>
     </credits>
-    <sub-title lang="en">Venue: Mendizorrotza</sub-title>
+    <sub-title lang="en">Venue: Estadio de la Cerámica</sub-title>
   </programme>
-  <programme start="20260523180000 +0000" stop="20260523190000 +0000" channel="SOCCER 01">
-    <title lang="en">Alavés @ Rayo Vallecano - starts at 3:00 PM ET</title>
+  <programme start="20260524180000 +0000" stop="20260524190000 +0000" channel="SOCCER 11">
+    <title lang="en">Villarreal @ Atlético Madrid - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">LA LIGA</category>
     <credits>
-      <actor>Alavés</actor>
-      <actor>Rayo Vallecano</actor>
+      <actor>Villarreal</actor>
+      <actor>Atlético Madrid</actor>
     </credits>
-    <sub-title lang="en">Venue: Mendizorrotza</sub-title>
+    <sub-title lang="en">Venue: Estadio de la Cerámica</sub-title>
   </programme>
-  <programme start="20260523190000 +0000" stop="20260523210000 +0000" channel="SOCCER 01">
-    <title lang="en">Alavés @ Rayo Vallecano</title>
-    <desc lang="en">2025 26 Laliga | Network: ESPN+ | Venue: Mendizorrotza, Vitoria-Gasteiz</desc>
+  <programme start="20260524190000 +0000" stop="20260524210000 +0000" channel="SOCCER 11">
+    <title lang="en">Villarreal @ Atlético Madrid</title>
+    <desc lang="en">2025 26 Laliga | Network: ESPN Deportes, ESPN+ | Venue: Estadio de la Cerámica, Villarreal</desc>
     <category lang="en">Sports</category>
     <category lang="en">LA LIGA</category>
     <credits>
-      <actor>Alavés</actor>
-      <actor>Rayo Vallecano</actor>
+      <actor>Villarreal</actor>
+      <actor>Atlético Madrid</actor>
     </credits>
-    <sub-title lang="en">Venue: Mendizorrotza</sub-title>
+    <sub-title lang="en">Venue: Estadio de la Cerámica</sub-title>
   </programme>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 02">
-    <title lang="en">Celta Vigo @ Sevilla - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Celta Vigo</actor>
-      <actor>Sevilla</actor>
-    </credits>
-    <sub-title lang="en">Venue: Balaidos</sub-title>
-  </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 02">
-    <title lang="en">Celta Vigo @ Sevilla - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Celta Vigo</actor>
-      <actor>Sevilla</actor>
-    </credits>
-    <sub-title lang="en">Venue: Balaidos</sub-title>
-  </programme>
-  <programme start="20260523140000 +0000" stop="20260523160000 +0000" channel="SOCCER 02">
-    <title lang="en">Celta Vigo @ Sevilla - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Celta Vigo</actor>
-      <actor>Sevilla</actor>
-    </credits>
-    <sub-title lang="en">Venue: Balaidos</sub-title>
-  </programme>
-  <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="SOCCER 02">
-    <title lang="en">Celta Vigo @ Sevilla - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Celta Vigo</actor>
-      <actor>Sevilla</actor>
-    </credits>
-    <sub-title lang="en">Venue: Balaidos</sub-title>
-  </programme>
-  <programme start="20260523180000 +0000" stop="20260523190000 +0000" channel="SOCCER 02">
-    <title lang="en">Celta Vigo @ Sevilla - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Celta Vigo</actor>
-      <actor>Sevilla</actor>
-    </credits>
-    <sub-title lang="en">Venue: Balaidos</sub-title>
-  </programme>
-  <programme start="20260523190000 +0000" stop="20260523210000 +0000" channel="SOCCER 02">
-    <title lang="en">Celta Vigo @ Sevilla</title>
-    <desc lang="en">2025 26 Laliga | Network: ESPN+ | Venue: Balaidos, Vigo</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Celta Vigo</actor>
-      <actor>Sevilla</actor>
-    </credits>
-    <sub-title lang="en">Venue: Balaidos</sub-title>
-  </programme>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 03">
-    <title lang="en">Espanyol @ Real Sociedad - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Espanyol</actor>
-      <actor>Real Sociedad</actor>
-    </credits>
-    <sub-title lang="en">Venue: RCDE Stadium</sub-title>
-  </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 03">
-    <title lang="en">Espanyol @ Real Sociedad - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Espanyol</actor>
-      <actor>Real Sociedad</actor>
-    </credits>
-    <sub-title lang="en">Venue: RCDE Stadium</sub-title>
-  </programme>
-  <programme start="20260523140000 +0000" stop="20260523160000 +0000" channel="SOCCER 03">
-    <title lang="en">Espanyol @ Real Sociedad - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Espanyol</actor>
-      <actor>Real Sociedad</actor>
-    </credits>
-    <sub-title lang="en">Venue: RCDE Stadium</sub-title>
-  </programme>
-  <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="SOCCER 03">
-    <title lang="en">Espanyol @ Real Sociedad - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Espanyol</actor>
-      <actor>Real Sociedad</actor>
-    </credits>
-    <sub-title lang="en">Venue: RCDE Stadium</sub-title>
-  </programme>
-  <programme start="20260523180000 +0000" stop="20260523190000 +0000" channel="SOCCER 03">
-    <title lang="en">Espanyol @ Real Sociedad - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Espanyol</actor>
-      <actor>Real Sociedad</actor>
-    </credits>
-    <sub-title lang="en">Venue: RCDE Stadium</sub-title>
-  </programme>
-  <programme start="20260523190000 +0000" stop="20260523210000 +0000" channel="SOCCER 03">
-    <title lang="en">Espanyol @ Real Sociedad</title>
-    <desc lang="en">2025 26 Laliga | Network: ESPN+ | Venue: RCDE Stadium, Barcelona</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Espanyol</actor>
-      <actor>Real Sociedad</actor>
-    </credits>
-    <sub-title lang="en">Venue: RCDE Stadium</sub-title>
-  </programme>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 04">
-    <title lang="en">Getafe @ Osasuna - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Getafe</actor>
-      <actor>Osasuna</actor>
-    </credits>
-    <sub-title lang="en">Venue: Estadio Coliseum</sub-title>
-  </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 04">
-    <title lang="en">Getafe @ Osasuna - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Getafe</actor>
-      <actor>Osasuna</actor>
-    </credits>
-    <sub-title lang="en">Venue: Estadio Coliseum</sub-title>
-  </programme>
-  <programme start="20260523140000 +0000" stop="20260523160000 +0000" channel="SOCCER 04">
-    <title lang="en">Getafe @ Osasuna - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Getafe</actor>
-      <actor>Osasuna</actor>
-    </credits>
-    <sub-title lang="en">Venue: Estadio Coliseum</sub-title>
-  </programme>
-  <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="SOCCER 04">
-    <title lang="en">Getafe @ Osasuna - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Getafe</actor>
-      <actor>Osasuna</actor>
-    </credits>
-    <sub-title lang="en">Venue: Estadio Coliseum</sub-title>
-  </programme>
-  <programme start="20260523180000 +0000" stop="20260523190000 +0000" channel="SOCCER 04">
-    <title lang="en">Getafe @ Osasuna - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Getafe</actor>
-      <actor>Osasuna</actor>
-    </credits>
-    <sub-title lang="en">Venue: Estadio Coliseum</sub-title>
-  </programme>
-  <programme start="20260523190000 +0000" stop="20260523210000 +0000" channel="SOCCER 04">
-    <title lang="en">Getafe @ Osasuna</title>
-    <desc lang="en">2025 26 Laliga | Network: ESPN+ | Venue: Estadio Coliseum, Getafe</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Getafe</actor>
-      <actor>Osasuna</actor>
-    </credits>
-    <sub-title lang="en">Venue: Estadio Coliseum</sub-title>
-  </programme>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 05">
-    <title lang="en">Girona @ Elche - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Girona</actor>
-      <actor>Elche</actor>
-    </credits>
-    <sub-title lang="en">Venue: Estadi Montilivi</sub-title>
-  </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 05">
-    <title lang="en">Girona @ Elche - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Girona</actor>
-      <actor>Elche</actor>
-    </credits>
-    <sub-title lang="en">Venue: Estadi Montilivi</sub-title>
-  </programme>
-  <programme start="20260523140000 +0000" stop="20260523160000 +0000" channel="SOCCER 05">
-    <title lang="en">Girona @ Elche - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Girona</actor>
-      <actor>Elche</actor>
-    </credits>
-    <sub-title lang="en">Venue: Estadi Montilivi</sub-title>
-  </programme>
-  <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="SOCCER 05">
-    <title lang="en">Girona @ Elche - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Girona</actor>
-      <actor>Elche</actor>
-    </credits>
-    <sub-title lang="en">Venue: Estadi Montilivi</sub-title>
-  </programme>
-  <programme start="20260523180000 +0000" stop="20260523190000 +0000" channel="SOCCER 05">
-    <title lang="en">Girona @ Elche - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Girona</actor>
-      <actor>Elche</actor>
-    </credits>
-    <sub-title lang="en">Venue: Estadi Montilivi</sub-title>
-  </programme>
-  <programme start="20260523190000 +0000" stop="20260523210000 +0000" channel="SOCCER 05">
-    <title lang="en">Girona @ Elche</title>
-    <desc lang="en">2025 26 Laliga | Network: ESPN Deportes, ESPN+ | Venue: Estadi Montilivi, Girona</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Girona</actor>
-      <actor>Elche</actor>
-    </credits>
-    <sub-title lang="en">Venue: Estadi Montilivi</sub-title>
-  </programme>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 06">
-    <title lang="en">Mallorca @ Real Oviedo - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Mallorca</actor>
-      <actor>Real Oviedo</actor>
-    </credits>
-    <sub-title lang="en">Venue: Estadi Mallorca Son Moix</sub-title>
-  </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 06">
-    <title lang="en">Mallorca @ Real Oviedo - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Mallorca</actor>
-      <actor>Real Oviedo</actor>
-    </credits>
-    <sub-title lang="en">Venue: Estadi Mallorca Son Moix</sub-title>
-  </programme>
-  <programme start="20260523140000 +0000" stop="20260523160000 +0000" channel="SOCCER 06">
-    <title lang="en">Mallorca @ Real Oviedo - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Mallorca</actor>
-      <actor>Real Oviedo</actor>
-    </credits>
-    <sub-title lang="en">Venue: Estadi Mallorca Son Moix</sub-title>
-  </programme>
-  <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="SOCCER 06">
-    <title lang="en">Mallorca @ Real Oviedo - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Mallorca</actor>
-      <actor>Real Oviedo</actor>
-    </credits>
-    <sub-title lang="en">Venue: Estadi Mallorca Son Moix</sub-title>
-  </programme>
-  <programme start="20260523180000 +0000" stop="20260523190000 +0000" channel="SOCCER 06">
-    <title lang="en">Mallorca @ Real Oviedo - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Mallorca</actor>
-      <actor>Real Oviedo</actor>
-    </credits>
-    <sub-title lang="en">Venue: Estadi Mallorca Son Moix</sub-title>
-  </programme>
-  <programme start="20260523190000 +0000" stop="20260523210000 +0000" channel="SOCCER 06">
-    <title lang="en">Mallorca @ Real Oviedo</title>
-    <desc lang="en">2025 26 Laliga | Network: ESPN+ | Venue: Estadi Mallorca Son Moix, Palma de Mallorca</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Mallorca</actor>
-      <actor>Real Oviedo</actor>
-    </credits>
-    <sub-title lang="en">Venue: Estadi Mallorca Son Moix</sub-title>
-  </programme>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 07">
-    <title lang="en">Real Betis @ Levante - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Real Betis</actor>
-      <actor>Levante</actor>
-    </credits>
-    <sub-title lang="en">Venue: Estadio La Cartuja</sub-title>
-  </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 07">
-    <title lang="en">Real Betis @ Levante - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Real Betis</actor>
-      <actor>Levante</actor>
-    </credits>
-    <sub-title lang="en">Venue: Estadio La Cartuja</sub-title>
-  </programme>
-  <programme start="20260523140000 +0000" stop="20260523160000 +0000" channel="SOCCER 07">
-    <title lang="en">Real Betis @ Levante - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Real Betis</actor>
-      <actor>Levante</actor>
-    </credits>
-    <sub-title lang="en">Venue: Estadio La Cartuja</sub-title>
-  </programme>
-  <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="SOCCER 07">
-    <title lang="en">Real Betis @ Levante - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Real Betis</actor>
-      <actor>Levante</actor>
-    </credits>
-    <sub-title lang="en">Venue: Estadio La Cartuja</sub-title>
-  </programme>
-  <programme start="20260523180000 +0000" stop="20260523190000 +0000" channel="SOCCER 07">
-    <title lang="en">Real Betis @ Levante - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Real Betis</actor>
-      <actor>Levante</actor>
-    </credits>
-    <sub-title lang="en">Venue: Estadio La Cartuja</sub-title>
-  </programme>
-  <programme start="20260523190000 +0000" stop="20260523210000 +0000" channel="SOCCER 07">
-    <title lang="en">Real Betis @ Levante</title>
-    <desc lang="en">2025 26 Laliga | Network: ESPN+ | Venue: Estadio La Cartuja, Sevilla</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Real Betis</actor>
-      <actor>Levante</actor>
-    </credits>
-    <sub-title lang="en">Venue: Estadio La Cartuja</sub-title>
-  </programme>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 08">
-    <title lang="en">Real Madrid @ Athletic Club - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Real Madrid</actor>
-      <actor>Athletic Club</actor>
-    </credits>
-    <sub-title lang="en">Venue: Santiago Bernabéu</sub-title>
-  </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 08">
-    <title lang="en">Real Madrid @ Athletic Club - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Real Madrid</actor>
-      <actor>Athletic Club</actor>
-    </credits>
-    <sub-title lang="en">Venue: Santiago Bernabéu</sub-title>
-  </programme>
-  <programme start="20260523140000 +0000" stop="20260523160000 +0000" channel="SOCCER 08">
-    <title lang="en">Real Madrid @ Athletic Club - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Real Madrid</actor>
-      <actor>Athletic Club</actor>
-    </credits>
-    <sub-title lang="en">Venue: Santiago Bernabéu</sub-title>
-  </programme>
-  <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="SOCCER 08">
-    <title lang="en">Real Madrid @ Athletic Club - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Real Madrid</actor>
-      <actor>Athletic Club</actor>
-    </credits>
-    <sub-title lang="en">Venue: Santiago Bernabéu</sub-title>
-  </programme>
-  <programme start="20260523180000 +0000" stop="20260523190000 +0000" channel="SOCCER 08">
-    <title lang="en">Real Madrid @ Athletic Club - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Real Madrid</actor>
-      <actor>Athletic Club</actor>
-    </credits>
-    <sub-title lang="en">Venue: Santiago Bernabéu</sub-title>
-  </programme>
-  <programme start="20260523190000 +0000" stop="20260523210000 +0000" channel="SOCCER 08">
-    <title lang="en">Real Madrid @ Athletic Club</title>
-    <desc lang="en">2025 26 Laliga | Network: ESPN+ | Venue: Santiago Bernabéu, Madrid</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Real Madrid</actor>
-      <actor>Athletic Club</actor>
-    </credits>
-    <sub-title lang="en">Venue: Santiago Bernabéu</sub-title>
-  </programme>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 09">
-    <title lang="en">Valencia @ Barcelona - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Valencia</actor>
-      <actor>Barcelona</actor>
-    </credits>
-    <sub-title lang="en">Venue: Mestalla Stadium</sub-title>
-  </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 09">
-    <title lang="en">Valencia @ Barcelona - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Valencia</actor>
-      <actor>Barcelona</actor>
-    </credits>
-    <sub-title lang="en">Venue: Mestalla Stadium</sub-title>
-  </programme>
-  <programme start="20260523140000 +0000" stop="20260523160000 +0000" channel="SOCCER 09">
-    <title lang="en">Valencia @ Barcelona - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Valencia</actor>
-      <actor>Barcelona</actor>
-    </credits>
-    <sub-title lang="en">Venue: Mestalla Stadium</sub-title>
-  </programme>
-  <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="SOCCER 09">
-    <title lang="en">Valencia @ Barcelona - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Valencia</actor>
-      <actor>Barcelona</actor>
-    </credits>
-    <sub-title lang="en">Venue: Mestalla Stadium</sub-title>
-  </programme>
-  <programme start="20260523180000 +0000" stop="20260523190000 +0000" channel="SOCCER 09">
-    <title lang="en">Valencia @ Barcelona - starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Valencia</actor>
-      <actor>Barcelona</actor>
-    </credits>
-    <sub-title lang="en">Venue: Mestalla Stadium</sub-title>
-  </programme>
-  <programme start="20260523190000 +0000" stop="20260523210000 +0000" channel="SOCCER 09">
-    <title lang="en">Valencia @ Barcelona</title>
-    <desc lang="en">2025 26 Laliga | Network: ESPN+ | Venue: Mestalla Stadium, Manises</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">LA LIGA</category>
-    <credits>
-      <actor>Valencia</actor>
-      <actor>Barcelona</actor>
-    </credits>
-    <sub-title lang="en">Venue: Mestalla Stadium</sub-title>
-  </programme>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 10">
-    <title lang="en">Bologna @ Internazionale - starts at 12:00 PM ET</title>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 12">
+    <title lang="en">Parma @ Sassuolo - starts at 9:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">SERIE A</category>
     <credits>
-      <actor>Bologna</actor>
-      <actor>Internazionale</actor>
+      <actor>Parma</actor>
+      <actor>Sassuolo</actor>
     </credits>
-    <sub-title lang="en">Venue: Renato Dall'Ara</sub-title>
+    <sub-title lang="en">Venue: Ennio Tardini</sub-title>
   </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 10">
-    <title lang="en">Bologna @ Internazionale - starts at 12:00 PM ET</title>
+  <programme start="20260524120000 +0000" stop="20260524130000 +0000" channel="SOCCER 12">
+    <title lang="en">Parma @ Sassuolo - starts at 9:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">SERIE A</category>
     <credits>
-      <actor>Bologna</actor>
-      <actor>Internazionale</actor>
+      <actor>Parma</actor>
+      <actor>Sassuolo</actor>
     </credits>
-    <sub-title lang="en">Venue: Renato Dall'Ara</sub-title>
+    <sub-title lang="en">Venue: Ennio Tardini</sub-title>
   </programme>
-  <programme start="20260523140000 +0000" stop="20260523160000 +0000" channel="SOCCER 10">
-    <title lang="en">Bologna @ Internazionale - starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">SERIE A</category>
-    <credits>
-      <actor>Bologna</actor>
-      <actor>Internazionale</actor>
-    </credits>
-    <sub-title lang="en">Venue: Renato Dall'Ara</sub-title>
-  </programme>
-  <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="SOCCER 10">
-    <title lang="en">Bologna @ Internazionale</title>
-    <desc lang="en">2025 26 Italian Serie A | Network: Paramount+ | Venue: Renato Dall'Ara, Bologna</desc>
+  <programme start="20260524130000 +0000" stop="20260524150000 +0000" channel="SOCCER 12">
+    <title lang="en">Parma @ Sassuolo</title>
+    <desc lang="en">2025 26 Italian Serie A | Network: Paramount+ | Venue: Ennio Tardini, Parma</desc>
     <category lang="en">Sports</category>
     <category lang="en">SERIE A</category>
     <credits>
-      <actor>Bologna</actor>
-      <actor>Internazionale</actor>
+      <actor>Parma</actor>
+      <actor>Sassuolo</actor>
     </credits>
-    <sub-title lang="en">Venue: Renato Dall'Ara</sub-title>
+    <sub-title lang="en">Venue: Ennio Tardini</sub-title>
   </programme>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 11">
-    <title lang="en">Lazio @ Pisa - starts at 2:45 PM ET</title>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 13">
+    <title lang="en">Napoli @ Udinese - starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">SERIE A</category>
     <credits>
-      <actor>Lazio</actor>
-      <actor>Pisa</actor>
+      <actor>Napoli</actor>
+      <actor>Udinese</actor>
     </credits>
-    <sub-title lang="en">Venue: Olimpico</sub-title>
+    <sub-title lang="en">Venue: Stadio Diego Armando Maradona</sub-title>
   </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 11">
-    <title lang="en">Lazio @ Pisa - starts at 2:45 PM ET</title>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 13">
+    <title lang="en">Napoli @ Udinese - starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">SERIE A</category>
     <credits>
-      <actor>Lazio</actor>
-      <actor>Pisa</actor>
+      <actor>Napoli</actor>
+      <actor>Udinese</actor>
     </credits>
-    <sub-title lang="en">Venue: Olimpico</sub-title>
+    <sub-title lang="en">Venue: Stadio Diego Armando Maradona</sub-title>
   </programme>
-  <programme start="20260523140000 +0000" stop="20260523160000 +0000" channel="SOCCER 11">
-    <title lang="en">Lazio @ Pisa - starts at 2:45 PM ET</title>
+  <programme start="20260524140000 +0000" stop="20260524160000 +0000" channel="SOCCER 13">
+    <title lang="en">Napoli @ Udinese - starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">SERIE A</category>
     <credits>
-      <actor>Lazio</actor>
-      <actor>Pisa</actor>
+      <actor>Napoli</actor>
+      <actor>Udinese</actor>
     </credits>
-    <sub-title lang="en">Venue: Olimpico</sub-title>
+    <sub-title lang="en">Venue: Stadio Diego Armando Maradona</sub-title>
   </programme>
-  <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="SOCCER 11">
-    <title lang="en">Lazio @ Pisa - starts at 2:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">SERIE A</category>
-    <credits>
-      <actor>Lazio</actor>
-      <actor>Pisa</actor>
-    </credits>
-    <sub-title lang="en">Venue: Olimpico</sub-title>
-  </programme>
-  <programme start="20260523180000 +0000" stop="20260523184500 +0000" channel="SOCCER 11">
-    <title lang="en">Lazio @ Pisa - starts at 2:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">SERIE A</category>
-    <credits>
-      <actor>Lazio</actor>
-      <actor>Pisa</actor>
-    </credits>
-    <sub-title lang="en">Venue: Olimpico</sub-title>
-  </programme>
-  <programme start="20260523184500 +0000" stop="20260523204500 +0000" channel="SOCCER 11">
-    <title lang="en">Lazio @ Pisa</title>
-    <desc lang="en">2025 26 Italian Serie A | Network: Paramount+ | Venue: Olimpico, Roma</desc>
+  <programme start="20260524160000 +0000" stop="20260524180000 +0000" channel="SOCCER 13">
+    <title lang="en">Napoli @ Udinese</title>
+    <desc lang="en">2025 26 Italian Serie A | Network: Paramount+ | Venue: Stadio Diego Armando Maradona, Napoli</desc>
     <category lang="en">Sports</category>
     <category lang="en">SERIE A</category>
     <credits>
-      <actor>Lazio</actor>
-      <actor>Pisa</actor>
+      <actor>Napoli</actor>
+      <actor>Udinese</actor>
     </credits>
-    <sub-title lang="en">Venue: Olimpico</sub-title>
+    <sub-title lang="en">Venue: Stadio Diego Armando Maradona</sub-title>
   </programme>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 12">
-    <title lang="en">Bayern Munich @ VfB Stuttgart - starts at 2:00 PM ET</title>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 14">
+    <title lang="en">AC Milan @ Cagliari - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">POKAL</category>
+    <category lang="en">SERIE A</category>
     <credits>
-      <actor>Bayern Munich</actor>
-      <actor>VfB Stuttgart</actor>
+      <actor>AC Milan</actor>
+      <actor>Cagliari</actor>
     </credits>
+    <sub-title lang="en">Venue: San Siro</sub-title>
   </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 12">
-    <title lang="en">Bayern Munich @ VfB Stuttgart - starts at 2:00 PM ET</title>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 14">
+    <title lang="en">AC Milan @ Cagliari - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">POKAL</category>
+    <category lang="en">SERIE A</category>
     <credits>
-      <actor>Bayern Munich</actor>
-      <actor>VfB Stuttgart</actor>
+      <actor>AC Milan</actor>
+      <actor>Cagliari</actor>
     </credits>
+    <sub-title lang="en">Venue: San Siro</sub-title>
   </programme>
-  <programme start="20260523140000 +0000" stop="20260523160000 +0000" channel="SOCCER 12">
-    <title lang="en">Bayern Munich @ VfB Stuttgart - starts at 2:00 PM ET</title>
+  <programme start="20260524140000 +0000" stop="20260524160000 +0000" channel="SOCCER 14">
+    <title lang="en">AC Milan @ Cagliari - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">POKAL</category>
+    <category lang="en">SERIE A</category>
     <credits>
-      <actor>Bayern Munich</actor>
-      <actor>VfB Stuttgart</actor>
+      <actor>AC Milan</actor>
+      <actor>Cagliari</actor>
     </credits>
+    <sub-title lang="en">Venue: San Siro</sub-title>
   </programme>
-  <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="SOCCER 12">
-    <title lang="en">Bayern Munich @ VfB Stuttgart - starts at 2:00 PM ET</title>
+  <programme start="20260524160000 +0000" stop="20260524180000 +0000" channel="SOCCER 14">
+    <title lang="en">AC Milan @ Cagliari - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">POKAL</category>
+    <category lang="en">SERIE A</category>
     <credits>
-      <actor>Bayern Munich</actor>
-      <actor>VfB Stuttgart</actor>
+      <actor>AC Milan</actor>
+      <actor>Cagliari</actor>
     </credits>
+    <sub-title lang="en">Venue: San Siro</sub-title>
   </programme>
-  <programme start="20260523180000 +0000" stop="20260523200000 +0000" channel="SOCCER 12">
-    <title lang="en">Bayern Munich @ VfB Stuttgart</title>
+  <programme start="20260524180000 +0000" stop="20260524184500 +0000" channel="SOCCER 14">
+    <title lang="en">AC Milan @ Cagliari - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">SERIE A</category>
+    <credits>
+      <actor>AC Milan</actor>
+      <actor>Cagliari</actor>
+    </credits>
+    <sub-title lang="en">Venue: San Siro</sub-title>
+  </programme>
+  <programme start="20260524184500 +0000" stop="20260524204500 +0000" channel="SOCCER 14">
+    <title lang="en">AC Milan @ Cagliari</title>
+    <desc lang="en">2025 26 Italian Serie A | Network: Paramount+ | Venue: San Siro, Milano</desc>
     <category lang="en">Sports</category>
-    <category lang="en">POKAL</category>
+    <category lang="en">SERIE A</category>
     <credits>
-      <actor>Bayern Munich</actor>
-      <actor>VfB Stuttgart</actor>
+      <actor>AC Milan</actor>
+      <actor>Cagliari</actor>
     </credits>
+    <sub-title lang="en">Venue: San Siro</sub-title>
   </programme>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 13">
-    <title lang="en">Hull City @ Middlesbrough - starts at 10:30 AM ET</title>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 15">
+    <title lang="en">Cremonese @ Como - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">EFL</category>
+    <category lang="en">SERIE A</category>
     <credits>
-      <actor>Hull City</actor>
-      <actor>Middlesbrough</actor>
+      <actor>Cremonese</actor>
+      <actor>Como</actor>
     </credits>
+    <sub-title lang="en">Venue: Stadio Giovanni Zini</sub-title>
   </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 13">
-    <title lang="en">Hull City @ Middlesbrough - starts at 10:30 AM ET</title>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 15">
+    <title lang="en">Cremonese @ Como - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">EFL</category>
+    <category lang="en">SERIE A</category>
     <credits>
-      <actor>Hull City</actor>
-      <actor>Middlesbrough</actor>
+      <actor>Cremonese</actor>
+      <actor>Como</actor>
     </credits>
+    <sub-title lang="en">Venue: Stadio Giovanni Zini</sub-title>
   </programme>
-  <programme start="20260523140000 +0000" stop="20260523143000 +0000" channel="SOCCER 13">
-    <title lang="en">Hull City @ Middlesbrough - starts at 10:30 AM ET</title>
+  <programme start="20260524140000 +0000" stop="20260524160000 +0000" channel="SOCCER 15">
+    <title lang="en">Cremonese @ Como - starts at 2:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">EFL</category>
+    <category lang="en">SERIE A</category>
     <credits>
-      <actor>Hull City</actor>
-      <actor>Middlesbrough</actor>
+      <actor>Cremonese</actor>
+      <actor>Como</actor>
     </credits>
+    <sub-title lang="en">Venue: Stadio Giovanni Zini</sub-title>
   </programme>
-  <programme start="20260523143000 +0000" stop="20260523163000 +0000" channel="SOCCER 13">
-    <title lang="en">Hull City @ Middlesbrough</title>
+  <programme start="20260524160000 +0000" stop="20260524180000 +0000" channel="SOCCER 15">
+    <title lang="en">Cremonese @ Como - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">SERIE A</category>
+    <credits>
+      <actor>Cremonese</actor>
+      <actor>Como</actor>
+    </credits>
+    <sub-title lang="en">Venue: Stadio Giovanni Zini</sub-title>
+  </programme>
+  <programme start="20260524180000 +0000" stop="20260524184500 +0000" channel="SOCCER 15">
+    <title lang="en">Cremonese @ Como - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">SERIE A</category>
+    <credits>
+      <actor>Cremonese</actor>
+      <actor>Como</actor>
+    </credits>
+    <sub-title lang="en">Venue: Stadio Giovanni Zini</sub-title>
+  </programme>
+  <programme start="20260524184500 +0000" stop="20260524204500 +0000" channel="SOCCER 15">
+    <title lang="en">Cremonese @ Como</title>
+    <desc lang="en">2025 26 Italian Serie A | Network: Paramount+ | Venue: Stadio Giovanni Zini, Cremona</desc>
     <category lang="en">Sports</category>
-    <category lang="en">EFL</category>
+    <category lang="en">SERIE A</category>
     <credits>
-      <actor>Hull City</actor>
-      <actor>Middlesbrough</actor>
+      <actor>Cremonese</actor>
+      <actor>Como</actor>
+    </credits>
+    <sub-title lang="en">Venue: Stadio Giovanni Zini</sub-title>
+  </programme>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 16">
+    <title lang="en">Hellas Verona @ AS Roma - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">SERIE A</category>
+    <credits>
+      <actor>Hellas Verona</actor>
+      <actor>AS Roma</actor>
+    </credits>
+    <sub-title lang="en">Venue: Stadio Marcantonio Bentegodi</sub-title>
+  </programme>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 16">
+    <title lang="en">Hellas Verona @ AS Roma - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">SERIE A</category>
+    <credits>
+      <actor>Hellas Verona</actor>
+      <actor>AS Roma</actor>
+    </credits>
+    <sub-title lang="en">Venue: Stadio Marcantonio Bentegodi</sub-title>
+  </programme>
+  <programme start="20260524140000 +0000" stop="20260524160000 +0000" channel="SOCCER 16">
+    <title lang="en">Hellas Verona @ AS Roma - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">SERIE A</category>
+    <credits>
+      <actor>Hellas Verona</actor>
+      <actor>AS Roma</actor>
+    </credits>
+    <sub-title lang="en">Venue: Stadio Marcantonio Bentegodi</sub-title>
+  </programme>
+  <programme start="20260524160000 +0000" stop="20260524180000 +0000" channel="SOCCER 16">
+    <title lang="en">Hellas Verona @ AS Roma - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">SERIE A</category>
+    <credits>
+      <actor>Hellas Verona</actor>
+      <actor>AS Roma</actor>
+    </credits>
+    <sub-title lang="en">Venue: Stadio Marcantonio Bentegodi</sub-title>
+  </programme>
+  <programme start="20260524180000 +0000" stop="20260524184500 +0000" channel="SOCCER 16">
+    <title lang="en">Hellas Verona @ AS Roma - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">SERIE A</category>
+    <credits>
+      <actor>Hellas Verona</actor>
+      <actor>AS Roma</actor>
+    </credits>
+    <sub-title lang="en">Venue: Stadio Marcantonio Bentegodi</sub-title>
+  </programme>
+  <programme start="20260524184500 +0000" stop="20260524204500 +0000" channel="SOCCER 16">
+    <title lang="en">Hellas Verona @ AS Roma</title>
+    <desc lang="en">2025 26 Italian Serie A | Network: Paramount+ | Venue: Stadio Marcantonio Bentegodi, Verona</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">SERIE A</category>
+    <credits>
+      <actor>Hellas Verona</actor>
+      <actor>AS Roma</actor>
+    </credits>
+    <sub-title lang="en">Venue: Stadio Marcantonio Bentegodi</sub-title>
+  </programme>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 17">
+    <title lang="en">Lecce @ Genoa - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">SERIE A</category>
+    <credits>
+      <actor>Lecce</actor>
+      <actor>Genoa</actor>
+    </credits>
+    <sub-title lang="en">Venue: Via Del Mare</sub-title>
+  </programme>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 17">
+    <title lang="en">Lecce @ Genoa - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">SERIE A</category>
+    <credits>
+      <actor>Lecce</actor>
+      <actor>Genoa</actor>
+    </credits>
+    <sub-title lang="en">Venue: Via Del Mare</sub-title>
+  </programme>
+  <programme start="20260524140000 +0000" stop="20260524160000 +0000" channel="SOCCER 17">
+    <title lang="en">Lecce @ Genoa - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">SERIE A</category>
+    <credits>
+      <actor>Lecce</actor>
+      <actor>Genoa</actor>
+    </credits>
+    <sub-title lang="en">Venue: Via Del Mare</sub-title>
+  </programme>
+  <programme start="20260524160000 +0000" stop="20260524180000 +0000" channel="SOCCER 17">
+    <title lang="en">Lecce @ Genoa - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">SERIE A</category>
+    <credits>
+      <actor>Lecce</actor>
+      <actor>Genoa</actor>
+    </credits>
+    <sub-title lang="en">Venue: Via Del Mare</sub-title>
+  </programme>
+  <programme start="20260524180000 +0000" stop="20260524184500 +0000" channel="SOCCER 17">
+    <title lang="en">Lecce @ Genoa - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">SERIE A</category>
+    <credits>
+      <actor>Lecce</actor>
+      <actor>Genoa</actor>
+    </credits>
+    <sub-title lang="en">Venue: Via Del Mare</sub-title>
+  </programme>
+  <programme start="20260524184500 +0000" stop="20260524204500 +0000" channel="SOCCER 17">
+    <title lang="en">Lecce @ Genoa</title>
+    <desc lang="en">2025 26 Italian Serie A | Network: Paramount+ | Venue: Via Del Mare, Lecce</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">SERIE A</category>
+    <credits>
+      <actor>Lecce</actor>
+      <actor>Genoa</actor>
+    </credits>
+    <sub-title lang="en">Venue: Via Del Mare</sub-title>
+  </programme>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 18">
+    <title lang="en">Torino @ Juventus - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">SERIE A</category>
+    <credits>
+      <actor>Torino</actor>
+      <actor>Juventus</actor>
+    </credits>
+    <sub-title lang="en">Venue: Stadio Olimpico Grande Torino</sub-title>
+  </programme>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 18">
+    <title lang="en">Torino @ Juventus - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">SERIE A</category>
+    <credits>
+      <actor>Torino</actor>
+      <actor>Juventus</actor>
+    </credits>
+    <sub-title lang="en">Venue: Stadio Olimpico Grande Torino</sub-title>
+  </programme>
+  <programme start="20260524140000 +0000" stop="20260524160000 +0000" channel="SOCCER 18">
+    <title lang="en">Torino @ Juventus - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">SERIE A</category>
+    <credits>
+      <actor>Torino</actor>
+      <actor>Juventus</actor>
+    </credits>
+    <sub-title lang="en">Venue: Stadio Olimpico Grande Torino</sub-title>
+  </programme>
+  <programme start="20260524160000 +0000" stop="20260524180000 +0000" channel="SOCCER 18">
+    <title lang="en">Torino @ Juventus - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">SERIE A</category>
+    <credits>
+      <actor>Torino</actor>
+      <actor>Juventus</actor>
+    </credits>
+    <sub-title lang="en">Venue: Stadio Olimpico Grande Torino</sub-title>
+  </programme>
+  <programme start="20260524180000 +0000" stop="20260524184500 +0000" channel="SOCCER 18">
+    <title lang="en">Torino @ Juventus - starts at 2:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">SERIE A</category>
+    <credits>
+      <actor>Torino</actor>
+      <actor>Juventus</actor>
+    </credits>
+    <sub-title lang="en">Venue: Stadio Olimpico Grande Torino</sub-title>
+  </programme>
+  <programme start="20260524184500 +0000" stop="20260524204500 +0000" channel="SOCCER 18">
+    <title lang="en">Torino @ Juventus</title>
+    <desc lang="en">2025 26 Italian Serie A | Network: Paramount+ | Venue: Stadio Olimpico Grande Torino, Torino</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">SERIE A</category>
+    <credits>
+      <actor>Torino</actor>
+      <actor>Juventus</actor>
+    </credits>
+    <sub-title lang="en">Venue: Stadio Olimpico Grande Torino</sub-title>
+  </programme>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 19">
+    <title lang="en">Sporting CP @ Torreense - starts at 12:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">TACA</category>
+    <credits>
+      <actor>Sporting CP</actor>
+      <actor>Torreense</actor>
     </credits>
   </programme>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 14">
-    <title lang="en">São Paulo @ Botafogo - starts at 4:00 PM ET</title>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 19">
+    <title lang="en">Sporting CP @ Torreense - starts at 12:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">TACA</category>
+    <credits>
+      <actor>Sporting CP</actor>
+      <actor>Torreense</actor>
+    </credits>
+  </programme>
+  <programme start="20260524140000 +0000" stop="20260524160000 +0000" channel="SOCCER 19">
+    <title lang="en">Sporting CP @ Torreense - starts at 12:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">TACA</category>
+    <credits>
+      <actor>Sporting CP</actor>
+      <actor>Torreense</actor>
+    </credits>
+  </programme>
+  <programme start="20260524160000 +0000" stop="20260524161500 +0000" channel="SOCCER 19">
+    <title lang="en">Sporting CP @ Torreense - starts at 12:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">TACA</category>
+    <credits>
+      <actor>Sporting CP</actor>
+      <actor>Torreense</actor>
+    </credits>
+  </programme>
+  <programme start="20260524161500 +0000" stop="20260524181500 +0000" channel="SOCCER 19">
+    <title lang="en">Sporting CP @ Torreense</title>
+    <category lang="en">Sports</category>
+    <category lang="en">TACA</category>
+    <credits>
+      <actor>Sporting CP</actor>
+      <actor>Torreense</actor>
+    </credits>
+  </programme>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 20">
+    <title lang="en">Club Brugge @ KAA Gent - starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">JUPILER</category>
+    <credits>
+      <actor>Club Brugge</actor>
+      <actor>KAA Gent</actor>
+    </credits>
+  </programme>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 20">
+    <title lang="en">Club Brugge @ KAA Gent - starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">JUPILER</category>
+    <credits>
+      <actor>Club Brugge</actor>
+      <actor>KAA Gent</actor>
+    </credits>
+  </programme>
+  <programme start="20260524140000 +0000" stop="20260524160000 +0000" channel="SOCCER 20">
+    <title lang="en">Club Brugge @ KAA Gent - starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">JUPILER</category>
+    <credits>
+      <actor>Club Brugge</actor>
+      <actor>KAA Gent</actor>
+    </credits>
+  </programme>
+  <programme start="20260524160000 +0000" stop="20260524163000 +0000" channel="SOCCER 20">
+    <title lang="en">Club Brugge @ KAA Gent - starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">JUPILER</category>
+    <credits>
+      <actor>Club Brugge</actor>
+      <actor>KAA Gent</actor>
+    </credits>
+  </programme>
+  <programme start="20260524163000 +0000" stop="20260524183000 +0000" channel="SOCCER 20">
+    <title lang="en">Club Brugge @ KAA Gent</title>
+    <category lang="en">Sports</category>
+    <category lang="en">JUPILER</category>
+    <credits>
+      <actor>Club Brugge</actor>
+      <actor>KAA Gent</actor>
+    </credits>
+  </programme>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 21">
+    <title lang="en">Sint-Truidense @ KV Mechelen - starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">JUPILER</category>
+    <credits>
+      <actor>Sint-Truidense</actor>
+      <actor>KV Mechelen</actor>
+    </credits>
+  </programme>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 21">
+    <title lang="en">Sint-Truidense @ KV Mechelen - starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">JUPILER</category>
+    <credits>
+      <actor>Sint-Truidense</actor>
+      <actor>KV Mechelen</actor>
+    </credits>
+  </programme>
+  <programme start="20260524140000 +0000" stop="20260524160000 +0000" channel="SOCCER 21">
+    <title lang="en">Sint-Truidense @ KV Mechelen - starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">JUPILER</category>
+    <credits>
+      <actor>Sint-Truidense</actor>
+      <actor>KV Mechelen</actor>
+    </credits>
+  </programme>
+  <programme start="20260524160000 +0000" stop="20260524163000 +0000" channel="SOCCER 21">
+    <title lang="en">Sint-Truidense @ KV Mechelen - starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">JUPILER</category>
+    <credits>
+      <actor>Sint-Truidense</actor>
+      <actor>KV Mechelen</actor>
+    </credits>
+  </programme>
+  <programme start="20260524163000 +0000" stop="20260524183000 +0000" channel="SOCCER 21">
+    <title lang="en">Sint-Truidense @ KV Mechelen</title>
+    <category lang="en">Sports</category>
+    <category lang="en">JUPILER</category>
+    <credits>
+      <actor>Sint-Truidense</actor>
+      <actor>KV Mechelen</actor>
+    </credits>
+  </programme>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 22">
+    <title lang="en">Union St.-Gilloise @ Anderlecht - starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">JUPILER</category>
+    <credits>
+      <actor>Union St.-Gilloise</actor>
+      <actor>Anderlecht</actor>
+    </credits>
+  </programme>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 22">
+    <title lang="en">Union St.-Gilloise @ Anderlecht - starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">JUPILER</category>
+    <credits>
+      <actor>Union St.-Gilloise</actor>
+      <actor>Anderlecht</actor>
+    </credits>
+  </programme>
+  <programme start="20260524140000 +0000" stop="20260524160000 +0000" channel="SOCCER 22">
+    <title lang="en">Union St.-Gilloise @ Anderlecht - starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">JUPILER</category>
+    <credits>
+      <actor>Union St.-Gilloise</actor>
+      <actor>Anderlecht</actor>
+    </credits>
+  </programme>
+  <programme start="20260524160000 +0000" stop="20260524163000 +0000" channel="SOCCER 22">
+    <title lang="en">Union St.-Gilloise @ Anderlecht - starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">JUPILER</category>
+    <credits>
+      <actor>Union St.-Gilloise</actor>
+      <actor>Anderlecht</actor>
+    </credits>
+  </programme>
+  <programme start="20260524163000 +0000" stop="20260524183000 +0000" channel="SOCCER 22">
+    <title lang="en">Union St.-Gilloise @ Anderlecht</title>
+    <category lang="en">Sports</category>
+    <category lang="en">JUPILER</category>
+    <credits>
+      <actor>Union St.-Gilloise</actor>
+      <actor>Anderlecht</actor>
+    </credits>
+  </programme>
+  <programme start="20260524100000 +0000" stop="20260524101500 +0000" channel="SOCCER 23">
+    <title lang="en">Ajax Amsterdam @ FC Utrecht - starts at 6:15 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">EREDIVISIE</category>
+    <credits>
+      <actor>Ajax Amsterdam</actor>
+      <actor>FC Utrecht</actor>
+    </credits>
+    <sub-title lang="en">Venue: Kras Stadion</sub-title>
+  </programme>
+  <programme start="20260524101500 +0000" stop="20260524121500 +0000" channel="SOCCER 23">
+    <title lang="en">Ajax Amsterdam @ FC Utrecht</title>
+    <desc lang="en">Conference League Playoffs   Final | Network: ESPN+ | Venue: Kras Stadion, Volendam</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">EREDIVISIE</category>
+    <credits>
+      <actor>Ajax Amsterdam</actor>
+      <actor>FC Utrecht</actor>
+    </credits>
+    <sub-title lang="en">Venue: Kras Stadion</sub-title>
+  </programme>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 24">
+    <title lang="en">Cruzeiro @ Chapecoense - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">BRASILEIRO</category>
     <credits>
-      <actor>São Paulo</actor>
-      <actor>Botafogo</actor>
+      <actor>Cruzeiro</actor>
+      <actor>Chapecoense</actor>
     </credits>
   </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 14">
-    <title lang="en">São Paulo @ Botafogo - starts at 4:00 PM ET</title>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 24">
+    <title lang="en">Cruzeiro @ Chapecoense - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">BRASILEIRO</category>
     <credits>
-      <actor>São Paulo</actor>
-      <actor>Botafogo</actor>
+      <actor>Cruzeiro</actor>
+      <actor>Chapecoense</actor>
     </credits>
   </programme>
-  <programme start="20260523140000 +0000" stop="20260523160000 +0000" channel="SOCCER 14">
-    <title lang="en">São Paulo @ Botafogo - starts at 4:00 PM ET</title>
+  <programme start="20260524140000 +0000" stop="20260524160000 +0000" channel="SOCCER 24">
+    <title lang="en">Cruzeiro @ Chapecoense - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">BRASILEIRO</category>
     <credits>
-      <actor>São Paulo</actor>
-      <actor>Botafogo</actor>
+      <actor>Cruzeiro</actor>
+      <actor>Chapecoense</actor>
     </credits>
   </programme>
-  <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="SOCCER 14">
-    <title lang="en">São Paulo @ Botafogo - starts at 4:00 PM ET</title>
+  <programme start="20260524160000 +0000" stop="20260524180000 +0000" channel="SOCCER 24">
+    <title lang="en">Cruzeiro @ Chapecoense - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">BRASILEIRO</category>
     <credits>
-      <actor>São Paulo</actor>
-      <actor>Botafogo</actor>
+      <actor>Cruzeiro</actor>
+      <actor>Chapecoense</actor>
     </credits>
   </programme>
-  <programme start="20260523180000 +0000" stop="20260523200000 +0000" channel="SOCCER 14">
-    <title lang="en">São Paulo @ Botafogo - starts at 4:00 PM ET</title>
+  <programme start="20260524180000 +0000" stop="20260524190000 +0000" channel="SOCCER 24">
+    <title lang="en">Cruzeiro @ Chapecoense - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">BRASILEIRO</category>
     <credits>
-      <actor>São Paulo</actor>
-      <actor>Botafogo</actor>
+      <actor>Cruzeiro</actor>
+      <actor>Chapecoense</actor>
     </credits>
   </programme>
-  <programme start="20260523200000 +0000" stop="20260523220000 +0000" channel="SOCCER 14">
-    <title lang="en">São Paulo @ Botafogo</title>
+  <programme start="20260524190000 +0000" stop="20260524210000 +0000" channel="SOCCER 24">
+    <title lang="en">Cruzeiro @ Chapecoense</title>
     <category lang="en">Sports</category>
     <category lang="en">BRASILEIRO</category>
     <credits>
-      <actor>São Paulo</actor>
-      <actor>Botafogo</actor>
+      <actor>Cruzeiro</actor>
+      <actor>Chapecoense</actor>
     </credits>
   </programme>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 15">
-    <title lang="en">Vitória @ Internacional - starts at 4:00 PM ET</title>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 25">
+    <title lang="en">Remo @ Athletico-PR - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">BRASILEIRO</category>
     <credits>
-      <actor>Vitória</actor>
-      <actor>Internacional</actor>
+      <actor>Remo</actor>
+      <actor>Athletico-PR</actor>
     </credits>
   </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 15">
-    <title lang="en">Vitória @ Internacional - starts at 4:00 PM ET</title>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 25">
+    <title lang="en">Remo @ Athletico-PR - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">BRASILEIRO</category>
     <credits>
-      <actor>Vitória</actor>
-      <actor>Internacional</actor>
+      <actor>Remo</actor>
+      <actor>Athletico-PR</actor>
     </credits>
   </programme>
-  <programme start="20260523140000 +0000" stop="20260523160000 +0000" channel="SOCCER 15">
-    <title lang="en">Vitória @ Internacional - starts at 4:00 PM ET</title>
+  <programme start="20260524140000 +0000" stop="20260524160000 +0000" channel="SOCCER 25">
+    <title lang="en">Remo @ Athletico-PR - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">BRASILEIRO</category>
     <credits>
-      <actor>Vitória</actor>
-      <actor>Internacional</actor>
+      <actor>Remo</actor>
+      <actor>Athletico-PR</actor>
     </credits>
   </programme>
-  <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="SOCCER 15">
-    <title lang="en">Vitória @ Internacional - starts at 4:00 PM ET</title>
+  <programme start="20260524160000 +0000" stop="20260524180000 +0000" channel="SOCCER 25">
+    <title lang="en">Remo @ Athletico-PR - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">BRASILEIRO</category>
     <credits>
-      <actor>Vitória</actor>
-      <actor>Internacional</actor>
+      <actor>Remo</actor>
+      <actor>Athletico-PR</actor>
     </credits>
   </programme>
-  <programme start="20260523180000 +0000" stop="20260523200000 +0000" channel="SOCCER 15">
-    <title lang="en">Vitória @ Internacional - starts at 4:00 PM ET</title>
+  <programme start="20260524180000 +0000" stop="20260524190000 +0000" channel="SOCCER 25">
+    <title lang="en">Remo @ Athletico-PR - starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">BRASILEIRO</category>
     <credits>
-      <actor>Vitória</actor>
-      <actor>Internacional</actor>
+      <actor>Remo</actor>
+      <actor>Athletico-PR</actor>
     </credits>
   </programme>
-  <programme start="20260523200000 +0000" stop="20260523220000 +0000" channel="SOCCER 15">
-    <title lang="en">Vitória @ Internacional</title>
+  <programme start="20260524190000 +0000" stop="20260524210000 +0000" channel="SOCCER 25">
+    <title lang="en">Remo @ Athletico-PR</title>
     <category lang="en">Sports</category>
     <category lang="en">BRASILEIRO</category>
     <credits>
-      <actor>Vitória</actor>
-      <actor>Internacional</actor>
+      <actor>Remo</actor>
+      <actor>Athletico-PR</actor>
     </credits>
   </programme>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 16">
-    <title lang="en">Grêmio @ Santos - starts at 6:00 PM ET</title>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 26">
+    <title lang="en">Corinthians @ Atlético-MG - starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">BRASILEIRO</category>
     <credits>
-      <actor>Grêmio</actor>
-      <actor>Santos</actor>
+      <actor>Corinthians</actor>
+      <actor>Atlético-MG</actor>
     </credits>
   </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 16">
-    <title lang="en">Grêmio @ Santos - starts at 6:00 PM ET</title>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 26">
+    <title lang="en">Corinthians @ Atlético-MG - starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">BRASILEIRO</category>
     <credits>
-      <actor>Grêmio</actor>
-      <actor>Santos</actor>
+      <actor>Corinthians</actor>
+      <actor>Atlético-MG</actor>
     </credits>
   </programme>
-  <programme start="20260523140000 +0000" stop="20260523160000 +0000" channel="SOCCER 16">
-    <title lang="en">Grêmio @ Santos - starts at 6:00 PM ET</title>
+  <programme start="20260524140000 +0000" stop="20260524160000 +0000" channel="SOCCER 26">
+    <title lang="en">Corinthians @ Atlético-MG - starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">BRASILEIRO</category>
     <credits>
-      <actor>Grêmio</actor>
-      <actor>Santos</actor>
+      <actor>Corinthians</actor>
+      <actor>Atlético-MG</actor>
     </credits>
   </programme>
-  <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="SOCCER 16">
-    <title lang="en">Grêmio @ Santos - starts at 6:00 PM ET</title>
+  <programme start="20260524160000 +0000" stop="20260524180000 +0000" channel="SOCCER 26">
+    <title lang="en">Corinthians @ Atlético-MG - starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">BRASILEIRO</category>
     <credits>
-      <actor>Grêmio</actor>
-      <actor>Santos</actor>
+      <actor>Corinthians</actor>
+      <actor>Atlético-MG</actor>
     </credits>
   </programme>
-  <programme start="20260523180000 +0000" stop="20260523200000 +0000" channel="SOCCER 16">
-    <title lang="en">Grêmio @ Santos - starts at 6:00 PM ET</title>
+  <programme start="20260524180000 +0000" stop="20260524200000 +0000" channel="SOCCER 26">
+    <title lang="en">Corinthians @ Atlético-MG - starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">BRASILEIRO</category>
     <credits>
-      <actor>Grêmio</actor>
-      <actor>Santos</actor>
+      <actor>Corinthians</actor>
+      <actor>Atlético-MG</actor>
     </credits>
   </programme>
-  <programme start="20260523200000 +0000" stop="20260523220000 +0000" channel="SOCCER 16">
-    <title lang="en">Grêmio @ Santos - starts at 6:00 PM ET</title>
+  <programme start="20260524200000 +0000" stop="20260524213000 +0000" channel="SOCCER 26">
+    <title lang="en">Corinthians @ Atlético-MG - starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">BRASILEIRO</category>
     <credits>
-      <actor>Grêmio</actor>
-      <actor>Santos</actor>
+      <actor>Corinthians</actor>
+      <actor>Atlético-MG</actor>
     </credits>
   </programme>
-  <programme start="20260523220000 +0000" stop="20260524000000 +0000" channel="SOCCER 16">
-    <title lang="en">Grêmio @ Santos</title>
+  <programme start="20260524213000 +0000" stop="20260524233000 +0000" channel="SOCCER 26">
+    <title lang="en">Corinthians @ Atlético-MG</title>
     <category lang="en">Sports</category>
     <category lang="en">BRASILEIRO</category>
     <credits>
-      <actor>Grêmio</actor>
-      <actor>Santos</actor>
+      <actor>Corinthians</actor>
+      <actor>Atlético-MG</actor>
     </credits>
   </programme>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 17">
-    <title lang="en">Mirassol @ Fluminense - starts at 6:00 PM ET</title>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 27">
+    <title lang="en">Vasco da Gama @ Red Bull Bragantino - starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">BRASILEIRO</category>
     <credits>
-      <actor>Mirassol</actor>
-      <actor>Fluminense</actor>
+      <actor>Vasco da Gama</actor>
+      <actor>Red Bull Bragantino</actor>
     </credits>
   </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 17">
-    <title lang="en">Mirassol @ Fluminense - starts at 6:00 PM ET</title>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 27">
+    <title lang="en">Vasco da Gama @ Red Bull Bragantino - starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">BRASILEIRO</category>
     <credits>
-      <actor>Mirassol</actor>
-      <actor>Fluminense</actor>
+      <actor>Vasco da Gama</actor>
+      <actor>Red Bull Bragantino</actor>
     </credits>
   </programme>
-  <programme start="20260523140000 +0000" stop="20260523160000 +0000" channel="SOCCER 17">
-    <title lang="en">Mirassol @ Fluminense - starts at 6:00 PM ET</title>
+  <programme start="20260524140000 +0000" stop="20260524160000 +0000" channel="SOCCER 27">
+    <title lang="en">Vasco da Gama @ Red Bull Bragantino - starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">BRASILEIRO</category>
     <credits>
-      <actor>Mirassol</actor>
-      <actor>Fluminense</actor>
+      <actor>Vasco da Gama</actor>
+      <actor>Red Bull Bragantino</actor>
     </credits>
   </programme>
-  <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="SOCCER 17">
-    <title lang="en">Mirassol @ Fluminense - starts at 6:00 PM ET</title>
+  <programme start="20260524160000 +0000" stop="20260524180000 +0000" channel="SOCCER 27">
+    <title lang="en">Vasco da Gama @ Red Bull Bragantino - starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">BRASILEIRO</category>
     <credits>
-      <actor>Mirassol</actor>
-      <actor>Fluminense</actor>
+      <actor>Vasco da Gama</actor>
+      <actor>Red Bull Bragantino</actor>
     </credits>
   </programme>
-  <programme start="20260523180000 +0000" stop="20260523200000 +0000" channel="SOCCER 17">
-    <title lang="en">Mirassol @ Fluminense - starts at 6:00 PM ET</title>
+  <programme start="20260524180000 +0000" stop="20260524200000 +0000" channel="SOCCER 27">
+    <title lang="en">Vasco da Gama @ Red Bull Bragantino - starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">BRASILEIRO</category>
     <credits>
-      <actor>Mirassol</actor>
-      <actor>Fluminense</actor>
+      <actor>Vasco da Gama</actor>
+      <actor>Red Bull Bragantino</actor>
     </credits>
   </programme>
-  <programme start="20260523200000 +0000" stop="20260523220000 +0000" channel="SOCCER 17">
-    <title lang="en">Mirassol @ Fluminense - starts at 6:00 PM ET</title>
+  <programme start="20260524200000 +0000" stop="20260524220000 +0000" channel="SOCCER 27">
+    <title lang="en">Vasco da Gama @ Red Bull Bragantino - starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">BRASILEIRO</category>
     <credits>
-      <actor>Mirassol</actor>
-      <actor>Fluminense</actor>
+      <actor>Vasco da Gama</actor>
+      <actor>Red Bull Bragantino</actor>
     </credits>
   </programme>
-  <programme start="20260523220000 +0000" stop="20260524000000 +0000" channel="SOCCER 17">
-    <title lang="en">Mirassol @ Fluminense</title>
+  <programme start="20260524220000 +0000" stop="20260524233000 +0000" channel="SOCCER 27">
+    <title lang="en">Vasco da Gama @ Red Bull Bragantino - starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">BRASILEIRO</category>
+    <credits>
+      <actor>Vasco da Gama</actor>
+      <actor>Red Bull Bragantino</actor>
+    </credits>
+  </programme>
+  <programme start="20260524233000 +0000" stop="20260525013000 +0000" channel="SOCCER 27">
+    <title lang="en">Vasco da Gama @ Red Bull Bragantino</title>
     <category lang="en">Sports</category>
     <category lang="en">BRASILEIRO</category>
     <credits>
-      <actor>Mirassol</actor>
-      <actor>Fluminense</actor>
+      <actor>Vasco da Gama</actor>
+      <actor>Red Bull Bragantino</actor>
     </credits>
   </programme>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 18">
-    <title lang="en">Flamengo @ Palmeiras - starts at 8:00 PM ET</title>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 28">
+    <title lang="en">Bolton Wanderers @ Stockport County - starts at 8:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">BRASILEIRO</category>
+    <category lang="en">EFL L1</category>
     <credits>
-      <actor>Flamengo</actor>
-      <actor>Palmeiras</actor>
+      <actor>Bolton Wanderers</actor>
+      <actor>Stockport County</actor>
     </credits>
   </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 18">
-    <title lang="en">Flamengo @ Palmeiras - starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">BRASILEIRO</category>
-    <credits>
-      <actor>Flamengo</actor>
-      <actor>Palmeiras</actor>
-    </credits>
-  </programme>
-  <programme start="20260523140000 +0000" stop="20260523160000 +0000" channel="SOCCER 18">
-    <title lang="en">Flamengo @ Palmeiras - starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">BRASILEIRO</category>
-    <credits>
-      <actor>Flamengo</actor>
-      <actor>Palmeiras</actor>
-    </credits>
-  </programme>
-  <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="SOCCER 18">
-    <title lang="en">Flamengo @ Palmeiras - starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">BRASILEIRO</category>
-    <credits>
-      <actor>Flamengo</actor>
-      <actor>Palmeiras</actor>
-    </credits>
-  </programme>
-  <programme start="20260523180000 +0000" stop="20260523200000 +0000" channel="SOCCER 18">
-    <title lang="en">Flamengo @ Palmeiras - starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">BRASILEIRO</category>
-    <credits>
-      <actor>Flamengo</actor>
-      <actor>Palmeiras</actor>
-    </credits>
-  </programme>
-  <programme start="20260523200000 +0000" stop="20260523220000 +0000" channel="SOCCER 18">
-    <title lang="en">Flamengo @ Palmeiras - starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">BRASILEIRO</category>
-    <credits>
-      <actor>Flamengo</actor>
-      <actor>Palmeiras</actor>
-    </credits>
-  </programme>
-  <programme start="20260523220000 +0000" stop="20260524000000 +0000" channel="SOCCER 18">
-    <title lang="en">Flamengo @ Palmeiras - starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">BRASILEIRO</category>
-    <credits>
-      <actor>Flamengo</actor>
-      <actor>Palmeiras</actor>
-    </credits>
-  </programme>
-  <programme start="20260524000000 +0000" stop="20260524020000 +0000" channel="SOCCER 18">
-    <title lang="en">Flamengo @ Palmeiras</title>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 28">
+    <title lang="en">Bolton Wanderers @ Stockport County</title>
     <category lang="en">Sports</category>
-    <category lang="en">BRASILEIRO</category>
+    <category lang="en">EFL L1</category>
     <credits>
-      <actor>Flamengo</actor>
-      <actor>Palmeiras</actor>
+      <actor>Bolton Wanderers</actor>
+      <actor>Stockport County</actor>
     </credits>
   </programme>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 19">
-    <title lang="en">St. Louis CITY SC @ Austin FC - starts at 2:45 PM ET</title>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 29">
+    <title lang="en">Pumas UNAM @ Cruz Azul - starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
+    <category lang="en">LIGA MX</category>
     <credits>
-      <actor>St. Louis CITY SC</actor>
-      <actor>Austin FC</actor>
+      <actor>Pumas UNAM</actor>
+      <actor>Cruz Azul</actor>
     </credits>
-    <sub-title lang="en">Venue: Energizer Park</sub-title>
+    <sub-title lang="en">Venue: Estadio Olímpico Universitario</sub-title>
   </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 19">
-    <title lang="en">St. Louis CITY SC @ Austin FC - starts at 2:45 PM ET</title>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 29">
+    <title lang="en">Pumas UNAM @ Cruz Azul - starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
+    <category lang="en">LIGA MX</category>
     <credits>
-      <actor>St. Louis CITY SC</actor>
-      <actor>Austin FC</actor>
+      <actor>Pumas UNAM</actor>
+      <actor>Cruz Azul</actor>
     </credits>
-    <sub-title lang="en">Venue: Energizer Park</sub-title>
+    <sub-title lang="en">Venue: Estadio Olímpico Universitario</sub-title>
   </programme>
-  <programme start="20260523140000 +0000" stop="20260523160000 +0000" channel="SOCCER 19">
-    <title lang="en">St. Louis CITY SC @ Austin FC - starts at 2:45 PM ET</title>
+  <programme start="20260524140000 +0000" stop="20260524160000 +0000" channel="SOCCER 29">
+    <title lang="en">Pumas UNAM @ Cruz Azul - starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
+    <category lang="en">LIGA MX</category>
     <credits>
-      <actor>St. Louis CITY SC</actor>
-      <actor>Austin FC</actor>
+      <actor>Pumas UNAM</actor>
+      <actor>Cruz Azul</actor>
     </credits>
-    <sub-title lang="en">Venue: Energizer Park</sub-title>
+    <sub-title lang="en">Venue: Estadio Olímpico Universitario</sub-title>
   </programme>
-  <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="SOCCER 19">
-    <title lang="en">St. Louis CITY SC @ Austin FC - starts at 2:45 PM ET</title>
+  <programme start="20260524160000 +0000" stop="20260524180000 +0000" channel="SOCCER 29">
+    <title lang="en">Pumas UNAM @ Cruz Azul - starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
+    <category lang="en">LIGA MX</category>
     <credits>
-      <actor>St. Louis CITY SC</actor>
-      <actor>Austin FC</actor>
+      <actor>Pumas UNAM</actor>
+      <actor>Cruz Azul</actor>
     </credits>
-    <sub-title lang="en">Venue: Energizer Park</sub-title>
+    <sub-title lang="en">Venue: Estadio Olímpico Universitario</sub-title>
   </programme>
-  <programme start="20260523180000 +0000" stop="20260523184500 +0000" channel="SOCCER 19">
-    <title lang="en">St. Louis CITY SC @ Austin FC - starts at 2:45 PM ET</title>
+  <programme start="20260524180000 +0000" stop="20260524200000 +0000" channel="SOCCER 29">
+    <title lang="en">Pumas UNAM @ Cruz Azul - starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
+    <category lang="en">LIGA MX</category>
     <credits>
-      <actor>St. Louis CITY SC</actor>
-      <actor>Austin FC</actor>
+      <actor>Pumas UNAM</actor>
+      <actor>Cruz Azul</actor>
     </credits>
-    <sub-title lang="en">Venue: Energizer Park</sub-title>
+    <sub-title lang="en">Venue: Estadio Olímpico Universitario</sub-title>
   </programme>
-  <programme start="20260523184500 +0000" stop="20260523204500 +0000" channel="SOCCER 19">
-    <title lang="en">St. Louis CITY SC @ Austin FC</title>
-    <desc lang="en">Network: FOX, Apple TV | Venue: Energizer Park, St. Louis, Missouri</desc>
+  <programme start="20260524200000 +0000" stop="20260524220000 +0000" channel="SOCCER 29">
+    <title lang="en">Pumas UNAM @ Cruz Azul - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">LIGA MX</category>
+    <credits>
+      <actor>Pumas UNAM</actor>
+      <actor>Cruz Azul</actor>
+    </credits>
+    <sub-title lang="en">Venue: Estadio Olímpico Universitario</sub-title>
+  </programme>
+  <programme start="20260524220000 +0000" stop="20260525000000 +0000" channel="SOCCER 29">
+    <title lang="en">Pumas UNAM @ Cruz Azul - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">LIGA MX</category>
+    <credits>
+      <actor>Pumas UNAM</actor>
+      <actor>Cruz Azul</actor>
+    </credits>
+    <sub-title lang="en">Venue: Estadio Olímpico Universitario</sub-title>
+  </programme>
+  <programme start="20260525000000 +0000" stop="20260525010000 +0000" channel="SOCCER 29">
+    <title lang="en">Pumas UNAM @ Cruz Azul - starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">LIGA MX</category>
+    <credits>
+      <actor>Pumas UNAM</actor>
+      <actor>Cruz Azul</actor>
+    </credits>
+    <sub-title lang="en">Venue: Estadio Olímpico Universitario</sub-title>
+  </programme>
+  <programme start="20260525010000 +0000" stop="20260525030000 +0000" channel="SOCCER 29">
+    <title lang="en">Pumas UNAM @ Cruz Azul</title>
+    <desc lang="en">Clausura   Finals | Venue: Estadio Olímpico Universitario, Mexico City</desc>
     <category lang="en">Sports</category>
-    <category lang="en">MLS</category>
+    <category lang="en">LIGA MX</category>
     <credits>
-      <actor>St. Louis CITY SC</actor>
-      <actor>Austin FC</actor>
+      <actor>Pumas UNAM</actor>
+      <actor>Cruz Azul</actor>
     </credits>
-    <sub-title lang="en">Venue: Energizer Park</sub-title>
+    <sub-title lang="en">Venue: Estadio Olímpico Universitario</sub-title>
   </programme>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 20">
-    <title lang="en">Minnesota United FC @ Real Salt Lake - starts at 4:30 PM ET</title>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 30">
+    <title lang="en">Columbus Crew @ Atlanta United FC - starts at 5:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">MLS</category>
     <credits>
-      <actor>Minnesota United FC</actor>
-      <actor>Real Salt Lake</actor>
+      <actor>Columbus Crew</actor>
+      <actor>Atlanta United FC</actor>
     </credits>
-    <sub-title lang="en">Venue: Allianz Field</sub-title>
+    <sub-title lang="en">Venue: ScottsMiracle-Gro Field</sub-title>
   </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 20">
-    <title lang="en">Minnesota United FC @ Real Salt Lake - starts at 4:30 PM ET</title>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 30">
+    <title lang="en">Columbus Crew @ Atlanta United FC - starts at 5:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">MLS</category>
     <credits>
-      <actor>Minnesota United FC</actor>
-      <actor>Real Salt Lake</actor>
+      <actor>Columbus Crew</actor>
+      <actor>Atlanta United FC</actor>
     </credits>
-    <sub-title lang="en">Venue: Allianz Field</sub-title>
+    <sub-title lang="en">Venue: ScottsMiracle-Gro Field</sub-title>
   </programme>
-  <programme start="20260523140000 +0000" stop="20260523160000 +0000" channel="SOCCER 20">
-    <title lang="en">Minnesota United FC @ Real Salt Lake - starts at 4:30 PM ET</title>
+  <programme start="20260524140000 +0000" stop="20260524160000 +0000" channel="SOCCER 30">
+    <title lang="en">Columbus Crew @ Atlanta United FC - starts at 5:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">MLS</category>
     <credits>
-      <actor>Minnesota United FC</actor>
-      <actor>Real Salt Lake</actor>
+      <actor>Columbus Crew</actor>
+      <actor>Atlanta United FC</actor>
     </credits>
-    <sub-title lang="en">Venue: Allianz Field</sub-title>
+    <sub-title lang="en">Venue: ScottsMiracle-Gro Field</sub-title>
   </programme>
-  <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="SOCCER 20">
-    <title lang="en">Minnesota United FC @ Real Salt Lake - starts at 4:30 PM ET</title>
+  <programme start="20260524160000 +0000" stop="20260524180000 +0000" channel="SOCCER 30">
+    <title lang="en">Columbus Crew @ Atlanta United FC - starts at 5:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">MLS</category>
     <credits>
-      <actor>Minnesota United FC</actor>
-      <actor>Real Salt Lake</actor>
+      <actor>Columbus Crew</actor>
+      <actor>Atlanta United FC</actor>
     </credits>
-    <sub-title lang="en">Venue: Allianz Field</sub-title>
+    <sub-title lang="en">Venue: ScottsMiracle-Gro Field</sub-title>
   </programme>
-  <programme start="20260523180000 +0000" stop="20260523200000 +0000" channel="SOCCER 20">
-    <title lang="en">Minnesota United FC @ Real Salt Lake - starts at 4:30 PM ET</title>
+  <programme start="20260524180000 +0000" stop="20260524200000 +0000" channel="SOCCER 30">
+    <title lang="en">Columbus Crew @ Atlanta United FC - starts at 5:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">MLS</category>
     <credits>
-      <actor>Minnesota United FC</actor>
-      <actor>Real Salt Lake</actor>
+      <actor>Columbus Crew</actor>
+      <actor>Atlanta United FC</actor>
     </credits>
-    <sub-title lang="en">Venue: Allianz Field</sub-title>
+    <sub-title lang="en">Venue: ScottsMiracle-Gro Field</sub-title>
   </programme>
-  <programme start="20260523200000 +0000" stop="20260523203000 +0000" channel="SOCCER 20">
-    <title lang="en">Minnesota United FC @ Real Salt Lake - starts at 4:30 PM ET</title>
+  <programme start="20260524200000 +0000" stop="20260524210000 +0000" channel="SOCCER 30">
+    <title lang="en">Columbus Crew @ Atlanta United FC - starts at 5:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">MLS</category>
     <credits>
-      <actor>Minnesota United FC</actor>
-      <actor>Real Salt Lake</actor>
+      <actor>Columbus Crew</actor>
+      <actor>Atlanta United FC</actor>
     </credits>
-    <sub-title lang="en">Venue: Allianz Field</sub-title>
+    <sub-title lang="en">Venue: ScottsMiracle-Gro Field</sub-title>
   </programme>
-  <programme start="20260523203000 +0000" stop="20260523223000 +0000" channel="SOCCER 20">
-    <title lang="en">Minnesota United FC @ Real Salt Lake</title>
-    <desc lang="en">Network: Apple TV | Venue: Allianz Field, Saint Paul, Minnesota</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Minnesota United FC</actor>
-      <actor>Real Salt Lake</actor>
-    </credits>
-    <sub-title lang="en">Venue: Allianz Field</sub-title>
-  </programme>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 21">
-    <title lang="en">Charlotte FC @ New England Revolution - starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Charlotte FC</actor>
-      <actor>New England Revolution</actor>
-    </credits>
-    <sub-title lang="en">Venue: Bank of America Stadium</sub-title>
-  </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 21">
-    <title lang="en">Charlotte FC @ New England Revolution - starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Charlotte FC</actor>
-      <actor>New England Revolution</actor>
-    </credits>
-    <sub-title lang="en">Venue: Bank of America Stadium</sub-title>
-  </programme>
-  <programme start="20260523140000 +0000" stop="20260523160000 +0000" channel="SOCCER 21">
-    <title lang="en">Charlotte FC @ New England Revolution - starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Charlotte FC</actor>
-      <actor>New England Revolution</actor>
-    </credits>
-    <sub-title lang="en">Venue: Bank of America Stadium</sub-title>
-  </programme>
-  <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="SOCCER 21">
-    <title lang="en">Charlotte FC @ New England Revolution - starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Charlotte FC</actor>
-      <actor>New England Revolution</actor>
-    </credits>
-    <sub-title lang="en">Venue: Bank of America Stadium</sub-title>
-  </programme>
-  <programme start="20260523180000 +0000" stop="20260523200000 +0000" channel="SOCCER 21">
-    <title lang="en">Charlotte FC @ New England Revolution - starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Charlotte FC</actor>
-      <actor>New England Revolution</actor>
-    </credits>
-    <sub-title lang="en">Venue: Bank of America Stadium</sub-title>
-  </programme>
-  <programme start="20260523200000 +0000" stop="20260523220000 +0000" channel="SOCCER 21">
-    <title lang="en">Charlotte FC @ New England Revolution - starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Charlotte FC</actor>
-      <actor>New England Revolution</actor>
-    </credits>
-    <sub-title lang="en">Venue: Bank of America Stadium</sub-title>
-  </programme>
-  <programme start="20260523220000 +0000" stop="20260523233000 +0000" channel="SOCCER 21">
-    <title lang="en">Charlotte FC @ New England Revolution - starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Charlotte FC</actor>
-      <actor>New England Revolution</actor>
-    </credits>
-    <sub-title lang="en">Venue: Bank of America Stadium</sub-title>
-  </programme>
-  <programme start="20260523233000 +0000" stop="20260524013000 +0000" channel="SOCCER 21">
-    <title lang="en">Charlotte FC @ New England Revolution</title>
-    <desc lang="en">Network: Apple TV | Venue: Bank of America Stadium, Charlotte, North Carolina</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Charlotte FC</actor>
-      <actor>New England Revolution</actor>
-    </credits>
-    <sub-title lang="en">Venue: Bank of America Stadium</sub-title>
-  </programme>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 22">
-    <title lang="en">D.C. United @ CF Montréal - starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>D.C. United</actor>
-      <actor>CF Montréal</actor>
-    </credits>
-    <sub-title lang="en">Venue: Audi Field</sub-title>
-  </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 22">
-    <title lang="en">D.C. United @ CF Montréal - starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>D.C. United</actor>
-      <actor>CF Montréal</actor>
-    </credits>
-    <sub-title lang="en">Venue: Audi Field</sub-title>
-  </programme>
-  <programme start="20260523140000 +0000" stop="20260523160000 +0000" channel="SOCCER 22">
-    <title lang="en">D.C. United @ CF Montréal - starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>D.C. United</actor>
-      <actor>CF Montréal</actor>
-    </credits>
-    <sub-title lang="en">Venue: Audi Field</sub-title>
-  </programme>
-  <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="SOCCER 22">
-    <title lang="en">D.C. United @ CF Montréal - starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>D.C. United</actor>
-      <actor>CF Montréal</actor>
-    </credits>
-    <sub-title lang="en">Venue: Audi Field</sub-title>
-  </programme>
-  <programme start="20260523180000 +0000" stop="20260523200000 +0000" channel="SOCCER 22">
-    <title lang="en">D.C. United @ CF Montréal - starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>D.C. United</actor>
-      <actor>CF Montréal</actor>
-    </credits>
-    <sub-title lang="en">Venue: Audi Field</sub-title>
-  </programme>
-  <programme start="20260523200000 +0000" stop="20260523220000 +0000" channel="SOCCER 22">
-    <title lang="en">D.C. United @ CF Montréal - starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>D.C. United</actor>
-      <actor>CF Montréal</actor>
-    </credits>
-    <sub-title lang="en">Venue: Audi Field</sub-title>
-  </programme>
-  <programme start="20260523220000 +0000" stop="20260523233000 +0000" channel="SOCCER 22">
-    <title lang="en">D.C. United @ CF Montréal - starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>D.C. United</actor>
-      <actor>CF Montréal</actor>
-    </credits>
-    <sub-title lang="en">Venue: Audi Field</sub-title>
-  </programme>
-  <programme start="20260523233000 +0000" stop="20260524013000 +0000" channel="SOCCER 22">
-    <title lang="en">D.C. United @ CF Montréal</title>
-    <desc lang="en">Network: Apple TV | Venue: Audi Field, Washington, District of Columbia</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>D.C. United</actor>
-      <actor>CF Montréal</actor>
-    </credits>
-    <sub-title lang="en">Venue: Audi Field</sub-title>
-  </programme>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 23">
-    <title lang="en">FC Cincinnati @ Orlando City SC - starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>FC Cincinnati</actor>
-      <actor>Orlando City SC</actor>
-    </credits>
-    <sub-title lang="en">Venue: TQL Stadium</sub-title>
-  </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 23">
-    <title lang="en">FC Cincinnati @ Orlando City SC - starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>FC Cincinnati</actor>
-      <actor>Orlando City SC</actor>
-    </credits>
-    <sub-title lang="en">Venue: TQL Stadium</sub-title>
-  </programme>
-  <programme start="20260523140000 +0000" stop="20260523160000 +0000" channel="SOCCER 23">
-    <title lang="en">FC Cincinnati @ Orlando City SC - starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>FC Cincinnati</actor>
-      <actor>Orlando City SC</actor>
-    </credits>
-    <sub-title lang="en">Venue: TQL Stadium</sub-title>
-  </programme>
-  <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="SOCCER 23">
-    <title lang="en">FC Cincinnati @ Orlando City SC - starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>FC Cincinnati</actor>
-      <actor>Orlando City SC</actor>
-    </credits>
-    <sub-title lang="en">Venue: TQL Stadium</sub-title>
-  </programme>
-  <programme start="20260523180000 +0000" stop="20260523200000 +0000" channel="SOCCER 23">
-    <title lang="en">FC Cincinnati @ Orlando City SC - starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>FC Cincinnati</actor>
-      <actor>Orlando City SC</actor>
-    </credits>
-    <sub-title lang="en">Venue: TQL Stadium</sub-title>
-  </programme>
-  <programme start="20260523200000 +0000" stop="20260523220000 +0000" channel="SOCCER 23">
-    <title lang="en">FC Cincinnati @ Orlando City SC - starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>FC Cincinnati</actor>
-      <actor>Orlando City SC</actor>
-    </credits>
-    <sub-title lang="en">Venue: TQL Stadium</sub-title>
-  </programme>
-  <programme start="20260523220000 +0000" stop="20260523233000 +0000" channel="SOCCER 23">
-    <title lang="en">FC Cincinnati @ Orlando City SC - starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>FC Cincinnati</actor>
-      <actor>Orlando City SC</actor>
-    </credits>
-    <sub-title lang="en">Venue: TQL Stadium</sub-title>
-  </programme>
-  <programme start="20260523233000 +0000" stop="20260524013000 +0000" channel="SOCCER 23">
-    <title lang="en">FC Cincinnati @ Orlando City SC</title>
-    <desc lang="en">Network: Apple TV | Venue: TQL Stadium, Cincinnati, Ohio</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>FC Cincinnati</actor>
-      <actor>Orlando City SC</actor>
-    </credits>
-    <sub-title lang="en">Venue: TQL Stadium</sub-title>
-  </programme>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 24">
-    <title lang="en">Chicago Fire FC @ Toronto FC - starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Chicago Fire FC</actor>
-      <actor>Toronto FC</actor>
-    </credits>
-    <sub-title lang="en">Venue: Soldier Field</sub-title>
-  </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 24">
-    <title lang="en">Chicago Fire FC @ Toronto FC - starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Chicago Fire FC</actor>
-      <actor>Toronto FC</actor>
-    </credits>
-    <sub-title lang="en">Venue: Soldier Field</sub-title>
-  </programme>
-  <programme start="20260523140000 +0000" stop="20260523160000 +0000" channel="SOCCER 24">
-    <title lang="en">Chicago Fire FC @ Toronto FC - starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Chicago Fire FC</actor>
-      <actor>Toronto FC</actor>
-    </credits>
-    <sub-title lang="en">Venue: Soldier Field</sub-title>
-  </programme>
-  <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="SOCCER 24">
-    <title lang="en">Chicago Fire FC @ Toronto FC - starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Chicago Fire FC</actor>
-      <actor>Toronto FC</actor>
-    </credits>
-    <sub-title lang="en">Venue: Soldier Field</sub-title>
-  </programme>
-  <programme start="20260523180000 +0000" stop="20260523200000 +0000" channel="SOCCER 24">
-    <title lang="en">Chicago Fire FC @ Toronto FC - starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Chicago Fire FC</actor>
-      <actor>Toronto FC</actor>
-    </credits>
-    <sub-title lang="en">Venue: Soldier Field</sub-title>
-  </programme>
-  <programme start="20260523200000 +0000" stop="20260523220000 +0000" channel="SOCCER 24">
-    <title lang="en">Chicago Fire FC @ Toronto FC - starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Chicago Fire FC</actor>
-      <actor>Toronto FC</actor>
-    </credits>
-    <sub-title lang="en">Venue: Soldier Field</sub-title>
-  </programme>
-  <programme start="20260523220000 +0000" stop="20260524000000 +0000" channel="SOCCER 24">
-    <title lang="en">Chicago Fire FC @ Toronto FC - starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Chicago Fire FC</actor>
-      <actor>Toronto FC</actor>
-    </credits>
-    <sub-title lang="en">Venue: Soldier Field</sub-title>
-  </programme>
-  <programme start="20260524000000 +0000" stop="20260524003000 +0000" channel="SOCCER 24">
-    <title lang="en">Chicago Fire FC @ Toronto FC - starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Chicago Fire FC</actor>
-      <actor>Toronto FC</actor>
-    </credits>
-    <sub-title lang="en">Venue: Soldier Field</sub-title>
-  </programme>
-  <programme start="20260524003000 +0000" stop="20260524023000 +0000" channel="SOCCER 24">
-    <title lang="en">Chicago Fire FC @ Toronto FC</title>
-    <desc lang="en">Network: Apple TV | Venue: Soldier Field, Chicago, Illinois</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Chicago Fire FC</actor>
-      <actor>Toronto FC</actor>
-    </credits>
-    <sub-title lang="en">Venue: Soldier Field</sub-title>
-  </programme>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 25">
-    <title lang="en">Nashville SC @ New York City FC - starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Nashville SC</actor>
-      <actor>New York City FC</actor>
-    </credits>
-    <sub-title lang="en">Venue: GEODIS Park</sub-title>
-  </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 25">
-    <title lang="en">Nashville SC @ New York City FC - starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Nashville SC</actor>
-      <actor>New York City FC</actor>
-    </credits>
-    <sub-title lang="en">Venue: GEODIS Park</sub-title>
-  </programme>
-  <programme start="20260523140000 +0000" stop="20260523160000 +0000" channel="SOCCER 25">
-    <title lang="en">Nashville SC @ New York City FC - starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Nashville SC</actor>
-      <actor>New York City FC</actor>
-    </credits>
-    <sub-title lang="en">Venue: GEODIS Park</sub-title>
-  </programme>
-  <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="SOCCER 25">
-    <title lang="en">Nashville SC @ New York City FC - starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Nashville SC</actor>
-      <actor>New York City FC</actor>
-    </credits>
-    <sub-title lang="en">Venue: GEODIS Park</sub-title>
-  </programme>
-  <programme start="20260523180000 +0000" stop="20260523200000 +0000" channel="SOCCER 25">
-    <title lang="en">Nashville SC @ New York City FC - starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Nashville SC</actor>
-      <actor>New York City FC</actor>
-    </credits>
-    <sub-title lang="en">Venue: GEODIS Park</sub-title>
-  </programme>
-  <programme start="20260523200000 +0000" stop="20260523220000 +0000" channel="SOCCER 25">
-    <title lang="en">Nashville SC @ New York City FC - starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Nashville SC</actor>
-      <actor>New York City FC</actor>
-    </credits>
-    <sub-title lang="en">Venue: GEODIS Park</sub-title>
-  </programme>
-  <programme start="20260523220000 +0000" stop="20260524000000 +0000" channel="SOCCER 25">
-    <title lang="en">Nashville SC @ New York City FC - starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Nashville SC</actor>
-      <actor>New York City FC</actor>
-    </credits>
-    <sub-title lang="en">Venue: GEODIS Park</sub-title>
-  </programme>
-  <programme start="20260524000000 +0000" stop="20260524003000 +0000" channel="SOCCER 25">
-    <title lang="en">Nashville SC @ New York City FC - starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Nashville SC</actor>
-      <actor>New York City FC</actor>
-    </credits>
-    <sub-title lang="en">Venue: GEODIS Park</sub-title>
-  </programme>
-  <programme start="20260524003000 +0000" stop="20260524023000 +0000" channel="SOCCER 25">
-    <title lang="en">Nashville SC @ New York City FC</title>
-    <desc lang="en">Network: Apple TV | Venue: GEODIS Park, Nashville, Tennessee</desc>
+  <programme start="20260524210000 +0000" stop="20260524230000 +0000" channel="SOCCER 30">
+    <title lang="en">Columbus Crew @ Atlanta United FC</title>
+    <desc lang="en">Network: Apple TV | Venue: ScottsMiracle-Gro Field, Columbus, Ohio</desc>
     <category lang="en">Sports</category>
     <category lang="en">MLS</category>
     <credits>
-      <actor>Nashville SC</actor>
-      <actor>New York City FC</actor>
+      <actor>Columbus Crew</actor>
+      <actor>Atlanta United FC</actor>
     </credits>
-    <sub-title lang="en">Venue: GEODIS Park</sub-title>
+    <sub-title lang="en">Venue: ScottsMiracle-Gro Field</sub-title>
   </programme>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 26">
-    <title lang="en">Sporting Kansas City @ Red Bull New York - starts at 8:30 PM ET</title>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 31">
+    <title lang="en">Inter Miami CF @ Philadelphia Union - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">MLS</category>
     <credits>
-      <actor>Sporting Kansas City</actor>
-      <actor>Red Bull New York</actor>
+      <actor>Inter Miami CF</actor>
+      <actor>Philadelphia Union</actor>
     </credits>
-    <sub-title lang="en">Venue: Children's Mercy Park</sub-title>
+    <sub-title lang="en">Venue: Nu Stadium</sub-title>
   </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 26">
-    <title lang="en">Sporting Kansas City @ Red Bull New York - starts at 8:30 PM ET</title>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 31">
+    <title lang="en">Inter Miami CF @ Philadelphia Union - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">MLS</category>
     <credits>
-      <actor>Sporting Kansas City</actor>
-      <actor>Red Bull New York</actor>
+      <actor>Inter Miami CF</actor>
+      <actor>Philadelphia Union</actor>
     </credits>
-    <sub-title lang="en">Venue: Children's Mercy Park</sub-title>
+    <sub-title lang="en">Venue: Nu Stadium</sub-title>
   </programme>
-  <programme start="20260523140000 +0000" stop="20260523160000 +0000" channel="SOCCER 26">
-    <title lang="en">Sporting Kansas City @ Red Bull New York - starts at 8:30 PM ET</title>
+  <programme start="20260524140000 +0000" stop="20260524160000 +0000" channel="SOCCER 31">
+    <title lang="en">Inter Miami CF @ Philadelphia Union - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">MLS</category>
     <credits>
-      <actor>Sporting Kansas City</actor>
-      <actor>Red Bull New York</actor>
+      <actor>Inter Miami CF</actor>
+      <actor>Philadelphia Union</actor>
     </credits>
-    <sub-title lang="en">Venue: Children's Mercy Park</sub-title>
+    <sub-title lang="en">Venue: Nu Stadium</sub-title>
   </programme>
-  <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="SOCCER 26">
-    <title lang="en">Sporting Kansas City @ Red Bull New York - starts at 8:30 PM ET</title>
+  <programme start="20260524160000 +0000" stop="20260524180000 +0000" channel="SOCCER 31">
+    <title lang="en">Inter Miami CF @ Philadelphia Union - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">MLS</category>
     <credits>
-      <actor>Sporting Kansas City</actor>
-      <actor>Red Bull New York</actor>
+      <actor>Inter Miami CF</actor>
+      <actor>Philadelphia Union</actor>
     </credits>
-    <sub-title lang="en">Venue: Children's Mercy Park</sub-title>
+    <sub-title lang="en">Venue: Nu Stadium</sub-title>
   </programme>
-  <programme start="20260523180000 +0000" stop="20260523200000 +0000" channel="SOCCER 26">
-    <title lang="en">Sporting Kansas City @ Red Bull New York - starts at 8:30 PM ET</title>
+  <programme start="20260524180000 +0000" stop="20260524200000 +0000" channel="SOCCER 31">
+    <title lang="en">Inter Miami CF @ Philadelphia Union - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">MLS</category>
     <credits>
-      <actor>Sporting Kansas City</actor>
-      <actor>Red Bull New York</actor>
+      <actor>Inter Miami CF</actor>
+      <actor>Philadelphia Union</actor>
     </credits>
-    <sub-title lang="en">Venue: Children's Mercy Park</sub-title>
+    <sub-title lang="en">Venue: Nu Stadium</sub-title>
   </programme>
-  <programme start="20260523200000 +0000" stop="20260523220000 +0000" channel="SOCCER 26">
-    <title lang="en">Sporting Kansas City @ Red Bull New York - starts at 8:30 PM ET</title>
+  <programme start="20260524200000 +0000" stop="20260524220000 +0000" channel="SOCCER 31">
+    <title lang="en">Inter Miami CF @ Philadelphia Union - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">MLS</category>
     <credits>
-      <actor>Sporting Kansas City</actor>
-      <actor>Red Bull New York</actor>
+      <actor>Inter Miami CF</actor>
+      <actor>Philadelphia Union</actor>
     </credits>
-    <sub-title lang="en">Venue: Children's Mercy Park</sub-title>
+    <sub-title lang="en">Venue: Nu Stadium</sub-title>
   </programme>
-  <programme start="20260523220000 +0000" stop="20260524000000 +0000" channel="SOCCER 26">
-    <title lang="en">Sporting Kansas City @ Red Bull New York - starts at 8:30 PM ET</title>
+  <programme start="20260524220000 +0000" stop="20260524230000 +0000" channel="SOCCER 31">
+    <title lang="en">Inter Miami CF @ Philadelphia Union - starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">MLS</category>
     <credits>
-      <actor>Sporting Kansas City</actor>
-      <actor>Red Bull New York</actor>
+      <actor>Inter Miami CF</actor>
+      <actor>Philadelphia Union</actor>
     </credits>
-    <sub-title lang="en">Venue: Children's Mercy Park</sub-title>
+    <sub-title lang="en">Venue: Nu Stadium</sub-title>
   </programme>
-  <programme start="20260524000000 +0000" stop="20260524003000 +0000" channel="SOCCER 26">
-    <title lang="en">Sporting Kansas City @ Red Bull New York - starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Sporting Kansas City</actor>
-      <actor>Red Bull New York</actor>
-    </credits>
-    <sub-title lang="en">Venue: Children's Mercy Park</sub-title>
-  </programme>
-  <programme start="20260524003000 +0000" stop="20260524023000 +0000" channel="SOCCER 26">
-    <title lang="en">Sporting Kansas City @ Red Bull New York</title>
-    <desc lang="en">Network: Apple TV | Venue: Children's Mercy Park, Kansas City, Kansas</desc>
+  <programme start="20260524230000 +0000" stop="20260525010000 +0000" channel="SOCCER 31">
+    <title lang="en">Inter Miami CF @ Philadelphia Union</title>
+    <desc lang="en">Network: FOX, Apple TV | Venue: Nu Stadium, Miami, Florida</desc>
     <category lang="en">Sports</category>
     <category lang="en">MLS</category>
     <credits>
-      <actor>Sporting Kansas City</actor>
-      <actor>Red Bull New York</actor>
+      <actor>Inter Miami CF</actor>
+      <actor>Philadelphia Union</actor>
     </credits>
-    <sub-title lang="en">Venue: Children's Mercy Park</sub-title>
+    <sub-title lang="en">Venue: Nu Stadium</sub-title>
   </programme>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 27">
-    <title lang="en">Colorado Rapids @ FC Dallas - starts at 9:30 PM ET</title>
+  <programme start="20260524100000 +0000" stop="20260524120000 +0000" channel="SOCCER 32">
+    <title lang="en">LAFC @ Seattle Sounders FC - starts at 9:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">MLS</category>
     <credits>
-      <actor>Colorado Rapids</actor>
-      <actor>FC Dallas</actor>
+      <actor>LAFC</actor>
+      <actor>Seattle Sounders FC</actor>
     </credits>
-    <sub-title lang="en">Venue: Dick's Sporting Goods Park</sub-title>
+    <sub-title lang="en">Venue: BMO Stadium</sub-title>
   </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 27">
-    <title lang="en">Colorado Rapids @ FC Dallas - starts at 9:30 PM ET</title>
+  <programme start="20260524120000 +0000" stop="20260524140000 +0000" channel="SOCCER 32">
+    <title lang="en">LAFC @ Seattle Sounders FC - starts at 9:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">MLS</category>
     <credits>
-      <actor>Colorado Rapids</actor>
-      <actor>FC Dallas</actor>
+      <actor>LAFC</actor>
+      <actor>Seattle Sounders FC</actor>
     </credits>
-    <sub-title lang="en">Venue: Dick's Sporting Goods Park</sub-title>
+    <sub-title lang="en">Venue: BMO Stadium</sub-title>
   </programme>
-  <programme start="20260523140000 +0000" stop="20260523160000 +0000" channel="SOCCER 27">
-    <title lang="en">Colorado Rapids @ FC Dallas - starts at 9:30 PM ET</title>
+  <programme start="20260524140000 +0000" stop="20260524160000 +0000" channel="SOCCER 32">
+    <title lang="en">LAFC @ Seattle Sounders FC - starts at 9:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">MLS</category>
     <credits>
-      <actor>Colorado Rapids</actor>
-      <actor>FC Dallas</actor>
+      <actor>LAFC</actor>
+      <actor>Seattle Sounders FC</actor>
     </credits>
-    <sub-title lang="en">Venue: Dick's Sporting Goods Park</sub-title>
+    <sub-title lang="en">Venue: BMO Stadium</sub-title>
   </programme>
-  <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="SOCCER 27">
-    <title lang="en">Colorado Rapids @ FC Dallas - starts at 9:30 PM ET</title>
+  <programme start="20260524160000 +0000" stop="20260524180000 +0000" channel="SOCCER 32">
+    <title lang="en">LAFC @ Seattle Sounders FC - starts at 9:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">MLS</category>
     <credits>
-      <actor>Colorado Rapids</actor>
-      <actor>FC Dallas</actor>
+      <actor>LAFC</actor>
+      <actor>Seattle Sounders FC</actor>
     </credits>
-    <sub-title lang="en">Venue: Dick's Sporting Goods Park</sub-title>
+    <sub-title lang="en">Venue: BMO Stadium</sub-title>
   </programme>
-  <programme start="20260523180000 +0000" stop="20260523200000 +0000" channel="SOCCER 27">
-    <title lang="en">Colorado Rapids @ FC Dallas - starts at 9:30 PM ET</title>
+  <programme start="20260524180000 +0000" stop="20260524200000 +0000" channel="SOCCER 32">
+    <title lang="en">LAFC @ Seattle Sounders FC - starts at 9:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">MLS</category>
     <credits>
-      <actor>Colorado Rapids</actor>
-      <actor>FC Dallas</actor>
+      <actor>LAFC</actor>
+      <actor>Seattle Sounders FC</actor>
     </credits>
-    <sub-title lang="en">Venue: Dick's Sporting Goods Park</sub-title>
+    <sub-title lang="en">Venue: BMO Stadium</sub-title>
   </programme>
-  <programme start="20260523200000 +0000" stop="20260523220000 +0000" channel="SOCCER 27">
-    <title lang="en">Colorado Rapids @ FC Dallas - starts at 9:30 PM ET</title>
+  <programme start="20260524200000 +0000" stop="20260524220000 +0000" channel="SOCCER 32">
+    <title lang="en">LAFC @ Seattle Sounders FC - starts at 9:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">MLS</category>
     <credits>
-      <actor>Colorado Rapids</actor>
-      <actor>FC Dallas</actor>
+      <actor>LAFC</actor>
+      <actor>Seattle Sounders FC</actor>
     </credits>
-    <sub-title lang="en">Venue: Dick's Sporting Goods Park</sub-title>
+    <sub-title lang="en">Venue: BMO Stadium</sub-title>
   </programme>
-  <programme start="20260523220000 +0000" stop="20260524000000 +0000" channel="SOCCER 27">
-    <title lang="en">Colorado Rapids @ FC Dallas - starts at 9:30 PM ET</title>
+  <programme start="20260524220000 +0000" stop="20260525000000 +0000" channel="SOCCER 32">
+    <title lang="en">LAFC @ Seattle Sounders FC - starts at 9:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">MLS</category>
     <credits>
-      <actor>Colorado Rapids</actor>
-      <actor>FC Dallas</actor>
+      <actor>LAFC</actor>
+      <actor>Seattle Sounders FC</actor>
     </credits>
-    <sub-title lang="en">Venue: Dick's Sporting Goods Park</sub-title>
+    <sub-title lang="en">Venue: BMO Stadium</sub-title>
   </programme>
-  <programme start="20260524000000 +0000" stop="20260524013000 +0000" channel="SOCCER 27">
-    <title lang="en">Colorado Rapids @ FC Dallas - starts at 9:30 PM ET</title>
+  <programme start="20260525000000 +0000" stop="20260525011500 +0000" channel="SOCCER 32">
+    <title lang="en">LAFC @ Seattle Sounders FC - starts at 9:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">MLS</category>
     <credits>
-      <actor>Colorado Rapids</actor>
-      <actor>FC Dallas</actor>
+      <actor>LAFC</actor>
+      <actor>Seattle Sounders FC</actor>
     </credits>
-    <sub-title lang="en">Venue: Dick's Sporting Goods Park</sub-title>
+    <sub-title lang="en">Venue: BMO Stadium</sub-title>
   </programme>
-  <programme start="20260524013000 +0000" stop="20260524033000 +0000" channel="SOCCER 27">
-    <title lang="en">Colorado Rapids @ FC Dallas</title>
-    <desc lang="en">Network: Apple TV | Venue: Dick's Sporting Goods Park, Commerce City, Colorado</desc>
+  <programme start="20260525011500 +0000" stop="20260525031500 +0000" channel="SOCCER 32">
+    <title lang="en">LAFC @ Seattle Sounders FC</title>
+    <desc lang="en">Network: FOX, Apple TV | Venue: BMO Stadium, Los Angeles, California</desc>
     <category lang="en">Sports</category>
     <category lang="en">MLS</category>
     <credits>
-      <actor>Colorado Rapids</actor>
-      <actor>FC Dallas</actor>
+      <actor>LAFC</actor>
+      <actor>Seattle Sounders FC</actor>
     </credits>
-    <sub-title lang="en">Venue: Dick's Sporting Goods Park</sub-title>
-  </programme>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 28">
-    <title lang="en">Portland Timbers @ San Jose Earthquakes - starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Portland Timbers</actor>
-      <actor>San Jose Earthquakes</actor>
-    </credits>
-    <sub-title lang="en">Venue: Providence Park</sub-title>
-  </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 28">
-    <title lang="en">Portland Timbers @ San Jose Earthquakes - starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Portland Timbers</actor>
-      <actor>San Jose Earthquakes</actor>
-    </credits>
-    <sub-title lang="en">Venue: Providence Park</sub-title>
-  </programme>
-  <programme start="20260523140000 +0000" stop="20260523160000 +0000" channel="SOCCER 28">
-    <title lang="en">Portland Timbers @ San Jose Earthquakes - starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Portland Timbers</actor>
-      <actor>San Jose Earthquakes</actor>
-    </credits>
-    <sub-title lang="en">Venue: Providence Park</sub-title>
-  </programme>
-  <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="SOCCER 28">
-    <title lang="en">Portland Timbers @ San Jose Earthquakes - starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Portland Timbers</actor>
-      <actor>San Jose Earthquakes</actor>
-    </credits>
-    <sub-title lang="en">Venue: Providence Park</sub-title>
-  </programme>
-  <programme start="20260523180000 +0000" stop="20260523200000 +0000" channel="SOCCER 28">
-    <title lang="en">Portland Timbers @ San Jose Earthquakes - starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Portland Timbers</actor>
-      <actor>San Jose Earthquakes</actor>
-    </credits>
-    <sub-title lang="en">Venue: Providence Park</sub-title>
-  </programme>
-  <programme start="20260523200000 +0000" stop="20260523220000 +0000" channel="SOCCER 28">
-    <title lang="en">Portland Timbers @ San Jose Earthquakes - starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Portland Timbers</actor>
-      <actor>San Jose Earthquakes</actor>
-    </credits>
-    <sub-title lang="en">Venue: Providence Park</sub-title>
-  </programme>
-  <programme start="20260523220000 +0000" stop="20260524000000 +0000" channel="SOCCER 28">
-    <title lang="en">Portland Timbers @ San Jose Earthquakes - starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Portland Timbers</actor>
-      <actor>San Jose Earthquakes</actor>
-    </credits>
-    <sub-title lang="en">Venue: Providence Park</sub-title>
-  </programme>
-  <programme start="20260524000000 +0000" stop="20260524013000 +0000" channel="SOCCER 28">
-    <title lang="en">Portland Timbers @ San Jose Earthquakes - starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Portland Timbers</actor>
-      <actor>San Jose Earthquakes</actor>
-    </credits>
-    <sub-title lang="en">Venue: Providence Park</sub-title>
-  </programme>
-  <programme start="20260524013000 +0000" stop="20260524033000 +0000" channel="SOCCER 28">
-    <title lang="en">Portland Timbers @ San Jose Earthquakes</title>
-    <desc lang="en">Network: Apple TV | Venue: Providence Park, Portland, Oregon</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>Portland Timbers</actor>
-      <actor>San Jose Earthquakes</actor>
-    </credits>
-    <sub-title lang="en">Venue: Providence Park</sub-title>
-  </programme>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 29">
-    <title lang="en">San Diego FC @ Vancouver Whitecaps - starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>San Diego FC</actor>
-      <actor>Vancouver Whitecaps</actor>
-    </credits>
-    <sub-title lang="en">Venue: Snapdragon Stadium</sub-title>
-  </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 29">
-    <title lang="en">San Diego FC @ Vancouver Whitecaps - starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>San Diego FC</actor>
-      <actor>Vancouver Whitecaps</actor>
-    </credits>
-    <sub-title lang="en">Venue: Snapdragon Stadium</sub-title>
-  </programme>
-  <programme start="20260523140000 +0000" stop="20260523160000 +0000" channel="SOCCER 29">
-    <title lang="en">San Diego FC @ Vancouver Whitecaps - starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>San Diego FC</actor>
-      <actor>Vancouver Whitecaps</actor>
-    </credits>
-    <sub-title lang="en">Venue: Snapdragon Stadium</sub-title>
-  </programme>
-  <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="SOCCER 29">
-    <title lang="en">San Diego FC @ Vancouver Whitecaps - starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>San Diego FC</actor>
-      <actor>Vancouver Whitecaps</actor>
-    </credits>
-    <sub-title lang="en">Venue: Snapdragon Stadium</sub-title>
-  </programme>
-  <programme start="20260523180000 +0000" stop="20260523200000 +0000" channel="SOCCER 29">
-    <title lang="en">San Diego FC @ Vancouver Whitecaps - starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>San Diego FC</actor>
-      <actor>Vancouver Whitecaps</actor>
-    </credits>
-    <sub-title lang="en">Venue: Snapdragon Stadium</sub-title>
-  </programme>
-  <programme start="20260523200000 +0000" stop="20260523220000 +0000" channel="SOCCER 29">
-    <title lang="en">San Diego FC @ Vancouver Whitecaps - starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>San Diego FC</actor>
-      <actor>Vancouver Whitecaps</actor>
-    </credits>
-    <sub-title lang="en">Venue: Snapdragon Stadium</sub-title>
-  </programme>
-  <programme start="20260523220000 +0000" stop="20260524000000 +0000" channel="SOCCER 29">
-    <title lang="en">San Diego FC @ Vancouver Whitecaps - starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>San Diego FC</actor>
-      <actor>Vancouver Whitecaps</actor>
-    </credits>
-    <sub-title lang="en">Venue: Snapdragon Stadium</sub-title>
-  </programme>
-  <programme start="20260524000000 +0000" stop="20260524013000 +0000" channel="SOCCER 29">
-    <title lang="en">San Diego FC @ Vancouver Whitecaps - starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>San Diego FC</actor>
-      <actor>Vancouver Whitecaps</actor>
-    </credits>
-    <sub-title lang="en">Venue: Snapdragon Stadium</sub-title>
-  </programme>
-  <programme start="20260524013000 +0000" stop="20260524033000 +0000" channel="SOCCER 29">
-    <title lang="en">San Diego FC @ Vancouver Whitecaps</title>
-    <desc lang="en">Network: Apple TV | Venue: Snapdragon Stadium, San Diego, California</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>San Diego FC</actor>
-      <actor>Vancouver Whitecaps</actor>
-    </credits>
-    <sub-title lang="en">Venue: Snapdragon Stadium</sub-title>
-  </programme>
-  <programme start="20260523100000 +0000" stop="20260523120000 +0000" channel="SOCCER 30">
-    <title lang="en">LA Galaxy @ Houston Dynamo FC - starts at 10:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>LA Galaxy</actor>
-      <actor>Houston Dynamo FC</actor>
-    </credits>
-    <sub-title lang="en">Venue: Dignity Health Sports Park</sub-title>
-  </programme>
-  <programme start="20260523120000 +0000" stop="20260523140000 +0000" channel="SOCCER 30">
-    <title lang="en">LA Galaxy @ Houston Dynamo FC - starts at 10:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>LA Galaxy</actor>
-      <actor>Houston Dynamo FC</actor>
-    </credits>
-    <sub-title lang="en">Venue: Dignity Health Sports Park</sub-title>
-  </programme>
-  <programme start="20260523140000 +0000" stop="20260523160000 +0000" channel="SOCCER 30">
-    <title lang="en">LA Galaxy @ Houston Dynamo FC - starts at 10:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>LA Galaxy</actor>
-      <actor>Houston Dynamo FC</actor>
-    </credits>
-    <sub-title lang="en">Venue: Dignity Health Sports Park</sub-title>
-  </programme>
-  <programme start="20260523160000 +0000" stop="20260523180000 +0000" channel="SOCCER 30">
-    <title lang="en">LA Galaxy @ Houston Dynamo FC - starts at 10:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>LA Galaxy</actor>
-      <actor>Houston Dynamo FC</actor>
-    </credits>
-    <sub-title lang="en">Venue: Dignity Health Sports Park</sub-title>
-  </programme>
-  <programme start="20260523180000 +0000" stop="20260523200000 +0000" channel="SOCCER 30">
-    <title lang="en">LA Galaxy @ Houston Dynamo FC - starts at 10:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>LA Galaxy</actor>
-      <actor>Houston Dynamo FC</actor>
-    </credits>
-    <sub-title lang="en">Venue: Dignity Health Sports Park</sub-title>
-  </programme>
-  <programme start="20260523200000 +0000" stop="20260523220000 +0000" channel="SOCCER 30">
-    <title lang="en">LA Galaxy @ Houston Dynamo FC - starts at 10:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>LA Galaxy</actor>
-      <actor>Houston Dynamo FC</actor>
-    </credits>
-    <sub-title lang="en">Venue: Dignity Health Sports Park</sub-title>
-  </programme>
-  <programme start="20260523220000 +0000" stop="20260524000000 +0000" channel="SOCCER 30">
-    <title lang="en">LA Galaxy @ Houston Dynamo FC - starts at 10:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>LA Galaxy</actor>
-      <actor>Houston Dynamo FC</actor>
-    </credits>
-    <sub-title lang="en">Venue: Dignity Health Sports Park</sub-title>
-  </programme>
-  <programme start="20260524000000 +0000" stop="20260524020000 +0000" channel="SOCCER 30">
-    <title lang="en">LA Galaxy @ Houston Dynamo FC - starts at 10:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>LA Galaxy</actor>
-      <actor>Houston Dynamo FC</actor>
-    </credits>
-    <sub-title lang="en">Venue: Dignity Health Sports Park</sub-title>
-  </programme>
-  <programme start="20260524020000 +0000" stop="20260524023000 +0000" channel="SOCCER 30">
-    <title lang="en">LA Galaxy @ Houston Dynamo FC - starts at 10:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>LA Galaxy</actor>
-      <actor>Houston Dynamo FC</actor>
-    </credits>
-    <sub-title lang="en">Venue: Dignity Health Sports Park</sub-title>
-  </programme>
-  <programme start="20260524023000 +0000" stop="20260524043000 +0000" channel="SOCCER 30">
-    <title lang="en">LA Galaxy @ Houston Dynamo FC</title>
-    <desc lang="en">Network: Apple TV | Venue: Dignity Health Sports Park, Carson, California</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">MLS</category>
-    <credits>
-      <actor>LA Galaxy</actor>
-      <actor>Houston Dynamo FC</actor>
-    </credits>
-    <sub-title lang="en">Venue: Dignity Health Sports Park</sub-title>
+    <sub-title lang="en">Venue: BMO Stadium</sub-title>
   </programme>
 </tv>
