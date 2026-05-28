@@ -300,223 +300,342 @@
   <channel id="PEACOCK 100">
     <display-name>PEACOCK 100</display-name>
   </channel>
-  <programme start="20260525100000 +0000" stop="20260525120000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: HOU at TEX starts at 7:00 PM ET</title>
+  <programme start="20260528100000 +0000" stop="20260528120000 +0000" channel="PEACOCK 001">
+    <title lang="en">Premier League Darts: Finals starts at 2:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: HOU at TEX</actor>
-      <actor>Away Feed: HOU at TEX</actor>
+      <actor>Premier League Darts: Finals</actor>
+      <actor>Premier League Darts: Finals</actor>
     </credits>
   </programme>
-  <programme start="20260525120000 +0000" stop="20260525140000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: HOU at TEX starts at 7:00 PM ET</title>
+  <programme start="20260528120000 +0000" stop="20260528140000 +0000" channel="PEACOCK 001">
+    <title lang="en">Premier League Darts: Finals starts at 2:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: HOU at TEX</actor>
-      <actor>Away Feed: HOU at TEX</actor>
+      <actor>Premier League Darts: Finals</actor>
+      <actor>Premier League Darts: Finals</actor>
     </credits>
   </programme>
-  <programme start="20260525140000 +0000" stop="20260525160000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: HOU at TEX starts at 7:00 PM ET</title>
+  <programme start="20260528140000 +0000" stop="20260528160000 +0000" channel="PEACOCK 001">
+    <title lang="en">Premier League Darts: Finals starts at 2:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: HOU at TEX</actor>
-      <actor>Away Feed: HOU at TEX</actor>
+      <actor>Premier League Darts: Finals</actor>
+      <actor>Premier League Darts: Finals</actor>
     </credits>
   </programme>
-  <programme start="20260525160000 +0000" stop="20260525180000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: HOU at TEX starts at 7:00 PM ET</title>
+  <programme start="20260528160000 +0000" stop="20260528180000 +0000" channel="PEACOCK 001">
+    <title lang="en">Premier League Darts: Finals starts at 2:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: HOU at TEX</actor>
-      <actor>Away Feed: HOU at TEX</actor>
+      <actor>Premier League Darts: Finals</actor>
+      <actor>Premier League Darts: Finals</actor>
     </credits>
   </programme>
-  <programme start="20260525180000 +0000" stop="20260525200000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: HOU at TEX starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: HOU at TEX</actor>
-      <actor>Away Feed: HOU at TEX</actor>
-    </credits>
-  </programme>
-  <programme start="20260525200000 +0000" stop="20260525220000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: HOU at TEX starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: HOU at TEX</actor>
-      <actor>Away Feed: HOU at TEX</actor>
-    </credits>
-  </programme>
-  <programme start="20260525220000 +0000" stop="20260525230000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: HOU at TEX starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: HOU at TEX</actor>
-      <actor>Away Feed: HOU at TEX</actor>
-    </credits>
-  </programme>
-  <programme start="20260525230000 +0000" stop="20260526030000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: HOU at TEX</title>
+  <programme start="20260528180000 +0000" stop="20260528220000 +0000" channel="PEACOCK 001">
+    <title lang="en">Premier League Darts: Finals</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: HOU at TEX</actor>
-      <actor>Away Feed: HOU at TEX</actor>
+      <actor>Premier League Darts: Finals</actor>
+      <actor>Premier League Darts: Finals</actor>
     </credits>
   </programme>
-  <programme start="20260525100000 +0000" stop="20260525120000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: HOU at TEX starts at 7:00 PM ET</title>
+  <programme start="20260528100000 +0000" stop="20260528120000 +0000" channel="PEACOCK 002">
+    <title lang="en">Home Feed: CHC at PIT starts at 6:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: HOU at TEX</actor>
-      <actor>Home Feed: HOU at TEX</actor>
+      <actor>Home Feed: CHC at PIT</actor>
+      <actor>Home Feed: CHC at PIT</actor>
     </credits>
   </programme>
-  <programme start="20260525120000 +0000" stop="20260525140000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: HOU at TEX starts at 7:00 PM ET</title>
+  <programme start="20260528120000 +0000" stop="20260528140000 +0000" channel="PEACOCK 002">
+    <title lang="en">Home Feed: CHC at PIT starts at 6:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: HOU at TEX</actor>
-      <actor>Home Feed: HOU at TEX</actor>
+      <actor>Home Feed: CHC at PIT</actor>
+      <actor>Home Feed: CHC at PIT</actor>
     </credits>
   </programme>
-  <programme start="20260525140000 +0000" stop="20260525160000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: HOU at TEX starts at 7:00 PM ET</title>
+  <programme start="20260528140000 +0000" stop="20260528160000 +0000" channel="PEACOCK 002">
+    <title lang="en">Home Feed: CHC at PIT starts at 6:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: HOU at TEX</actor>
-      <actor>Home Feed: HOU at TEX</actor>
+      <actor>Home Feed: CHC at PIT</actor>
+      <actor>Home Feed: CHC at PIT</actor>
     </credits>
   </programme>
-  <programme start="20260525160000 +0000" stop="20260525180000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: HOU at TEX starts at 7:00 PM ET</title>
+  <programme start="20260528160000 +0000" stop="20260528180000 +0000" channel="PEACOCK 002">
+    <title lang="en">Home Feed: CHC at PIT starts at 6:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: HOU at TEX</actor>
-      <actor>Home Feed: HOU at TEX</actor>
+      <actor>Home Feed: CHC at PIT</actor>
+      <actor>Home Feed: CHC at PIT</actor>
     </credits>
   </programme>
-  <programme start="20260525180000 +0000" stop="20260525200000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: HOU at TEX starts at 7:00 PM ET</title>
+  <programme start="20260528180000 +0000" stop="20260528200000 +0000" channel="PEACOCK 002">
+    <title lang="en">Home Feed: CHC at PIT starts at 6:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: HOU at TEX</actor>
-      <actor>Home Feed: HOU at TEX</actor>
+      <actor>Home Feed: CHC at PIT</actor>
+      <actor>Home Feed: CHC at PIT</actor>
     </credits>
   </programme>
-  <programme start="20260525200000 +0000" stop="20260525220000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: HOU at TEX starts at 7:00 PM ET</title>
+  <programme start="20260528200000 +0000" stop="20260528220000 +0000" channel="PEACOCK 002">
+    <title lang="en">Home Feed: CHC at PIT starts at 6:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: HOU at TEX</actor>
-      <actor>Home Feed: HOU at TEX</actor>
+      <actor>Home Feed: CHC at PIT</actor>
+      <actor>Home Feed: CHC at PIT</actor>
     </credits>
   </programme>
-  <programme start="20260525220000 +0000" stop="20260525230000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: HOU at TEX starts at 7:00 PM ET</title>
+  <programme start="20260528220000 +0000" stop="20260528223000 +0000" channel="PEACOCK 002">
+    <title lang="en">Home Feed: CHC at PIT starts at 6:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: HOU at TEX</actor>
-      <actor>Home Feed: HOU at TEX</actor>
+      <actor>Home Feed: CHC at PIT</actor>
+      <actor>Home Feed: CHC at PIT</actor>
     </credits>
   </programme>
-  <programme start="20260525230000 +0000" stop="20260526030000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: HOU at TEX</title>
+  <programme start="20260528223000 +0000" stop="20260529023000 +0000" channel="PEACOCK 002">
+    <title lang="en">Home Feed: CHC at PIT</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: HOU at TEX</actor>
-      <actor>Home Feed: HOU at TEX</actor>
+      <actor>Home Feed: CHC at PIT</actor>
+      <actor>Home Feed: CHC at PIT</actor>
     </credits>
   </programme>
-  <programme start="20260525100000 +0000" stop="20260525120000 +0000" channel="PEACOCK 003">
-    <title lang="en">Fire vs. Liberty starts at 8:00 PM ET</title>
+  <programme start="20260528100000 +0000" stop="20260528120000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: CHC at PIT starts at 6:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Fire vs. Liberty</actor>
-      <actor>Fire vs. Liberty</actor>
+      <actor>Away Feed: CHC at PIT</actor>
+      <actor>Away Feed: CHC at PIT</actor>
     </credits>
   </programme>
-  <programme start="20260525120000 +0000" stop="20260525140000 +0000" channel="PEACOCK 003">
-    <title lang="en">Fire vs. Liberty starts at 8:00 PM ET</title>
+  <programme start="20260528120000 +0000" stop="20260528140000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: CHC at PIT starts at 6:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Fire vs. Liberty</actor>
-      <actor>Fire vs. Liberty</actor>
+      <actor>Away Feed: CHC at PIT</actor>
+      <actor>Away Feed: CHC at PIT</actor>
     </credits>
   </programme>
-  <programme start="20260525140000 +0000" stop="20260525160000 +0000" channel="PEACOCK 003">
-    <title lang="en">Fire vs. Liberty starts at 8:00 PM ET</title>
+  <programme start="20260528140000 +0000" stop="20260528160000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: CHC at PIT starts at 6:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Fire vs. Liberty</actor>
-      <actor>Fire vs. Liberty</actor>
+      <actor>Away Feed: CHC at PIT</actor>
+      <actor>Away Feed: CHC at PIT</actor>
     </credits>
   </programme>
-  <programme start="20260525160000 +0000" stop="20260525180000 +0000" channel="PEACOCK 003">
-    <title lang="en">Fire vs. Liberty starts at 8:00 PM ET</title>
+  <programme start="20260528160000 +0000" stop="20260528180000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: CHC at PIT starts at 6:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Fire vs. Liberty</actor>
-      <actor>Fire vs. Liberty</actor>
+      <actor>Away Feed: CHC at PIT</actor>
+      <actor>Away Feed: CHC at PIT</actor>
     </credits>
   </programme>
-  <programme start="20260525180000 +0000" stop="20260525200000 +0000" channel="PEACOCK 003">
-    <title lang="en">Fire vs. Liberty starts at 8:00 PM ET</title>
+  <programme start="20260528180000 +0000" stop="20260528200000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: CHC at PIT starts at 6:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Fire vs. Liberty</actor>
-      <actor>Fire vs. Liberty</actor>
+      <actor>Away Feed: CHC at PIT</actor>
+      <actor>Away Feed: CHC at PIT</actor>
     </credits>
   </programme>
-  <programme start="20260525200000 +0000" stop="20260525220000 +0000" channel="PEACOCK 003">
-    <title lang="en">Fire vs. Liberty starts at 8:00 PM ET</title>
+  <programme start="20260528200000 +0000" stop="20260528220000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: CHC at PIT starts at 6:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Fire vs. Liberty</actor>
-      <actor>Fire vs. Liberty</actor>
+      <actor>Away Feed: CHC at PIT</actor>
+      <actor>Away Feed: CHC at PIT</actor>
     </credits>
   </programme>
-  <programme start="20260525220000 +0000" stop="20260526000000 +0000" channel="PEACOCK 003">
-    <title lang="en">Fire vs. Liberty starts at 8:00 PM ET</title>
+  <programme start="20260528220000 +0000" stop="20260528223000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: CHC at PIT starts at 6:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Fire vs. Liberty</actor>
-      <actor>Fire vs. Liberty</actor>
+      <actor>Away Feed: CHC at PIT</actor>
+      <actor>Away Feed: CHC at PIT</actor>
     </credits>
   </programme>
-  <programme start="20260526000000 +0000" stop="20260526040000 +0000" channel="PEACOCK 003">
-    <title lang="en">Fire vs. Liberty</title>
+  <programme start="20260528223000 +0000" stop="20260529023000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: CHC at PIT</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Fire vs. Liberty</actor>
-      <actor>Fire vs. Liberty</actor>
+      <actor>Away Feed: CHC at PIT</actor>
+      <actor>Away Feed: CHC at PIT</actor>
+    </credits>
+  </programme>
+  <programme start="20260528100000 +0000" stop="20260528120000 +0000" channel="PEACOCK 004">
+    <title lang="en">Performance View: OKC vs. SAS starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Performance View: OKC vs. SAS</actor>
+      <actor>Performance View: OKC vs. SAS</actor>
+    </credits>
+  </programme>
+  <programme start="20260528120000 +0000" stop="20260528140000 +0000" channel="PEACOCK 004">
+    <title lang="en">Performance View: OKC vs. SAS starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Performance View: OKC vs. SAS</actor>
+      <actor>Performance View: OKC vs. SAS</actor>
+    </credits>
+  </programme>
+  <programme start="20260528140000 +0000" stop="20260528160000 +0000" channel="PEACOCK 004">
+    <title lang="en">Performance View: OKC vs. SAS starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Performance View: OKC vs. SAS</actor>
+      <actor>Performance View: OKC vs. SAS</actor>
+    </credits>
+  </programme>
+  <programme start="20260528160000 +0000" stop="20260528180000 +0000" channel="PEACOCK 004">
+    <title lang="en">Performance View: OKC vs. SAS starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Performance View: OKC vs. SAS</actor>
+      <actor>Performance View: OKC vs. SAS</actor>
+    </credits>
+  </programme>
+  <programme start="20260528180000 +0000" stop="20260528200000 +0000" channel="PEACOCK 004">
+    <title lang="en">Performance View: OKC vs. SAS starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Performance View: OKC vs. SAS</actor>
+      <actor>Performance View: OKC vs. SAS</actor>
+    </credits>
+  </programme>
+  <programme start="20260528200000 +0000" stop="20260528220000 +0000" channel="PEACOCK 004">
+    <title lang="en">Performance View: OKC vs. SAS starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Performance View: OKC vs. SAS</actor>
+      <actor>Performance View: OKC vs. SAS</actor>
+    </credits>
+  </programme>
+  <programme start="20260528220000 +0000" stop="20260528233000 +0000" channel="PEACOCK 004">
+    <title lang="en">Performance View: OKC vs. SAS starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Performance View: OKC vs. SAS</actor>
+      <actor>Performance View: OKC vs. SAS</actor>
+    </credits>
+  </programme>
+  <programme start="20260528233000 +0000" stop="20260529033000 +0000" channel="PEACOCK 004">
+    <title lang="en">Performance View: OKC vs. SAS</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Performance View: OKC vs. SAS</actor>
+      <actor>Performance View: OKC vs. SAS</actor>
+    </credits>
+  </programme>
+  <programme start="20260528100000 +0000" stop="20260528120000 +0000" channel="PEACOCK 005">
+    <title lang="en">Game 6: Thunder vs. Spurs starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Game 6: Thunder vs. Spurs</actor>
+      <actor>Game 6: Thunder vs. Spurs</actor>
+    </credits>
+  </programme>
+  <programme start="20260528120000 +0000" stop="20260528140000 +0000" channel="PEACOCK 005">
+    <title lang="en">Game 6: Thunder vs. Spurs starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Game 6: Thunder vs. Spurs</actor>
+      <actor>Game 6: Thunder vs. Spurs</actor>
+    </credits>
+  </programme>
+  <programme start="20260528140000 +0000" stop="20260528160000 +0000" channel="PEACOCK 005">
+    <title lang="en">Game 6: Thunder vs. Spurs starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Game 6: Thunder vs. Spurs</actor>
+      <actor>Game 6: Thunder vs. Spurs</actor>
+    </credits>
+  </programme>
+  <programme start="20260528160000 +0000" stop="20260528180000 +0000" channel="PEACOCK 005">
+    <title lang="en">Game 6: Thunder vs. Spurs starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Game 6: Thunder vs. Spurs</actor>
+      <actor>Game 6: Thunder vs. Spurs</actor>
+    </credits>
+  </programme>
+  <programme start="20260528180000 +0000" stop="20260528200000 +0000" channel="PEACOCK 005">
+    <title lang="en">Game 6: Thunder vs. Spurs starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Game 6: Thunder vs. Spurs</actor>
+      <actor>Game 6: Thunder vs. Spurs</actor>
+    </credits>
+  </programme>
+  <programme start="20260528200000 +0000" stop="20260528220000 +0000" channel="PEACOCK 005">
+    <title lang="en">Game 6: Thunder vs. Spurs starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Game 6: Thunder vs. Spurs</actor>
+      <actor>Game 6: Thunder vs. Spurs</actor>
+    </credits>
+  </programme>
+  <programme start="20260528220000 +0000" stop="20260528233000 +0000" channel="PEACOCK 005">
+    <title lang="en">Game 6: Thunder vs. Spurs starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Game 6: Thunder vs. Spurs</actor>
+      <actor>Game 6: Thunder vs. Spurs</actor>
+    </credits>
+  </programme>
+  <programme start="20260528233000 +0000" stop="20260529033000 +0000" channel="PEACOCK 005">
+    <title lang="en">Game 6: Thunder vs. Spurs</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Game 6: Thunder vs. Spurs</actor>
+      <actor>Game 6: Thunder vs. Spurs</actor>
     </credits>
   </programme>
 </tv>
