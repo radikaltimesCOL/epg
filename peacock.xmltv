@@ -300,137 +300,8 @@
   <channel id="PEACOCK 100">
     <display-name>PEACOCK 100</display-name>
   </channel>
-  <programme start="20260604100000 +0000" stop="20260604120000 +0000" channel="PEACOCK 001">
-    <title lang="en">Featured Groups: Korda &amp; Lee starts at 10:17 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Featured Groups: Korda &amp; Lee</actor>
-      <actor>Featured Groups: Korda &amp; Lee</actor>
-    </credits>
-  </programme>
-  <programme start="20260604120000 +0000" stop="20260604140000 +0000" channel="PEACOCK 001">
-    <title lang="en">Featured Groups: Korda &amp; Lee starts at 10:17 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Featured Groups: Korda &amp; Lee</actor>
-      <actor>Featured Groups: Korda &amp; Lee</actor>
-    </credits>
-  </programme>
-  <programme start="20260604140000 +0000" stop="20260604141700 +0000" channel="PEACOCK 001">
-    <title lang="en">Featured Groups: Korda &amp; Lee starts at 10:17 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Featured Groups: Korda &amp; Lee</actor>
-      <actor>Featured Groups: Korda &amp; Lee</actor>
-    </credits>
-  </programme>
-  <programme start="20260604141700 +0000" stop="20260604181700 +0000" channel="PEACOCK 001">
-    <title lang="en">Featured Groups: Korda &amp; Lee</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Featured Groups: Korda &amp; Lee</actor>
-      <actor>Featured Groups: Korda &amp; Lee</actor>
-    </credits>
-  </programme>
-  <programme start="20260604100000 +0000" stop="20260604120000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: SD at PHI starts at 1:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: SD at PHI</actor>
-      <actor>Home Feed: SD at PHI</actor>
-    </credits>
-  </programme>
-  <programme start="20260604120000 +0000" stop="20260604140000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: SD at PHI starts at 1:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: SD at PHI</actor>
-      <actor>Home Feed: SD at PHI</actor>
-    </credits>
-  </programme>
-  <programme start="20260604140000 +0000" stop="20260604160000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: SD at PHI starts at 1:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: SD at PHI</actor>
-      <actor>Home Feed: SD at PHI</actor>
-    </credits>
-  </programme>
-  <programme start="20260604160000 +0000" stop="20260604170000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: SD at PHI starts at 1:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: SD at PHI</actor>
-      <actor>Home Feed: SD at PHI</actor>
-    </credits>
-  </programme>
-  <programme start="20260604170000 +0000" stop="20260604210000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: SD at PHI</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: SD at PHI</actor>
-      <actor>Home Feed: SD at PHI</actor>
-    </credits>
-  </programme>
-  <programme start="20260604100000 +0000" stop="20260604120000 +0000" channel="PEACOCK 003">
-    <title lang="en">Away Feed: SD at PHI starts at 1:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: SD at PHI</actor>
-      <actor>Away Feed: SD at PHI</actor>
-    </credits>
-  </programme>
-  <programme start="20260604120000 +0000" stop="20260604140000 +0000" channel="PEACOCK 003">
-    <title lang="en">Away Feed: SD at PHI starts at 1:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: SD at PHI</actor>
-      <actor>Away Feed: SD at PHI</actor>
-    </credits>
-  </programme>
-  <programme start="20260604140000 +0000" stop="20260604160000 +0000" channel="PEACOCK 003">
-    <title lang="en">Away Feed: SD at PHI starts at 1:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: SD at PHI</actor>
-      <actor>Away Feed: SD at PHI</actor>
-    </credits>
-  </programme>
-  <programme start="20260604160000 +0000" stop="20260604170000 +0000" channel="PEACOCK 003">
-    <title lang="en">Away Feed: SD at PHI starts at 1:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: SD at PHI</actor>
-      <actor>Away Feed: SD at PHI</actor>
-    </credits>
-  </programme>
-  <programme start="20260604170000 +0000" stop="20260604210000 +0000" channel="PEACOCK 003">
-    <title lang="en">Away Feed: SD at PHI</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: SD at PHI</actor>
-      <actor>Away Feed: SD at PHI</actor>
-    </credits>
-  </programme>
-  <programme start="20260604100000 +0000" stop="20260604120000 +0000" channel="PEACOCK 004">
-    <title lang="en">Featured Groups: Hull &amp; Ko starts at 4:02 PM ET</title>
+  <programme start="20260605100000 +0000" stop="20260605120000 +0000" channel="PEACOCK 001">
+    <title lang="en">Featured Groups: Hull &amp; Ko starts at 10:17 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
@@ -438,8 +309,8 @@
       <actor>Featured Groups: Hull &amp; Ko</actor>
     </credits>
   </programme>
-  <programme start="20260604120000 +0000" stop="20260604140000 +0000" channel="PEACOCK 004">
-    <title lang="en">Featured Groups: Hull &amp; Ko starts at 4:02 PM ET</title>
+  <programme start="20260605120000 +0000" stop="20260605140000 +0000" channel="PEACOCK 001">
+    <title lang="en">Featured Groups: Hull &amp; Ko starts at 10:17 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
@@ -447,8 +318,8 @@
       <actor>Featured Groups: Hull &amp; Ko</actor>
     </credits>
   </programme>
-  <programme start="20260604140000 +0000" stop="20260604160000 +0000" channel="PEACOCK 004">
-    <title lang="en">Featured Groups: Hull &amp; Ko starts at 4:02 PM ET</title>
+  <programme start="20260605140000 +0000" stop="20260605141700 +0000" channel="PEACOCK 001">
+    <title lang="en">Featured Groups: Hull &amp; Ko starts at 10:17 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
@@ -456,34 +327,7 @@
       <actor>Featured Groups: Hull &amp; Ko</actor>
     </credits>
   </programme>
-  <programme start="20260604160000 +0000" stop="20260604180000 +0000" channel="PEACOCK 004">
-    <title lang="en">Featured Groups: Hull &amp; Ko starts at 4:02 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Featured Groups: Hull &amp; Ko</actor>
-      <actor>Featured Groups: Hull &amp; Ko</actor>
-    </credits>
-  </programme>
-  <programme start="20260604180000 +0000" stop="20260604200000 +0000" channel="PEACOCK 004">
-    <title lang="en">Featured Groups: Hull &amp; Ko starts at 4:02 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Featured Groups: Hull &amp; Ko</actor>
-      <actor>Featured Groups: Hull &amp; Ko</actor>
-    </credits>
-  </programme>
-  <programme start="20260604200000 +0000" stop="20260604200200 +0000" channel="PEACOCK 004">
-    <title lang="en">Featured Groups: Hull &amp; Ko starts at 4:02 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Featured Groups: Hull &amp; Ko</actor>
-      <actor>Featured Groups: Hull &amp; Ko</actor>
-    </credits>
-  </programme>
-  <programme start="20260604200200 +0000" stop="20260605000200 +0000" channel="PEACOCK 004">
+  <programme start="20260605141700 +0000" stop="20260605181700 +0000" channel="PEACOCK 001">
     <title lang="en">Featured Groups: Hull &amp; Ko</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -493,77 +337,451 @@
       <actor>Featured Groups: Hull &amp; Ko</actor>
     </credits>
   </programme>
-  <programme start="20260604100000 +0000" stop="20260604120000 +0000" channel="PEACOCK 005">
-    <title lang="en">U.S. Women's Open: Rd. 1 starts at 7:00 PM ET</title>
+  <programme start="20260605100000 +0000" stop="20260605120000 +0000" channel="PEACOCK 002">
+    <title lang="en">Featured Groups: Korda &amp; Lee starts at 4:02 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>U.S. Women's Open: Rd. 1</actor>
-      <actor>U.S. Women's Open: Rd. 1</actor>
+      <actor>Featured Groups: Korda &amp; Lee</actor>
+      <actor>Featured Groups: Korda &amp; Lee</actor>
     </credits>
   </programme>
-  <programme start="20260604120000 +0000" stop="20260604140000 +0000" channel="PEACOCK 005">
-    <title lang="en">U.S. Women's Open: Rd. 1 starts at 7:00 PM ET</title>
+  <programme start="20260605120000 +0000" stop="20260605140000 +0000" channel="PEACOCK 002">
+    <title lang="en">Featured Groups: Korda &amp; Lee starts at 4:02 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>U.S. Women's Open: Rd. 1</actor>
-      <actor>U.S. Women's Open: Rd. 1</actor>
+      <actor>Featured Groups: Korda &amp; Lee</actor>
+      <actor>Featured Groups: Korda &amp; Lee</actor>
     </credits>
   </programme>
-  <programme start="20260604140000 +0000" stop="20260604160000 +0000" channel="PEACOCK 005">
-    <title lang="en">U.S. Women's Open: Rd. 1 starts at 7:00 PM ET</title>
+  <programme start="20260605140000 +0000" stop="20260605160000 +0000" channel="PEACOCK 002">
+    <title lang="en">Featured Groups: Korda &amp; Lee starts at 4:02 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>U.S. Women's Open: Rd. 1</actor>
-      <actor>U.S. Women's Open: Rd. 1</actor>
+      <actor>Featured Groups: Korda &amp; Lee</actor>
+      <actor>Featured Groups: Korda &amp; Lee</actor>
     </credits>
   </programme>
-  <programme start="20260604160000 +0000" stop="20260604180000 +0000" channel="PEACOCK 005">
-    <title lang="en">U.S. Women's Open: Rd. 1 starts at 7:00 PM ET</title>
+  <programme start="20260605160000 +0000" stop="20260605180000 +0000" channel="PEACOCK 002">
+    <title lang="en">Featured Groups: Korda &amp; Lee starts at 4:02 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>U.S. Women's Open: Rd. 1</actor>
-      <actor>U.S. Women's Open: Rd. 1</actor>
+      <actor>Featured Groups: Korda &amp; Lee</actor>
+      <actor>Featured Groups: Korda &amp; Lee</actor>
     </credits>
   </programme>
-  <programme start="20260604180000 +0000" stop="20260604200000 +0000" channel="PEACOCK 005">
-    <title lang="en">U.S. Women's Open: Rd. 1 starts at 7:00 PM ET</title>
+  <programme start="20260605180000 +0000" stop="20260605200000 +0000" channel="PEACOCK 002">
+    <title lang="en">Featured Groups: Korda &amp; Lee starts at 4:02 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>U.S. Women's Open: Rd. 1</actor>
-      <actor>U.S. Women's Open: Rd. 1</actor>
+      <actor>Featured Groups: Korda &amp; Lee</actor>
+      <actor>Featured Groups: Korda &amp; Lee</actor>
     </credits>
   </programme>
-  <programme start="20260604200000 +0000" stop="20260604220000 +0000" channel="PEACOCK 005">
-    <title lang="en">U.S. Women's Open: Rd. 1 starts at 7:00 PM ET</title>
+  <programme start="20260605200000 +0000" stop="20260605200200 +0000" channel="PEACOCK 002">
+    <title lang="en">Featured Groups: Korda &amp; Lee starts at 4:02 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>U.S. Women's Open: Rd. 1</actor>
-      <actor>U.S. Women's Open: Rd. 1</actor>
+      <actor>Featured Groups: Korda &amp; Lee</actor>
+      <actor>Featured Groups: Korda &amp; Lee</actor>
     </credits>
   </programme>
-  <programme start="20260604220000 +0000" stop="20260604230000 +0000" channel="PEACOCK 005">
-    <title lang="en">U.S. Women's Open: Rd. 1 starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U.S. Women's Open: Rd. 1</actor>
-      <actor>U.S. Women's Open: Rd. 1</actor>
-    </credits>
-  </programme>
-  <programme start="20260604230000 +0000" stop="20260605030000 +0000" channel="PEACOCK 005">
-    <title lang="en">U.S. Women's Open: Rd. 1</title>
+  <programme start="20260605200200 +0000" stop="20260606000200 +0000" channel="PEACOCK 002">
+    <title lang="en">Featured Groups: Korda &amp; Lee</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>U.S. Women's Open: Rd. 1</actor>
-      <actor>U.S. Women's Open: Rd. 1</actor>
+      <actor>Featured Groups: Korda &amp; Lee</actor>
+      <actor>Featured Groups: Korda &amp; Lee</actor>
+    </credits>
+  </programme>
+  <programme start="20260605100000 +0000" stop="20260605120000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: BOS at NYY starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: BOS at NYY</actor>
+      <actor>Away Feed: BOS at NYY</actor>
+    </credits>
+  </programme>
+  <programme start="20260605120000 +0000" stop="20260605140000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: BOS at NYY starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: BOS at NYY</actor>
+      <actor>Away Feed: BOS at NYY</actor>
+    </credits>
+  </programme>
+  <programme start="20260605140000 +0000" stop="20260605160000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: BOS at NYY starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: BOS at NYY</actor>
+      <actor>Away Feed: BOS at NYY</actor>
+    </credits>
+  </programme>
+  <programme start="20260605160000 +0000" stop="20260605180000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: BOS at NYY starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: BOS at NYY</actor>
+      <actor>Away Feed: BOS at NYY</actor>
+    </credits>
+  </programme>
+  <programme start="20260605180000 +0000" stop="20260605200000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: BOS at NYY starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: BOS at NYY</actor>
+      <actor>Away Feed: BOS at NYY</actor>
+    </credits>
+  </programme>
+  <programme start="20260605200000 +0000" stop="20260605220000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: BOS at NYY starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: BOS at NYY</actor>
+      <actor>Away Feed: BOS at NYY</actor>
+    </credits>
+  </programme>
+  <programme start="20260605220000 +0000" stop="20260605230000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: BOS at NYY starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: BOS at NYY</actor>
+      <actor>Away Feed: BOS at NYY</actor>
+    </credits>
+  </programme>
+  <programme start="20260605230000 +0000" stop="20260606030000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: BOS at NYY</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: BOS at NYY</actor>
+      <actor>Away Feed: BOS at NYY</actor>
+    </credits>
+  </programme>
+  <programme start="20260605100000 +0000" stop="20260605120000 +0000" channel="PEACOCK 004">
+    <title lang="en">Home Feed: BOS at NYY starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: BOS at NYY</actor>
+      <actor>Home Feed: BOS at NYY</actor>
+    </credits>
+  </programme>
+  <programme start="20260605120000 +0000" stop="20260605140000 +0000" channel="PEACOCK 004">
+    <title lang="en">Home Feed: BOS at NYY starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: BOS at NYY</actor>
+      <actor>Home Feed: BOS at NYY</actor>
+    </credits>
+  </programme>
+  <programme start="20260605140000 +0000" stop="20260605160000 +0000" channel="PEACOCK 004">
+    <title lang="en">Home Feed: BOS at NYY starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: BOS at NYY</actor>
+      <actor>Home Feed: BOS at NYY</actor>
+    </credits>
+  </programme>
+  <programme start="20260605160000 +0000" stop="20260605180000 +0000" channel="PEACOCK 004">
+    <title lang="en">Home Feed: BOS at NYY starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: BOS at NYY</actor>
+      <actor>Home Feed: BOS at NYY</actor>
+    </credits>
+  </programme>
+  <programme start="20260605180000 +0000" stop="20260605200000 +0000" channel="PEACOCK 004">
+    <title lang="en">Home Feed: BOS at NYY starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: BOS at NYY</actor>
+      <actor>Home Feed: BOS at NYY</actor>
+    </credits>
+  </programme>
+  <programme start="20260605200000 +0000" stop="20260605220000 +0000" channel="PEACOCK 004">
+    <title lang="en">Home Feed: BOS at NYY starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: BOS at NYY</actor>
+      <actor>Home Feed: BOS at NYY</actor>
+    </credits>
+  </programme>
+  <programme start="20260605220000 +0000" stop="20260605230000 +0000" channel="PEACOCK 004">
+    <title lang="en">Home Feed: BOS at NYY starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: BOS at NYY</actor>
+      <actor>Home Feed: BOS at NYY</actor>
+    </credits>
+  </programme>
+  <programme start="20260605230000 +0000" stop="20260606030000 +0000" channel="PEACOCK 004">
+    <title lang="en">Home Feed: BOS at NYY</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: BOS at NYY</actor>
+      <actor>Home Feed: BOS at NYY</actor>
+    </credits>
+  </programme>
+  <programme start="20260605100000 +0000" stop="20260605120000 +0000" channel="PEACOCK 005">
+    <title lang="en">U.S. Women's Open: Rd. 2 starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>U.S. Women's Open: Rd. 2</actor>
+      <actor>U.S. Women's Open: Rd. 2</actor>
+    </credits>
+  </programme>
+  <programme start="20260605120000 +0000" stop="20260605140000 +0000" channel="PEACOCK 005">
+    <title lang="en">U.S. Women's Open: Rd. 2 starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>U.S. Women's Open: Rd. 2</actor>
+      <actor>U.S. Women's Open: Rd. 2</actor>
+    </credits>
+  </programme>
+  <programme start="20260605140000 +0000" stop="20260605160000 +0000" channel="PEACOCK 005">
+    <title lang="en">U.S. Women's Open: Rd. 2 starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>U.S. Women's Open: Rd. 2</actor>
+      <actor>U.S. Women's Open: Rd. 2</actor>
+    </credits>
+  </programme>
+  <programme start="20260605160000 +0000" stop="20260605180000 +0000" channel="PEACOCK 005">
+    <title lang="en">U.S. Women's Open: Rd. 2 starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>U.S. Women's Open: Rd. 2</actor>
+      <actor>U.S. Women's Open: Rd. 2</actor>
+    </credits>
+  </programme>
+  <programme start="20260605180000 +0000" stop="20260605200000 +0000" channel="PEACOCK 005">
+    <title lang="en">U.S. Women's Open: Rd. 2 starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>U.S. Women's Open: Rd. 2</actor>
+      <actor>U.S. Women's Open: Rd. 2</actor>
+    </credits>
+  </programme>
+  <programme start="20260605200000 +0000" stop="20260605220000 +0000" channel="PEACOCK 005">
+    <title lang="en">U.S. Women's Open: Rd. 2 starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>U.S. Women's Open: Rd. 2</actor>
+      <actor>U.S. Women's Open: Rd. 2</actor>
+    </credits>
+  </programme>
+  <programme start="20260605220000 +0000" stop="20260605230000 +0000" channel="PEACOCK 005">
+    <title lang="en">U.S. Women's Open: Rd. 2 starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>U.S. Women's Open: Rd. 2</actor>
+      <actor>U.S. Women's Open: Rd. 2</actor>
+    </credits>
+  </programme>
+  <programme start="20260605230000 +0000" stop="20260606030000 +0000" channel="PEACOCK 005">
+    <title lang="en">U.S. Women's Open: Rd. 2</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>U.S. Women's Open: Rd. 2</actor>
+      <actor>U.S. Women's Open: Rd. 2</actor>
+    </credits>
+  </programme>
+  <programme start="20260605100000 +0000" stop="20260605120000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: LAA at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: LAA at LAD</actor>
+      <actor>Away Feed: LAA at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260605120000 +0000" stop="20260605140000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: LAA at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: LAA at LAD</actor>
+      <actor>Away Feed: LAA at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260605140000 +0000" stop="20260605160000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: LAA at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: LAA at LAD</actor>
+      <actor>Away Feed: LAA at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260605160000 +0000" stop="20260605180000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: LAA at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: LAA at LAD</actor>
+      <actor>Away Feed: LAA at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260605180000 +0000" stop="20260605200000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: LAA at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: LAA at LAD</actor>
+      <actor>Away Feed: LAA at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260605200000 +0000" stop="20260605220000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: LAA at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: LAA at LAD</actor>
+      <actor>Away Feed: LAA at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260605220000 +0000" stop="20260606000000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: LAA at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: LAA at LAD</actor>
+      <actor>Away Feed: LAA at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260606020000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: LAA at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: LAA at LAD</actor>
+      <actor>Away Feed: LAA at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260606020000 +0000" stop="20260606060000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: LAA at LAD</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: LAA at LAD</actor>
+      <actor>Away Feed: LAA at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260605100000 +0000" stop="20260605120000 +0000" channel="PEACOCK 007">
+    <title lang="en">Home Feed: LAA at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: LAA at LAD</actor>
+      <actor>Home Feed: LAA at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260605120000 +0000" stop="20260605140000 +0000" channel="PEACOCK 007">
+    <title lang="en">Home Feed: LAA at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: LAA at LAD</actor>
+      <actor>Home Feed: LAA at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260605140000 +0000" stop="20260605160000 +0000" channel="PEACOCK 007">
+    <title lang="en">Home Feed: LAA at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: LAA at LAD</actor>
+      <actor>Home Feed: LAA at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260605160000 +0000" stop="20260605180000 +0000" channel="PEACOCK 007">
+    <title lang="en">Home Feed: LAA at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: LAA at LAD</actor>
+      <actor>Home Feed: LAA at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260605180000 +0000" stop="20260605200000 +0000" channel="PEACOCK 007">
+    <title lang="en">Home Feed: LAA at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: LAA at LAD</actor>
+      <actor>Home Feed: LAA at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260605200000 +0000" stop="20260605220000 +0000" channel="PEACOCK 007">
+    <title lang="en">Home Feed: LAA at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: LAA at LAD</actor>
+      <actor>Home Feed: LAA at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260605220000 +0000" stop="20260606000000 +0000" channel="PEACOCK 007">
+    <title lang="en">Home Feed: LAA at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: LAA at LAD</actor>
+      <actor>Home Feed: LAA at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260606000000 +0000" stop="20260606020000 +0000" channel="PEACOCK 007">
+    <title lang="en">Home Feed: LAA at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: LAA at LAD</actor>
+      <actor>Home Feed: LAA at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260606020000 +0000" stop="20260606060000 +0000" channel="PEACOCK 007">
+    <title lang="en">Home Feed: LAA at LAD</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: LAA at LAD</actor>
+      <actor>Home Feed: LAA at LAD</actor>
     </credits>
   </programme>
 </tv>
