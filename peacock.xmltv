@@ -300,739 +300,269 @@
   <channel id="PEACOCK 100">
     <display-name>PEACOCK 100</display-name>
   </channel>
-  <programme start="20260607100000 +0000" stop="20260607110000 +0000" channel="PEACOCK 001">
-    <title lang="en">Tour Auvergne-Rhône-Alpes: Stage 1 starts at 7:00 AM ET</title>
+  <programme start="20260609100000 +0000" stop="20260609120000 +0000" channel="PEACOCK 001">
+    <title lang="en">Tour Auvergne-Rhône-Alpes: Stage 3 starts at 9:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Tour Auvergne-Rhône-Alpes: Stage 1</actor>
-      <actor>Tour Auvergne-Rhône-Alpes: Stage 1</actor>
+      <actor>Tour Auvergne-Rhône-Alpes: Stage 3</actor>
+      <actor>Tour Auvergne-Rhône-Alpes: Stage 3</actor>
     </credits>
   </programme>
-  <programme start="20260607110000 +0000" stop="20260607150000 +0000" channel="PEACOCK 001">
-    <title lang="en">Tour Auvergne-Rhône-Alpes: Stage 1</title>
+  <programme start="20260609120000 +0000" stop="20260609130000 +0000" channel="PEACOCK 001">
+    <title lang="en">Tour Auvergne-Rhône-Alpes: Stage 3 starts at 9:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Tour Auvergne-Rhône-Alpes: Stage 3</actor>
+      <actor>Tour Auvergne-Rhône-Alpes: Stage 3</actor>
+    </credits>
+  </programme>
+  <programme start="20260609130000 +0000" stop="20260609170000 +0000" channel="PEACOCK 001">
+    <title lang="en">Tour Auvergne-Rhône-Alpes: Stage 3</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Tour Auvergne-Rhône-Alpes: Stage 1</actor>
-      <actor>Tour Auvergne-Rhône-Alpes: Stage 1</actor>
+      <actor>Tour Auvergne-Rhône-Alpes: Stage 3</actor>
+      <actor>Tour Auvergne-Rhône-Alpes: Stage 3</actor>
     </credits>
   </programme>
-  <programme start="20260607100000 +0000" stop="20260607115500 +0000" channel="PEACOCK 002">
-    <title lang="en">IMSA VPRC at Mid-Ohio | R2 starts at 7:55 AM ET</title>
+  <programme start="20260609100000 +0000" stop="20260609120000 +0000" channel="PEACOCK 002">
+    <title lang="en">USA vs. Brazil (Español) starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>IMSA VPRC at Mid-Ohio | R2</actor>
-      <actor>IMSA VPRC at Mid-Ohio | R2</actor>
+      <actor>USA vs. Brazil (Español)</actor>
+      <actor>USA vs. Brazil (Español)</actor>
     </credits>
   </programme>
-  <programme start="20260607115500 +0000" stop="20260607155500 +0000" channel="PEACOCK 002">
-    <title lang="en">IMSA VPRC at Mid-Ohio | R2</title>
+  <programme start="20260609120000 +0000" stop="20260609140000 +0000" channel="PEACOCK 002">
+    <title lang="en">USA vs. Brazil (Español) starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>USA vs. Brazil (Español)</actor>
+      <actor>USA vs. Brazil (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260609140000 +0000" stop="20260609160000 +0000" channel="PEACOCK 002">
+    <title lang="en">USA vs. Brazil (Español) starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>USA vs. Brazil (Español)</actor>
+      <actor>USA vs. Brazil (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260609160000 +0000" stop="20260609180000 +0000" channel="PEACOCK 002">
+    <title lang="en">USA vs. Brazil (Español) starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>USA vs. Brazil (Español)</actor>
+      <actor>USA vs. Brazil (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260609180000 +0000" stop="20260609200000 +0000" channel="PEACOCK 002">
+    <title lang="en">USA vs. Brazil (Español) starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>USA vs. Brazil (Español)</actor>
+      <actor>USA vs. Brazil (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260609200000 +0000" stop="20260609220000 +0000" channel="PEACOCK 002">
+    <title lang="en">USA vs. Brazil (Español) starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>USA vs. Brazil (Español)</actor>
+      <actor>USA vs. Brazil (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260609220000 +0000" stop="20260610000000 +0000" channel="PEACOCK 002">
+    <title lang="en">USA vs. Brazil (Español) starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>USA vs. Brazil (Español)</actor>
+      <actor>USA vs. Brazil (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260610000000 +0000" stop="20260610040000 +0000" channel="PEACOCK 002">
+    <title lang="en">USA vs. Brazil (Español)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>IMSA VPRC at Mid-Ohio | R2</actor>
-      <actor>IMSA VPRC at Mid-Ohio | R2</actor>
+      <actor>USA vs. Brazil (Español)</actor>
+      <actor>USA vs. Brazil (Español)</actor>
     </credits>
   </programme>
-  <programme start="20260607100000 +0000" stop="20260607120000 +0000" channel="PEACOCK 003">
-    <title lang="en">IMSA Mustang Mid-Ohio R2 starts at 9:00 AM ET</title>
+  <programme start="20260609100000 +0000" stop="20260609120000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: HOU at LAA starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>IMSA Mustang Mid-Ohio R2</actor>
-      <actor>IMSA Mustang Mid-Ohio R2</actor>
+      <actor>Home Feed: HOU at LAA</actor>
+      <actor>Home Feed: HOU at LAA</actor>
     </credits>
   </programme>
-  <programme start="20260607120000 +0000" stop="20260607130000 +0000" channel="PEACOCK 003">
-    <title lang="en">IMSA Mustang Mid-Ohio R2 starts at 9:00 AM ET</title>
+  <programme start="20260609120000 +0000" stop="20260609140000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: HOU at LAA starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>IMSA Mustang Mid-Ohio R2</actor>
-      <actor>IMSA Mustang Mid-Ohio R2</actor>
+      <actor>Home Feed: HOU at LAA</actor>
+      <actor>Home Feed: HOU at LAA</actor>
     </credits>
   </programme>
-  <programme start="20260607130000 +0000" stop="20260607170000 +0000" channel="PEACOCK 003">
-    <title lang="en">IMSA Mustang Mid-Ohio R2</title>
+  <programme start="20260609140000 +0000" stop="20260609160000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: HOU at LAA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: HOU at LAA</actor>
+      <actor>Home Feed: HOU at LAA</actor>
+    </credits>
+  </programme>
+  <programme start="20260609160000 +0000" stop="20260609180000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: HOU at LAA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: HOU at LAA</actor>
+      <actor>Home Feed: HOU at LAA</actor>
+    </credits>
+  </programme>
+  <programme start="20260609180000 +0000" stop="20260609200000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: HOU at LAA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: HOU at LAA</actor>
+      <actor>Home Feed: HOU at LAA</actor>
+    </credits>
+  </programme>
+  <programme start="20260609200000 +0000" stop="20260609220000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: HOU at LAA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: HOU at LAA</actor>
+      <actor>Home Feed: HOU at LAA</actor>
+    </credits>
+  </programme>
+  <programme start="20260609220000 +0000" stop="20260610000000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: HOU at LAA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: HOU at LAA</actor>
+      <actor>Home Feed: HOU at LAA</actor>
+    </credits>
+  </programme>
+  <programme start="20260610000000 +0000" stop="20260610013000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: HOU at LAA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: HOU at LAA</actor>
+      <actor>Home Feed: HOU at LAA</actor>
+    </credits>
+  </programme>
+  <programme start="20260610013000 +0000" stop="20260610053000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: HOU at LAA</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>IMSA Mustang Mid-Ohio R2</actor>
-      <actor>IMSA Mustang Mid-Ohio R2</actor>
+      <actor>Home Feed: HOU at LAA</actor>
+      <actor>Home Feed: HOU at LAA</actor>
     </credits>
   </programme>
-  <programme start="20260607100000 +0000" stop="20260607120000 +0000" channel="PEACOCK 004">
-    <title lang="en">Featured Groups: Noh &amp; Woad starts at 10:04 AM ET</title>
+  <programme start="20260609100000 +0000" stop="20260609120000 +0000" channel="PEACOCK 004">
+    <title lang="en">Away Feed: HOU at LAA starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Featured Groups: Noh &amp; Woad</actor>
-      <actor>Featured Groups: Noh &amp; Woad</actor>
+      <actor>Away Feed: HOU at LAA</actor>
+      <actor>Away Feed: HOU at LAA</actor>
     </credits>
   </programme>
-  <programme start="20260607120000 +0000" stop="20260607140000 +0000" channel="PEACOCK 004">
-    <title lang="en">Featured Groups: Noh &amp; Woad starts at 10:04 AM ET</title>
+  <programme start="20260609120000 +0000" stop="20260609140000 +0000" channel="PEACOCK 004">
+    <title lang="en">Away Feed: HOU at LAA starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Featured Groups: Noh &amp; Woad</actor>
-      <actor>Featured Groups: Noh &amp; Woad</actor>
+      <actor>Away Feed: HOU at LAA</actor>
+      <actor>Away Feed: HOU at LAA</actor>
     </credits>
   </programme>
-  <programme start="20260607140000 +0000" stop="20260607140400 +0000" channel="PEACOCK 004">
-    <title lang="en">Featured Groups: Noh &amp; Woad starts at 10:04 AM ET</title>
+  <programme start="20260609140000 +0000" stop="20260609160000 +0000" channel="PEACOCK 004">
+    <title lang="en">Away Feed: HOU at LAA starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Featured Groups: Noh &amp; Woad</actor>
-      <actor>Featured Groups: Noh &amp; Woad</actor>
+      <actor>Away Feed: HOU at LAA</actor>
+      <actor>Away Feed: HOU at LAA</actor>
     </credits>
   </programme>
-  <programme start="20260607140400 +0000" stop="20260607180400 +0000" channel="PEACOCK 004">
-    <title lang="en">Featured Groups: Noh &amp; Woad</title>
+  <programme start="20260609160000 +0000" stop="20260609180000 +0000" channel="PEACOCK 004">
+    <title lang="en">Away Feed: HOU at LAA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: HOU at LAA</actor>
+      <actor>Away Feed: HOU at LAA</actor>
+    </credits>
+  </programme>
+  <programme start="20260609180000 +0000" stop="20260609200000 +0000" channel="PEACOCK 004">
+    <title lang="en">Away Feed: HOU at LAA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: HOU at LAA</actor>
+      <actor>Away Feed: HOU at LAA</actor>
+    </credits>
+  </programme>
+  <programme start="20260609200000 +0000" stop="20260609220000 +0000" channel="PEACOCK 004">
+    <title lang="en">Away Feed: HOU at LAA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: HOU at LAA</actor>
+      <actor>Away Feed: HOU at LAA</actor>
+    </credits>
+  </programme>
+  <programme start="20260609220000 +0000" stop="20260610000000 +0000" channel="PEACOCK 004">
+    <title lang="en">Away Feed: HOU at LAA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: HOU at LAA</actor>
+      <actor>Away Feed: HOU at LAA</actor>
+    </credits>
+  </programme>
+  <programme start="20260610000000 +0000" stop="20260610013000 +0000" channel="PEACOCK 004">
+    <title lang="en">Away Feed: HOU at LAA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: HOU at LAA</actor>
+      <actor>Away Feed: HOU at LAA</actor>
+    </credits>
+  </programme>
+  <programme start="20260610013000 +0000" stop="20260610053000 +0000" channel="PEACOCK 004">
+    <title lang="en">Away Feed: HOU at LAA</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Featured Groups: Noh &amp; Woad</actor>
-      <actor>Featured Groups: Noh &amp; Woad</actor>
-    </credits>
-  </programme>
-  <programme start="20260607100000 +0000" stop="20260607120000 +0000" channel="PEACOCK 005">
-    <title lang="en">IMSA MPC at Mid-Ohio starts at 12:10 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>IMSA MPC at Mid-Ohio</actor>
-      <actor>IMSA MPC at Mid-Ohio</actor>
-    </credits>
-  </programme>
-  <programme start="20260607120000 +0000" stop="20260607140000 +0000" channel="PEACOCK 005">
-    <title lang="en">IMSA MPC at Mid-Ohio starts at 12:10 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>IMSA MPC at Mid-Ohio</actor>
-      <actor>IMSA MPC at Mid-Ohio</actor>
-    </credits>
-  </programme>
-  <programme start="20260607140000 +0000" stop="20260607160000 +0000" channel="PEACOCK 005">
-    <title lang="en">IMSA MPC at Mid-Ohio starts at 12:10 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>IMSA MPC at Mid-Ohio</actor>
-      <actor>IMSA MPC at Mid-Ohio</actor>
-    </credits>
-  </programme>
-  <programme start="20260607160000 +0000" stop="20260607161000 +0000" channel="PEACOCK 005">
-    <title lang="en">IMSA MPC at Mid-Ohio starts at 12:10 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>IMSA MPC at Mid-Ohio</actor>
-      <actor>IMSA MPC at Mid-Ohio</actor>
-    </credits>
-  </programme>
-  <programme start="20260607161000 +0000" stop="20260607201000 +0000" channel="PEACOCK 005">
-    <title lang="en">IMSA MPC at Mid-Ohio</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>IMSA MPC at Mid-Ohio</actor>
-      <actor>IMSA MPC at Mid-Ohio</actor>
-    </credits>
-  </programme>
-  <programme start="20260607100000 +0000" stop="20260607120000 +0000" channel="PEACOCK 006">
-    <title lang="en">Home Feed: PIT at ATL starts at 1:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: PIT at ATL</actor>
-      <actor>Home Feed: PIT at ATL</actor>
-    </credits>
-  </programme>
-  <programme start="20260607120000 +0000" stop="20260607140000 +0000" channel="PEACOCK 006">
-    <title lang="en">Home Feed: PIT at ATL starts at 1:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: PIT at ATL</actor>
-      <actor>Home Feed: PIT at ATL</actor>
-    </credits>
-  </programme>
-  <programme start="20260607140000 +0000" stop="20260607160000 +0000" channel="PEACOCK 006">
-    <title lang="en">Home Feed: PIT at ATL starts at 1:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: PIT at ATL</actor>
-      <actor>Home Feed: PIT at ATL</actor>
-    </credits>
-  </programme>
-  <programme start="20260607160000 +0000" stop="20260607173000 +0000" channel="PEACOCK 006">
-    <title lang="en">Home Feed: PIT at ATL starts at 1:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: PIT at ATL</actor>
-      <actor>Home Feed: PIT at ATL</actor>
-    </credits>
-  </programme>
-  <programme start="20260607173000 +0000" stop="20260607213000 +0000" channel="PEACOCK 006">
-    <title lang="en">Home Feed: PIT at ATL</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: PIT at ATL</actor>
-      <actor>Home Feed: PIT at ATL</actor>
-    </credits>
-  </programme>
-  <programme start="20260607100000 +0000" stop="20260607120000 +0000" channel="PEACOCK 007">
-    <title lang="en">Away Feed: PIT at ATL starts at 1:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: PIT at ATL</actor>
-      <actor>Away Feed: PIT at ATL</actor>
-    </credits>
-  </programme>
-  <programme start="20260607120000 +0000" stop="20260607140000 +0000" channel="PEACOCK 007">
-    <title lang="en">Away Feed: PIT at ATL starts at 1:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: PIT at ATL</actor>
-      <actor>Away Feed: PIT at ATL</actor>
-    </credits>
-  </programme>
-  <programme start="20260607140000 +0000" stop="20260607160000 +0000" channel="PEACOCK 007">
-    <title lang="en">Away Feed: PIT at ATL starts at 1:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: PIT at ATL</actor>
-      <actor>Away Feed: PIT at ATL</actor>
-    </credits>
-  </programme>
-  <programme start="20260607160000 +0000" stop="20260607173000 +0000" channel="PEACOCK 007">
-    <title lang="en">Away Feed: PIT at ATL starts at 1:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: PIT at ATL</actor>
-      <actor>Away Feed: PIT at ATL</actor>
-    </credits>
-  </programme>
-  <programme start="20260607173000 +0000" stop="20260607213000 +0000" channel="PEACOCK 007">
-    <title lang="en">Away Feed: PIT at ATL</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: PIT at ATL</actor>
-      <actor>Away Feed: PIT at ATL</actor>
-    </credits>
-  </programme>
-  <programme start="20260607100000 +0000" stop="20260607120000 +0000" channel="PEACOCK 008">
-    <title lang="en">Featured Groups: Corpuz &amp; Kang starts at 2:19 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Featured Groups: Corpuz &amp; Kang</actor>
-      <actor>Featured Groups: Corpuz &amp; Kang</actor>
-    </credits>
-  </programme>
-  <programme start="20260607120000 +0000" stop="20260607140000 +0000" channel="PEACOCK 008">
-    <title lang="en">Featured Groups: Corpuz &amp; Kang starts at 2:19 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Featured Groups: Corpuz &amp; Kang</actor>
-      <actor>Featured Groups: Corpuz &amp; Kang</actor>
-    </credits>
-  </programme>
-  <programme start="20260607140000 +0000" stop="20260607160000 +0000" channel="PEACOCK 008">
-    <title lang="en">Featured Groups: Corpuz &amp; Kang starts at 2:19 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Featured Groups: Corpuz &amp; Kang</actor>
-      <actor>Featured Groups: Corpuz &amp; Kang</actor>
-    </credits>
-  </programme>
-  <programme start="20260607160000 +0000" stop="20260607180000 +0000" channel="PEACOCK 008">
-    <title lang="en">Featured Groups: Corpuz &amp; Kang starts at 2:19 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Featured Groups: Corpuz &amp; Kang</actor>
-      <actor>Featured Groups: Corpuz &amp; Kang</actor>
-    </credits>
-  </programme>
-  <programme start="20260607180000 +0000" stop="20260607181900 +0000" channel="PEACOCK 008">
-    <title lang="en">Featured Groups: Corpuz &amp; Kang starts at 2:19 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Featured Groups: Corpuz &amp; Kang</actor>
-      <actor>Featured Groups: Corpuz &amp; Kang</actor>
-    </credits>
-  </programme>
-  <programme start="20260607181900 +0000" stop="20260607221900 +0000" channel="PEACOCK 008">
-    <title lang="en">Featured Groups: Corpuz &amp; Kang</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Featured Groups: Corpuz &amp; Kang</actor>
-      <actor>Featured Groups: Corpuz &amp; Kang</actor>
-    </credits>
-  </programme>
-  <programme start="20260607100000 +0000" stop="20260607120000 +0000" channel="PEACOCK 009">
-    <title lang="en">U.S. Women's Open: Rd. 4 starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U.S. Women's Open: Rd. 4</actor>
-      <actor>U.S. Women's Open: Rd. 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260607120000 +0000" stop="20260607140000 +0000" channel="PEACOCK 009">
-    <title lang="en">U.S. Women's Open: Rd. 4 starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U.S. Women's Open: Rd. 4</actor>
-      <actor>U.S. Women's Open: Rd. 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260607140000 +0000" stop="20260607160000 +0000" channel="PEACOCK 009">
-    <title lang="en">U.S. Women's Open: Rd. 4 starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U.S. Women's Open: Rd. 4</actor>
-      <actor>U.S. Women's Open: Rd. 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260607160000 +0000" stop="20260607180000 +0000" channel="PEACOCK 009">
-    <title lang="en">U.S. Women's Open: Rd. 4 starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U.S. Women's Open: Rd. 4</actor>
-      <actor>U.S. Women's Open: Rd. 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260607180000 +0000" stop="20260607190000 +0000" channel="PEACOCK 009">
-    <title lang="en">U.S. Women's Open: Rd. 4 starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U.S. Women's Open: Rd. 4</actor>
-      <actor>U.S. Women's Open: Rd. 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260607190000 +0000" stop="20260607230000 +0000" channel="PEACOCK 009">
-    <title lang="en">U.S. Women's Open: Rd. 4</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U.S. Women's Open: Rd. 4</actor>
-      <actor>U.S. Women's Open: Rd. 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260607100000 +0000" stop="20260607120000 +0000" channel="PEACOCK 010">
-    <title lang="en">Nationals vs. Diamondbacks (Español) starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Nationals vs. Diamondbacks (Español)</actor>
-      <actor>Nationals vs. Diamondbacks (Español)</actor>
-    </credits>
-  </programme>
-  <programme start="20260607120000 +0000" stop="20260607140000 +0000" channel="PEACOCK 010">
-    <title lang="en">Nationals vs. Diamondbacks (Español) starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Nationals vs. Diamondbacks (Español)</actor>
-      <actor>Nationals vs. Diamondbacks (Español)</actor>
-    </credits>
-  </programme>
-  <programme start="20260607140000 +0000" stop="20260607160000 +0000" channel="PEACOCK 010">
-    <title lang="en">Nationals vs. Diamondbacks (Español) starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Nationals vs. Diamondbacks (Español)</actor>
-      <actor>Nationals vs. Diamondbacks (Español)</actor>
-    </credits>
-  </programme>
-  <programme start="20260607160000 +0000" stop="20260607180000 +0000" channel="PEACOCK 010">
-    <title lang="en">Nationals vs. Diamondbacks (Español) starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Nationals vs. Diamondbacks (Español)</actor>
-      <actor>Nationals vs. Diamondbacks (Español)</actor>
-    </credits>
-  </programme>
-  <programme start="20260607180000 +0000" stop="20260607190000 +0000" channel="PEACOCK 010">
-    <title lang="en">Nationals vs. Diamondbacks (Español) starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Nationals vs. Diamondbacks (Español)</actor>
-      <actor>Nationals vs. Diamondbacks (Español)</actor>
-    </credits>
-  </programme>
-  <programme start="20260607190000 +0000" stop="20260607230000 +0000" channel="PEACOCK 010">
-    <title lang="en">Nationals vs. Diamondbacks (Español)</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Nationals vs. Diamondbacks (Español)</actor>
-      <actor>Nationals vs. Diamondbacks (Español)</actor>
-    </credits>
-  </programme>
-  <programme start="20260607100000 +0000" stop="20260607120000 +0000" channel="PEACOCK 011">
-    <title lang="en">Nationals at Diamondbacks starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Nationals at Diamondbacks</actor>
-      <actor>Nationals at Diamondbacks</actor>
-    </credits>
-  </programme>
-  <programme start="20260607120000 +0000" stop="20260607140000 +0000" channel="PEACOCK 011">
-    <title lang="en">Nationals at Diamondbacks starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Nationals at Diamondbacks</actor>
-      <actor>Nationals at Diamondbacks</actor>
-    </credits>
-  </programme>
-  <programme start="20260607140000 +0000" stop="20260607160000 +0000" channel="PEACOCK 011">
-    <title lang="en">Nationals at Diamondbacks starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Nationals at Diamondbacks</actor>
-      <actor>Nationals at Diamondbacks</actor>
-    </credits>
-  </programme>
-  <programme start="20260607160000 +0000" stop="20260607180000 +0000" channel="PEACOCK 011">
-    <title lang="en">Nationals at Diamondbacks starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Nationals at Diamondbacks</actor>
-      <actor>Nationals at Diamondbacks</actor>
-    </credits>
-  </programme>
-  <programme start="20260607180000 +0000" stop="20260607190000 +0000" channel="PEACOCK 011">
-    <title lang="en">Nationals at Diamondbacks starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Nationals at Diamondbacks</actor>
-      <actor>Nationals at Diamondbacks</actor>
-    </credits>
-  </programme>
-  <programme start="20260607190000 +0000" stop="20260607230000 +0000" channel="PEACOCK 011">
-    <title lang="en">Nationals at Diamondbacks</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Nationals at Diamondbacks</actor>
-      <actor>Nationals at Diamondbacks</actor>
-    </credits>
-  </programme>
-  <programme start="20260607100000 +0000" stop="20260607120000 +0000" channel="PEACOCK 012">
-    <title lang="en">2026 Eastern Regional starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>2026 Eastern Regional</actor>
-      <actor>2026 Eastern Regional</actor>
-    </credits>
-  </programme>
-  <programme start="20260607120000 +0000" stop="20260607140000 +0000" channel="PEACOCK 012">
-    <title lang="en">2026 Eastern Regional starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>2026 Eastern Regional</actor>
-      <actor>2026 Eastern Regional</actor>
-    </credits>
-  </programme>
-  <programme start="20260607140000 +0000" stop="20260607160000 +0000" channel="PEACOCK 012">
-    <title lang="en">2026 Eastern Regional starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>2026 Eastern Regional</actor>
-      <actor>2026 Eastern Regional</actor>
-    </credits>
-  </programme>
-  <programme start="20260607160000 +0000" stop="20260607180000 +0000" channel="PEACOCK 012">
-    <title lang="en">2026 Eastern Regional starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>2026 Eastern Regional</actor>
-      <actor>2026 Eastern Regional</actor>
-    </credits>
-  </programme>
-  <programme start="20260607180000 +0000" stop="20260607190000 +0000" channel="PEACOCK 012">
-    <title lang="en">2026 Eastern Regional starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>2026 Eastern Regional</actor>
-      <actor>2026 Eastern Regional</actor>
-    </credits>
-  </programme>
-  <programme start="20260607190000 +0000" stop="20260607230000 +0000" channel="PEACOCK 012">
-    <title lang="en">2026 Eastern Regional</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>2026 Eastern Regional</actor>
-      <actor>2026 Eastern Regional</actor>
-    </credits>
-  </programme>
-  <programme start="20260607100000 +0000" stop="20260607120000 +0000" channel="PEACOCK 013">
-    <title lang="en">MLB Sunday Stretch: 6.7.26 starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLB Sunday Stretch: 6.7.26</actor>
-      <actor>MLB Sunday Stretch: 6.7.26</actor>
-    </credits>
-  </programme>
-  <programme start="20260607120000 +0000" stop="20260607140000 +0000" channel="PEACOCK 013">
-    <title lang="en">MLB Sunday Stretch: 6.7.26 starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLB Sunday Stretch: 6.7.26</actor>
-      <actor>MLB Sunday Stretch: 6.7.26</actor>
-    </credits>
-  </programme>
-  <programme start="20260607140000 +0000" stop="20260607160000 +0000" channel="PEACOCK 013">
-    <title lang="en">MLB Sunday Stretch: 6.7.26 starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLB Sunday Stretch: 6.7.26</actor>
-      <actor>MLB Sunday Stretch: 6.7.26</actor>
-    </credits>
-  </programme>
-  <programme start="20260607160000 +0000" stop="20260607180000 +0000" channel="PEACOCK 013">
-    <title lang="en">MLB Sunday Stretch: 6.7.26 starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLB Sunday Stretch: 6.7.26</actor>
-      <actor>MLB Sunday Stretch: 6.7.26</actor>
-    </credits>
-  </programme>
-  <programme start="20260607180000 +0000" stop="20260607200000 +0000" channel="PEACOCK 013">
-    <title lang="en">MLB Sunday Stretch: 6.7.26 starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLB Sunday Stretch: 6.7.26</actor>
-      <actor>MLB Sunday Stretch: 6.7.26</actor>
-    </credits>
-  </programme>
-  <programme start="20260607200000 +0000" stop="20260607213000 +0000" channel="PEACOCK 013">
-    <title lang="en">MLB Sunday Stretch: 6.7.26 starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLB Sunday Stretch: 6.7.26</actor>
-      <actor>MLB Sunday Stretch: 6.7.26</actor>
-    </credits>
-  </programme>
-  <programme start="20260607213000 +0000" stop="20260608013000 +0000" channel="PEACOCK 013">
-    <title lang="en">MLB Sunday Stretch: 6.7.26</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLB Sunday Stretch: 6.7.26</actor>
-      <actor>MLB Sunday Stretch: 6.7.26</actor>
-    </credits>
-  </programme>
-  <programme start="20260607100000 +0000" stop="20260607120000 +0000" channel="PEACOCK 014">
-    <title lang="en">Giants at Cubs starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Giants at Cubs</actor>
-      <actor>Giants at Cubs</actor>
-    </credits>
-  </programme>
-  <programme start="20260607120000 +0000" stop="20260607140000 +0000" channel="PEACOCK 014">
-    <title lang="en">Giants at Cubs starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Giants at Cubs</actor>
-      <actor>Giants at Cubs</actor>
-    </credits>
-  </programme>
-  <programme start="20260607140000 +0000" stop="20260607160000 +0000" channel="PEACOCK 014">
-    <title lang="en">Giants at Cubs starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Giants at Cubs</actor>
-      <actor>Giants at Cubs</actor>
-    </credits>
-  </programme>
-  <programme start="20260607160000 +0000" stop="20260607180000 +0000" channel="PEACOCK 014">
-    <title lang="en">Giants at Cubs starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Giants at Cubs</actor>
-      <actor>Giants at Cubs</actor>
-    </credits>
-  </programme>
-  <programme start="20260607180000 +0000" stop="20260607200000 +0000" channel="PEACOCK 014">
-    <title lang="en">Giants at Cubs starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Giants at Cubs</actor>
-      <actor>Giants at Cubs</actor>
-    </credits>
-  </programme>
-  <programme start="20260607200000 +0000" stop="20260607220000 +0000" channel="PEACOCK 014">
-    <title lang="en">Giants at Cubs starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Giants at Cubs</actor>
-      <actor>Giants at Cubs</actor>
-    </credits>
-  </programme>
-  <programme start="20260607220000 +0000" stop="20260608000000 +0000" channel="PEACOCK 014">
-    <title lang="en">Giants at Cubs starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Giants at Cubs</actor>
-      <actor>Giants at Cubs</actor>
-    </credits>
-  </programme>
-  <programme start="20260608000000 +0000" stop="20260608040000 +0000" channel="PEACOCK 014">
-    <title lang="en">Giants at Cubs</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Giants at Cubs</actor>
-      <actor>Giants at Cubs</actor>
-    </credits>
-  </programme>
-  <programme start="20260607100000 +0000" stop="20260607120000 +0000" channel="PEACOCK 015">
-    <title lang="en">El Mundial es Nuestro starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>El Mundial es Nuestro</actor>
-      <actor>El Mundial es Nuestro</actor>
-    </credits>
-  </programme>
-  <programme start="20260607120000 +0000" stop="20260607140000 +0000" channel="PEACOCK 015">
-    <title lang="en">El Mundial es Nuestro starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>El Mundial es Nuestro</actor>
-      <actor>El Mundial es Nuestro</actor>
-    </credits>
-  </programme>
-  <programme start="20260607140000 +0000" stop="20260607160000 +0000" channel="PEACOCK 015">
-    <title lang="en">El Mundial es Nuestro starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>El Mundial es Nuestro</actor>
-      <actor>El Mundial es Nuestro</actor>
-    </credits>
-  </programme>
-  <programme start="20260607160000 +0000" stop="20260607180000 +0000" channel="PEACOCK 015">
-    <title lang="en">El Mundial es Nuestro starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>El Mundial es Nuestro</actor>
-      <actor>El Mundial es Nuestro</actor>
-    </credits>
-  </programme>
-  <programme start="20260607180000 +0000" stop="20260607200000 +0000" channel="PEACOCK 015">
-    <title lang="en">El Mundial es Nuestro starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>El Mundial es Nuestro</actor>
-      <actor>El Mundial es Nuestro</actor>
-    </credits>
-  </programme>
-  <programme start="20260607200000 +0000" stop="20260607220000 +0000" channel="PEACOCK 015">
-    <title lang="en">El Mundial es Nuestro starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>El Mundial es Nuestro</actor>
-      <actor>El Mundial es Nuestro</actor>
-    </credits>
-  </programme>
-  <programme start="20260607220000 +0000" stop="20260608000000 +0000" channel="PEACOCK 015">
-    <title lang="en">El Mundial es Nuestro starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>El Mundial es Nuestro</actor>
-      <actor>El Mundial es Nuestro</actor>
-    </credits>
-  </programme>
-  <programme start="20260608000000 +0000" stop="20260608010000 +0000" channel="PEACOCK 015">
-    <title lang="en">El Mundial es Nuestro starts at 9:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>El Mundial es Nuestro</actor>
-      <actor>El Mundial es Nuestro</actor>
-    </credits>
-  </programme>
-  <programme start="20260608010000 +0000" stop="20260608050000 +0000" channel="PEACOCK 015">
-    <title lang="en">El Mundial es Nuestro</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>El Mundial es Nuestro</actor>
-      <actor>El Mundial es Nuestro</actor>
+      <actor>Away Feed: HOU at LAA</actor>
+      <actor>Away Feed: HOU at LAA</actor>
     </credits>
   </programme>
 </tv>
