@@ -300,426 +300,335 @@
   <channel id="PEACOCK 100">
     <display-name>PEACOCK 100</display-name>
   </channel>
-  <programme start="20260611100000 +0000" stop="20260611120000 +0000" channel="PEACOCK 001">
-    <title lang="en">Tour Auvergne-Rhône-Alpes: Stage 5 starts at 9:00 AM ET</title>
+  <programme start="20260613100000 +0000" stop="20260613120000 +0000" channel="PEACOCK 001">
+    <title lang="en">Tour Auvergne-Rhône-Alpes: Stage 7 starts at 8:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Tour Auvergne-Rhône-Alpes: Stage 5</actor>
-      <actor>Tour Auvergne-Rhône-Alpes: Stage 5</actor>
+      <actor>Tour Auvergne-Rhône-Alpes: Stage 7</actor>
+      <actor>Tour Auvergne-Rhône-Alpes: Stage 7</actor>
     </credits>
   </programme>
-  <programme start="20260611120000 +0000" stop="20260611130000 +0000" channel="PEACOCK 001">
-    <title lang="en">Tour Auvergne-Rhône-Alpes: Stage 5 starts at 9:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Tour Auvergne-Rhône-Alpes: Stage 5</actor>
-      <actor>Tour Auvergne-Rhône-Alpes: Stage 5</actor>
-    </credits>
-  </programme>
-  <programme start="20260611130000 +0000" stop="20260611170000 +0000" channel="PEACOCK 001">
-    <title lang="en">Tour Auvergne-Rhône-Alpes: Stage 5</title>
+  <programme start="20260613120000 +0000" stop="20260613160000 +0000" channel="PEACOCK 001">
+    <title lang="en">Tour Auvergne-Rhône-Alpes: Stage 7</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Tour Auvergne-Rhône-Alpes: Stage 5</actor>
-      <actor>Tour Auvergne-Rhône-Alpes: Stage 5</actor>
+      <actor>Tour Auvergne-Rhône-Alpes: Stage 7</actor>
+      <actor>Tour Auvergne-Rhône-Alpes: Stage 7</actor>
     </credits>
   </programme>
-  <programme start="20260612100000 +0000" stop="20260612120000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: SD at BAL starts at 7:00 PM ET</title>
+  <programme start="20260613100000 +0000" stop="20260613120000 +0000" channel="PEACOCK 002">
+    <title lang="en">Race Day Live: Thunder Valley starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: SD at BAL</actor>
-      <actor>Away Feed: SD at BAL</actor>
+      <actor>Race Day Live: Thunder Valley</actor>
+      <actor>Race Day Live: Thunder Valley</actor>
     </credits>
   </programme>
-  <programme start="20260612120000 +0000" stop="20260612140000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: SD at BAL starts at 7:00 PM ET</title>
+  <programme start="20260613120000 +0000" stop="20260613140000 +0000" channel="PEACOCK 002">
+    <title lang="en">Race Day Live: Thunder Valley starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: SD at BAL</actor>
-      <actor>Away Feed: SD at BAL</actor>
+      <actor>Race Day Live: Thunder Valley</actor>
+      <actor>Race Day Live: Thunder Valley</actor>
     </credits>
   </programme>
-  <programme start="20260612140000 +0000" stop="20260612160000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: SD at BAL starts at 7:00 PM ET</title>
+  <programme start="20260613140000 +0000" stop="20260613160000 +0000" channel="PEACOCK 002">
+    <title lang="en">Race Day Live: Thunder Valley starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: SD at BAL</actor>
-      <actor>Away Feed: SD at BAL</actor>
+      <actor>Race Day Live: Thunder Valley</actor>
+      <actor>Race Day Live: Thunder Valley</actor>
     </credits>
   </programme>
-  <programme start="20260612160000 +0000" stop="20260612180000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: SD at BAL starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: SD at BAL</actor>
-      <actor>Away Feed: SD at BAL</actor>
-    </credits>
-  </programme>
-  <programme start="20260612180000 +0000" stop="20260612200000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: SD at BAL starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: SD at BAL</actor>
-      <actor>Away Feed: SD at BAL</actor>
-    </credits>
-  </programme>
-  <programme start="20260612200000 +0000" stop="20260612220000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: SD at BAL starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: SD at BAL</actor>
-      <actor>Away Feed: SD at BAL</actor>
-    </credits>
-  </programme>
-  <programme start="20260612220000 +0000" stop="20260612230000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: SD at BAL starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: SD at BAL</actor>
-      <actor>Away Feed: SD at BAL</actor>
-    </credits>
-  </programme>
-  <programme start="20260612230000 +0000" stop="20260613030000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: SD at BAL</title>
+  <programme start="20260613160000 +0000" stop="20260613200000 +0000" channel="PEACOCK 002">
+    <title lang="en">Race Day Live: Thunder Valley</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: SD at BAL</actor>
-      <actor>Away Feed: SD at BAL</actor>
+      <actor>Race Day Live: Thunder Valley</actor>
+      <actor>Race Day Live: Thunder Valley</actor>
     </credits>
   </programme>
-  <programme start="20260611100000 +0000" stop="20260611120000 +0000" channel="PEACOCK 003">
-    <title lang="en">Vive el Mundial (Junio 11) starts at 12:30 PM ET</title>
+  <programme start="20260613100000 +0000" stop="20260613120000 +0000" channel="PEACOCK 003">
+    <title lang="en">OT7 Championship: Day 1 starts at 2:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Vive el Mundial (Junio 11)</actor>
-      <actor>Vive el Mundial (Junio 11)</actor>
+      <actor>OT7 Championship: Day 1</actor>
+      <actor>OT7 Championship: Day 1</actor>
     </credits>
   </programme>
-  <programme start="20260611120000 +0000" stop="20260611140000 +0000" channel="PEACOCK 003">
-    <title lang="en">Vive el Mundial (Junio 11) starts at 12:30 PM ET</title>
+  <programme start="20260613120000 +0000" stop="20260613140000 +0000" channel="PEACOCK 003">
+    <title lang="en">OT7 Championship: Day 1 starts at 2:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Vive el Mundial (Junio 11)</actor>
-      <actor>Vive el Mundial (Junio 11)</actor>
+      <actor>OT7 Championship: Day 1</actor>
+      <actor>OT7 Championship: Day 1</actor>
     </credits>
   </programme>
-  <programme start="20260611140000 +0000" stop="20260611160000 +0000" channel="PEACOCK 003">
-    <title lang="en">Vive el Mundial (Junio 11) starts at 12:30 PM ET</title>
+  <programme start="20260613140000 +0000" stop="20260613160000 +0000" channel="PEACOCK 003">
+    <title lang="en">OT7 Championship: Day 1 starts at 2:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Vive el Mundial (Junio 11)</actor>
-      <actor>Vive el Mundial (Junio 11)</actor>
+      <actor>OT7 Championship: Day 1</actor>
+      <actor>OT7 Championship: Day 1</actor>
     </credits>
   </programme>
-  <programme start="20260611160000 +0000" stop="20260611163000 +0000" channel="PEACOCK 003">
-    <title lang="en">Vive el Mundial (Junio 11) starts at 12:30 PM ET</title>
+  <programme start="20260613160000 +0000" stop="20260613180000 +0000" channel="PEACOCK 003">
+    <title lang="en">OT7 Championship: Day 1 starts at 2:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Vive el Mundial (Junio 11)</actor>
-      <actor>Vive el Mundial (Junio 11)</actor>
+      <actor>OT7 Championship: Day 1</actor>
+      <actor>OT7 Championship: Day 1</actor>
     </credits>
   </programme>
-  <programme start="20260611163000 +0000" stop="20260611203000 +0000" channel="PEACOCK 003">
-    <title lang="en">Vive el Mundial (Junio 11)</title>
+  <programme start="20260613180000 +0000" stop="20260613220000 +0000" channel="PEACOCK 003">
+    <title lang="en">OT7 Championship: Day 1</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Vive el Mundial (Junio 11)</actor>
-      <actor>Vive el Mundial (Junio 11)</actor>
+      <actor>OT7 Championship: Day 1</actor>
+      <actor>OT7 Championship: Day 1</actor>
     </credits>
   </programme>
-  <programme start="20260611100000 +0000" stop="20260611120000 +0000" channel="PEACOCK 004">
-    <title lang="en">Away Feed: STL at NYM starts at 1:00 PM ET</title>
+  <programme start="20260613100000 +0000" stop="20260613120000 +0000" channel="PEACOCK 004">
+    <title lang="en">Motocross Rd. 20: Thunder Valley starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: STL at NYM</actor>
-      <actor>Away Feed: STL at NYM</actor>
+      <actor>Motocross Rd. 20: Thunder Valley</actor>
+      <actor>Motocross Rd. 20: Thunder Valley</actor>
     </credits>
   </programme>
-  <programme start="20260611120000 +0000" stop="20260611140000 +0000" channel="PEACOCK 004">
-    <title lang="en">Away Feed: STL at NYM starts at 1:00 PM ET</title>
+  <programme start="20260613120000 +0000" stop="20260613140000 +0000" channel="PEACOCK 004">
+    <title lang="en">Motocross Rd. 20: Thunder Valley starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: STL at NYM</actor>
-      <actor>Away Feed: STL at NYM</actor>
+      <actor>Motocross Rd. 20: Thunder Valley</actor>
+      <actor>Motocross Rd. 20: Thunder Valley</actor>
     </credits>
   </programme>
-  <programme start="20260611140000 +0000" stop="20260611160000 +0000" channel="PEACOCK 004">
-    <title lang="en">Away Feed: STL at NYM starts at 1:00 PM ET</title>
+  <programme start="20260613140000 +0000" stop="20260613160000 +0000" channel="PEACOCK 004">
+    <title lang="en">Motocross Rd. 20: Thunder Valley starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: STL at NYM</actor>
-      <actor>Away Feed: STL at NYM</actor>
+      <actor>Motocross Rd. 20: Thunder Valley</actor>
+      <actor>Motocross Rd. 20: Thunder Valley</actor>
     </credits>
   </programme>
-  <programme start="20260611160000 +0000" stop="20260611170000 +0000" channel="PEACOCK 004">
-    <title lang="en">Away Feed: STL at NYM starts at 1:00 PM ET</title>
+  <programme start="20260613160000 +0000" stop="20260613180000 +0000" channel="PEACOCK 004">
+    <title lang="en">Motocross Rd. 20: Thunder Valley starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: STL at NYM</actor>
-      <actor>Away Feed: STL at NYM</actor>
+      <actor>Motocross Rd. 20: Thunder Valley</actor>
+      <actor>Motocross Rd. 20: Thunder Valley</actor>
     </credits>
   </programme>
-  <programme start="20260611170000 +0000" stop="20260611210000 +0000" channel="PEACOCK 004">
-    <title lang="en">Away Feed: STL at NYM</title>
+  <programme start="20260613180000 +0000" stop="20260613190000 +0000" channel="PEACOCK 004">
+    <title lang="en">Motocross Rd. 20: Thunder Valley starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Motocross Rd. 20: Thunder Valley</actor>
+      <actor>Motocross Rd. 20: Thunder Valley</actor>
+    </credits>
+  </programme>
+  <programme start="20260613190000 +0000" stop="20260613230000 +0000" channel="PEACOCK 004">
+    <title lang="en">Motocross Rd. 20: Thunder Valley</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: STL at NYM</actor>
-      <actor>Away Feed: STL at NYM</actor>
+      <actor>Motocross Rd. 20: Thunder Valley</actor>
+      <actor>Motocross Rd. 20: Thunder Valley</actor>
     </credits>
   </programme>
-  <programme start="20260611100000 +0000" stop="20260611120000 +0000" channel="PEACOCK 005">
-    <title lang="en">Home Feed: STL at NYM starts at 1:00 PM ET</title>
+  <programme start="20260613100000 +0000" stop="20260613120000 +0000" channel="PEACOCK 005">
+    <title lang="en">Home Feed: NYY at TOR starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: STL at NYM</actor>
-      <actor>Home Feed: STL at NYM</actor>
+      <actor>Home Feed: NYY at TOR</actor>
+      <actor>Home Feed: NYY at TOR</actor>
     </credits>
   </programme>
-  <programme start="20260611120000 +0000" stop="20260611140000 +0000" channel="PEACOCK 005">
-    <title lang="en">Home Feed: STL at NYM starts at 1:00 PM ET</title>
+  <programme start="20260613120000 +0000" stop="20260613140000 +0000" channel="PEACOCK 005">
+    <title lang="en">Home Feed: NYY at TOR starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: STL at NYM</actor>
-      <actor>Home Feed: STL at NYM</actor>
+      <actor>Home Feed: NYY at TOR</actor>
+      <actor>Home Feed: NYY at TOR</actor>
     </credits>
   </programme>
-  <programme start="20260611140000 +0000" stop="20260611160000 +0000" channel="PEACOCK 005">
-    <title lang="en">Home Feed: STL at NYM starts at 1:00 PM ET</title>
+  <programme start="20260613140000 +0000" stop="20260613160000 +0000" channel="PEACOCK 005">
+    <title lang="en">Home Feed: NYY at TOR starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: STL at NYM</actor>
-      <actor>Home Feed: STL at NYM</actor>
+      <actor>Home Feed: NYY at TOR</actor>
+      <actor>Home Feed: NYY at TOR</actor>
     </credits>
   </programme>
-  <programme start="20260611160000 +0000" stop="20260611170000 +0000" channel="PEACOCK 005">
-    <title lang="en">Home Feed: STL at NYM starts at 1:00 PM ET</title>
+  <programme start="20260613160000 +0000" stop="20260613180000 +0000" channel="PEACOCK 005">
+    <title lang="en">Home Feed: NYY at TOR starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: STL at NYM</actor>
-      <actor>Home Feed: STL at NYM</actor>
+      <actor>Home Feed: NYY at TOR</actor>
+      <actor>Home Feed: NYY at TOR</actor>
     </credits>
   </programme>
-  <programme start="20260611170000 +0000" stop="20260611210000 +0000" channel="PEACOCK 005">
-    <title lang="en">Home Feed: STL at NYM</title>
+  <programme start="20260613180000 +0000" stop="20260613190000 +0000" channel="PEACOCK 005">
+    <title lang="en">Home Feed: NYY at TOR starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: NYY at TOR</actor>
+      <actor>Home Feed: NYY at TOR</actor>
+    </credits>
+  </programme>
+  <programme start="20260613190000 +0000" stop="20260613230000 +0000" channel="PEACOCK 005">
+    <title lang="en">Home Feed: NYY at TOR</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: STL at NYM</actor>
-      <actor>Home Feed: STL at NYM</actor>
+      <actor>Home Feed: NYY at TOR</actor>
+      <actor>Home Feed: NYY at TOR</actor>
     </credits>
   </programme>
-  <programme start="20260611100000 +0000" stop="20260611120000 +0000" channel="PEACOCK 006">
-    <title lang="en">Ceremonia de Apertura starts at 1:00 PM ET</title>
+  <programme start="20260613100000 +0000" stop="20260613120000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: NYY at TOR starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Ceremonia de Apertura</actor>
-      <actor>Ceremonia de Apertura</actor>
+      <actor>Away Feed: NYY at TOR</actor>
+      <actor>Away Feed: NYY at TOR</actor>
     </credits>
   </programme>
-  <programme start="20260611120000 +0000" stop="20260611140000 +0000" channel="PEACOCK 006">
-    <title lang="en">Ceremonia de Apertura starts at 1:00 PM ET</title>
+  <programme start="20260613120000 +0000" stop="20260613140000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: NYY at TOR starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Ceremonia de Apertura</actor>
-      <actor>Ceremonia de Apertura</actor>
+      <actor>Away Feed: NYY at TOR</actor>
+      <actor>Away Feed: NYY at TOR</actor>
     </credits>
   </programme>
-  <programme start="20260611140000 +0000" stop="20260611160000 +0000" channel="PEACOCK 006">
-    <title lang="en">Ceremonia de Apertura starts at 1:00 PM ET</title>
+  <programme start="20260613140000 +0000" stop="20260613160000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: NYY at TOR starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Ceremonia de Apertura</actor>
-      <actor>Ceremonia de Apertura</actor>
+      <actor>Away Feed: NYY at TOR</actor>
+      <actor>Away Feed: NYY at TOR</actor>
     </credits>
   </programme>
-  <programme start="20260611160000 +0000" stop="20260611170000 +0000" channel="PEACOCK 006">
-    <title lang="en">Ceremonia de Apertura starts at 1:00 PM ET</title>
+  <programme start="20260613160000 +0000" stop="20260613180000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: NYY at TOR starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Ceremonia de Apertura</actor>
-      <actor>Ceremonia de Apertura</actor>
+      <actor>Away Feed: NYY at TOR</actor>
+      <actor>Away Feed: NYY at TOR</actor>
     </credits>
   </programme>
-  <programme start="20260611170000 +0000" stop="20260611210000 +0000" channel="PEACOCK 006">
-    <title lang="en">Ceremonia de Apertura</title>
+  <programme start="20260613180000 +0000" stop="20260613190000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: NYY at TOR starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: NYY at TOR</actor>
+      <actor>Away Feed: NYY at TOR</actor>
+    </credits>
+  </programme>
+  <programme start="20260613190000 +0000" stop="20260613230000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: NYY at TOR</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Ceremonia de Apertura</actor>
-      <actor>Ceremonia de Apertura</actor>
+      <actor>Away Feed: NYY at TOR</actor>
+      <actor>Away Feed: NYY at TOR</actor>
     </credits>
   </programme>
-  <programme start="20260611100000 +0000" stop="20260611120000 +0000" channel="PEACOCK 007">
-    <title lang="en">México v. Sudáfrica starts at 2:30 PM ET</title>
+  <programme start="20260613100000 +0000" stop="20260613120000 +0000" channel="PEACOCK 007">
+    <title lang="en">Fever vs. Sun starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>México v. Sudáfrica</actor>
-      <actor>México v. Sudáfrica</actor>
+      <actor>Fever vs. Sun</actor>
+      <actor>Fever vs. Sun</actor>
     </credits>
   </programme>
-  <programme start="20260611120000 +0000" stop="20260611140000 +0000" channel="PEACOCK 007">
-    <title lang="en">México v. Sudáfrica starts at 2:30 PM ET</title>
+  <programme start="20260613120000 +0000" stop="20260613140000 +0000" channel="PEACOCK 007">
+    <title lang="en">Fever vs. Sun starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>México v. Sudáfrica</actor>
-      <actor>México v. Sudáfrica</actor>
+      <actor>Fever vs. Sun</actor>
+      <actor>Fever vs. Sun</actor>
     </credits>
   </programme>
-  <programme start="20260611140000 +0000" stop="20260611160000 +0000" channel="PEACOCK 007">
-    <title lang="en">México v. Sudáfrica starts at 2:30 PM ET</title>
+  <programme start="20260613140000 +0000" stop="20260613160000 +0000" channel="PEACOCK 007">
+    <title lang="en">Fever vs. Sun starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>México v. Sudáfrica</actor>
-      <actor>México v. Sudáfrica</actor>
+      <actor>Fever vs. Sun</actor>
+      <actor>Fever vs. Sun</actor>
     </credits>
   </programme>
-  <programme start="20260611160000 +0000" stop="20260611180000 +0000" channel="PEACOCK 007">
-    <title lang="en">México v. Sudáfrica starts at 2:30 PM ET</title>
+  <programme start="20260613160000 +0000" stop="20260613180000 +0000" channel="PEACOCK 007">
+    <title lang="en">Fever vs. Sun starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>México v. Sudáfrica</actor>
-      <actor>México v. Sudáfrica</actor>
+      <actor>Fever vs. Sun</actor>
+      <actor>Fever vs. Sun</actor>
     </credits>
   </programme>
-  <programme start="20260611180000 +0000" stop="20260611183000 +0000" channel="PEACOCK 007">
-    <title lang="en">México v. Sudáfrica starts at 2:30 PM ET</title>
+  <programme start="20260613180000 +0000" stop="20260613200000 +0000" channel="PEACOCK 007">
+    <title lang="en">Fever vs. Sun starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>México v. Sudáfrica</actor>
-      <actor>México v. Sudáfrica</actor>
+      <actor>Fever vs. Sun</actor>
+      <actor>Fever vs. Sun</actor>
     </credits>
   </programme>
-  <programme start="20260611183000 +0000" stop="20260611223000 +0000" channel="PEACOCK 007">
-    <title lang="en">México v. Sudáfrica</title>
+  <programme start="20260613200000 +0000" stop="20260613220000 +0000" channel="PEACOCK 007">
+    <title lang="en">Fever vs. Sun starts at 6:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Fever vs. Sun</actor>
+      <actor>Fever vs. Sun</actor>
+    </credits>
+  </programme>
+  <programme start="20260613220000 +0000" stop="20260614020000 +0000" channel="PEACOCK 007">
+    <title lang="en">Fever vs. Sun</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>México v. Sudáfrica</actor>
-      <actor>México v. Sudáfrica</actor>
-    </credits>
-  </programme>
-  <programme start="20260611100000 +0000" stop="20260611120000 +0000" channel="PEACOCK 008">
-    <title lang="en">República de Corea v. Chequia starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>República de Corea v. Chequia</actor>
-      <actor>República de Corea v. Chequia</actor>
-    </credits>
-  </programme>
-  <programme start="20260611120000 +0000" stop="20260611140000 +0000" channel="PEACOCK 008">
-    <title lang="en">República de Corea v. Chequia starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>República de Corea v. Chequia</actor>
-      <actor>República de Corea v. Chequia</actor>
-    </credits>
-  </programme>
-  <programme start="20260611140000 +0000" stop="20260611160000 +0000" channel="PEACOCK 008">
-    <title lang="en">República de Corea v. Chequia starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>República de Corea v. Chequia</actor>
-      <actor>República de Corea v. Chequia</actor>
-    </credits>
-  </programme>
-  <programme start="20260611160000 +0000" stop="20260611180000 +0000" channel="PEACOCK 008">
-    <title lang="en">República de Corea v. Chequia starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>República de Corea v. Chequia</actor>
-      <actor>República de Corea v. Chequia</actor>
-    </credits>
-  </programme>
-  <programme start="20260611180000 +0000" stop="20260611200000 +0000" channel="PEACOCK 008">
-    <title lang="en">República de Corea v. Chequia starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>República de Corea v. Chequia</actor>
-      <actor>República de Corea v. Chequia</actor>
-    </credits>
-  </programme>
-  <programme start="20260611200000 +0000" stop="20260611220000 +0000" channel="PEACOCK 008">
-    <title lang="en">República de Corea v. Chequia starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>República de Corea v. Chequia</actor>
-      <actor>República de Corea v. Chequia</actor>
-    </credits>
-  </programme>
-  <programme start="20260611220000 +0000" stop="20260612000000 +0000" channel="PEACOCK 008">
-    <title lang="en">República de Corea v. Chequia starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>República de Corea v. Chequia</actor>
-      <actor>República de Corea v. Chequia</actor>
-    </credits>
-  </programme>
-  <programme start="20260612000000 +0000" stop="20260612013000 +0000" channel="PEACOCK 008">
-    <title lang="en">República de Corea v. Chequia starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>República de Corea v. Chequia</actor>
-      <actor>República de Corea v. Chequia</actor>
-    </credits>
-  </programme>
-  <programme start="20260612013000 +0000" stop="20260612053000 +0000" channel="PEACOCK 008">
-    <title lang="en">República de Corea v. Chequia</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>República de Corea v. Chequia</actor>
-      <actor>República de Corea v. Chequia</actor>
+      <actor>Fever vs. Sun</actor>
+      <actor>Fever vs. Sun</actor>
     </credits>
   </programme>
 </tv>
