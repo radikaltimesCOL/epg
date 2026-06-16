@@ -300,232 +300,196 @@
   <channel id="PEACOCK 100">
     <display-name>PEACOCK 100</display-name>
   </channel>
-  <programme start="20260615100000 +0000" stop="20260615120000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: MIA at PHI starts at 6:30 PM ET</title>
+  <programme start="20260616100000 +0000" stop="20260616120000 +0000" channel="PEACOCK 001">
+    <title lang="en">Royal Ascot: Day 1 starts at 8:30 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: MIA at PHI</actor>
-      <actor>Away Feed: MIA at PHI</actor>
+      <actor>Royal Ascot: Day 1</actor>
+      <actor>Royal Ascot: Day 1</actor>
     </credits>
   </programme>
-  <programme start="20260615120000 +0000" stop="20260615140000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: MIA at PHI starts at 6:30 PM ET</title>
+  <programme start="20260616120000 +0000" stop="20260616123000 +0000" channel="PEACOCK 001">
+    <title lang="en">Royal Ascot: Day 1 starts at 8:30 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: MIA at PHI</actor>
-      <actor>Away Feed: MIA at PHI</actor>
+      <actor>Royal Ascot: Day 1</actor>
+      <actor>Royal Ascot: Day 1</actor>
     </credits>
   </programme>
-  <programme start="20260615140000 +0000" stop="20260615160000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: MIA at PHI starts at 6:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: MIA at PHI</actor>
-      <actor>Away Feed: MIA at PHI</actor>
-    </credits>
-  </programme>
-  <programme start="20260615160000 +0000" stop="20260615180000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: MIA at PHI starts at 6:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: MIA at PHI</actor>
-      <actor>Away Feed: MIA at PHI</actor>
-    </credits>
-  </programme>
-  <programme start="20260615180000 +0000" stop="20260615200000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: MIA at PHI starts at 6:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: MIA at PHI</actor>
-      <actor>Away Feed: MIA at PHI</actor>
-    </credits>
-  </programme>
-  <programme start="20260615200000 +0000" stop="20260615220000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: MIA at PHI starts at 6:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: MIA at PHI</actor>
-      <actor>Away Feed: MIA at PHI</actor>
-    </credits>
-  </programme>
-  <programme start="20260615220000 +0000" stop="20260615223000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: MIA at PHI starts at 6:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: MIA at PHI</actor>
-      <actor>Away Feed: MIA at PHI</actor>
-    </credits>
-  </programme>
-  <programme start="20260615223000 +0000" stop="20260616023000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: MIA at PHI</title>
+  <programme start="20260616123000 +0000" stop="20260616163000 +0000" channel="PEACOCK 001">
+    <title lang="en">Royal Ascot: Day 1</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: MIA at PHI</actor>
-      <actor>Away Feed: MIA at PHI</actor>
+      <actor>Royal Ascot: Day 1</actor>
+      <actor>Royal Ascot: Day 1</actor>
     </credits>
   </programme>
-  <programme start="20260615100000 +0000" stop="20260615120000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: MIA at PHI starts at 6:30 PM ET</title>
+  <programme start="20260616100000 +0000" stop="20260616120000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: LAA at AZ starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: MIA at PHI</actor>
-      <actor>Home Feed: MIA at PHI</actor>
+      <actor>Away Feed: LAA at AZ</actor>
+      <actor>Away Feed: LAA at AZ</actor>
     </credits>
   </programme>
-  <programme start="20260615120000 +0000" stop="20260615140000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: MIA at PHI starts at 6:30 PM ET</title>
+  <programme start="20260616120000 +0000" stop="20260616140000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: LAA at AZ starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: MIA at PHI</actor>
-      <actor>Home Feed: MIA at PHI</actor>
+      <actor>Away Feed: LAA at AZ</actor>
+      <actor>Away Feed: LAA at AZ</actor>
     </credits>
   </programme>
-  <programme start="20260615140000 +0000" stop="20260615160000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: MIA at PHI starts at 6:30 PM ET</title>
+  <programme start="20260616140000 +0000" stop="20260616160000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: LAA at AZ starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: MIA at PHI</actor>
-      <actor>Home Feed: MIA at PHI</actor>
+      <actor>Away Feed: LAA at AZ</actor>
+      <actor>Away Feed: LAA at AZ</actor>
     </credits>
   </programme>
-  <programme start="20260615160000 +0000" stop="20260615180000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: MIA at PHI starts at 6:30 PM ET</title>
+  <programme start="20260616160000 +0000" stop="20260616180000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: LAA at AZ starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: MIA at PHI</actor>
-      <actor>Home Feed: MIA at PHI</actor>
+      <actor>Away Feed: LAA at AZ</actor>
+      <actor>Away Feed: LAA at AZ</actor>
     </credits>
   </programme>
-  <programme start="20260615180000 +0000" stop="20260615200000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: MIA at PHI starts at 6:30 PM ET</title>
+  <programme start="20260616180000 +0000" stop="20260616200000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: LAA at AZ starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: MIA at PHI</actor>
-      <actor>Home Feed: MIA at PHI</actor>
+      <actor>Away Feed: LAA at AZ</actor>
+      <actor>Away Feed: LAA at AZ</actor>
     </credits>
   </programme>
-  <programme start="20260615200000 +0000" stop="20260615220000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: MIA at PHI starts at 6:30 PM ET</title>
+  <programme start="20260616200000 +0000" stop="20260616220000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: LAA at AZ starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: MIA at PHI</actor>
-      <actor>Home Feed: MIA at PHI</actor>
+      <actor>Away Feed: LAA at AZ</actor>
+      <actor>Away Feed: LAA at AZ</actor>
     </credits>
   </programme>
-  <programme start="20260615220000 +0000" stop="20260615223000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: MIA at PHI starts at 6:30 PM ET</title>
+  <programme start="20260616220000 +0000" stop="20260617000000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: LAA at AZ starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: MIA at PHI</actor>
-      <actor>Home Feed: MIA at PHI</actor>
+      <actor>Away Feed: LAA at AZ</actor>
+      <actor>Away Feed: LAA at AZ</actor>
     </credits>
   </programme>
-  <programme start="20260615223000 +0000" stop="20260616023000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: MIA at PHI</title>
+  <programme start="20260617000000 +0000" stop="20260617013000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: LAA at AZ starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: LAA at AZ</actor>
+      <actor>Away Feed: LAA at AZ</actor>
+    </credits>
+  </programme>
+  <programme start="20260617013000 +0000" stop="20260617053000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: LAA at AZ</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: MIA at PHI</actor>
-      <actor>Home Feed: MIA at PHI</actor>
+      <actor>Away Feed: LAA at AZ</actor>
+      <actor>Away Feed: LAA at AZ</actor>
     </credits>
   </programme>
-  <programme start="20260615100000 +0000" stop="20260615120000 +0000" channel="PEACOCK 003">
-    <title lang="en">Sparks vs. Valkyries starts at 10:00 PM ET</title>
+  <programme start="20260616100000 +0000" stop="20260616120000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: LAA at AZ starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Sparks vs. Valkyries</actor>
-      <actor>Sparks vs. Valkyries</actor>
+      <actor>Home Feed: LAA at AZ</actor>
+      <actor>Home Feed: LAA at AZ</actor>
     </credits>
   </programme>
-  <programme start="20260615120000 +0000" stop="20260615140000 +0000" channel="PEACOCK 003">
-    <title lang="en">Sparks vs. Valkyries starts at 10:00 PM ET</title>
+  <programme start="20260616120000 +0000" stop="20260616140000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: LAA at AZ starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Sparks vs. Valkyries</actor>
-      <actor>Sparks vs. Valkyries</actor>
+      <actor>Home Feed: LAA at AZ</actor>
+      <actor>Home Feed: LAA at AZ</actor>
     </credits>
   </programme>
-  <programme start="20260615140000 +0000" stop="20260615160000 +0000" channel="PEACOCK 003">
-    <title lang="en">Sparks vs. Valkyries starts at 10:00 PM ET</title>
+  <programme start="20260616140000 +0000" stop="20260616160000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: LAA at AZ starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Sparks vs. Valkyries</actor>
-      <actor>Sparks vs. Valkyries</actor>
+      <actor>Home Feed: LAA at AZ</actor>
+      <actor>Home Feed: LAA at AZ</actor>
     </credits>
   </programme>
-  <programme start="20260615160000 +0000" stop="20260615180000 +0000" channel="PEACOCK 003">
-    <title lang="en">Sparks vs. Valkyries starts at 10:00 PM ET</title>
+  <programme start="20260616160000 +0000" stop="20260616180000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: LAA at AZ starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Sparks vs. Valkyries</actor>
-      <actor>Sparks vs. Valkyries</actor>
+      <actor>Home Feed: LAA at AZ</actor>
+      <actor>Home Feed: LAA at AZ</actor>
     </credits>
   </programme>
-  <programme start="20260615180000 +0000" stop="20260615200000 +0000" channel="PEACOCK 003">
-    <title lang="en">Sparks vs. Valkyries starts at 10:00 PM ET</title>
+  <programme start="20260616180000 +0000" stop="20260616200000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: LAA at AZ starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Sparks vs. Valkyries</actor>
-      <actor>Sparks vs. Valkyries</actor>
+      <actor>Home Feed: LAA at AZ</actor>
+      <actor>Home Feed: LAA at AZ</actor>
     </credits>
   </programme>
-  <programme start="20260615200000 +0000" stop="20260615220000 +0000" channel="PEACOCK 003">
-    <title lang="en">Sparks vs. Valkyries starts at 10:00 PM ET</title>
+  <programme start="20260616200000 +0000" stop="20260616220000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: LAA at AZ starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Sparks vs. Valkyries</actor>
-      <actor>Sparks vs. Valkyries</actor>
+      <actor>Home Feed: LAA at AZ</actor>
+      <actor>Home Feed: LAA at AZ</actor>
     </credits>
   </programme>
-  <programme start="20260615220000 +0000" stop="20260616000000 +0000" channel="PEACOCK 003">
-    <title lang="en">Sparks vs. Valkyries starts at 10:00 PM ET</title>
+  <programme start="20260616220000 +0000" stop="20260617000000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: LAA at AZ starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Sparks vs. Valkyries</actor>
-      <actor>Sparks vs. Valkyries</actor>
+      <actor>Home Feed: LAA at AZ</actor>
+      <actor>Home Feed: LAA at AZ</actor>
     </credits>
   </programme>
-  <programme start="20260616000000 +0000" stop="20260616020000 +0000" channel="PEACOCK 003">
-    <title lang="en">Sparks vs. Valkyries starts at 10:00 PM ET</title>
+  <programme start="20260617000000 +0000" stop="20260617013000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: LAA at AZ starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Sparks vs. Valkyries</actor>
-      <actor>Sparks vs. Valkyries</actor>
+      <actor>Home Feed: LAA at AZ</actor>
+      <actor>Home Feed: LAA at AZ</actor>
     </credits>
   </programme>
-  <programme start="20260616020000 +0000" stop="20260616060000 +0000" channel="PEACOCK 003">
-    <title lang="en">Sparks vs. Valkyries</title>
+  <programme start="20260617013000 +0000" stop="20260617053000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: LAA at AZ</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Sparks vs. Valkyries</actor>
-      <actor>Sparks vs. Valkyries</actor>
+      <actor>Home Feed: LAA at AZ</actor>
+      <actor>Home Feed: LAA at AZ</actor>
     </credits>
   </programme>
 </tv>
