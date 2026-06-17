@@ -300,196 +300,178 @@
   <channel id="PEACOCK 100">
     <display-name>PEACOCK 100</display-name>
   </channel>
-  <programme start="20260616100000 +0000" stop="20260616120000 +0000" channel="PEACOCK 001">
-    <title lang="en">Royal Ascot: Day 1 starts at 8:30 AM ET</title>
+  <programme start="20260617100000 +0000" stop="20260617120000 +0000" channel="PEACOCK 001">
+    <title lang="en">Royal Ascot: Day 2 starts at 8:30 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Royal Ascot: Day 1</actor>
-      <actor>Royal Ascot: Day 1</actor>
+      <actor>Royal Ascot: Day 2</actor>
+      <actor>Royal Ascot: Day 2</actor>
     </credits>
   </programme>
-  <programme start="20260616120000 +0000" stop="20260616123000 +0000" channel="PEACOCK 001">
-    <title lang="en">Royal Ascot: Day 1 starts at 8:30 AM ET</title>
+  <programme start="20260617120000 +0000" stop="20260617123000 +0000" channel="PEACOCK 001">
+    <title lang="en">Royal Ascot: Day 2 starts at 8:30 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Royal Ascot: Day 1</actor>
-      <actor>Royal Ascot: Day 1</actor>
+      <actor>Royal Ascot: Day 2</actor>
+      <actor>Royal Ascot: Day 2</actor>
     </credits>
   </programme>
-  <programme start="20260616123000 +0000" stop="20260616163000 +0000" channel="PEACOCK 001">
-    <title lang="en">Royal Ascot: Day 1</title>
+  <programme start="20260617123000 +0000" stop="20260617163000 +0000" channel="PEACOCK 001">
+    <title lang="en">Royal Ascot: Day 2</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Royal Ascot: Day 1</actor>
-      <actor>Royal Ascot: Day 1</actor>
+      <actor>Royal Ascot: Day 2</actor>
+      <actor>Royal Ascot: Day 2</actor>
     </credits>
   </programme>
-  <programme start="20260616100000 +0000" stop="20260616120000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: LAA at AZ starts at 9:30 PM ET</title>
+  <programme start="20260617100000 +0000" stop="20260617120000 +0000" channel="PEACOCK 002">
+    <title lang="en">Home Feed: SF at ATL starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: LAA at AZ</actor>
-      <actor>Away Feed: LAA at AZ</actor>
+      <actor>Home Feed: SF at ATL</actor>
+      <actor>Home Feed: SF at ATL</actor>
     </credits>
   </programme>
-  <programme start="20260616120000 +0000" stop="20260616140000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: LAA at AZ starts at 9:30 PM ET</title>
+  <programme start="20260617120000 +0000" stop="20260617140000 +0000" channel="PEACOCK 002">
+    <title lang="en">Home Feed: SF at ATL starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: LAA at AZ</actor>
-      <actor>Away Feed: LAA at AZ</actor>
+      <actor>Home Feed: SF at ATL</actor>
+      <actor>Home Feed: SF at ATL</actor>
     </credits>
   </programme>
-  <programme start="20260616140000 +0000" stop="20260616160000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: LAA at AZ starts at 9:30 PM ET</title>
+  <programme start="20260617140000 +0000" stop="20260617160000 +0000" channel="PEACOCK 002">
+    <title lang="en">Home Feed: SF at ATL starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: LAA at AZ</actor>
-      <actor>Away Feed: LAA at AZ</actor>
+      <actor>Home Feed: SF at ATL</actor>
+      <actor>Home Feed: SF at ATL</actor>
     </credits>
   </programme>
-  <programme start="20260616160000 +0000" stop="20260616180000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: LAA at AZ starts at 9:30 PM ET</title>
+  <programme start="20260617160000 +0000" stop="20260617180000 +0000" channel="PEACOCK 002">
+    <title lang="en">Home Feed: SF at ATL starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: LAA at AZ</actor>
-      <actor>Away Feed: LAA at AZ</actor>
+      <actor>Home Feed: SF at ATL</actor>
+      <actor>Home Feed: SF at ATL</actor>
     </credits>
   </programme>
-  <programme start="20260616180000 +0000" stop="20260616200000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: LAA at AZ starts at 9:30 PM ET</title>
+  <programme start="20260617180000 +0000" stop="20260617200000 +0000" channel="PEACOCK 002">
+    <title lang="en">Home Feed: SF at ATL starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: LAA at AZ</actor>
-      <actor>Away Feed: LAA at AZ</actor>
+      <actor>Home Feed: SF at ATL</actor>
+      <actor>Home Feed: SF at ATL</actor>
     </credits>
   </programme>
-  <programme start="20260616200000 +0000" stop="20260616220000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: LAA at AZ starts at 9:30 PM ET</title>
+  <programme start="20260617200000 +0000" stop="20260617220000 +0000" channel="PEACOCK 002">
+    <title lang="en">Home Feed: SF at ATL starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: LAA at AZ</actor>
-      <actor>Away Feed: LAA at AZ</actor>
+      <actor>Home Feed: SF at ATL</actor>
+      <actor>Home Feed: SF at ATL</actor>
     </credits>
   </programme>
-  <programme start="20260616220000 +0000" stop="20260617000000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: LAA at AZ starts at 9:30 PM ET</title>
+  <programme start="20260617220000 +0000" stop="20260617230000 +0000" channel="PEACOCK 002">
+    <title lang="en">Home Feed: SF at ATL starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: LAA at AZ</actor>
-      <actor>Away Feed: LAA at AZ</actor>
+      <actor>Home Feed: SF at ATL</actor>
+      <actor>Home Feed: SF at ATL</actor>
     </credits>
   </programme>
-  <programme start="20260617000000 +0000" stop="20260617013000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: LAA at AZ starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: LAA at AZ</actor>
-      <actor>Away Feed: LAA at AZ</actor>
-    </credits>
-  </programme>
-  <programme start="20260617013000 +0000" stop="20260617053000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: LAA at AZ</title>
+  <programme start="20260617230000 +0000" stop="20260618030000 +0000" channel="PEACOCK 002">
+    <title lang="en">Home Feed: SF at ATL</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: LAA at AZ</actor>
-      <actor>Away Feed: LAA at AZ</actor>
+      <actor>Home Feed: SF at ATL</actor>
+      <actor>Home Feed: SF at ATL</actor>
     </credits>
   </programme>
-  <programme start="20260616100000 +0000" stop="20260616120000 +0000" channel="PEACOCK 003">
-    <title lang="en">Home Feed: LAA at AZ starts at 9:30 PM ET</title>
+  <programme start="20260617100000 +0000" stop="20260617120000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: SF at ATL starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: LAA at AZ</actor>
-      <actor>Home Feed: LAA at AZ</actor>
+      <actor>Away Feed: SF at ATL</actor>
+      <actor>Away Feed: SF at ATL</actor>
     </credits>
   </programme>
-  <programme start="20260616120000 +0000" stop="20260616140000 +0000" channel="PEACOCK 003">
-    <title lang="en">Home Feed: LAA at AZ starts at 9:30 PM ET</title>
+  <programme start="20260617120000 +0000" stop="20260617140000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: SF at ATL starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: LAA at AZ</actor>
-      <actor>Home Feed: LAA at AZ</actor>
+      <actor>Away Feed: SF at ATL</actor>
+      <actor>Away Feed: SF at ATL</actor>
     </credits>
   </programme>
-  <programme start="20260616140000 +0000" stop="20260616160000 +0000" channel="PEACOCK 003">
-    <title lang="en">Home Feed: LAA at AZ starts at 9:30 PM ET</title>
+  <programme start="20260617140000 +0000" stop="20260617160000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: SF at ATL starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: LAA at AZ</actor>
-      <actor>Home Feed: LAA at AZ</actor>
+      <actor>Away Feed: SF at ATL</actor>
+      <actor>Away Feed: SF at ATL</actor>
     </credits>
   </programme>
-  <programme start="20260616160000 +0000" stop="20260616180000 +0000" channel="PEACOCK 003">
-    <title lang="en">Home Feed: LAA at AZ starts at 9:30 PM ET</title>
+  <programme start="20260617160000 +0000" stop="20260617180000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: SF at ATL starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: LAA at AZ</actor>
-      <actor>Home Feed: LAA at AZ</actor>
+      <actor>Away Feed: SF at ATL</actor>
+      <actor>Away Feed: SF at ATL</actor>
     </credits>
   </programme>
-  <programme start="20260616180000 +0000" stop="20260616200000 +0000" channel="PEACOCK 003">
-    <title lang="en">Home Feed: LAA at AZ starts at 9:30 PM ET</title>
+  <programme start="20260617180000 +0000" stop="20260617200000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: SF at ATL starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: LAA at AZ</actor>
-      <actor>Home Feed: LAA at AZ</actor>
+      <actor>Away Feed: SF at ATL</actor>
+      <actor>Away Feed: SF at ATL</actor>
     </credits>
   </programme>
-  <programme start="20260616200000 +0000" stop="20260616220000 +0000" channel="PEACOCK 003">
-    <title lang="en">Home Feed: LAA at AZ starts at 9:30 PM ET</title>
+  <programme start="20260617200000 +0000" stop="20260617220000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: SF at ATL starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: LAA at AZ</actor>
-      <actor>Home Feed: LAA at AZ</actor>
+      <actor>Away Feed: SF at ATL</actor>
+      <actor>Away Feed: SF at ATL</actor>
     </credits>
   </programme>
-  <programme start="20260616220000 +0000" stop="20260617000000 +0000" channel="PEACOCK 003">
-    <title lang="en">Home Feed: LAA at AZ starts at 9:30 PM ET</title>
+  <programme start="20260617220000 +0000" stop="20260617230000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: SF at ATL starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: LAA at AZ</actor>
-      <actor>Home Feed: LAA at AZ</actor>
+      <actor>Away Feed: SF at ATL</actor>
+      <actor>Away Feed: SF at ATL</actor>
     </credits>
   </programme>
-  <programme start="20260617000000 +0000" stop="20260617013000 +0000" channel="PEACOCK 003">
-    <title lang="en">Home Feed: LAA at AZ starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: LAA at AZ</actor>
-      <actor>Home Feed: LAA at AZ</actor>
-    </credits>
-  </programme>
-  <programme start="20260617013000 +0000" stop="20260617053000 +0000" channel="PEACOCK 003">
-    <title lang="en">Home Feed: LAA at AZ</title>
+  <programme start="20260617230000 +0000" stop="20260618030000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: SF at ATL</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: LAA at AZ</actor>
-      <actor>Home Feed: LAA at AZ</actor>
+      <actor>Away Feed: SF at ATL</actor>
+      <actor>Away Feed: SF at ATL</actor>
     </credits>
   </programme>
 </tv>
