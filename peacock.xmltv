@@ -300,632 +300,759 @@
   <channel id="PEACOCK 100">
     <display-name>PEACOCK 100</display-name>
   </channel>
-  <programme start="20260620100000 +0000" stop="20260620120000 +0000" channel="PEACOCK 001">
-    <title lang="en">Royal Ascot: Day 5 starts at 9:00 AM ET</title>
+  <programme start="20260621100000 +0000" stop="20260621115500 +0000" channel="PEACOCK 001">
+    <title lang="en">Henley &amp; Uihlein starts at 7:55 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Royal Ascot: Day 5</actor>
-      <actor>Royal Ascot: Day 5</actor>
+      <actor>Henley &amp; Uihlein</actor>
+      <actor>Henley &amp; Uihlein</actor>
     </credits>
   </programme>
-  <programme start="20260620120000 +0000" stop="20260620130000 +0000" channel="PEACOCK 001">
-    <title lang="en">Royal Ascot: Day 5 starts at 9:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Royal Ascot: Day 5</actor>
-      <actor>Royal Ascot: Day 5</actor>
-    </credits>
-  </programme>
-  <programme start="20260620130000 +0000" stop="20260620170000 +0000" channel="PEACOCK 001">
-    <title lang="en">Royal Ascot: Day 5</title>
+  <programme start="20260621115500 +0000" stop="20260621155500 +0000" channel="PEACOCK 001">
+    <title lang="en">Henley &amp; Uihlein</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Royal Ascot: Day 5</actor>
-      <actor>Royal Ascot: Day 5</actor>
+      <actor>Henley &amp; Uihlein</actor>
+      <actor>Henley &amp; Uihlein</actor>
     </credits>
   </programme>
-  <programme start="20260620100000 +0000" stop="20260620120000 +0000" channel="PEACOCK 002">
-    <title lang="en">Gotterup &amp; Lee starts at 9:10 AM ET</title>
+  <programme start="20260621100000 +0000" stop="20260621120000 +0000" channel="PEACOCK 002">
+    <title lang="en">Matsuyama &amp; Shipley starts at 8:17 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Gotterup &amp; Lee</actor>
-      <actor>Gotterup &amp; Lee</actor>
+      <actor>Matsuyama &amp; Shipley</actor>
+      <actor>Matsuyama &amp; Shipley</actor>
     </credits>
   </programme>
-  <programme start="20260620120000 +0000" stop="20260620131000 +0000" channel="PEACOCK 002">
-    <title lang="en">Gotterup &amp; Lee starts at 9:10 AM ET</title>
+  <programme start="20260621120000 +0000" stop="20260621121700 +0000" channel="PEACOCK 002">
+    <title lang="en">Matsuyama &amp; Shipley starts at 8:17 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Gotterup &amp; Lee</actor>
-      <actor>Gotterup &amp; Lee</actor>
+      <actor>Matsuyama &amp; Shipley</actor>
+      <actor>Matsuyama &amp; Shipley</actor>
     </credits>
   </programme>
-  <programme start="20260620131000 +0000" stop="20260620171000 +0000" channel="PEACOCK 002">
-    <title lang="en">Gotterup &amp; Lee</title>
+  <programme start="20260621121700 +0000" stop="20260621161700 +0000" channel="PEACOCK 002">
+    <title lang="en">Matsuyama &amp; Shipley</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Gotterup &amp; Lee</actor>
-      <actor>Gotterup &amp; Lee</actor>
+      <actor>Matsuyama &amp; Shipley</actor>
+      <actor>Matsuyama &amp; Shipley</actor>
     </credits>
   </programme>
-  <programme start="20260620100000 +0000" stop="20260620120000 +0000" channel="PEACOCK 003">
-    <title lang="en">Matsuyama &amp; Echavarria starts at 9:43 AM ET</title>
+  <programme start="20260621100000 +0000" stop="20260621120000 +0000" channel="PEACOCK 003">
+    <title lang="en">U.S. Open All-Access: Rd. 4 starts at 9:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Matsuyama &amp; Echavarria</actor>
-      <actor>Matsuyama &amp; Echavarria</actor>
+      <actor>U.S. Open All-Access: Rd. 4</actor>
+      <actor>U.S. Open All-Access: Rd. 4</actor>
     </credits>
   </programme>
-  <programme start="20260620120000 +0000" stop="20260620134300 +0000" channel="PEACOCK 003">
-    <title lang="en">Matsuyama &amp; Echavarria starts at 9:43 AM ET</title>
+  <programme start="20260621120000 +0000" stop="20260621130000 +0000" channel="PEACOCK 003">
+    <title lang="en">U.S. Open All-Access: Rd. 4 starts at 9:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Matsuyama &amp; Echavarria</actor>
-      <actor>Matsuyama &amp; Echavarria</actor>
+      <actor>U.S. Open All-Access: Rd. 4</actor>
+      <actor>U.S. Open All-Access: Rd. 4</actor>
     </credits>
   </programme>
-  <programme start="20260620134300 +0000" stop="20260620174300 +0000" channel="PEACOCK 003">
-    <title lang="en">Matsuyama &amp; Echavarria</title>
+  <programme start="20260621130000 +0000" stop="20260621170000 +0000" channel="PEACOCK 003">
+    <title lang="en">U.S. Open All-Access: Rd. 4</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Matsuyama &amp; Echavarria</actor>
-      <actor>Matsuyama &amp; Echavarria</actor>
+      <actor>U.S. Open All-Access: Rd. 4</actor>
+      <actor>U.S. Open All-Access: Rd. 4</actor>
     </credits>
   </programme>
-  <programme start="20260620100000 +0000" stop="20260620120000 +0000" channel="PEACOCK 004">
-    <title lang="en">U.S. Open All-Access: Rd. 3 starts at 10:00 AM ET</title>
+  <programme start="20260621100000 +0000" stop="20260621120000 +0000" channel="PEACOCK 004">
+    <title lang="en">Åberg &amp; Keefer starts at 9:28 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>U.S. Open All-Access: Rd. 3</actor>
-      <actor>U.S. Open All-Access: Rd. 3</actor>
+      <actor>Åberg &amp; Keefer</actor>
+      <actor>Åberg &amp; Keefer</actor>
     </credits>
   </programme>
-  <programme start="20260620120000 +0000" stop="20260620140000 +0000" channel="PEACOCK 004">
-    <title lang="en">U.S. Open All-Access: Rd. 3 starts at 10:00 AM ET</title>
+  <programme start="20260621120000 +0000" stop="20260621132800 +0000" channel="PEACOCK 004">
+    <title lang="en">Åberg &amp; Keefer starts at 9:28 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>U.S. Open All-Access: Rd. 3</actor>
-      <actor>U.S. Open All-Access: Rd. 3</actor>
+      <actor>Åberg &amp; Keefer</actor>
+      <actor>Åberg &amp; Keefer</actor>
     </credits>
   </programme>
-  <programme start="20260620140000 +0000" stop="20260620180000 +0000" channel="PEACOCK 004">
-    <title lang="en">U.S. Open All-Access: Rd. 3</title>
+  <programme start="20260621132800 +0000" stop="20260621172800 +0000" channel="PEACOCK 004">
+    <title lang="en">Åberg &amp; Keefer</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>U.S. Open All-Access: Rd. 3</actor>
-      <actor>U.S. Open All-Access: Rd. 3</actor>
+      <actor>Åberg &amp; Keefer</actor>
+      <actor>Åberg &amp; Keefer</actor>
     </credits>
   </programme>
-  <programme start="20260620100000 +0000" stop="20260620120000 +0000" channel="PEACOCK 005">
-    <title lang="en">Race Day Live: High Point starts at 10:00 AM ET</title>
+  <programme start="20260621100000 +0000" stop="20260621120000 +0000" channel="PEACOCK 005">
+    <title lang="en">Super Final: Day 3 AM starts at 10:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Race Day Live: High Point</actor>
-      <actor>Race Day Live: High Point</actor>
+      <actor>Super Final: Day 3 AM</actor>
+      <actor>Super Final: Day 3 AM</actor>
     </credits>
   </programme>
-  <programme start="20260620120000 +0000" stop="20260620140000 +0000" channel="PEACOCK 005">
-    <title lang="en">Race Day Live: High Point starts at 10:00 AM ET</title>
+  <programme start="20260621120000 +0000" stop="20260621140000 +0000" channel="PEACOCK 005">
+    <title lang="en">Super Final: Day 3 AM starts at 10:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Race Day Live: High Point</actor>
-      <actor>Race Day Live: High Point</actor>
+      <actor>Super Final: Day 3 AM</actor>
+      <actor>Super Final: Day 3 AM</actor>
     </credits>
   </programme>
-  <programme start="20260620140000 +0000" stop="20260620180000 +0000" channel="PEACOCK 005">
-    <title lang="en">Race Day Live: High Point</title>
+  <programme start="20260621140000 +0000" stop="20260621180000 +0000" channel="PEACOCK 005">
+    <title lang="en">Super Final: Day 3 AM</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Race Day Live: High Point</actor>
-      <actor>Race Day Live: High Point</actor>
+      <actor>Super Final: Day 3 AM</actor>
+      <actor>Super Final: Day 3 AM</actor>
     </credits>
   </programme>
-  <programme start="20260620100000 +0000" stop="20260620120000 +0000" channel="PEACOCK 006">
-    <title lang="en">Super Final: Day 2 AM starts at 10:00 AM ET</title>
+  <programme start="20260621100000 +0000" stop="20260621120000 +0000" channel="PEACOCK 006">
+    <title lang="en">U.S. Open on Sky Sports: Rd. 4 starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Super Final: Day 2 AM</actor>
-      <actor>Super Final: Day 2 AM</actor>
+      <actor>U.S. Open on Sky Sports: Rd. 4</actor>
+      <actor>U.S. Open on Sky Sports: Rd. 4</actor>
     </credits>
   </programme>
-  <programme start="20260620120000 +0000" stop="20260620140000 +0000" channel="PEACOCK 006">
-    <title lang="en">Super Final: Day 2 AM starts at 10:00 AM ET</title>
+  <programme start="20260621120000 +0000" stop="20260621140000 +0000" channel="PEACOCK 006">
+    <title lang="en">U.S. Open on Sky Sports: Rd. 4 starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Super Final: Day 2 AM</actor>
-      <actor>Super Final: Day 2 AM</actor>
+      <actor>U.S. Open on Sky Sports: Rd. 4</actor>
+      <actor>U.S. Open on Sky Sports: Rd. 4</actor>
     </credits>
   </programme>
-  <programme start="20260620140000 +0000" stop="20260620180000 +0000" channel="PEACOCK 006">
-    <title lang="en">Super Final: Day 2 AM</title>
+  <programme start="20260621140000 +0000" stop="20260621160000 +0000" channel="PEACOCK 006">
+    <title lang="en">U.S. Open on Sky Sports: Rd. 4 starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>U.S. Open on Sky Sports: Rd. 4</actor>
+      <actor>U.S. Open on Sky Sports: Rd. 4</actor>
+    </credits>
+  </programme>
+  <programme start="20260621160000 +0000" stop="20260621200000 +0000" channel="PEACOCK 006">
+    <title lang="en">U.S. Open on Sky Sports: Rd. 4</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Super Final: Day 2 AM</actor>
-      <actor>Super Final: Day 2 AM</actor>
+      <actor>U.S. Open on Sky Sports: Rd. 4</actor>
+      <actor>U.S. Open on Sky Sports: Rd. 4</actor>
     </credits>
   </programme>
-  <programme start="20260620100000 +0000" stop="20260620120000 +0000" channel="PEACOCK 007">
-    <title lang="en">Koivun &amp; Russell starts at 10:16 AM ET</title>
+  <programme start="20260621100000 +0000" stop="20260621120000 +0000" channel="PEACOCK 007">
+    <title lang="en">U.S. Open: Rd. 4 starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Koivun &amp; Russell</actor>
-      <actor>Koivun &amp; Russell</actor>
+      <actor>U.S. Open: Rd. 4</actor>
+      <actor>U.S. Open: Rd. 4</actor>
     </credits>
   </programme>
-  <programme start="20260620120000 +0000" stop="20260620140000 +0000" channel="PEACOCK 007">
-    <title lang="en">Koivun &amp; Russell starts at 10:16 AM ET</title>
+  <programme start="20260621120000 +0000" stop="20260621140000 +0000" channel="PEACOCK 007">
+    <title lang="en">U.S. Open: Rd. 4 starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Koivun &amp; Russell</actor>
-      <actor>Koivun &amp; Russell</actor>
+      <actor>U.S. Open: Rd. 4</actor>
+      <actor>U.S. Open: Rd. 4</actor>
     </credits>
   </programme>
-  <programme start="20260620140000 +0000" stop="20260620141600 +0000" channel="PEACOCK 007">
-    <title lang="en">Koivun &amp; Russell starts at 10:16 AM ET</title>
+  <programme start="20260621140000 +0000" stop="20260621160000 +0000" channel="PEACOCK 007">
+    <title lang="en">U.S. Open: Rd. 4 starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Koivun &amp; Russell</actor>
-      <actor>Koivun &amp; Russell</actor>
+      <actor>U.S. Open: Rd. 4</actor>
+      <actor>U.S. Open: Rd. 4</actor>
     </credits>
   </programme>
-  <programme start="20260620141600 +0000" stop="20260620181600 +0000" channel="PEACOCK 007">
-    <title lang="en">Koivun &amp; Russell</title>
+  <programme start="20260621160000 +0000" stop="20260621200000 +0000" channel="PEACOCK 007">
+    <title lang="en">U.S. Open: Rd. 4</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Koivun &amp; Russell</actor>
-      <actor>Koivun &amp; Russell</actor>
+      <actor>U.S. Open: Rd. 4</actor>
+      <actor>U.S. Open: Rd. 4</actor>
     </credits>
   </programme>
-  <programme start="20260620100000 +0000" stop="20260620120000 +0000" channel="PEACOCK 008">
-    <title lang="en">U.S. Open: Rd. 3 starts at 12:00 PM ET</title>
+  <programme start="20260621100000 +0000" stop="20260621120000 +0000" channel="PEACOCK 008">
+    <title lang="en">Bradley &amp; Conners starts at 1:18 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>U.S. Open: Rd. 3</actor>
-      <actor>U.S. Open: Rd. 3</actor>
+      <actor>Bradley &amp; Conners</actor>
+      <actor>Bradley &amp; Conners</actor>
     </credits>
   </programme>
-  <programme start="20260620120000 +0000" stop="20260620140000 +0000" channel="PEACOCK 008">
-    <title lang="en">U.S. Open: Rd. 3 starts at 12:00 PM ET</title>
+  <programme start="20260621120000 +0000" stop="20260621140000 +0000" channel="PEACOCK 008">
+    <title lang="en">Bradley &amp; Conners starts at 1:18 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>U.S. Open: Rd. 3</actor>
-      <actor>U.S. Open: Rd. 3</actor>
+      <actor>Bradley &amp; Conners</actor>
+      <actor>Bradley &amp; Conners</actor>
     </credits>
   </programme>
-  <programme start="20260620140000 +0000" stop="20260620160000 +0000" channel="PEACOCK 008">
-    <title lang="en">U.S. Open: Rd. 3 starts at 12:00 PM ET</title>
+  <programme start="20260621140000 +0000" stop="20260621160000 +0000" channel="PEACOCK 008">
+    <title lang="en">Bradley &amp; Conners starts at 1:18 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>U.S. Open: Rd. 3</actor>
-      <actor>U.S. Open: Rd. 3</actor>
+      <actor>Bradley &amp; Conners</actor>
+      <actor>Bradley &amp; Conners</actor>
     </credits>
   </programme>
-  <programme start="20260620160000 +0000" stop="20260620200000 +0000" channel="PEACOCK 008">
-    <title lang="en">U.S. Open: Rd. 3</title>
+  <programme start="20260621160000 +0000" stop="20260621171800 +0000" channel="PEACOCK 008">
+    <title lang="en">Bradley &amp; Conners starts at 1:18 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Bradley &amp; Conners</actor>
+      <actor>Bradley &amp; Conners</actor>
+    </credits>
+  </programme>
+  <programme start="20260621171800 +0000" stop="20260621211800 +0000" channel="PEACOCK 008">
+    <title lang="en">Bradley &amp; Conners</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>U.S. Open: Rd. 3</actor>
-      <actor>U.S. Open: Rd. 3</actor>
+      <actor>Bradley &amp; Conners</actor>
+      <actor>Bradley &amp; Conners</actor>
     </credits>
   </programme>
-  <programme start="20260620100000 +0000" stop="20260620120000 +0000" channel="PEACOCK 009">
-    <title lang="en">U.S. Open on Sky Sports: Rd. 3 starts at 12:00 PM ET</title>
+  <programme start="20260621100000 +0000" stop="20260621120000 +0000" channel="PEACOCK 009">
+    <title lang="en">Away Feed: CIN at NYY starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>U.S. Open on Sky Sports: Rd. 3</actor>
-      <actor>U.S. Open on Sky Sports: Rd. 3</actor>
+      <actor>Away Feed: CIN at NYY</actor>
+      <actor>Away Feed: CIN at NYY</actor>
     </credits>
   </programme>
-  <programme start="20260620120000 +0000" stop="20260620140000 +0000" channel="PEACOCK 009">
-    <title lang="en">U.S. Open on Sky Sports: Rd. 3 starts at 12:00 PM ET</title>
+  <programme start="20260621120000 +0000" stop="20260621140000 +0000" channel="PEACOCK 009">
+    <title lang="en">Away Feed: CIN at NYY starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>U.S. Open on Sky Sports: Rd. 3</actor>
-      <actor>U.S. Open on Sky Sports: Rd. 3</actor>
+      <actor>Away Feed: CIN at NYY</actor>
+      <actor>Away Feed: CIN at NYY</actor>
     </credits>
   </programme>
-  <programme start="20260620140000 +0000" stop="20260620160000 +0000" channel="PEACOCK 009">
-    <title lang="en">U.S. Open on Sky Sports: Rd. 3 starts at 12:00 PM ET</title>
+  <programme start="20260621140000 +0000" stop="20260621160000 +0000" channel="PEACOCK 009">
+    <title lang="en">Away Feed: CIN at NYY starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>U.S. Open on Sky Sports: Rd. 3</actor>
-      <actor>U.S. Open on Sky Sports: Rd. 3</actor>
+      <actor>Away Feed: CIN at NYY</actor>
+      <actor>Away Feed: CIN at NYY</actor>
     </credits>
   </programme>
-  <programme start="20260620160000 +0000" stop="20260620200000 +0000" channel="PEACOCK 009">
-    <title lang="en">U.S. Open on Sky Sports: Rd. 3</title>
+  <programme start="20260621160000 +0000" stop="20260621173000 +0000" channel="PEACOCK 009">
+    <title lang="en">Away Feed: CIN at NYY starts at 1:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: CIN at NYY</actor>
+      <actor>Away Feed: CIN at NYY</actor>
+    </credits>
+  </programme>
+  <programme start="20260621173000 +0000" stop="20260621213000 +0000" channel="PEACOCK 009">
+    <title lang="en">Away Feed: CIN at NYY</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>U.S. Open on Sky Sports: Rd. 3</actor>
-      <actor>U.S. Open on Sky Sports: Rd. 3</actor>
+      <actor>Away Feed: CIN at NYY</actor>
+      <actor>Away Feed: CIN at NYY</actor>
     </credits>
   </programme>
-  <programme start="20260620100000 +0000" stop="20260620120000 +0000" channel="PEACOCK 010">
-    <title lang="en">Home Feed: CWS at DET starts at 1:00 PM ET</title>
+  <programme start="20260621100000 +0000" stop="20260621120000 +0000" channel="PEACOCK 010">
+    <title lang="en">Home Feed: CIN at NYY starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: CWS at DET</actor>
-      <actor>Home Feed: CWS at DET</actor>
+      <actor>Home Feed: CIN at NYY</actor>
+      <actor>Home Feed: CIN at NYY</actor>
     </credits>
   </programme>
-  <programme start="20260620120000 +0000" stop="20260620140000 +0000" channel="PEACOCK 010">
-    <title lang="en">Home Feed: CWS at DET starts at 1:00 PM ET</title>
+  <programme start="20260621120000 +0000" stop="20260621140000 +0000" channel="PEACOCK 010">
+    <title lang="en">Home Feed: CIN at NYY starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: CWS at DET</actor>
-      <actor>Home Feed: CWS at DET</actor>
+      <actor>Home Feed: CIN at NYY</actor>
+      <actor>Home Feed: CIN at NYY</actor>
     </credits>
   </programme>
-  <programme start="20260620140000 +0000" stop="20260620160000 +0000" channel="PEACOCK 010">
-    <title lang="en">Home Feed: CWS at DET starts at 1:00 PM ET</title>
+  <programme start="20260621140000 +0000" stop="20260621160000 +0000" channel="PEACOCK 010">
+    <title lang="en">Home Feed: CIN at NYY starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: CWS at DET</actor>
-      <actor>Home Feed: CWS at DET</actor>
+      <actor>Home Feed: CIN at NYY</actor>
+      <actor>Home Feed: CIN at NYY</actor>
     </credits>
   </programme>
-  <programme start="20260620160000 +0000" stop="20260620170000 +0000" channel="PEACOCK 010">
-    <title lang="en">Home Feed: CWS at DET starts at 1:00 PM ET</title>
+  <programme start="20260621160000 +0000" stop="20260621173000 +0000" channel="PEACOCK 010">
+    <title lang="en">Home Feed: CIN at NYY starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: CWS at DET</actor>
-      <actor>Home Feed: CWS at DET</actor>
+      <actor>Home Feed: CIN at NYY</actor>
+      <actor>Home Feed: CIN at NYY</actor>
     </credits>
   </programme>
-  <programme start="20260620170000 +0000" stop="20260620210000 +0000" channel="PEACOCK 010">
-    <title lang="en">Home Feed: CWS at DET</title>
+  <programme start="20260621173000 +0000" stop="20260621213000 +0000" channel="PEACOCK 010">
+    <title lang="en">Home Feed: CIN at NYY</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: CWS at DET</actor>
-      <actor>Home Feed: CWS at DET</actor>
+      <actor>Home Feed: CIN at NYY</actor>
+      <actor>Home Feed: CIN at NYY</actor>
     </credits>
   </programme>
-  <programme start="20260620100000 +0000" stop="20260620120000 +0000" channel="PEACOCK 011">
-    <title lang="en">Motocross Rd. 21: High Point starts at 1:00 PM ET</title>
+  <programme start="20260621100000 +0000" stop="20260621120000 +0000" channel="PEACOCK 011">
+    <title lang="en">Fitzpatrick &amp; Morikawa starts at 1:34 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Motocross Rd. 21: High Point</actor>
-      <actor>Motocross Rd. 21: High Point</actor>
+      <actor>Fitzpatrick &amp; Morikawa</actor>
+      <actor>Fitzpatrick &amp; Morikawa</actor>
     </credits>
   </programme>
-  <programme start="20260620120000 +0000" stop="20260620140000 +0000" channel="PEACOCK 011">
-    <title lang="en">Motocross Rd. 21: High Point starts at 1:00 PM ET</title>
+  <programme start="20260621120000 +0000" stop="20260621140000 +0000" channel="PEACOCK 011">
+    <title lang="en">Fitzpatrick &amp; Morikawa starts at 1:34 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Motocross Rd. 21: High Point</actor>
-      <actor>Motocross Rd. 21: High Point</actor>
+      <actor>Fitzpatrick &amp; Morikawa</actor>
+      <actor>Fitzpatrick &amp; Morikawa</actor>
     </credits>
   </programme>
-  <programme start="20260620140000 +0000" stop="20260620160000 +0000" channel="PEACOCK 011">
-    <title lang="en">Motocross Rd. 21: High Point starts at 1:00 PM ET</title>
+  <programme start="20260621140000 +0000" stop="20260621160000 +0000" channel="PEACOCK 011">
+    <title lang="en">Fitzpatrick &amp; Morikawa starts at 1:34 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Motocross Rd. 21: High Point</actor>
-      <actor>Motocross Rd. 21: High Point</actor>
+      <actor>Fitzpatrick &amp; Morikawa</actor>
+      <actor>Fitzpatrick &amp; Morikawa</actor>
     </credits>
   </programme>
-  <programme start="20260620160000 +0000" stop="20260620170000 +0000" channel="PEACOCK 011">
-    <title lang="en">Motocross Rd. 21: High Point starts at 1:00 PM ET</title>
+  <programme start="20260621160000 +0000" stop="20260621173400 +0000" channel="PEACOCK 011">
+    <title lang="en">Fitzpatrick &amp; Morikawa starts at 1:34 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Motocross Rd. 21: High Point</actor>
-      <actor>Motocross Rd. 21: High Point</actor>
+      <actor>Fitzpatrick &amp; Morikawa</actor>
+      <actor>Fitzpatrick &amp; Morikawa</actor>
     </credits>
   </programme>
-  <programme start="20260620170000 +0000" stop="20260620210000 +0000" channel="PEACOCK 011">
-    <title lang="en">Motocross Rd. 21: High Point</title>
+  <programme start="20260621173400 +0000" stop="20260621213400 +0000" channel="PEACOCK 011">
+    <title lang="en">Fitzpatrick &amp; Morikawa</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Motocross Rd. 21: High Point</actor>
-      <actor>Motocross Rd. 21: High Point</actor>
+      <actor>Fitzpatrick &amp; Morikawa</actor>
+      <actor>Fitzpatrick &amp; Morikawa</actor>
     </credits>
   </programme>
-  <programme start="20260620100000 +0000" stop="20260620120000 +0000" channel="PEACOCK 012">
-    <title lang="en">Away Feed: CWS at DET starts at 1:00 PM ET</title>
+  <programme start="20260621100000 +0000" stop="20260621120000 +0000" channel="PEACOCK 012">
+    <title lang="en">Schauffele &amp; Fleetwood starts at 1:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: CWS at DET</actor>
-      <actor>Away Feed: CWS at DET</actor>
+      <actor>Schauffele &amp; Fleetwood</actor>
+      <actor>Schauffele &amp; Fleetwood</actor>
     </credits>
   </programme>
-  <programme start="20260620120000 +0000" stop="20260620140000 +0000" channel="PEACOCK 012">
-    <title lang="en">Away Feed: CWS at DET starts at 1:00 PM ET</title>
+  <programme start="20260621120000 +0000" stop="20260621140000 +0000" channel="PEACOCK 012">
+    <title lang="en">Schauffele &amp; Fleetwood starts at 1:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: CWS at DET</actor>
-      <actor>Away Feed: CWS at DET</actor>
+      <actor>Schauffele &amp; Fleetwood</actor>
+      <actor>Schauffele &amp; Fleetwood</actor>
     </credits>
   </programme>
-  <programme start="20260620140000 +0000" stop="20260620160000 +0000" channel="PEACOCK 012">
-    <title lang="en">Away Feed: CWS at DET starts at 1:00 PM ET</title>
+  <programme start="20260621140000 +0000" stop="20260621160000 +0000" channel="PEACOCK 012">
+    <title lang="en">Schauffele &amp; Fleetwood starts at 1:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: CWS at DET</actor>
-      <actor>Away Feed: CWS at DET</actor>
+      <actor>Schauffele &amp; Fleetwood</actor>
+      <actor>Schauffele &amp; Fleetwood</actor>
     </credits>
   </programme>
-  <programme start="20260620160000 +0000" stop="20260620170000 +0000" channel="PEACOCK 012">
-    <title lang="en">Away Feed: CWS at DET starts at 1:00 PM ET</title>
+  <programme start="20260621160000 +0000" stop="20260621174500 +0000" channel="PEACOCK 012">
+    <title lang="en">Schauffele &amp; Fleetwood starts at 1:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: CWS at DET</actor>
-      <actor>Away Feed: CWS at DET</actor>
+      <actor>Schauffele &amp; Fleetwood</actor>
+      <actor>Schauffele &amp; Fleetwood</actor>
     </credits>
   </programme>
-  <programme start="20260620170000 +0000" stop="20260620210000 +0000" channel="PEACOCK 012">
-    <title lang="en">Away Feed: CWS at DET</title>
+  <programme start="20260621174500 +0000" stop="20260621214500 +0000" channel="PEACOCK 012">
+    <title lang="en">Schauffele &amp; Fleetwood</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: CWS at DET</actor>
-      <actor>Away Feed: CWS at DET</actor>
+      <actor>Schauffele &amp; Fleetwood</actor>
+      <actor>Schauffele &amp; Fleetwood</actor>
     </credits>
   </programme>
-  <programme start="20260620100000 +0000" stop="20260620120000 +0000" channel="PEACOCK 013">
-    <title lang="en">Scheffler &amp; Harman starts at 2:00 PM ET</title>
+  <programme start="20260621100000 +0000" stop="20260621120000 +0000" channel="PEACOCK 013">
+    <title lang="en">Twins at Diamondbacks starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Scheffler &amp; Harman</actor>
-      <actor>Scheffler &amp; Harman</actor>
+      <actor>Twins at Diamondbacks</actor>
+      <actor>Twins at Diamondbacks</actor>
     </credits>
   </programme>
-  <programme start="20260620120000 +0000" stop="20260620140000 +0000" channel="PEACOCK 013">
-    <title lang="en">Scheffler &amp; Harman starts at 2:00 PM ET</title>
+  <programme start="20260621120000 +0000" stop="20260621140000 +0000" channel="PEACOCK 013">
+    <title lang="en">Twins at Diamondbacks starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Scheffler &amp; Harman</actor>
-      <actor>Scheffler &amp; Harman</actor>
+      <actor>Twins at Diamondbacks</actor>
+      <actor>Twins at Diamondbacks</actor>
     </credits>
   </programme>
-  <programme start="20260620140000 +0000" stop="20260620160000 +0000" channel="PEACOCK 013">
-    <title lang="en">Scheffler &amp; Harman starts at 2:00 PM ET</title>
+  <programme start="20260621140000 +0000" stop="20260621160000 +0000" channel="PEACOCK 013">
+    <title lang="en">Twins at Diamondbacks starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Scheffler &amp; Harman</actor>
-      <actor>Scheffler &amp; Harman</actor>
+      <actor>Twins at Diamondbacks</actor>
+      <actor>Twins at Diamondbacks</actor>
     </credits>
   </programme>
-  <programme start="20260620160000 +0000" stop="20260620180000 +0000" channel="PEACOCK 013">
-    <title lang="en">Scheffler &amp; Harman starts at 2:00 PM ET</title>
+  <programme start="20260621160000 +0000" stop="20260621180000 +0000" channel="PEACOCK 013">
+    <title lang="en">Twins at Diamondbacks starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Scheffler &amp; Harman</actor>
-      <actor>Scheffler &amp; Harman</actor>
+      <actor>Twins at Diamondbacks</actor>
+      <actor>Twins at Diamondbacks</actor>
     </credits>
   </programme>
-  <programme start="20260620180000 +0000" stop="20260620220000 +0000" channel="PEACOCK 013">
-    <title lang="en">Scheffler &amp; Harman</title>
+  <programme start="20260621180000 +0000" stop="20260621190000 +0000" channel="PEACOCK 013">
+    <title lang="en">Twins at Diamondbacks starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Twins at Diamondbacks</actor>
+      <actor>Twins at Diamondbacks</actor>
+    </credits>
+  </programme>
+  <programme start="20260621190000 +0000" stop="20260621230000 +0000" channel="PEACOCK 013">
+    <title lang="en">Twins at Diamondbacks</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Scheffler &amp; Harman</actor>
-      <actor>Scheffler &amp; Harman</actor>
+      <actor>Twins at Diamondbacks</actor>
+      <actor>Twins at Diamondbacks</actor>
     </credits>
   </programme>
-  <programme start="20260620100000 +0000" stop="20260620120000 +0000" channel="PEACOCK 014">
-    <title lang="en">Mcllroy &amp; McNealy starts at 2:11 PM ET</title>
+  <programme start="20260621100000 +0000" stop="20260621120000 +0000" channel="PEACOCK 014">
+    <title lang="en">Super Final: Day 3 PM starts at 3:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Mcllroy &amp; McNealy</actor>
-      <actor>Mcllroy &amp; McNealy</actor>
+      <actor>Super Final: Day 3 PM</actor>
+      <actor>Super Final: Day 3 PM</actor>
     </credits>
   </programme>
-  <programme start="20260620120000 +0000" stop="20260620140000 +0000" channel="PEACOCK 014">
-    <title lang="en">Mcllroy &amp; McNealy starts at 2:11 PM ET</title>
+  <programme start="20260621120000 +0000" stop="20260621140000 +0000" channel="PEACOCK 014">
+    <title lang="en">Super Final: Day 3 PM starts at 3:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Mcllroy &amp; McNealy</actor>
-      <actor>Mcllroy &amp; McNealy</actor>
+      <actor>Super Final: Day 3 PM</actor>
+      <actor>Super Final: Day 3 PM</actor>
     </credits>
   </programme>
-  <programme start="20260620140000 +0000" stop="20260620160000 +0000" channel="PEACOCK 014">
-    <title lang="en">Mcllroy &amp; McNealy starts at 2:11 PM ET</title>
+  <programme start="20260621140000 +0000" stop="20260621160000 +0000" channel="PEACOCK 014">
+    <title lang="en">Super Final: Day 3 PM starts at 3:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Mcllroy &amp; McNealy</actor>
-      <actor>Mcllroy &amp; McNealy</actor>
+      <actor>Super Final: Day 3 PM</actor>
+      <actor>Super Final: Day 3 PM</actor>
     </credits>
   </programme>
-  <programme start="20260620160000 +0000" stop="20260620180000 +0000" channel="PEACOCK 014">
-    <title lang="en">Mcllroy &amp; McNealy starts at 2:11 PM ET</title>
+  <programme start="20260621160000 +0000" stop="20260621180000 +0000" channel="PEACOCK 014">
+    <title lang="en">Super Final: Day 3 PM starts at 3:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Mcllroy &amp; McNealy</actor>
-      <actor>Mcllroy &amp; McNealy</actor>
+      <actor>Super Final: Day 3 PM</actor>
+      <actor>Super Final: Day 3 PM</actor>
     </credits>
   </programme>
-  <programme start="20260620180000 +0000" stop="20260620181100 +0000" channel="PEACOCK 014">
-    <title lang="en">Mcllroy &amp; McNealy starts at 2:11 PM ET</title>
+  <programme start="20260621180000 +0000" stop="20260621193000 +0000" channel="PEACOCK 014">
+    <title lang="en">Super Final: Day 3 PM starts at 3:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Mcllroy &amp; McNealy</actor>
-      <actor>Mcllroy &amp; McNealy</actor>
+      <actor>Super Final: Day 3 PM</actor>
+      <actor>Super Final: Day 3 PM</actor>
     </credits>
   </programme>
-  <programme start="20260620181100 +0000" stop="20260620221100 +0000" channel="PEACOCK 014">
-    <title lang="en">Mcllroy &amp; McNealy</title>
+  <programme start="20260621193000 +0000" stop="20260621233000 +0000" channel="PEACOCK 014">
+    <title lang="en">Super Final: Day 3 PM</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Mcllroy &amp; McNealy</actor>
-      <actor>Mcllroy &amp; McNealy</actor>
+      <actor>Super Final: Day 3 PM</actor>
+      <actor>Super Final: Day 3 PM</actor>
     </credits>
   </programme>
-  <programme start="20260620100000 +0000" stop="20260620120000 +0000" channel="PEACOCK 015">
-    <title lang="en">Burns &amp; Theegala starts at 3:00 PM ET</title>
+  <programme start="20260621100000 +0000" stop="20260621120000 +0000" channel="PEACOCK 015">
+    <title lang="en">MLB Sunday Stretch: 6.21.26 starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Burns &amp; Theegala</actor>
-      <actor>Burns &amp; Theegala</actor>
+      <actor>MLB Sunday Stretch: 6.21.26</actor>
+      <actor>MLB Sunday Stretch: 6.21.26</actor>
     </credits>
   </programme>
-  <programme start="20260620120000 +0000" stop="20260620140000 +0000" channel="PEACOCK 015">
-    <title lang="en">Burns &amp; Theegala starts at 3:00 PM ET</title>
+  <programme start="20260621120000 +0000" stop="20260621140000 +0000" channel="PEACOCK 015">
+    <title lang="en">MLB Sunday Stretch: 6.21.26 starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Burns &amp; Theegala</actor>
-      <actor>Burns &amp; Theegala</actor>
+      <actor>MLB Sunday Stretch: 6.21.26</actor>
+      <actor>MLB Sunday Stretch: 6.21.26</actor>
     </credits>
   </programme>
-  <programme start="20260620140000 +0000" stop="20260620160000 +0000" channel="PEACOCK 015">
-    <title lang="en">Burns &amp; Theegala starts at 3:00 PM ET</title>
+  <programme start="20260621140000 +0000" stop="20260621160000 +0000" channel="PEACOCK 015">
+    <title lang="en">MLB Sunday Stretch: 6.21.26 starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Burns &amp; Theegala</actor>
-      <actor>Burns &amp; Theegala</actor>
+      <actor>MLB Sunday Stretch: 6.21.26</actor>
+      <actor>MLB Sunday Stretch: 6.21.26</actor>
     </credits>
   </programme>
-  <programme start="20260620160000 +0000" stop="20260620180000 +0000" channel="PEACOCK 015">
-    <title lang="en">Burns &amp; Theegala starts at 3:00 PM ET</title>
+  <programme start="20260621160000 +0000" stop="20260621180000 +0000" channel="PEACOCK 015">
+    <title lang="en">MLB Sunday Stretch: 6.21.26 starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Burns &amp; Theegala</actor>
-      <actor>Burns &amp; Theegala</actor>
+      <actor>MLB Sunday Stretch: 6.21.26</actor>
+      <actor>MLB Sunday Stretch: 6.21.26</actor>
     </credits>
   </programme>
-  <programme start="20260620180000 +0000" stop="20260620190000 +0000" channel="PEACOCK 015">
-    <title lang="en">Burns &amp; Theegala starts at 3:00 PM ET</title>
+  <programme start="20260621180000 +0000" stop="20260621200000 +0000" channel="PEACOCK 015">
+    <title lang="en">MLB Sunday Stretch: 6.21.26 starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Burns &amp; Theegala</actor>
-      <actor>Burns &amp; Theegala</actor>
+      <actor>MLB Sunday Stretch: 6.21.26</actor>
+      <actor>MLB Sunday Stretch: 6.21.26</actor>
     </credits>
   </programme>
-  <programme start="20260620190000 +0000" stop="20260620230000 +0000" channel="PEACOCK 015">
-    <title lang="en">Burns &amp; Theegala</title>
+  <programme start="20260621200000 +0000" stop="20260621213000 +0000" channel="PEACOCK 015">
+    <title lang="en">MLB Sunday Stretch: 6.21.26 starts at 5:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>MLB Sunday Stretch: 6.21.26</actor>
+      <actor>MLB Sunday Stretch: 6.21.26</actor>
+    </credits>
+  </programme>
+  <programme start="20260621213000 +0000" stop="20260622013000 +0000" channel="PEACOCK 015">
+    <title lang="en">MLB Sunday Stretch: 6.21.26</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Burns &amp; Theegala</actor>
-      <actor>Burns &amp; Theegala</actor>
+      <actor>MLB Sunday Stretch: 6.21.26</actor>
+      <actor>MLB Sunday Stretch: 6.21.26</actor>
     </credits>
   </programme>
-  <programme start="20260620100000 +0000" stop="20260620120000 +0000" channel="PEACOCK 016">
-    <title lang="en">Super Final: Day 2 PM starts at 3:15 PM ET</title>
+  <programme start="20260621100000 +0000" stop="20260621120000 +0000" channel="PEACOCK 016">
+    <title lang="en">Mets vs. Phillies (Español) starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Super Final: Day 2 PM</actor>
-      <actor>Super Final: Day 2 PM</actor>
+      <actor>Mets vs. Phillies (Español)</actor>
+      <actor>Mets vs. Phillies (Español)</actor>
     </credits>
   </programme>
-  <programme start="20260620120000 +0000" stop="20260620140000 +0000" channel="PEACOCK 016">
-    <title lang="en">Super Final: Day 2 PM starts at 3:15 PM ET</title>
+  <programme start="20260621120000 +0000" stop="20260621140000 +0000" channel="PEACOCK 016">
+    <title lang="en">Mets vs. Phillies (Español) starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Super Final: Day 2 PM</actor>
-      <actor>Super Final: Day 2 PM</actor>
+      <actor>Mets vs. Phillies (Español)</actor>
+      <actor>Mets vs. Phillies (Español)</actor>
     </credits>
   </programme>
-  <programme start="20260620140000 +0000" stop="20260620160000 +0000" channel="PEACOCK 016">
-    <title lang="en">Super Final: Day 2 PM starts at 3:15 PM ET</title>
+  <programme start="20260621140000 +0000" stop="20260621160000 +0000" channel="PEACOCK 016">
+    <title lang="en">Mets vs. Phillies (Español) starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Super Final: Day 2 PM</actor>
-      <actor>Super Final: Day 2 PM</actor>
+      <actor>Mets vs. Phillies (Español)</actor>
+      <actor>Mets vs. Phillies (Español)</actor>
     </credits>
   </programme>
-  <programme start="20260620160000 +0000" stop="20260620180000 +0000" channel="PEACOCK 016">
-    <title lang="en">Super Final: Day 2 PM starts at 3:15 PM ET</title>
+  <programme start="20260621160000 +0000" stop="20260621180000 +0000" channel="PEACOCK 016">
+    <title lang="en">Mets vs. Phillies (Español) starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Super Final: Day 2 PM</actor>
-      <actor>Super Final: Day 2 PM</actor>
+      <actor>Mets vs. Phillies (Español)</actor>
+      <actor>Mets vs. Phillies (Español)</actor>
     </credits>
   </programme>
-  <programme start="20260620180000 +0000" stop="20260620191500 +0000" channel="PEACOCK 016">
-    <title lang="en">Super Final: Day 2 PM starts at 3:15 PM ET</title>
+  <programme start="20260621180000 +0000" stop="20260621200000 +0000" channel="PEACOCK 016">
+    <title lang="en">Mets vs. Phillies (Español) starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Super Final: Day 2 PM</actor>
-      <actor>Super Final: Day 2 PM</actor>
+      <actor>Mets vs. Phillies (Español)</actor>
+      <actor>Mets vs. Phillies (Español)</actor>
     </credits>
   </programme>
-  <programme start="20260620191500 +0000" stop="20260620231500 +0000" channel="PEACOCK 016">
-    <title lang="en">Super Final: Day 2 PM</title>
+  <programme start="20260621200000 +0000" stop="20260621220000 +0000" channel="PEACOCK 016">
+    <title lang="en">Mets vs. Phillies (Español) starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Mets vs. Phillies (Español)</actor>
+      <actor>Mets vs. Phillies (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260621220000 +0000" stop="20260621230000 +0000" channel="PEACOCK 016">
+    <title lang="en">Mets vs. Phillies (Español) starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Mets vs. Phillies (Español)</actor>
+      <actor>Mets vs. Phillies (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260621230000 +0000" stop="20260622030000 +0000" channel="PEACOCK 016">
+    <title lang="en">Mets vs. Phillies (Español)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Super Final: Day 2 PM</actor>
-      <actor>Super Final: Day 2 PM</actor>
+      <actor>Mets vs. Phillies (Español)</actor>
+      <actor>Mets vs. Phillies (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260621100000 +0000" stop="20260621120000 +0000" channel="PEACOCK 017">
+    <title lang="en">Mets at Phillies starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Mets at Phillies</actor>
+      <actor>Mets at Phillies</actor>
+    </credits>
+  </programme>
+  <programme start="20260621120000 +0000" stop="20260621140000 +0000" channel="PEACOCK 017">
+    <title lang="en">Mets at Phillies starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Mets at Phillies</actor>
+      <actor>Mets at Phillies</actor>
+    </credits>
+  </programme>
+  <programme start="20260621140000 +0000" stop="20260621160000 +0000" channel="PEACOCK 017">
+    <title lang="en">Mets at Phillies starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Mets at Phillies</actor>
+      <actor>Mets at Phillies</actor>
+    </credits>
+  </programme>
+  <programme start="20260621160000 +0000" stop="20260621180000 +0000" channel="PEACOCK 017">
+    <title lang="en">Mets at Phillies starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Mets at Phillies</actor>
+      <actor>Mets at Phillies</actor>
+    </credits>
+  </programme>
+  <programme start="20260621180000 +0000" stop="20260621200000 +0000" channel="PEACOCK 017">
+    <title lang="en">Mets at Phillies starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Mets at Phillies</actor>
+      <actor>Mets at Phillies</actor>
+    </credits>
+  </programme>
+  <programme start="20260621200000 +0000" stop="20260621220000 +0000" channel="PEACOCK 017">
+    <title lang="en">Mets at Phillies starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Mets at Phillies</actor>
+      <actor>Mets at Phillies</actor>
+    </credits>
+  </programme>
+  <programme start="20260621220000 +0000" stop="20260621230000 +0000" channel="PEACOCK 017">
+    <title lang="en">Mets at Phillies starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Mets at Phillies</actor>
+      <actor>Mets at Phillies</actor>
+    </credits>
+  </programme>
+  <programme start="20260621230000 +0000" stop="20260622030000 +0000" channel="PEACOCK 017">
+    <title lang="en">Mets at Phillies</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Mets at Phillies</actor>
+      <actor>Mets at Phillies</actor>
     </credits>
   </programme>
 </tv>
