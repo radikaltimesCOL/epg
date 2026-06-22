@@ -210,445 +210,193 @@
   <channel id="PPV 70">
     <display-name>PPV 70</display-name>
   </channel>
-  <programme start="20260621100000 +0000" stop="20260621120000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: USAC Road Racing at VIR starts at 8:30 AM ET</title>
+  <programme start="20260622100000 +0000" stop="20260622120000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 2:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>USAC Road Racing at VIR</actor>
+      <actor>WWE Monday Night Raw</actor>
     </credits>
   </programme>
-  <programme start="20260621120000 +0000" stop="20260621123000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: USAC Road Racing at VIR starts at 8:30 AM ET</title>
+  <programme start="20260622120000 +0000" stop="20260622140000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 2:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>USAC Road Racing at VIR</actor>
+      <actor>WWE Monday Night Raw</actor>
     </credits>
   </programme>
-  <programme start="20260621123000 +0000" stop="20260621153000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: USAC Road Racing at VIR (6.21 8:30 AM ET)</title>
+  <programme start="20260622140000 +0000" stop="20260622160000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260622160000 +0000" stop="20260622180000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260622180000 +0000" stop="20260622210000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw (6.22 2:00 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>USAC Road Racing at VIR</actor>
+      <actor>WWE Monday Night Raw</actor>
     </credits>
   </programme>
-  <programme start="20260621100000 +0000" stop="20260621120000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: AMSOIL Championship Off Road In Crandon starts at 9:00 AM ET</title>
+  <programme start="20260622100000 +0000" stop="20260622120000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Wild Thing Kart Series at Stafford starts at 6:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>AMSOIL Championship Off Road In Crandon</actor>
+      <actor>Wild Thing Kart Series at Stafford</actor>
     </credits>
   </programme>
-  <programme start="20260621120000 +0000" stop="20260621130000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: AMSOIL Championship Off Road In Crandon starts at 9:00 AM ET</title>
+  <programme start="20260622120000 +0000" stop="20260622140000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Wild Thing Kart Series at Stafford starts at 6:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>AMSOIL Championship Off Road In Crandon</actor>
+      <actor>Wild Thing Kart Series at Stafford</actor>
     </credits>
   </programme>
-  <programme start="20260621130000 +0000" stop="20260621160000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: AMSOIL Championship Off Road In Crandon (6.21 9:00 AM ET)</title>
+  <programme start="20260622140000 +0000" stop="20260622160000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Wild Thing Kart Series at Stafford starts at 6:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>Wild Thing Kart Series at Stafford</actor>
+    </credits>
+  </programme>
+  <programme start="20260622160000 +0000" stop="20260622180000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Wild Thing Kart Series at Stafford starts at 6:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>Wild Thing Kart Series at Stafford</actor>
+    </credits>
+  </programme>
+  <programme start="20260622180000 +0000" stop="20260622200000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Wild Thing Kart Series at Stafford starts at 6:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>Wild Thing Kart Series at Stafford</actor>
+    </credits>
+  </programme>
+  <programme start="20260622200000 +0000" stop="20260622220000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Wild Thing Kart Series at Stafford starts at 6:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>Wild Thing Kart Series at Stafford</actor>
+    </credits>
+  </programme>
+  <programme start="20260622220000 +0000" stop="20260622221500 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Wild Thing Kart Series at Stafford starts at 6:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>Wild Thing Kart Series at Stafford</actor>
+    </credits>
+  </programme>
+  <programme start="20260622221500 +0000" stop="20260623011500 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Wild Thing Kart Series at Stafford (6.22 6:15 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>AMSOIL Championship Off Road In Crandon</actor>
+      <actor>Wild Thing Kart Series at Stafford</actor>
     </credits>
   </programme>
-  <programme start="20260621100000 +0000" stop="20260621120000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: Mekkelson RV Memorial Day Classic 125 at Thunder Road starts at 1:30 PM ET</title>
+  <programme start="20260622100000 +0000" stop="20260622120000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Ogilvie Raceway starts at 7:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>Mekkelson RV Memorial Day Classic 125 at Thunder Road</actor>
+      <actor>Ogilvie Raceway</actor>
     </credits>
   </programme>
-  <programme start="20260621120000 +0000" stop="20260621140000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: Mekkelson RV Memorial Day Classic 125 at Thunder Road starts at 1:30 PM ET</title>
+  <programme start="20260622120000 +0000" stop="20260622140000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Ogilvie Raceway starts at 7:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>Mekkelson RV Memorial Day Classic 125 at Thunder Road</actor>
+      <actor>Ogilvie Raceway</actor>
     </credits>
   </programme>
-  <programme start="20260621140000 +0000" stop="20260621160000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: Mekkelson RV Memorial Day Classic 125 at Thunder Road starts at 1:30 PM ET</title>
+  <programme start="20260622140000 +0000" stop="20260622160000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Ogilvie Raceway starts at 7:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>Mekkelson RV Memorial Day Classic 125 at Thunder Road</actor>
+      <actor>Ogilvie Raceway</actor>
     </credits>
   </programme>
-  <programme start="20260621160000 +0000" stop="20260621173000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: Mekkelson RV Memorial Day Classic 125 at Thunder Road starts at 1:30 PM ET</title>
+  <programme start="20260622160000 +0000" stop="20260622180000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Ogilvie Raceway starts at 7:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>Mekkelson RV Memorial Day Classic 125 at Thunder Road</actor>
+      <actor>Ogilvie Raceway</actor>
     </credits>
   </programme>
-  <programme start="20260621173000 +0000" stop="20260621203000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: Mekkelson RV Memorial Day Classic 125 at Thunder Road (6.21 1:30 PM ET)</title>
+  <programme start="20260622180000 +0000" stop="20260622200000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Ogilvie Raceway starts at 7:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>Ogilvie Raceway</actor>
+    </credits>
+  </programme>
+  <programme start="20260622200000 +0000" stop="20260622220000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Ogilvie Raceway starts at 7:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>Ogilvie Raceway</actor>
+    </credits>
+  </programme>
+  <programme start="20260622220000 +0000" stop="20260622231500 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Ogilvie Raceway starts at 7:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>Ogilvie Raceway</actor>
+    </credits>
+  </programme>
+  <programme start="20260622231500 +0000" stop="20260623021500 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Ogilvie Raceway (6.22 7:15 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>Mekkelson RV Memorial Day Classic 125 at Thunder Road</actor>
-    </credits>
-  </programme>
-  <programme start="20260621100000 +0000" stop="20260621120000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: Short Track Super Series at Devils Bowl starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>Short Track Super Series at Devils Bowl</actor>
-    </credits>
-  </programme>
-  <programme start="20260621120000 +0000" stop="20260621140000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: Short Track Super Series at Devils Bowl starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>Short Track Super Series at Devils Bowl</actor>
-    </credits>
-  </programme>
-  <programme start="20260621140000 +0000" stop="20260621160000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: Short Track Super Series at Devils Bowl starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>Short Track Super Series at Devils Bowl</actor>
-    </credits>
-  </programme>
-  <programme start="20260621160000 +0000" stop="20260621180000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: Short Track Super Series at Devils Bowl starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>Short Track Super Series at Devils Bowl</actor>
-    </credits>
-  </programme>
-  <programme start="20260621180000 +0000" stop="20260621200000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: Short Track Super Series at Devils Bowl starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>Short Track Super Series at Devils Bowl</actor>
-    </credits>
-  </programme>
-  <programme start="20260621200000 +0000" stop="20260621210000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: Short Track Super Series at Devils Bowl starts at 5:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>Short Track Super Series at Devils Bowl</actor>
-    </credits>
-  </programme>
-  <programme start="20260621210000 +0000" stop="20260622000000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: Short Track Super Series at Devils Bowl (6.21 5:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>Short Track Super Series at Devils Bowl</actor>
-    </credits>
-  </programme>
-  <programme start="20260621100000 +0000" stop="20260621120000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: ASA Stars at Slinger starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>ASA Stars at Slinger</actor>
-    </credits>
-  </programme>
-  <programme start="20260621120000 +0000" stop="20260621140000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: ASA Stars at Slinger starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>ASA Stars at Slinger</actor>
-    </credits>
-  </programme>
-  <programme start="20260621140000 +0000" stop="20260621160000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: ASA Stars at Slinger starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>ASA Stars at Slinger</actor>
-    </credits>
-  </programme>
-  <programme start="20260621160000 +0000" stop="20260621180000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: ASA Stars at Slinger starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>ASA Stars at Slinger</actor>
-    </credits>
-  </programme>
-  <programme start="20260621180000 +0000" stop="20260621200000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: ASA Stars at Slinger starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>ASA Stars at Slinger</actor>
-    </credits>
-  </programme>
-  <programme start="20260621200000 +0000" stop="20260621213000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: ASA Stars at Slinger starts at 5:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>ASA Stars at Slinger</actor>
-    </credits>
-  </programme>
-  <programme start="20260621213000 +0000" stop="20260622003000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: ASA Stars at Slinger (6.21 5:30 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>ASA Stars at Slinger</actor>
-    </credits>
-  </programme>
-  <programme start="20260621100000 +0000" stop="20260621120000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: USAC Eastern Storm at Action Track starts at 6:15 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>USAC Eastern Storm at Action Track</actor>
-    </credits>
-  </programme>
-  <programme start="20260621120000 +0000" stop="20260621140000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: USAC Eastern Storm at Action Track starts at 6:15 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>USAC Eastern Storm at Action Track</actor>
-    </credits>
-  </programme>
-  <programme start="20260621140000 +0000" stop="20260621160000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: USAC Eastern Storm at Action Track starts at 6:15 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>USAC Eastern Storm at Action Track</actor>
-    </credits>
-  </programme>
-  <programme start="20260621160000 +0000" stop="20260621180000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: USAC Eastern Storm at Action Track starts at 6:15 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>USAC Eastern Storm at Action Track</actor>
-    </credits>
-  </programme>
-  <programme start="20260621180000 +0000" stop="20260621200000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: USAC Eastern Storm at Action Track starts at 6:15 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>USAC Eastern Storm at Action Track</actor>
-    </credits>
-  </programme>
-  <programme start="20260621200000 +0000" stop="20260621220000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: USAC Eastern Storm at Action Track starts at 6:15 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>USAC Eastern Storm at Action Track</actor>
-    </credits>
-  </programme>
-  <programme start="20260621220000 +0000" stop="20260621221500 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: USAC Eastern Storm at Action Track starts at 6:15 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>USAC Eastern Storm at Action Track</actor>
-    </credits>
-  </programme>
-  <programme start="20260621221500 +0000" stop="20260622011500 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: USAC Eastern Storm at Action Track (6.21 6:15 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>USAC Eastern Storm at Action Track</actor>
-    </credits>
-  </programme>
-  <programme start="20260621100000 +0000" stop="20260621120000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Lincoln Speedway starts at 6:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Lincoln Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260621120000 +0000" stop="20260621140000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Lincoln Speedway starts at 6:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Lincoln Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260621140000 +0000" stop="20260621160000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Lincoln Speedway starts at 6:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Lincoln Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260621160000 +0000" stop="20260621180000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Lincoln Speedway starts at 6:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Lincoln Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260621180000 +0000" stop="20260621200000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Lincoln Speedway starts at 6:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Lincoln Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260621200000 +0000" stop="20260621220000 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Lincoln Speedway starts at 6:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Lincoln Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260621220000 +0000" stop="20260621224500 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Lincoln Speedway starts at 6:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Lincoln Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260621224500 +0000" stop="20260622014500 +0000" channel="PPV 07">
-    <title lang="en">EVENT 07: Lincoln Speedway (6.21 6:45 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 07</actor>
-      <actor>Lincoln Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260621100000 +0000" stop="20260621120000 +0000" channel="PPV 08">
-    <title lang="en">EVENT 08: Love Alive Charity Beast Cup Invitational starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 08</actor>
-      <actor>Love Alive Charity Beast Cup Invitational</actor>
-    </credits>
-  </programme>
-  <programme start="20260621120000 +0000" stop="20260621140000 +0000" channel="PPV 08">
-    <title lang="en">EVENT 08: Love Alive Charity Beast Cup Invitational starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 08</actor>
-      <actor>Love Alive Charity Beast Cup Invitational</actor>
-    </credits>
-  </programme>
-  <programme start="20260621140000 +0000" stop="20260621160000 +0000" channel="PPV 08">
-    <title lang="en">EVENT 08: Love Alive Charity Beast Cup Invitational starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 08</actor>
-      <actor>Love Alive Charity Beast Cup Invitational</actor>
-    </credits>
-  </programme>
-  <programme start="20260621160000 +0000" stop="20260621180000 +0000" channel="PPV 08">
-    <title lang="en">EVENT 08: Love Alive Charity Beast Cup Invitational starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 08</actor>
-      <actor>Love Alive Charity Beast Cup Invitational</actor>
-    </credits>
-  </programme>
-  <programme start="20260621180000 +0000" stop="20260621200000 +0000" channel="PPV 08">
-    <title lang="en">EVENT 08: Love Alive Charity Beast Cup Invitational starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 08</actor>
-      <actor>Love Alive Charity Beast Cup Invitational</actor>
-    </credits>
-  </programme>
-  <programme start="20260621200000 +0000" stop="20260621220000 +0000" channel="PPV 08">
-    <title lang="en">EVENT 08: Love Alive Charity Beast Cup Invitational starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 08</actor>
-      <actor>Love Alive Charity Beast Cup Invitational</actor>
-    </credits>
-  </programme>
-  <programme start="20260621220000 +0000" stop="20260621230000 +0000" channel="PPV 08">
-    <title lang="en">EVENT 08: Love Alive Charity Beast Cup Invitational starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 08</actor>
-      <actor>Love Alive Charity Beast Cup Invitational</actor>
-    </credits>
-  </programme>
-  <programme start="20260621230000 +0000" stop="20260622020000 +0000" channel="PPV 08">
-    <title lang="en">EVENT 08: Love Alive Charity Beast Cup Invitational (6.21 7:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 08</actor>
-      <actor>Love Alive Charity Beast Cup Invitational</actor>
+      <actor>Ogilvie Raceway</actor>
     </credits>
   </programme>
 </tv>
