@@ -300,150 +300,325 @@
   <channel id="PEACOCK 100">
     <display-name>PEACOCK 100</display-name>
   </channel>
-  <programme start="20260624100000 +0000" stop="20260624120000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: LAD at MIN starts at 7:30 PM ET</title>
+  <programme start="20260625100000 +0000" stop="20260625120000 +0000" channel="PEACOCK 001">
+    <title lang="en">Featured Groups: Korda &amp; Ko starts at 9:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: LAD at MIN</actor>
-      <actor>Away Feed: LAD at MIN</actor>
+      <actor>Featured Groups: Korda &amp; Ko</actor>
+      <actor>Featured Groups: Korda &amp; Ko</actor>
     </credits>
   </programme>
-  <programme start="20260624120000 +0000" stop="20260624140000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: LAD at MIN starts at 7:30 PM ET</title>
+  <programme start="20260625120000 +0000" stop="20260625130000 +0000" channel="PEACOCK 001">
+    <title lang="en">Featured Groups: Korda &amp; Ko starts at 9:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: LAD at MIN</actor>
-      <actor>Away Feed: LAD at MIN</actor>
+      <actor>Featured Groups: Korda &amp; Ko</actor>
+      <actor>Featured Groups: Korda &amp; Ko</actor>
     </credits>
   </programme>
-  <programme start="20260624140000 +0000" stop="20260624160000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: LAD at MIN starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: LAD at MIN</actor>
-      <actor>Away Feed: LAD at MIN</actor>
-    </credits>
-  </programme>
-  <programme start="20260624160000 +0000" stop="20260624180000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: LAD at MIN starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: LAD at MIN</actor>
-      <actor>Away Feed: LAD at MIN</actor>
-    </credits>
-  </programme>
-  <programme start="20260624180000 +0000" stop="20260624200000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: LAD at MIN starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: LAD at MIN</actor>
-      <actor>Away Feed: LAD at MIN</actor>
-    </credits>
-  </programme>
-  <programme start="20260624200000 +0000" stop="20260624220000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: LAD at MIN starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: LAD at MIN</actor>
-      <actor>Away Feed: LAD at MIN</actor>
-    </credits>
-  </programme>
-  <programme start="20260624220000 +0000" stop="20260624233000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: LAD at MIN starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: LAD at MIN</actor>
-      <actor>Away Feed: LAD at MIN</actor>
-    </credits>
-  </programme>
-  <programme start="20260624233000 +0000" stop="20260625033000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: LAD at MIN</title>
+  <programme start="20260625130000 +0000" stop="20260625170000 +0000" channel="PEACOCK 001">
+    <title lang="en">Featured Groups: Korda &amp; Ko</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: LAD at MIN</actor>
-      <actor>Away Feed: LAD at MIN</actor>
+      <actor>Featured Groups: Korda &amp; Ko</actor>
+      <actor>Featured Groups: Korda &amp; Ko</actor>
     </credits>
   </programme>
-  <programme start="20260624100000 +0000" stop="20260624120000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: LAD at MIN starts at 7:30 PM ET</title>
+  <programme start="20260625100000 +0000" stop="20260625120000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: SEA at PIT starts at 12:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: LAD at MIN</actor>
-      <actor>Home Feed: LAD at MIN</actor>
+      <actor>Away Feed: SEA at PIT</actor>
+      <actor>Away Feed: SEA at PIT</actor>
     </credits>
   </programme>
-  <programme start="20260624120000 +0000" stop="20260624140000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: LAD at MIN starts at 7:30 PM ET</title>
+  <programme start="20260625120000 +0000" stop="20260625140000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: SEA at PIT starts at 12:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: LAD at MIN</actor>
-      <actor>Home Feed: LAD at MIN</actor>
+      <actor>Away Feed: SEA at PIT</actor>
+      <actor>Away Feed: SEA at PIT</actor>
     </credits>
   </programme>
-  <programme start="20260624140000 +0000" stop="20260624160000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: LAD at MIN starts at 7:30 PM ET</title>
+  <programme start="20260625140000 +0000" stop="20260625160000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: SEA at PIT starts at 12:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: LAD at MIN</actor>
-      <actor>Home Feed: LAD at MIN</actor>
+      <actor>Away Feed: SEA at PIT</actor>
+      <actor>Away Feed: SEA at PIT</actor>
     </credits>
   </programme>
-  <programme start="20260624160000 +0000" stop="20260624180000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: LAD at MIN starts at 7:30 PM ET</title>
+  <programme start="20260625160000 +0000" stop="20260625163000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: SEA at PIT starts at 12:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: LAD at MIN</actor>
-      <actor>Home Feed: LAD at MIN</actor>
+      <actor>Away Feed: SEA at PIT</actor>
+      <actor>Away Feed: SEA at PIT</actor>
     </credits>
   </programme>
-  <programme start="20260624180000 +0000" stop="20260624200000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: LAD at MIN starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: LAD at MIN</actor>
-      <actor>Home Feed: LAD at MIN</actor>
-    </credits>
-  </programme>
-  <programme start="20260624200000 +0000" stop="20260624220000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: LAD at MIN starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: LAD at MIN</actor>
-      <actor>Home Feed: LAD at MIN</actor>
-    </credits>
-  </programme>
-  <programme start="20260624220000 +0000" stop="20260624233000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: LAD at MIN starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: LAD at MIN</actor>
-      <actor>Home Feed: LAD at MIN</actor>
-    </credits>
-  </programme>
-  <programme start="20260624233000 +0000" stop="20260625033000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: LAD at MIN</title>
+  <programme start="20260625163000 +0000" stop="20260625203000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: SEA at PIT</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: LAD at MIN</actor>
-      <actor>Home Feed: LAD at MIN</actor>
+      <actor>Away Feed: SEA at PIT</actor>
+      <actor>Away Feed: SEA at PIT</actor>
+    </credits>
+  </programme>
+  <programme start="20260625100000 +0000" stop="20260625120000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: SEA at PIT starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: SEA at PIT</actor>
+      <actor>Home Feed: SEA at PIT</actor>
+    </credits>
+  </programme>
+  <programme start="20260625120000 +0000" stop="20260625140000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: SEA at PIT starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: SEA at PIT</actor>
+      <actor>Home Feed: SEA at PIT</actor>
+    </credits>
+  </programme>
+  <programme start="20260625140000 +0000" stop="20260625160000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: SEA at PIT starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: SEA at PIT</actor>
+      <actor>Home Feed: SEA at PIT</actor>
+    </credits>
+  </programme>
+  <programme start="20260625160000 +0000" stop="20260625163000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: SEA at PIT starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: SEA at PIT</actor>
+      <actor>Home Feed: SEA at PIT</actor>
+    </credits>
+  </programme>
+  <programme start="20260625163000 +0000" stop="20260625203000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: SEA at PIT</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: SEA at PIT</actor>
+      <actor>Home Feed: SEA at PIT</actor>
+    </credits>
+  </programme>
+  <programme start="20260625100000 +0000" stop="20260625120000 +0000" channel="PEACOCK 004">
+    <title lang="en">Featured Groups: Hull &amp; Lee starts at 2:25 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Featured Groups: Hull &amp; Lee</actor>
+      <actor>Featured Groups: Hull &amp; Lee</actor>
+    </credits>
+  </programme>
+  <programme start="20260625120000 +0000" stop="20260625140000 +0000" channel="PEACOCK 004">
+    <title lang="en">Featured Groups: Hull &amp; Lee starts at 2:25 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Featured Groups: Hull &amp; Lee</actor>
+      <actor>Featured Groups: Hull &amp; Lee</actor>
+    </credits>
+  </programme>
+  <programme start="20260625140000 +0000" stop="20260625160000 +0000" channel="PEACOCK 004">
+    <title lang="en">Featured Groups: Hull &amp; Lee starts at 2:25 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Featured Groups: Hull &amp; Lee</actor>
+      <actor>Featured Groups: Hull &amp; Lee</actor>
+    </credits>
+  </programme>
+  <programme start="20260625160000 +0000" stop="20260625180000 +0000" channel="PEACOCK 004">
+    <title lang="en">Featured Groups: Hull &amp; Lee starts at 2:25 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Featured Groups: Hull &amp; Lee</actor>
+      <actor>Featured Groups: Hull &amp; Lee</actor>
+    </credits>
+  </programme>
+  <programme start="20260625180000 +0000" stop="20260625182500 +0000" channel="PEACOCK 004">
+    <title lang="en">Featured Groups: Hull &amp; Lee starts at 2:25 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Featured Groups: Hull &amp; Lee</actor>
+      <actor>Featured Groups: Hull &amp; Lee</actor>
+    </credits>
+  </programme>
+  <programme start="20260625182500 +0000" stop="20260625222500 +0000" channel="PEACOCK 004">
+    <title lang="en">Featured Groups: Hull &amp; Lee</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Featured Groups: Hull &amp; Lee</actor>
+      <actor>Featured Groups: Hull &amp; Lee</actor>
+    </credits>
+  </programme>
+  <programme start="20260625100000 +0000" stop="20260625120000 +0000" channel="PEACOCK 005">
+    <title lang="en">Home Feed: CHC at NYM starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: CHC at NYM</actor>
+      <actor>Home Feed: CHC at NYM</actor>
+    </credits>
+  </programme>
+  <programme start="20260625120000 +0000" stop="20260625140000 +0000" channel="PEACOCK 005">
+    <title lang="en">Home Feed: CHC at NYM starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: CHC at NYM</actor>
+      <actor>Home Feed: CHC at NYM</actor>
+    </credits>
+  </programme>
+  <programme start="20260625140000 +0000" stop="20260625160000 +0000" channel="PEACOCK 005">
+    <title lang="en">Home Feed: CHC at NYM starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: CHC at NYM</actor>
+      <actor>Home Feed: CHC at NYM</actor>
+    </credits>
+  </programme>
+  <programme start="20260625160000 +0000" stop="20260625180000 +0000" channel="PEACOCK 005">
+    <title lang="en">Home Feed: CHC at NYM starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: CHC at NYM</actor>
+      <actor>Home Feed: CHC at NYM</actor>
+    </credits>
+  </programme>
+  <programme start="20260625180000 +0000" stop="20260625200000 +0000" channel="PEACOCK 005">
+    <title lang="en">Home Feed: CHC at NYM starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: CHC at NYM</actor>
+      <actor>Home Feed: CHC at NYM</actor>
+    </credits>
+  </programme>
+  <programme start="20260625200000 +0000" stop="20260625220000 +0000" channel="PEACOCK 005">
+    <title lang="en">Home Feed: CHC at NYM starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: CHC at NYM</actor>
+      <actor>Home Feed: CHC at NYM</actor>
+    </credits>
+  </programme>
+  <programme start="20260625220000 +0000" stop="20260625230000 +0000" channel="PEACOCK 005">
+    <title lang="en">Home Feed: CHC at NYM starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: CHC at NYM</actor>
+      <actor>Home Feed: CHC at NYM</actor>
+    </credits>
+  </programme>
+  <programme start="20260625230000 +0000" stop="20260626030000 +0000" channel="PEACOCK 005">
+    <title lang="en">Home Feed: CHC at NYM</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: CHC at NYM</actor>
+      <actor>Home Feed: CHC at NYM</actor>
+    </credits>
+  </programme>
+  <programme start="20260625100000 +0000" stop="20260625120000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: CHC at NYM starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: CHC at NYM</actor>
+      <actor>Away Feed: CHC at NYM</actor>
+    </credits>
+  </programme>
+  <programme start="20260625120000 +0000" stop="20260625140000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: CHC at NYM starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: CHC at NYM</actor>
+      <actor>Away Feed: CHC at NYM</actor>
+    </credits>
+  </programme>
+  <programme start="20260625140000 +0000" stop="20260625160000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: CHC at NYM starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: CHC at NYM</actor>
+      <actor>Away Feed: CHC at NYM</actor>
+    </credits>
+  </programme>
+  <programme start="20260625160000 +0000" stop="20260625180000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: CHC at NYM starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: CHC at NYM</actor>
+      <actor>Away Feed: CHC at NYM</actor>
+    </credits>
+  </programme>
+  <programme start="20260625180000 +0000" stop="20260625200000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: CHC at NYM starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: CHC at NYM</actor>
+      <actor>Away Feed: CHC at NYM</actor>
+    </credits>
+  </programme>
+  <programme start="20260625200000 +0000" stop="20260625220000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: CHC at NYM starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: CHC at NYM</actor>
+      <actor>Away Feed: CHC at NYM</actor>
+    </credits>
+  </programme>
+  <programme start="20260625220000 +0000" stop="20260625230000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: CHC at NYM starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: CHC at NYM</actor>
+      <actor>Away Feed: CHC at NYM</actor>
+    </credits>
+  </programme>
+  <programme start="20260625230000 +0000" stop="20260626030000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: CHC at NYM</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: CHC at NYM</actor>
+      <actor>Away Feed: CHC at NYM</actor>
     </credits>
   </programme>
 </tv>
