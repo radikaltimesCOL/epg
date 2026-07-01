@@ -300,168 +300,96 @@
   <channel id="PEACOCK 100">
     <display-name>PEACOCK 100</display-name>
   </channel>
-  <programme start="20260630100000 +0000" stop="20260630120000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: SF at AZ starts at 9:30 PM ET</title>
+  <programme start="20260701100000 +0000" stop="20260701120000 +0000" channel="PEACOCK 001">
+    <title lang="en">Home Feed: DET at NYY starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: SF at AZ</actor>
-      <actor>Away Feed: SF at AZ</actor>
+      <actor>Home Feed: DET at NYY</actor>
+      <actor>Home Feed: DET at NYY</actor>
     </credits>
   </programme>
-  <programme start="20260630120000 +0000" stop="20260630140000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: SF at AZ starts at 9:30 PM ET</title>
+  <programme start="20260701120000 +0000" stop="20260701140000 +0000" channel="PEACOCK 001">
+    <title lang="en">Home Feed: DET at NYY starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: SF at AZ</actor>
-      <actor>Away Feed: SF at AZ</actor>
+      <actor>Home Feed: DET at NYY</actor>
+      <actor>Home Feed: DET at NYY</actor>
     </credits>
   </programme>
-  <programme start="20260630140000 +0000" stop="20260630160000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: SF at AZ starts at 9:30 PM ET</title>
+  <programme start="20260701140000 +0000" stop="20260701160000 +0000" channel="PEACOCK 001">
+    <title lang="en">Home Feed: DET at NYY starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: SF at AZ</actor>
-      <actor>Away Feed: SF at AZ</actor>
+      <actor>Home Feed: DET at NYY</actor>
+      <actor>Home Feed: DET at NYY</actor>
     </credits>
   </programme>
-  <programme start="20260630160000 +0000" stop="20260630180000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: SF at AZ starts at 9:30 PM ET</title>
+  <programme start="20260701160000 +0000" stop="20260701173000 +0000" channel="PEACOCK 001">
+    <title lang="en">Home Feed: DET at NYY starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: SF at AZ</actor>
-      <actor>Away Feed: SF at AZ</actor>
+      <actor>Home Feed: DET at NYY</actor>
+      <actor>Home Feed: DET at NYY</actor>
     </credits>
   </programme>
-  <programme start="20260630180000 +0000" stop="20260630200000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: SF at AZ starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: SF at AZ</actor>
-      <actor>Away Feed: SF at AZ</actor>
-    </credits>
-  </programme>
-  <programme start="20260630200000 +0000" stop="20260630220000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: SF at AZ starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: SF at AZ</actor>
-      <actor>Away Feed: SF at AZ</actor>
-    </credits>
-  </programme>
-  <programme start="20260630220000 +0000" stop="20260701000000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: SF at AZ starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: SF at AZ</actor>
-      <actor>Away Feed: SF at AZ</actor>
-    </credits>
-  </programme>
-  <programme start="20260701000000 +0000" stop="20260701013000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: SF at AZ starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: SF at AZ</actor>
-      <actor>Away Feed: SF at AZ</actor>
-    </credits>
-  </programme>
-  <programme start="20260701013000 +0000" stop="20260701053000 +0000" channel="PEACOCK 001">
-    <title lang="en">Away Feed: SF at AZ</title>
+  <programme start="20260701173000 +0000" stop="20260701213000 +0000" channel="PEACOCK 001">
+    <title lang="en">Home Feed: DET at NYY</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: SF at AZ</actor>
-      <actor>Away Feed: SF at AZ</actor>
+      <actor>Home Feed: DET at NYY</actor>
+      <actor>Home Feed: DET at NYY</actor>
     </credits>
   </programme>
-  <programme start="20260630100000 +0000" stop="20260630120000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: SF at AZ starts at 9:30 PM ET</title>
+  <programme start="20260701100000 +0000" stop="20260701120000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: DET at NYY starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: SF at AZ</actor>
-      <actor>Home Feed: SF at AZ</actor>
+      <actor>Away Feed: DET at NYY</actor>
+      <actor>Away Feed: DET at NYY</actor>
     </credits>
   </programme>
-  <programme start="20260630120000 +0000" stop="20260630140000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: SF at AZ starts at 9:30 PM ET</title>
+  <programme start="20260701120000 +0000" stop="20260701140000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: DET at NYY starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: SF at AZ</actor>
-      <actor>Home Feed: SF at AZ</actor>
+      <actor>Away Feed: DET at NYY</actor>
+      <actor>Away Feed: DET at NYY</actor>
     </credits>
   </programme>
-  <programme start="20260630140000 +0000" stop="20260630160000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: SF at AZ starts at 9:30 PM ET</title>
+  <programme start="20260701140000 +0000" stop="20260701160000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: DET at NYY starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: SF at AZ</actor>
-      <actor>Home Feed: SF at AZ</actor>
+      <actor>Away Feed: DET at NYY</actor>
+      <actor>Away Feed: DET at NYY</actor>
     </credits>
   </programme>
-  <programme start="20260630160000 +0000" stop="20260630180000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: SF at AZ starts at 9:30 PM ET</title>
+  <programme start="20260701160000 +0000" stop="20260701173000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: DET at NYY starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: SF at AZ</actor>
-      <actor>Home Feed: SF at AZ</actor>
+      <actor>Away Feed: DET at NYY</actor>
+      <actor>Away Feed: DET at NYY</actor>
     </credits>
   </programme>
-  <programme start="20260630180000 +0000" stop="20260630200000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: SF at AZ starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: SF at AZ</actor>
-      <actor>Home Feed: SF at AZ</actor>
-    </credits>
-  </programme>
-  <programme start="20260630200000 +0000" stop="20260630220000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: SF at AZ starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: SF at AZ</actor>
-      <actor>Home Feed: SF at AZ</actor>
-    </credits>
-  </programme>
-  <programme start="20260630220000 +0000" stop="20260701000000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: SF at AZ starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: SF at AZ</actor>
-      <actor>Home Feed: SF at AZ</actor>
-    </credits>
-  </programme>
-  <programme start="20260701000000 +0000" stop="20260701013000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: SF at AZ starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: SF at AZ</actor>
-      <actor>Home Feed: SF at AZ</actor>
-    </credits>
-  </programme>
-  <programme start="20260701013000 +0000" stop="20260701053000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: SF at AZ</title>
+  <programme start="20260701173000 +0000" stop="20260701213000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: DET at NYY</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: SF at AZ</actor>
-      <actor>Home Feed: SF at AZ</actor>
+      <actor>Away Feed: DET at NYY</actor>
+      <actor>Away Feed: DET at NYY</actor>
     </credits>
   </programme>
 </tv>
