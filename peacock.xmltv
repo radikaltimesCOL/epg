@@ -300,96 +300,214 @@
   <channel id="PEACOCK 100">
     <display-name>PEACOCK 100</display-name>
   </channel>
-  <programme start="20260701100000 +0000" stop="20260701120000 +0000" channel="PEACOCK 001">
-    <title lang="en">Home Feed: DET at NYY starts at 1:30 PM ET</title>
+  <programme start="20260702100000 +0000" stop="20260702120000 +0000" channel="PEACOCK 001">
+    <title lang="en">U.S. Senior Open: Rd. 1 starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: DET at NYY</actor>
-      <actor>Home Feed: DET at NYY</actor>
+      <actor>U.S. Senior Open: Rd. 1</actor>
+      <actor>U.S. Senior Open: Rd. 1</actor>
     </credits>
   </programme>
-  <programme start="20260701120000 +0000" stop="20260701140000 +0000" channel="PEACOCK 001">
-    <title lang="en">Home Feed: DET at NYY starts at 1:30 PM ET</title>
+  <programme start="20260702120000 +0000" stop="20260702140000 +0000" channel="PEACOCK 001">
+    <title lang="en">U.S. Senior Open: Rd. 1 starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: DET at NYY</actor>
-      <actor>Home Feed: DET at NYY</actor>
+      <actor>U.S. Senior Open: Rd. 1</actor>
+      <actor>U.S. Senior Open: Rd. 1</actor>
     </credits>
   </programme>
-  <programme start="20260701140000 +0000" stop="20260701160000 +0000" channel="PEACOCK 001">
-    <title lang="en">Home Feed: DET at NYY starts at 1:30 PM ET</title>
+  <programme start="20260702140000 +0000" stop="20260702160000 +0000" channel="PEACOCK 001">
+    <title lang="en">U.S. Senior Open: Rd. 1 starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: DET at NYY</actor>
-      <actor>Home Feed: DET at NYY</actor>
+      <actor>U.S. Senior Open: Rd. 1</actor>
+      <actor>U.S. Senior Open: Rd. 1</actor>
     </credits>
   </programme>
-  <programme start="20260701160000 +0000" stop="20260701173000 +0000" channel="PEACOCK 001">
-    <title lang="en">Home Feed: DET at NYY starts at 1:30 PM ET</title>
+  <programme start="20260702160000 +0000" stop="20260702180000 +0000" channel="PEACOCK 001">
+    <title lang="en">U.S. Senior Open: Rd. 1 starts at 5:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: DET at NYY</actor>
-      <actor>Home Feed: DET at NYY</actor>
+      <actor>U.S. Senior Open: Rd. 1</actor>
+      <actor>U.S. Senior Open: Rd. 1</actor>
     </credits>
   </programme>
-  <programme start="20260701173000 +0000" stop="20260701213000 +0000" channel="PEACOCK 001">
-    <title lang="en">Home Feed: DET at NYY</title>
+  <programme start="20260702180000 +0000" stop="20260702200000 +0000" channel="PEACOCK 001">
+    <title lang="en">U.S. Senior Open: Rd. 1 starts at 5:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>U.S. Senior Open: Rd. 1</actor>
+      <actor>U.S. Senior Open: Rd. 1</actor>
+    </credits>
+  </programme>
+  <programme start="20260702200000 +0000" stop="20260702213000 +0000" channel="PEACOCK 001">
+    <title lang="en">U.S. Senior Open: Rd. 1 starts at 5:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>U.S. Senior Open: Rd. 1</actor>
+      <actor>U.S. Senior Open: Rd. 1</actor>
+    </credits>
+  </programme>
+  <programme start="20260702213000 +0000" stop="20260703013000 +0000" channel="PEACOCK 001">
+    <title lang="en">U.S. Senior Open: Rd. 1</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: DET at NYY</actor>
-      <actor>Home Feed: DET at NYY</actor>
+      <actor>U.S. Senior Open: Rd. 1</actor>
+      <actor>U.S. Senior Open: Rd. 1</actor>
     </credits>
   </programme>
-  <programme start="20260701100000 +0000" stop="20260701120000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: DET at NYY starts at 1:30 PM ET</title>
+  <programme start="20260702100000 +0000" stop="20260702120000 +0000" channel="PEACOCK 002">
+    <title lang="en">Home Feed: STL at ATL starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: DET at NYY</actor>
-      <actor>Away Feed: DET at NYY</actor>
+      <actor>Home Feed: STL at ATL</actor>
+      <actor>Home Feed: STL at ATL</actor>
     </credits>
   </programme>
-  <programme start="20260701120000 +0000" stop="20260701140000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: DET at NYY starts at 1:30 PM ET</title>
+  <programme start="20260702120000 +0000" stop="20260702140000 +0000" channel="PEACOCK 002">
+    <title lang="en">Home Feed: STL at ATL starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: DET at NYY</actor>
-      <actor>Away Feed: DET at NYY</actor>
+      <actor>Home Feed: STL at ATL</actor>
+      <actor>Home Feed: STL at ATL</actor>
     </credits>
   </programme>
-  <programme start="20260701140000 +0000" stop="20260701160000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: DET at NYY starts at 1:30 PM ET</title>
+  <programme start="20260702140000 +0000" stop="20260702160000 +0000" channel="PEACOCK 002">
+    <title lang="en">Home Feed: STL at ATL starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: DET at NYY</actor>
-      <actor>Away Feed: DET at NYY</actor>
+      <actor>Home Feed: STL at ATL</actor>
+      <actor>Home Feed: STL at ATL</actor>
     </credits>
   </programme>
-  <programme start="20260701160000 +0000" stop="20260701173000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: DET at NYY starts at 1:30 PM ET</title>
+  <programme start="20260702160000 +0000" stop="20260702180000 +0000" channel="PEACOCK 002">
+    <title lang="en">Home Feed: STL at ATL starts at 7:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: DET at NYY</actor>
-      <actor>Away Feed: DET at NYY</actor>
+      <actor>Home Feed: STL at ATL</actor>
+      <actor>Home Feed: STL at ATL</actor>
     </credits>
   </programme>
-  <programme start="20260701173000 +0000" stop="20260701213000 +0000" channel="PEACOCK 002">
-    <title lang="en">Away Feed: DET at NYY</title>
+  <programme start="20260702180000 +0000" stop="20260702200000 +0000" channel="PEACOCK 002">
+    <title lang="en">Home Feed: STL at ATL starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: STL at ATL</actor>
+      <actor>Home Feed: STL at ATL</actor>
+    </credits>
+  </programme>
+  <programme start="20260702200000 +0000" stop="20260702220000 +0000" channel="PEACOCK 002">
+    <title lang="en">Home Feed: STL at ATL starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: STL at ATL</actor>
+      <actor>Home Feed: STL at ATL</actor>
+    </credits>
+  </programme>
+  <programme start="20260702220000 +0000" stop="20260702230000 +0000" channel="PEACOCK 002">
+    <title lang="en">Home Feed: STL at ATL starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: STL at ATL</actor>
+      <actor>Home Feed: STL at ATL</actor>
+    </credits>
+  </programme>
+  <programme start="20260702230000 +0000" stop="20260703030000 +0000" channel="PEACOCK 002">
+    <title lang="en">Home Feed: STL at ATL</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: DET at NYY</actor>
-      <actor>Away Feed: DET at NYY</actor>
+      <actor>Home Feed: STL at ATL</actor>
+      <actor>Home Feed: STL at ATL</actor>
+    </credits>
+  </programme>
+  <programme start="20260702100000 +0000" stop="20260702120000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: STL at ATL starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: STL at ATL</actor>
+      <actor>Away Feed: STL at ATL</actor>
+    </credits>
+  </programme>
+  <programme start="20260702120000 +0000" stop="20260702140000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: STL at ATL starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: STL at ATL</actor>
+      <actor>Away Feed: STL at ATL</actor>
+    </credits>
+  </programme>
+  <programme start="20260702140000 +0000" stop="20260702160000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: STL at ATL starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: STL at ATL</actor>
+      <actor>Away Feed: STL at ATL</actor>
+    </credits>
+  </programme>
+  <programme start="20260702160000 +0000" stop="20260702180000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: STL at ATL starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: STL at ATL</actor>
+      <actor>Away Feed: STL at ATL</actor>
+    </credits>
+  </programme>
+  <programme start="20260702180000 +0000" stop="20260702200000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: STL at ATL starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: STL at ATL</actor>
+      <actor>Away Feed: STL at ATL</actor>
+    </credits>
+  </programme>
+  <programme start="20260702200000 +0000" stop="20260702220000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: STL at ATL starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: STL at ATL</actor>
+      <actor>Away Feed: STL at ATL</actor>
+    </credits>
+  </programme>
+  <programme start="20260702220000 +0000" stop="20260702230000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: STL at ATL starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: STL at ATL</actor>
+      <actor>Away Feed: STL at ATL</actor>
+    </credits>
+  </programme>
+  <programme start="20260702230000 +0000" stop="20260703030000 +0000" channel="PEACOCK 003">
+    <title lang="en">Away Feed: STL at ATL</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: STL at ATL</actor>
+      <actor>Away Feed: STL at ATL</actor>
     </credits>
   </programme>
 </tv>
