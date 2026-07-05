@@ -300,399 +300,1014 @@
   <channel id="PEACOCK 100">
     <display-name>PEACOCK 100</display-name>
   </channel>
-  <programme start="20260704100000 +0000" stop="20260704120000 +0000" channel="PEACOCK 001">
-    <title lang="en">U.S. Senior Open: Rd. 3 starts at 9:00 AM ET</title>
+  <programme start="20260705100000 +0000" stop="20260705110000 +0000" channel="PEACOCK 001">
+    <title lang="en">Tour de France: Stage 2 starts at 7:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>U.S. Senior Open: Rd. 3</actor>
-      <actor>U.S. Senior Open: Rd. 3</actor>
+      <actor>Tour de France: Stage 2</actor>
+      <actor>Tour de France: Stage 2</actor>
     </credits>
   </programme>
-  <programme start="20260704120000 +0000" stop="20260704130000 +0000" channel="PEACOCK 001">
-    <title lang="en">U.S. Senior Open: Rd. 3 starts at 9:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U.S. Senior Open: Rd. 3</actor>
-      <actor>U.S. Senior Open: Rd. 3</actor>
-    </credits>
-  </programme>
-  <programme start="20260704130000 +0000" stop="20260704170000 +0000" channel="PEACOCK 001">
-    <title lang="en">U.S. Senior Open: Rd. 3</title>
+  <programme start="20260705110000 +0000" stop="20260705150000 +0000" channel="PEACOCK 001">
+    <title lang="en">Tour de France: Stage 2</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>U.S. Senior Open: Rd. 3</actor>
-      <actor>U.S. Senior Open: Rd. 3</actor>
+      <actor>Tour de France: Stage 2</actor>
+      <actor>Tour de France: Stage 2</actor>
     </credits>
   </programme>
-  <programme start="20260704100000 +0000" stop="20260704120000 +0000" channel="PEACOCK 002">
-    <title lang="en">Tour de France: Stage 1 starts at 10:00 AM ET</title>
+  <programme start="20260705100000 +0000" stop="20260705120000 +0000" channel="PEACOCK 002">
+    <title lang="en">U.S. Senior Open: Rd. 4 starts at 9:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Tour de France: Stage 1</actor>
-      <actor>Tour de France: Stage 1</actor>
+      <actor>U.S. Senior Open: Rd. 4</actor>
+      <actor>U.S. Senior Open: Rd. 4</actor>
     </credits>
   </programme>
-  <programme start="20260704120000 +0000" stop="20260704140000 +0000" channel="PEACOCK 002">
-    <title lang="en">Tour de France: Stage 1 starts at 10:00 AM ET</title>
+  <programme start="20260705120000 +0000" stop="20260705130000 +0000" channel="PEACOCK 002">
+    <title lang="en">U.S. Senior Open: Rd. 4 starts at 9:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Tour de France: Stage 1</actor>
-      <actor>Tour de France: Stage 1</actor>
+      <actor>U.S. Senior Open: Rd. 4</actor>
+      <actor>U.S. Senior Open: Rd. 4</actor>
     </credits>
   </programme>
-  <programme start="20260704140000 +0000" stop="20260704180000 +0000" channel="PEACOCK 002">
-    <title lang="en">Tour de France: Stage 1</title>
+  <programme start="20260705130000 +0000" stop="20260705170000 +0000" channel="PEACOCK 002">
+    <title lang="en">U.S. Senior Open: Rd. 4</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Tour de France: Stage 1</actor>
-      <actor>Tour de France: Stage 1</actor>
+      <actor>U.S. Senior Open: Rd. 4</actor>
+      <actor>U.S. Senior Open: Rd. 4</actor>
     </credits>
   </programme>
-  <programme start="20260704100000 +0000" stop="20260704120000 +0000" channel="PEACOCK 003">
-    <title lang="en">Race Day Live: RedBud starts at 10:00 AM ET</title>
+  <programme start="20260705100000 +0000" stop="20260705120000 +0000" channel="PEACOCK 003">
+    <title lang="en">Mets vs. Braves (Español) starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Race Day Live: RedBud</actor>
-      <actor>Race Day Live: RedBud</actor>
+      <actor>Mets vs. Braves (Español)</actor>
+      <actor>Mets vs. Braves (Español)</actor>
     </credits>
   </programme>
-  <programme start="20260704120000 +0000" stop="20260704140000 +0000" channel="PEACOCK 003">
-    <title lang="en">Race Day Live: RedBud starts at 10:00 AM ET</title>
+  <programme start="20260705120000 +0000" stop="20260705140000 +0000" channel="PEACOCK 003">
+    <title lang="en">Mets vs. Braves (Español) starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Race Day Live: RedBud</actor>
-      <actor>Race Day Live: RedBud</actor>
+      <actor>Mets vs. Braves (Español)</actor>
+      <actor>Mets vs. Braves (Español)</actor>
     </credits>
   </programme>
-  <programme start="20260704140000 +0000" stop="20260704180000 +0000" channel="PEACOCK 003">
-    <title lang="en">Race Day Live: RedBud</title>
+  <programme start="20260705140000 +0000" stop="20260705160000 +0000" channel="PEACOCK 003">
+    <title lang="en">Mets vs. Braves (Español) starts at 12:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Mets vs. Braves (Español)</actor>
+      <actor>Mets vs. Braves (Español)</actor>
+    </credits>
+  </programme>
+  <programme start="20260705160000 +0000" stop="20260705200000 +0000" channel="PEACOCK 003">
+    <title lang="en">Mets vs. Braves (Español)</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Race Day Live: RedBud</actor>
-      <actor>Race Day Live: RedBud</actor>
+      <actor>Mets vs. Braves (Español)</actor>
+      <actor>Mets vs. Braves (Español)</actor>
     </credits>
   </programme>
-  <programme start="20260704100000 +0000" stop="20260704120000 +0000" channel="PEACOCK 004">
-    <title lang="en">Motocross Rd. 22: RedBud starts at 1:00 PM ET</title>
+  <programme start="20260705100000 +0000" stop="20260705120000 +0000" channel="PEACOCK 004">
+    <title lang="en">THEMOVE: Stage 2 starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Motocross Rd. 22: RedBud</actor>
-      <actor>Motocross Rd. 22: RedBud</actor>
+      <actor>THEMOVE: Stage 2</actor>
+      <actor>THEMOVE: Stage 2</actor>
     </credits>
   </programme>
-  <programme start="20260704120000 +0000" stop="20260704140000 +0000" channel="PEACOCK 004">
-    <title lang="en">Motocross Rd. 22: RedBud starts at 1:00 PM ET</title>
+  <programme start="20260705120000 +0000" stop="20260705140000 +0000" channel="PEACOCK 004">
+    <title lang="en">THEMOVE: Stage 2 starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Motocross Rd. 22: RedBud</actor>
-      <actor>Motocross Rd. 22: RedBud</actor>
+      <actor>THEMOVE: Stage 2</actor>
+      <actor>THEMOVE: Stage 2</actor>
     </credits>
   </programme>
-  <programme start="20260704140000 +0000" stop="20260704160000 +0000" channel="PEACOCK 004">
-    <title lang="en">Motocross Rd. 22: RedBud starts at 1:00 PM ET</title>
+  <programme start="20260705140000 +0000" stop="20260705160000 +0000" channel="PEACOCK 004">
+    <title lang="en">THEMOVE: Stage 2 starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Motocross Rd. 22: RedBud</actor>
-      <actor>Motocross Rd. 22: RedBud</actor>
+      <actor>THEMOVE: Stage 2</actor>
+      <actor>THEMOVE: Stage 2</actor>
     </credits>
   </programme>
-  <programme start="20260704160000 +0000" stop="20260704170000 +0000" channel="PEACOCK 004">
-    <title lang="en">Motocross Rd. 22: RedBud starts at 1:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Motocross Rd. 22: RedBud</actor>
-      <actor>Motocross Rd. 22: RedBud</actor>
-    </credits>
-  </programme>
-  <programme start="20260704170000 +0000" stop="20260704210000 +0000" channel="PEACOCK 004">
-    <title lang="en">Motocross Rd. 22: RedBud</title>
+  <programme start="20260705160000 +0000" stop="20260705200000 +0000" channel="PEACOCK 004">
+    <title lang="en">THEMOVE: Stage 2</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Motocross Rd. 22: RedBud</actor>
-      <actor>Motocross Rd. 22: RedBud</actor>
+      <actor>THEMOVE: Stage 2</actor>
+      <actor>THEMOVE: Stage 2</actor>
     </credits>
   </programme>
-  <programme start="20260704100000 +0000" stop="20260704120000 +0000" channel="PEACOCK 005">
-    <title lang="en">THEMOVE: Stage 1 starts at 2:00 PM ET</title>
+  <programme start="20260705100000 +0000" stop="20260705120000 +0000" channel="PEACOCK 005">
+    <title lang="en">Mets at Braves starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>THEMOVE: Stage 1</actor>
-      <actor>THEMOVE: Stage 1</actor>
+      <actor>Mets at Braves</actor>
+      <actor>Mets at Braves</actor>
     </credits>
   </programme>
-  <programme start="20260704120000 +0000" stop="20260704140000 +0000" channel="PEACOCK 005">
-    <title lang="en">THEMOVE: Stage 1 starts at 2:00 PM ET</title>
+  <programme start="20260705120000 +0000" stop="20260705140000 +0000" channel="PEACOCK 005">
+    <title lang="en">Mets at Braves starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>THEMOVE: Stage 1</actor>
-      <actor>THEMOVE: Stage 1</actor>
+      <actor>Mets at Braves</actor>
+      <actor>Mets at Braves</actor>
     </credits>
   </programme>
-  <programme start="20260704140000 +0000" stop="20260704160000 +0000" channel="PEACOCK 005">
-    <title lang="en">THEMOVE: Stage 1 starts at 2:00 PM ET</title>
+  <programme start="20260705140000 +0000" stop="20260705160000 +0000" channel="PEACOCK 005">
+    <title lang="en">Mets at Braves starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>THEMOVE: Stage 1</actor>
-      <actor>THEMOVE: Stage 1</actor>
+      <actor>Mets at Braves</actor>
+      <actor>Mets at Braves</actor>
     </credits>
   </programme>
-  <programme start="20260704160000 +0000" stop="20260704180000 +0000" channel="PEACOCK 005">
-    <title lang="en">THEMOVE: Stage 1 starts at 2:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>THEMOVE: Stage 1</actor>
-      <actor>THEMOVE: Stage 1</actor>
-    </credits>
-  </programme>
-  <programme start="20260704180000 +0000" stop="20260704220000 +0000" channel="PEACOCK 005">
-    <title lang="en">THEMOVE: Stage 1</title>
+  <programme start="20260705160000 +0000" stop="20260705200000 +0000" channel="PEACOCK 005">
+    <title lang="en">Mets at Braves</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>THEMOVE: Stage 1</actor>
-      <actor>THEMOVE: Stage 1</actor>
+      <actor>Mets at Braves</actor>
+      <actor>Mets at Braves</actor>
     </credits>
   </programme>
-  <programme start="20260704100000 +0000" stop="20260704120000 +0000" channel="PEACOCK 006">
-    <title lang="en">Prefontaine Classic: Day 2 starts at 4:00 PM ET</title>
+  <programme start="20260705100000 +0000" stop="20260705120000 +0000" channel="PEACOCK 006">
+    <title lang="en">Pirates at Nationals starts at 1:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Prefontaine Classic: Day 2</actor>
-      <actor>Prefontaine Classic: Day 2</actor>
+      <actor>Pirates at Nationals</actor>
+      <actor>Pirates at Nationals</actor>
     </credits>
   </programme>
-  <programme start="20260704120000 +0000" stop="20260704140000 +0000" channel="PEACOCK 006">
-    <title lang="en">Prefontaine Classic: Day 2 starts at 4:00 PM ET</title>
+  <programme start="20260705120000 +0000" stop="20260705140000 +0000" channel="PEACOCK 006">
+    <title lang="en">Pirates at Nationals starts at 1:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Prefontaine Classic: Day 2</actor>
-      <actor>Prefontaine Classic: Day 2</actor>
+      <actor>Pirates at Nationals</actor>
+      <actor>Pirates at Nationals</actor>
     </credits>
   </programme>
-  <programme start="20260704140000 +0000" stop="20260704160000 +0000" channel="PEACOCK 006">
-    <title lang="en">Prefontaine Classic: Day 2 starts at 4:00 PM ET</title>
+  <programme start="20260705140000 +0000" stop="20260705160000 +0000" channel="PEACOCK 006">
+    <title lang="en">Pirates at Nationals starts at 1:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Prefontaine Classic: Day 2</actor>
-      <actor>Prefontaine Classic: Day 2</actor>
+      <actor>Pirates at Nationals</actor>
+      <actor>Pirates at Nationals</actor>
     </credits>
   </programme>
-  <programme start="20260704160000 +0000" stop="20260704180000 +0000" channel="PEACOCK 006">
-    <title lang="en">Prefontaine Classic: Day 2 starts at 4:00 PM ET</title>
+  <programme start="20260705160000 +0000" stop="20260705170000 +0000" channel="PEACOCK 006">
+    <title lang="en">Pirates at Nationals starts at 1:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Prefontaine Classic: Day 2</actor>
-      <actor>Prefontaine Classic: Day 2</actor>
+      <actor>Pirates at Nationals</actor>
+      <actor>Pirates at Nationals</actor>
     </credits>
   </programme>
-  <programme start="20260704180000 +0000" stop="20260704200000 +0000" channel="PEACOCK 006">
-    <title lang="en">Prefontaine Classic: Day 2 starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Prefontaine Classic: Day 2</actor>
-      <actor>Prefontaine Classic: Day 2</actor>
-    </credits>
-  </programme>
-  <programme start="20260704200000 +0000" stop="20260705000000 +0000" channel="PEACOCK 006">
-    <title lang="en">Prefontaine Classic: Day 2</title>
+  <programme start="20260705170000 +0000" stop="20260705210000 +0000" channel="PEACOCK 006">
+    <title lang="en">Pirates at Nationals</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Prefontaine Classic: Day 2</actor>
-      <actor>Prefontaine Classic: Day 2</actor>
+      <actor>Pirates at Nationals</actor>
+      <actor>Pirates at Nationals</actor>
     </credits>
   </programme>
-  <programme start="20260704100000 +0000" stop="20260704120000 +0000" channel="PEACOCK 007">
-    <title lang="en">Away Feed: SD at LAD starts at 10:00 PM ET</title>
+  <programme start="20260705100000 +0000" stop="20260705120000 +0000" channel="PEACOCK 007">
+    <title lang="en">Orioles at Reds starts at 1:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: SD at LAD</actor>
-      <actor>Away Feed: SD at LAD</actor>
+      <actor>Orioles at Reds</actor>
+      <actor>Orioles at Reds</actor>
     </credits>
   </programme>
-  <programme start="20260704120000 +0000" stop="20260704140000 +0000" channel="PEACOCK 007">
-    <title lang="en">Away Feed: SD at LAD starts at 10:00 PM ET</title>
+  <programme start="20260705120000 +0000" stop="20260705140000 +0000" channel="PEACOCK 007">
+    <title lang="en">Orioles at Reds starts at 1:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: SD at LAD</actor>
-      <actor>Away Feed: SD at LAD</actor>
+      <actor>Orioles at Reds</actor>
+      <actor>Orioles at Reds</actor>
     </credits>
   </programme>
-  <programme start="20260704140000 +0000" stop="20260704160000 +0000" channel="PEACOCK 007">
-    <title lang="en">Away Feed: SD at LAD starts at 10:00 PM ET</title>
+  <programme start="20260705140000 +0000" stop="20260705160000 +0000" channel="PEACOCK 007">
+    <title lang="en">Orioles at Reds starts at 1:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: SD at LAD</actor>
-      <actor>Away Feed: SD at LAD</actor>
+      <actor>Orioles at Reds</actor>
+      <actor>Orioles at Reds</actor>
     </credits>
   </programme>
-  <programme start="20260704160000 +0000" stop="20260704180000 +0000" channel="PEACOCK 007">
-    <title lang="en">Away Feed: SD at LAD starts at 10:00 PM ET</title>
+  <programme start="20260705160000 +0000" stop="20260705170000 +0000" channel="PEACOCK 007">
+    <title lang="en">Orioles at Reds starts at 1:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: SD at LAD</actor>
-      <actor>Away Feed: SD at LAD</actor>
+      <actor>Orioles at Reds</actor>
+      <actor>Orioles at Reds</actor>
     </credits>
   </programme>
-  <programme start="20260704180000 +0000" stop="20260704200000 +0000" channel="PEACOCK 007">
-    <title lang="en">Away Feed: SD at LAD starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: SD at LAD</actor>
-      <actor>Away Feed: SD at LAD</actor>
-    </credits>
-  </programme>
-  <programme start="20260704200000 +0000" stop="20260704220000 +0000" channel="PEACOCK 007">
-    <title lang="en">Away Feed: SD at LAD starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: SD at LAD</actor>
-      <actor>Away Feed: SD at LAD</actor>
-    </credits>
-  </programme>
-  <programme start="20260704220000 +0000" stop="20260705000000 +0000" channel="PEACOCK 007">
-    <title lang="en">Away Feed: SD at LAD starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: SD at LAD</actor>
-      <actor>Away Feed: SD at LAD</actor>
-    </credits>
-  </programme>
-  <programme start="20260705000000 +0000" stop="20260705020000 +0000" channel="PEACOCK 007">
-    <title lang="en">Away Feed: SD at LAD starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: SD at LAD</actor>
-      <actor>Away Feed: SD at LAD</actor>
-    </credits>
-  </programme>
-  <programme start="20260705020000 +0000" stop="20260705060000 +0000" channel="PEACOCK 007">
-    <title lang="en">Away Feed: SD at LAD</title>
+  <programme start="20260705170000 +0000" stop="20260705210000 +0000" channel="PEACOCK 007">
+    <title lang="en">Orioles at Reds</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: SD at LAD</actor>
-      <actor>Away Feed: SD at LAD</actor>
+      <actor>Orioles at Reds</actor>
+      <actor>Orioles at Reds</actor>
     </credits>
   </programme>
-  <programme start="20260704100000 +0000" stop="20260704120000 +0000" channel="PEACOCK 008">
-    <title lang="en">Home Feed: SD at LAD starts at 10:00 PM ET</title>
+  <programme start="20260705100000 +0000" stop="20260705120000 +0000" channel="PEACOCK 008">
+    <title lang="en">Twins at Yankees starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: SD at LAD</actor>
-      <actor>Home Feed: SD at LAD</actor>
+      <actor>Twins at Yankees</actor>
+      <actor>Twins at Yankees</actor>
     </credits>
   </programme>
-  <programme start="20260704120000 +0000" stop="20260704140000 +0000" channel="PEACOCK 008">
-    <title lang="en">Home Feed: SD at LAD starts at 10:00 PM ET</title>
+  <programme start="20260705120000 +0000" stop="20260705140000 +0000" channel="PEACOCK 008">
+    <title lang="en">Twins at Yankees starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: SD at LAD</actor>
-      <actor>Home Feed: SD at LAD</actor>
+      <actor>Twins at Yankees</actor>
+      <actor>Twins at Yankees</actor>
     </credits>
   </programme>
-  <programme start="20260704140000 +0000" stop="20260704160000 +0000" channel="PEACOCK 008">
-    <title lang="en">Home Feed: SD at LAD starts at 10:00 PM ET</title>
+  <programme start="20260705140000 +0000" stop="20260705160000 +0000" channel="PEACOCK 008">
+    <title lang="en">Twins at Yankees starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: SD at LAD</actor>
-      <actor>Home Feed: SD at LAD</actor>
+      <actor>Twins at Yankees</actor>
+      <actor>Twins at Yankees</actor>
     </credits>
   </programme>
-  <programme start="20260704160000 +0000" stop="20260704180000 +0000" channel="PEACOCK 008">
-    <title lang="en">Home Feed: SD at LAD starts at 10:00 PM ET</title>
+  <programme start="20260705160000 +0000" stop="20260705173000 +0000" channel="PEACOCK 008">
+    <title lang="en">Twins at Yankees starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: SD at LAD</actor>
-      <actor>Home Feed: SD at LAD</actor>
+      <actor>Twins at Yankees</actor>
+      <actor>Twins at Yankees</actor>
     </credits>
   </programme>
-  <programme start="20260704180000 +0000" stop="20260704200000 +0000" channel="PEACOCK 008">
-    <title lang="en">Home Feed: SD at LAD starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: SD at LAD</actor>
-      <actor>Home Feed: SD at LAD</actor>
-    </credits>
-  </programme>
-  <programme start="20260704200000 +0000" stop="20260704220000 +0000" channel="PEACOCK 008">
-    <title lang="en">Home Feed: SD at LAD starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: SD at LAD</actor>
-      <actor>Home Feed: SD at LAD</actor>
-    </credits>
-  </programme>
-  <programme start="20260704220000 +0000" stop="20260705000000 +0000" channel="PEACOCK 008">
-    <title lang="en">Home Feed: SD at LAD starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: SD at LAD</actor>
-      <actor>Home Feed: SD at LAD</actor>
-    </credits>
-  </programme>
-  <programme start="20260705000000 +0000" stop="20260705020000 +0000" channel="PEACOCK 008">
-    <title lang="en">Home Feed: SD at LAD starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: SD at LAD</actor>
-      <actor>Home Feed: SD at LAD</actor>
-    </credits>
-  </programme>
-  <programme start="20260705020000 +0000" stop="20260705060000 +0000" channel="PEACOCK 008">
-    <title lang="en">Home Feed: SD at LAD</title>
+  <programme start="20260705173000 +0000" stop="20260705213000 +0000" channel="PEACOCK 008">
+    <title lang="en">Twins at Yankees</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: SD at LAD</actor>
-      <actor>Home Feed: SD at LAD</actor>
+      <actor>Twins at Yankees</actor>
+      <actor>Twins at Yankees</actor>
+    </credits>
+  </programme>
+  <programme start="20260705100000 +0000" stop="20260705120000 +0000" channel="PEACOCK 009">
+    <title lang="en">White Sox at Guardians starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>White Sox at Guardians</actor>
+      <actor>White Sox at Guardians</actor>
+    </credits>
+  </programme>
+  <programme start="20260705120000 +0000" stop="20260705140000 +0000" channel="PEACOCK 009">
+    <title lang="en">White Sox at Guardians starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>White Sox at Guardians</actor>
+      <actor>White Sox at Guardians</actor>
+    </credits>
+  </programme>
+  <programme start="20260705140000 +0000" stop="20260705160000 +0000" channel="PEACOCK 009">
+    <title lang="en">White Sox at Guardians starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>White Sox at Guardians</actor>
+      <actor>White Sox at Guardians</actor>
+    </credits>
+  </programme>
+  <programme start="20260705160000 +0000" stop="20260705180000 +0000" channel="PEACOCK 009">
+    <title lang="en">White Sox at Guardians starts at 2:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>White Sox at Guardians</actor>
+      <actor>White Sox at Guardians</actor>
+    </credits>
+  </programme>
+  <programme start="20260705180000 +0000" stop="20260705220000 +0000" channel="PEACOCK 009">
+    <title lang="en">White Sox at Guardians</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>White Sox at Guardians</actor>
+      <actor>White Sox at Guardians</actor>
+    </credits>
+  </programme>
+  <programme start="20260705100000 +0000" stop="20260705120000 +0000" channel="PEACOCK 010">
+    <title lang="en">Cardinals at Cubs starts at 2:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Cardinals at Cubs</actor>
+      <actor>Cardinals at Cubs</actor>
+    </credits>
+  </programme>
+  <programme start="20260705120000 +0000" stop="20260705140000 +0000" channel="PEACOCK 010">
+    <title lang="en">Cardinals at Cubs starts at 2:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Cardinals at Cubs</actor>
+      <actor>Cardinals at Cubs</actor>
+    </credits>
+  </programme>
+  <programme start="20260705140000 +0000" stop="20260705160000 +0000" channel="PEACOCK 010">
+    <title lang="en">Cardinals at Cubs starts at 2:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Cardinals at Cubs</actor>
+      <actor>Cardinals at Cubs</actor>
+    </credits>
+  </programme>
+  <programme start="20260705160000 +0000" stop="20260705180000 +0000" channel="PEACOCK 010">
+    <title lang="en">Cardinals at Cubs starts at 2:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Cardinals at Cubs</actor>
+      <actor>Cardinals at Cubs</actor>
+    </credits>
+  </programme>
+  <programme start="20260705180000 +0000" stop="20260705183000 +0000" channel="PEACOCK 010">
+    <title lang="en">Cardinals at Cubs starts at 2:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Cardinals at Cubs</actor>
+      <actor>Cardinals at Cubs</actor>
+    </credits>
+  </programme>
+  <programme start="20260705183000 +0000" stop="20260705223000 +0000" channel="PEACOCK 010">
+    <title lang="en">Cardinals at Cubs</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Cardinals at Cubs</actor>
+      <actor>Cardinals at Cubs</actor>
+    </credits>
+  </programme>
+  <programme start="20260705100000 +0000" stop="20260705120000 +0000" channel="PEACOCK 011">
+    <title lang="en">Phillies at Royals starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Phillies at Royals</actor>
+      <actor>Phillies at Royals</actor>
+    </credits>
+  </programme>
+  <programme start="20260705120000 +0000" stop="20260705140000 +0000" channel="PEACOCK 011">
+    <title lang="en">Phillies at Royals starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Phillies at Royals</actor>
+      <actor>Phillies at Royals</actor>
+    </credits>
+  </programme>
+  <programme start="20260705140000 +0000" stop="20260705160000 +0000" channel="PEACOCK 011">
+    <title lang="en">Phillies at Royals starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Phillies at Royals</actor>
+      <actor>Phillies at Royals</actor>
+    </credits>
+  </programme>
+  <programme start="20260705160000 +0000" stop="20260705180000 +0000" channel="PEACOCK 011">
+    <title lang="en">Phillies at Royals starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Phillies at Royals</actor>
+      <actor>Phillies at Royals</actor>
+    </credits>
+  </programme>
+  <programme start="20260705180000 +0000" stop="20260705190000 +0000" channel="PEACOCK 011">
+    <title lang="en">Phillies at Royals starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Phillies at Royals</actor>
+      <actor>Phillies at Royals</actor>
+    </credits>
+  </programme>
+  <programme start="20260705190000 +0000" stop="20260705230000 +0000" channel="PEACOCK 011">
+    <title lang="en">Phillies at Royals</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Phillies at Royals</actor>
+      <actor>Phillies at Royals</actor>
+    </credits>
+  </programme>
+  <programme start="20260705100000 +0000" stop="20260705120000 +0000" channel="PEACOCK 012">
+    <title lang="en">MLB Sunday Stretch: 7.5.26 starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>MLB Sunday Stretch: 7.5.26</actor>
+      <actor>MLB Sunday Stretch: 7.5.26</actor>
+    </credits>
+  </programme>
+  <programme start="20260705120000 +0000" stop="20260705140000 +0000" channel="PEACOCK 012">
+    <title lang="en">MLB Sunday Stretch: 7.5.26 starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>MLB Sunday Stretch: 7.5.26</actor>
+      <actor>MLB Sunday Stretch: 7.5.26</actor>
+    </credits>
+  </programme>
+  <programme start="20260705140000 +0000" stop="20260705160000 +0000" channel="PEACOCK 012">
+    <title lang="en">MLB Sunday Stretch: 7.5.26 starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>MLB Sunday Stretch: 7.5.26</actor>
+      <actor>MLB Sunday Stretch: 7.5.26</actor>
+    </credits>
+  </programme>
+  <programme start="20260705160000 +0000" stop="20260705180000 +0000" channel="PEACOCK 012">
+    <title lang="en">MLB Sunday Stretch: 7.5.26 starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>MLB Sunday Stretch: 7.5.26</actor>
+      <actor>MLB Sunday Stretch: 7.5.26</actor>
+    </credits>
+  </programme>
+  <programme start="20260705180000 +0000" stop="20260705190000 +0000" channel="PEACOCK 012">
+    <title lang="en">MLB Sunday Stretch: 7.5.26 starts at 3:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>MLB Sunday Stretch: 7.5.26</actor>
+      <actor>MLB Sunday Stretch: 7.5.26</actor>
+    </credits>
+  </programme>
+  <programme start="20260705190000 +0000" stop="20260705230000 +0000" channel="PEACOCK 012">
+    <title lang="en">MLB Sunday Stretch: 7.5.26</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>MLB Sunday Stretch: 7.5.26</actor>
+      <actor>MLB Sunday Stretch: 7.5.26</actor>
+    </credits>
+  </programme>
+  <programme start="20260705100000 +0000" stop="20260705120000 +0000" channel="PEACOCK 013">
+    <title lang="en">Tigers at Rangers starts at 3:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Tigers at Rangers</actor>
+      <actor>Tigers at Rangers</actor>
+    </credits>
+  </programme>
+  <programme start="20260705120000 +0000" stop="20260705140000 +0000" channel="PEACOCK 013">
+    <title lang="en">Tigers at Rangers starts at 3:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Tigers at Rangers</actor>
+      <actor>Tigers at Rangers</actor>
+    </credits>
+  </programme>
+  <programme start="20260705140000 +0000" stop="20260705160000 +0000" channel="PEACOCK 013">
+    <title lang="en">Tigers at Rangers starts at 3:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Tigers at Rangers</actor>
+      <actor>Tigers at Rangers</actor>
+    </credits>
+  </programme>
+  <programme start="20260705160000 +0000" stop="20260705180000 +0000" channel="PEACOCK 013">
+    <title lang="en">Tigers at Rangers starts at 3:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Tigers at Rangers</actor>
+      <actor>Tigers at Rangers</actor>
+    </credits>
+  </programme>
+  <programme start="20260705180000 +0000" stop="20260705193000 +0000" channel="PEACOCK 013">
+    <title lang="en">Tigers at Rangers starts at 3:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Tigers at Rangers</actor>
+      <actor>Tigers at Rangers</actor>
+    </credits>
+  </programme>
+  <programme start="20260705193000 +0000" stop="20260705233000 +0000" channel="PEACOCK 013">
+    <title lang="en">Tigers at Rangers</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Tigers at Rangers</actor>
+      <actor>Tigers at Rangers</actor>
+    </credits>
+  </programme>
+  <programme start="20260705100000 +0000" stop="20260705120000 +0000" channel="PEACOCK 014">
+    <title lang="en">Rays at Astros starts at 3:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Rays at Astros</actor>
+      <actor>Rays at Astros</actor>
+    </credits>
+  </programme>
+  <programme start="20260705120000 +0000" stop="20260705140000 +0000" channel="PEACOCK 014">
+    <title lang="en">Rays at Astros starts at 3:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Rays at Astros</actor>
+      <actor>Rays at Astros</actor>
+    </credits>
+  </programme>
+  <programme start="20260705140000 +0000" stop="20260705160000 +0000" channel="PEACOCK 014">
+    <title lang="en">Rays at Astros starts at 3:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Rays at Astros</actor>
+      <actor>Rays at Astros</actor>
+    </credits>
+  </programme>
+  <programme start="20260705160000 +0000" stop="20260705180000 +0000" channel="PEACOCK 014">
+    <title lang="en">Rays at Astros starts at 3:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Rays at Astros</actor>
+      <actor>Rays at Astros</actor>
+    </credits>
+  </programme>
+  <programme start="20260705180000 +0000" stop="20260705193000 +0000" channel="PEACOCK 014">
+    <title lang="en">Rays at Astros starts at 3:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Rays at Astros</actor>
+      <actor>Rays at Astros</actor>
+    </credits>
+  </programme>
+  <programme start="20260705193000 +0000" stop="20260705233000 +0000" channel="PEACOCK 014">
+    <title lang="en">Rays at Astros</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Rays at Astros</actor>
+      <actor>Rays at Astros</actor>
+    </credits>
+  </programme>
+  <programme start="20260705100000 +0000" stop="20260705120000 +0000" channel="PEACOCK 015">
+    <title lang="en">Brewers at Diamondbacks starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Brewers at Diamondbacks</actor>
+      <actor>Brewers at Diamondbacks</actor>
+    </credits>
+  </programme>
+  <programme start="20260705120000 +0000" stop="20260705140000 +0000" channel="PEACOCK 015">
+    <title lang="en">Brewers at Diamondbacks starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Brewers at Diamondbacks</actor>
+      <actor>Brewers at Diamondbacks</actor>
+    </credits>
+  </programme>
+  <programme start="20260705140000 +0000" stop="20260705160000 +0000" channel="PEACOCK 015">
+    <title lang="en">Brewers at Diamondbacks starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Brewers at Diamondbacks</actor>
+      <actor>Brewers at Diamondbacks</actor>
+    </credits>
+  </programme>
+  <programme start="20260705160000 +0000" stop="20260705180000 +0000" channel="PEACOCK 015">
+    <title lang="en">Brewers at Diamondbacks starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Brewers at Diamondbacks</actor>
+      <actor>Brewers at Diamondbacks</actor>
+    </credits>
+  </programme>
+  <programme start="20260705180000 +0000" stop="20260705200000 +0000" channel="PEACOCK 015">
+    <title lang="en">Brewers at Diamondbacks starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Brewers at Diamondbacks</actor>
+      <actor>Brewers at Diamondbacks</actor>
+    </credits>
+  </programme>
+  <programme start="20260705200000 +0000" stop="20260706000000 +0000" channel="PEACOCK 015">
+    <title lang="en">Brewers at Diamondbacks</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Brewers at Diamondbacks</actor>
+      <actor>Brewers at Diamondbacks</actor>
+    </credits>
+  </programme>
+  <programme start="20260705100000 +0000" stop="20260705120000 +0000" channel="PEACOCK 016">
+    <title lang="en">Giants at Rockies starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Giants at Rockies</actor>
+      <actor>Giants at Rockies</actor>
+    </credits>
+  </programme>
+  <programme start="20260705120000 +0000" stop="20260705140000 +0000" channel="PEACOCK 016">
+    <title lang="en">Giants at Rockies starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Giants at Rockies</actor>
+      <actor>Giants at Rockies</actor>
+    </credits>
+  </programme>
+  <programme start="20260705140000 +0000" stop="20260705160000 +0000" channel="PEACOCK 016">
+    <title lang="en">Giants at Rockies starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Giants at Rockies</actor>
+      <actor>Giants at Rockies</actor>
+    </credits>
+  </programme>
+  <programme start="20260705160000 +0000" stop="20260705180000 +0000" channel="PEACOCK 016">
+    <title lang="en">Giants at Rockies starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Giants at Rockies</actor>
+      <actor>Giants at Rockies</actor>
+    </credits>
+  </programme>
+  <programme start="20260705180000 +0000" stop="20260705200000 +0000" channel="PEACOCK 016">
+    <title lang="en">Giants at Rockies starts at 4:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Giants at Rockies</actor>
+      <actor>Giants at Rockies</actor>
+    </credits>
+  </programme>
+  <programme start="20260705200000 +0000" stop="20260706000000 +0000" channel="PEACOCK 016">
+    <title lang="en">Giants at Rockies</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Giants at Rockies</actor>
+      <actor>Giants at Rockies</actor>
+    </credits>
+  </programme>
+  <programme start="20260705100000 +0000" stop="20260705120000 +0000" channel="PEACOCK 017">
+    <title lang="en">Marlins at Athletics starts at 4:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Marlins at Athletics</actor>
+      <actor>Marlins at Athletics</actor>
+    </credits>
+  </programme>
+  <programme start="20260705120000 +0000" stop="20260705140000 +0000" channel="PEACOCK 017">
+    <title lang="en">Marlins at Athletics starts at 4:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Marlins at Athletics</actor>
+      <actor>Marlins at Athletics</actor>
+    </credits>
+  </programme>
+  <programme start="20260705140000 +0000" stop="20260705160000 +0000" channel="PEACOCK 017">
+    <title lang="en">Marlins at Athletics starts at 4:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Marlins at Athletics</actor>
+      <actor>Marlins at Athletics</actor>
+    </credits>
+  </programme>
+  <programme start="20260705160000 +0000" stop="20260705180000 +0000" channel="PEACOCK 017">
+    <title lang="en">Marlins at Athletics starts at 4:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Marlins at Athletics</actor>
+      <actor>Marlins at Athletics</actor>
+    </credits>
+  </programme>
+  <programme start="20260705180000 +0000" stop="20260705200000 +0000" channel="PEACOCK 017">
+    <title lang="en">Marlins at Athletics starts at 4:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Marlins at Athletics</actor>
+      <actor>Marlins at Athletics</actor>
+    </credits>
+  </programme>
+  <programme start="20260705200000 +0000" stop="20260705203000 +0000" channel="PEACOCK 017">
+    <title lang="en">Marlins at Athletics starts at 4:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Marlins at Athletics</actor>
+      <actor>Marlins at Athletics</actor>
+    </credits>
+  </programme>
+  <programme start="20260705203000 +0000" stop="20260706003000 +0000" channel="PEACOCK 017">
+    <title lang="en">Marlins at Athletics</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Marlins at Athletics</actor>
+      <actor>Marlins at Athletics</actor>
+    </credits>
+  </programme>
+  <programme start="20260705100000 +0000" stop="20260705120000 +0000" channel="PEACOCK 018">
+    <title lang="en">Blue Jays at Mariners starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Blue Jays at Mariners</actor>
+      <actor>Blue Jays at Mariners</actor>
+    </credits>
+  </programme>
+  <programme start="20260705120000 +0000" stop="20260705140000 +0000" channel="PEACOCK 018">
+    <title lang="en">Blue Jays at Mariners starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Blue Jays at Mariners</actor>
+      <actor>Blue Jays at Mariners</actor>
+    </credits>
+  </programme>
+  <programme start="20260705140000 +0000" stop="20260705160000 +0000" channel="PEACOCK 018">
+    <title lang="en">Blue Jays at Mariners starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Blue Jays at Mariners</actor>
+      <actor>Blue Jays at Mariners</actor>
+    </credits>
+  </programme>
+  <programme start="20260705160000 +0000" stop="20260705180000 +0000" channel="PEACOCK 018">
+    <title lang="en">Blue Jays at Mariners starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Blue Jays at Mariners</actor>
+      <actor>Blue Jays at Mariners</actor>
+    </credits>
+  </programme>
+  <programme start="20260705180000 +0000" stop="20260705200000 +0000" channel="PEACOCK 018">
+    <title lang="en">Blue Jays at Mariners starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Blue Jays at Mariners</actor>
+      <actor>Blue Jays at Mariners</actor>
+    </credits>
+  </programme>
+  <programme start="20260705200000 +0000" stop="20260705210000 +0000" channel="PEACOCK 018">
+    <title lang="en">Blue Jays at Mariners starts at 5:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Blue Jays at Mariners</actor>
+      <actor>Blue Jays at Mariners</actor>
+    </credits>
+  </programme>
+  <programme start="20260705210000 +0000" stop="20260706010000 +0000" channel="PEACOCK 018">
+    <title lang="en">Blue Jays at Mariners</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Blue Jays at Mariners</actor>
+      <actor>Blue Jays at Mariners</actor>
+    </credits>
+  </programme>
+  <programme start="20260705100000 +0000" stop="20260705120000 +0000" channel="PEACOCK 019">
+    <title lang="en">Padres at Dodgers starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Padres at Dodgers</actor>
+      <actor>Padres at Dodgers</actor>
+    </credits>
+  </programme>
+  <programme start="20260705120000 +0000" stop="20260705140000 +0000" channel="PEACOCK 019">
+    <title lang="en">Padres at Dodgers starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Padres at Dodgers</actor>
+      <actor>Padres at Dodgers</actor>
+    </credits>
+  </programme>
+  <programme start="20260705140000 +0000" stop="20260705160000 +0000" channel="PEACOCK 019">
+    <title lang="en">Padres at Dodgers starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Padres at Dodgers</actor>
+      <actor>Padres at Dodgers</actor>
+    </credits>
+  </programme>
+  <programme start="20260705160000 +0000" stop="20260705180000 +0000" channel="PEACOCK 019">
+    <title lang="en">Padres at Dodgers starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Padres at Dodgers</actor>
+      <actor>Padres at Dodgers</actor>
+    </credits>
+  </programme>
+  <programme start="20260705180000 +0000" stop="20260705200000 +0000" channel="PEACOCK 019">
+    <title lang="en">Padres at Dodgers starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Padres at Dodgers</actor>
+      <actor>Padres at Dodgers</actor>
+    </credits>
+  </programme>
+  <programme start="20260705200000 +0000" stop="20260705220000 +0000" channel="PEACOCK 019">
+    <title lang="en">Padres at Dodgers starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Padres at Dodgers</actor>
+      <actor>Padres at Dodgers</actor>
+    </credits>
+  </programme>
+  <programme start="20260705220000 +0000" stop="20260705230000 +0000" channel="PEACOCK 019">
+    <title lang="en">Padres at Dodgers starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Padres at Dodgers</actor>
+      <actor>Padres at Dodgers</actor>
+    </credits>
+  </programme>
+  <programme start="20260705230000 +0000" stop="20260706030000 +0000" channel="PEACOCK 019">
+    <title lang="en">Padres at Dodgers</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Padres at Dodgers</actor>
+      <actor>Padres at Dodgers</actor>
+    </credits>
+  </programme>
+  <programme start="20260705100000 +0000" stop="20260705120000 +0000" channel="PEACOCK 020">
+    <title lang="en">Red Sox at Angels starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Red Sox at Angels</actor>
+      <actor>Red Sox at Angels</actor>
+    </credits>
+  </programme>
+  <programme start="20260705120000 +0000" stop="20260705140000 +0000" channel="PEACOCK 020">
+    <title lang="en">Red Sox at Angels starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Red Sox at Angels</actor>
+      <actor>Red Sox at Angels</actor>
+    </credits>
+  </programme>
+  <programme start="20260705140000 +0000" stop="20260705160000 +0000" channel="PEACOCK 020">
+    <title lang="en">Red Sox at Angels starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Red Sox at Angels</actor>
+      <actor>Red Sox at Angels</actor>
+    </credits>
+  </programme>
+  <programme start="20260705160000 +0000" stop="20260705180000 +0000" channel="PEACOCK 020">
+    <title lang="en">Red Sox at Angels starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Red Sox at Angels</actor>
+      <actor>Red Sox at Angels</actor>
+    </credits>
+  </programme>
+  <programme start="20260705180000 +0000" stop="20260705200000 +0000" channel="PEACOCK 020">
+    <title lang="en">Red Sox at Angels starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Red Sox at Angels</actor>
+      <actor>Red Sox at Angels</actor>
+    </credits>
+  </programme>
+  <programme start="20260705200000 +0000" stop="20260705220000 +0000" channel="PEACOCK 020">
+    <title lang="en">Red Sox at Angels starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Red Sox at Angels</actor>
+      <actor>Red Sox at Angels</actor>
+    </credits>
+  </programme>
+  <programme start="20260705220000 +0000" stop="20260706000000 +0000" channel="PEACOCK 020">
+    <title lang="en">Red Sox at Angels starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Red Sox at Angels</actor>
+      <actor>Red Sox at Angels</actor>
+    </credits>
+  </programme>
+  <programme start="20260706000000 +0000" stop="20260706013000 +0000" channel="PEACOCK 020">
+    <title lang="en">Red Sox at Angels starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Red Sox at Angels</actor>
+      <actor>Red Sox at Angels</actor>
+    </credits>
+  </programme>
+  <programme start="20260706013000 +0000" stop="20260706053000 +0000" channel="PEACOCK 020">
+    <title lang="en">Red Sox at Angels</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Red Sox at Angels</actor>
+      <actor>Red Sox at Angels</actor>
     </credits>
   </programme>
 </tv>
