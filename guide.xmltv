@@ -210,364 +210,238 @@
   <channel id="PPV 70">
     <display-name>PPV 70</display-name>
   </channel>
-  <programme start="20260705100000 +0000" stop="20260705120000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: American Flat Track at DuQuoin starts at 12:00 PM ET</title>
+  <programme start="20260706100000 +0000" stop="20260706120000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>American Flat Track at DuQuoin</actor>
+      <actor>WWE Monday Night Raw</actor>
     </credits>
   </programme>
-  <programme start="20260705120000 +0000" stop="20260705140000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: American Flat Track at DuQuoin starts at 12:00 PM ET</title>
+  <programme start="20260706120000 +0000" stop="20260706140000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>American Flat Track at DuQuoin</actor>
+      <actor>WWE Monday Night Raw</actor>
     </credits>
   </programme>
-  <programme start="20260705140000 +0000" stop="20260705160000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: American Flat Track at DuQuoin starts at 12:00 PM ET</title>
+  <programme start="20260706140000 +0000" stop="20260706160000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>American Flat Track at DuQuoin</actor>
+      <actor>WWE Monday Night Raw</actor>
     </credits>
   </programme>
-  <programme start="20260705160000 +0000" stop="20260705190000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: American Flat Track at DuQuoin (7.5 12:00 PM ET)</title>
+  <programme start="20260706160000 +0000" stop="20260706180000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260706180000 +0000" stop="20260706200000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260706200000 +0000" stop="20260706220000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260706220000 +0000" stop="20260707000000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 01</actor>
+      <actor>WWE Monday Night Raw</actor>
+    </credits>
+  </programme>
+  <programme start="20260707000000 +0000" stop="20260707030000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: WWE Monday Night Raw (7.6 8:00 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>American Flat Track at DuQuoin</actor>
+      <actor>WWE Monday Night Raw</actor>
     </credits>
   </programme>
-  <programme start="20260705100000 +0000" stop="20260705120000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: USAC Sumar Classic at Terre Haute starts at 5:45 PM ET</title>
+  <programme start="20260706100000 +0000" stop="20260706120000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Kankakee County Speedway starts at 6:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>USAC Sumar Classic at Terre Haute</actor>
+      <actor>Kankakee County Speedway</actor>
     </credits>
   </programme>
-  <programme start="20260705120000 +0000" stop="20260705140000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: USAC Sumar Classic at Terre Haute starts at 5:45 PM ET</title>
+  <programme start="20260706120000 +0000" stop="20260706140000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Kankakee County Speedway starts at 6:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>USAC Sumar Classic at Terre Haute</actor>
+      <actor>Kankakee County Speedway</actor>
     </credits>
   </programme>
-  <programme start="20260705140000 +0000" stop="20260705160000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: USAC Sumar Classic at Terre Haute starts at 5:45 PM ET</title>
+  <programme start="20260706140000 +0000" stop="20260706160000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Kankakee County Speedway starts at 6:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>USAC Sumar Classic at Terre Haute</actor>
+      <actor>Kankakee County Speedway</actor>
     </credits>
   </programme>
-  <programme start="20260705160000 +0000" stop="20260705180000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: USAC Sumar Classic at Terre Haute starts at 5:45 PM ET</title>
+  <programme start="20260706160000 +0000" stop="20260706180000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Kankakee County Speedway starts at 6:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>USAC Sumar Classic at Terre Haute</actor>
+      <actor>Kankakee County Speedway</actor>
     </credits>
   </programme>
-  <programme start="20260705180000 +0000" stop="20260705200000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: USAC Sumar Classic at Terre Haute starts at 5:45 PM ET</title>
+  <programme start="20260706180000 +0000" stop="20260706200000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Kankakee County Speedway starts at 6:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>USAC Sumar Classic at Terre Haute</actor>
+      <actor>Kankakee County Speedway</actor>
     </credits>
   </programme>
-  <programme start="20260705200000 +0000" stop="20260705214500 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: USAC Sumar Classic at Terre Haute starts at 5:45 PM ET</title>
+  <programme start="20260706200000 +0000" stop="20260706220000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Kankakee County Speedway starts at 6:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>USAC Sumar Classic at Terre Haute</actor>
+      <actor>Kankakee County Speedway</actor>
     </credits>
   </programme>
-  <programme start="20260705214500 +0000" stop="20260706004500 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: USAC Sumar Classic at Terre Haute (7.5 5:45 PM ET)</title>
+  <programme start="20260706220000 +0000" stop="20260706224500 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Kankakee County Speedway starts at 6:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 02</actor>
+      <actor>Kankakee County Speedway</actor>
+    </credits>
+  </programme>
+  <programme start="20260706224500 +0000" stop="20260707014500 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: Kankakee County Speedway (7.6 6:45 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>USAC Sumar Classic at Terre Haute</actor>
+      <actor>Kankakee County Speedway</actor>
     </credits>
   </programme>
-  <programme start="20260705100000 +0000" stop="20260705120000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: Weekly Racing at Slinger starts at 6:20 PM ET</title>
+  <programme start="20260706100000 +0000" stop="20260706120000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Eric Church at Red Rock starts at 10:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>Weekly Racing at Slinger</actor>
+      <actor>Eric Church at Red Rock</actor>
     </credits>
   </programme>
-  <programme start="20260705120000 +0000" stop="20260705140000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: Weekly Racing at Slinger starts at 6:20 PM ET</title>
+  <programme start="20260706120000 +0000" stop="20260706140000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Eric Church at Red Rock starts at 10:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>Weekly Racing at Slinger</actor>
+      <actor>Eric Church at Red Rock</actor>
     </credits>
   </programme>
-  <programme start="20260705140000 +0000" stop="20260705160000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: Weekly Racing at Slinger starts at 6:20 PM ET</title>
+  <programme start="20260706140000 +0000" stop="20260706160000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Eric Church at Red Rock starts at 10:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>Weekly Racing at Slinger</actor>
+      <actor>Eric Church at Red Rock</actor>
     </credits>
   </programme>
-  <programme start="20260705160000 +0000" stop="20260705180000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: Weekly Racing at Slinger starts at 6:20 PM ET</title>
+  <programme start="20260706160000 +0000" stop="20260706180000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Eric Church at Red Rock starts at 10:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>Weekly Racing at Slinger</actor>
+      <actor>Eric Church at Red Rock</actor>
     </credits>
   </programme>
-  <programme start="20260705180000 +0000" stop="20260705200000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: Weekly Racing at Slinger starts at 6:20 PM ET</title>
+  <programme start="20260706180000 +0000" stop="20260706200000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Eric Church at Red Rock starts at 10:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>Weekly Racing at Slinger</actor>
+      <actor>Eric Church at Red Rock</actor>
     </credits>
   </programme>
-  <programme start="20260705200000 +0000" stop="20260705220000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: Weekly Racing at Slinger starts at 6:20 PM ET</title>
+  <programme start="20260706200000 +0000" stop="20260706220000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Eric Church at Red Rock starts at 10:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>Weekly Racing at Slinger</actor>
+      <actor>Eric Church at Red Rock</actor>
     </credits>
   </programme>
-  <programme start="20260705220000 +0000" stop="20260705222000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: Weekly Racing at Slinger starts at 6:20 PM ET</title>
+  <programme start="20260706220000 +0000" stop="20260707000000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Eric Church at Red Rock starts at 10:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>Weekly Racing at Slinger</actor>
+      <actor>Eric Church at Red Rock</actor>
     </credits>
   </programme>
-  <programme start="20260705222000 +0000" stop="20260706012000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: Weekly Racing at Slinger (7.5 6:20 PM ET)</title>
+  <programme start="20260707000000 +0000" stop="20260707020000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Eric Church at Red Rock starts at 10:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>Eric Church at Red Rock</actor>
+    </credits>
+  </programme>
+  <programme start="20260707020000 +0000" stop="20260707024500 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Eric Church at Red Rock starts at 10:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 03</actor>
+      <actor>Eric Church at Red Rock</actor>
+    </credits>
+  </programme>
+  <programme start="20260707024500 +0000" stop="20260707054500 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Eric Church at Red Rock (7.6 10:45 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>Weekly Racing at Slinger</actor>
-    </credits>
-  </programme>
-  <programme start="20260705100000 +0000" stop="20260705120000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: Macon Speedway starts at 6:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>Macon Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260705120000 +0000" stop="20260705140000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: Macon Speedway starts at 6:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>Macon Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260705140000 +0000" stop="20260705160000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: Macon Speedway starts at 6:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>Macon Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260705160000 +0000" stop="20260705180000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: Macon Speedway starts at 6:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>Macon Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260705180000 +0000" stop="20260705200000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: Macon Speedway starts at 6:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>Macon Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260705200000 +0000" stop="20260705220000 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: Macon Speedway starts at 6:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>Macon Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260705220000 +0000" stop="20260705224500 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: Macon Speedway starts at 6:45 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>Macon Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260705224500 +0000" stop="20260706014500 +0000" channel="PPV 04">
-    <title lang="en">EVENT 04: Macon Speedway (7.5 6:45 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 04</actor>
-      <actor>Macon Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260705100000 +0000" stop="20260705120000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Nascar Cup Series Eero 400 Chicagoland Speedway starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Nascar Cup Series Eero 400 Chicagoland Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260705120000 +0000" stop="20260705140000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Nascar Cup Series Eero 400 Chicagoland Speedway starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Nascar Cup Series Eero 400 Chicagoland Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260705140000 +0000" stop="20260705160000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Nascar Cup Series Eero 400 Chicagoland Speedway starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Nascar Cup Series Eero 400 Chicagoland Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260705160000 +0000" stop="20260705180000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Nascar Cup Series Eero 400 Chicagoland Speedway starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Nascar Cup Series Eero 400 Chicagoland Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260705180000 +0000" stop="20260705200000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Nascar Cup Series Eero 400 Chicagoland Speedway starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Nascar Cup Series Eero 400 Chicagoland Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260705200000 +0000" stop="20260705220000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Nascar Cup Series Eero 400 Chicagoland Speedway starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Nascar Cup Series Eero 400 Chicagoland Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260705220000 +0000" stop="20260706010000 +0000" channel="PPV 05">
-    <title lang="en">EVENT 05: Nascar Cup Series Eero 400 Chicagoland Speedway (7.5 6:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 05</actor>
-      <actor>Nascar Cup Series Eero 400 Chicagoland Speedway</actor>
-    </credits>
-  </programme>
-  <programme start="20260705100000 +0000" stop="20260705120000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: GCW Backyard Wrestling 8 starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>GCW Backyard Wrestling 8</actor>
-    </credits>
-  </programme>
-  <programme start="20260705120000 +0000" stop="20260705140000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: GCW Backyard Wrestling 8 starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>GCW Backyard Wrestling 8</actor>
-    </credits>
-  </programme>
-  <programme start="20260705140000 +0000" stop="20260705160000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: GCW Backyard Wrestling 8 starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>GCW Backyard Wrestling 8</actor>
-    </credits>
-  </programme>
-  <programme start="20260705160000 +0000" stop="20260705180000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: GCW Backyard Wrestling 8 starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>GCW Backyard Wrestling 8</actor>
-    </credits>
-  </programme>
-  <programme start="20260705180000 +0000" stop="20260705190000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: GCW Backyard Wrestling 8 starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>GCW Backyard Wrestling 8</actor>
-    </credits>
-  </programme>
-  <programme start="20260705190000 +0000" stop="20260705220000 +0000" channel="PPV 06">
-    <title lang="en">EVENT 06: GCW Backyard Wrestling 8 (7.5 3:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 06</actor>
-      <actor>GCW Backyard Wrestling 8</actor>
+      <actor>Eric Church at Red Rock</actor>
     </credits>
   </programme>
 </tv>
