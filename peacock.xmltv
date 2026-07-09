@@ -300,69 +300,197 @@
   <channel id="PEACOCK 100">
     <display-name>PEACOCK 100</display-name>
   </channel>
-  <programme start="20260708100000 +0000" stop="20260708110000 +0000" channel="PEACOCK 001">
-    <title lang="en">Tour de France: Stage 5 starts at 7:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Tour de France: Stage 5</actor>
-      <actor>Tour de France: Stage 5</actor>
-    </credits>
-  </programme>
-  <programme start="20260708110000 +0000" stop="20260708150000 +0000" channel="PEACOCK 001">
-    <title lang="en">Tour de France: Stage 5</title>
+  <programme start="20260709100000 +0000" stop="20260709140000 +0000" channel="PEACOCK 001">
+    <title lang="en">Tour de France: Stage 6</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Tour de France: Stage 5</actor>
-      <actor>Tour de France: Stage 5</actor>
+      <actor>Tour de France: Stage 6</actor>
+      <actor>Tour de France: Stage 6</actor>
     </credits>
   </programme>
-  <programme start="20260708100000 +0000" stop="20260708120000 +0000" channel="PEACOCK 002">
-    <title lang="en">THEMOVE: Stage 5 starts at 12:30 PM ET</title>
+  <programme start="20260709100000 +0000" stop="20260709120000 +0000" channel="PEACOCK 002">
+    <title lang="en">THEMOVE: Stage 6 starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>THEMOVE: Stage 5</actor>
-      <actor>THEMOVE: Stage 5</actor>
+      <actor>THEMOVE: Stage 6</actor>
+      <actor>THEMOVE: Stage 6</actor>
     </credits>
   </programme>
-  <programme start="20260708120000 +0000" stop="20260708140000 +0000" channel="PEACOCK 002">
-    <title lang="en">THEMOVE: Stage 5 starts at 12:30 PM ET</title>
+  <programme start="20260709120000 +0000" stop="20260709140000 +0000" channel="PEACOCK 002">
+    <title lang="en">THEMOVE: Stage 6 starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>THEMOVE: Stage 5</actor>
-      <actor>THEMOVE: Stage 5</actor>
+      <actor>THEMOVE: Stage 6</actor>
+      <actor>THEMOVE: Stage 6</actor>
     </credits>
   </programme>
-  <programme start="20260708140000 +0000" stop="20260708160000 +0000" channel="PEACOCK 002">
-    <title lang="en">THEMOVE: Stage 5 starts at 12:30 PM ET</title>
+  <programme start="20260709140000 +0000" stop="20260709160000 +0000" channel="PEACOCK 002">
+    <title lang="en">THEMOVE: Stage 6 starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>THEMOVE: Stage 5</actor>
-      <actor>THEMOVE: Stage 5</actor>
+      <actor>THEMOVE: Stage 6</actor>
+      <actor>THEMOVE: Stage 6</actor>
     </credits>
   </programme>
-  <programme start="20260708160000 +0000" stop="20260708163000 +0000" channel="PEACOCK 002">
-    <title lang="en">THEMOVE: Stage 5 starts at 12:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>THEMOVE: Stage 5</actor>
-      <actor>THEMOVE: Stage 5</actor>
-    </credits>
-  </programme>
-  <programme start="20260708163000 +0000" stop="20260708203000 +0000" channel="PEACOCK 002">
-    <title lang="en">THEMOVE: Stage 5</title>
+  <programme start="20260709160000 +0000" stop="20260709200000 +0000" channel="PEACOCK 002">
+    <title lang="en">THEMOVE: Stage 6</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>THEMOVE: Stage 5</actor>
-      <actor>THEMOVE: Stage 5</actor>
+      <actor>THEMOVE: Stage 6</actor>
+      <actor>THEMOVE: Stage 6</actor>
+    </credits>
+  </programme>
+  <programme start="20260709100000 +0000" stop="20260709120000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: MIL at STL starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: MIL at STL</actor>
+      <actor>Home Feed: MIL at STL</actor>
+    </credits>
+  </programme>
+  <programme start="20260709120000 +0000" stop="20260709140000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: MIL at STL starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: MIL at STL</actor>
+      <actor>Home Feed: MIL at STL</actor>
+    </credits>
+  </programme>
+  <programme start="20260709140000 +0000" stop="20260709160000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: MIL at STL starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: MIL at STL</actor>
+      <actor>Home Feed: MIL at STL</actor>
+    </credits>
+  </programme>
+  <programme start="20260709160000 +0000" stop="20260709180000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: MIL at STL starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: MIL at STL</actor>
+      <actor>Home Feed: MIL at STL</actor>
+    </credits>
+  </programme>
+  <programme start="20260709180000 +0000" stop="20260709200000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: MIL at STL starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: MIL at STL</actor>
+      <actor>Home Feed: MIL at STL</actor>
+    </credits>
+  </programme>
+  <programme start="20260709200000 +0000" stop="20260709220000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: MIL at STL starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: MIL at STL</actor>
+      <actor>Home Feed: MIL at STL</actor>
+    </credits>
+  </programme>
+  <programme start="20260709220000 +0000" stop="20260709233000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: MIL at STL starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: MIL at STL</actor>
+      <actor>Home Feed: MIL at STL</actor>
+    </credits>
+  </programme>
+  <programme start="20260709233000 +0000" stop="20260710033000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: MIL at STL</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: MIL at STL</actor>
+      <actor>Home Feed: MIL at STL</actor>
+    </credits>
+  </programme>
+  <programme start="20260709100000 +0000" stop="20260709120000 +0000" channel="PEACOCK 004">
+    <title lang="en">Away Feed: MIL at STL starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: MIL at STL</actor>
+      <actor>Away Feed: MIL at STL</actor>
+    </credits>
+  </programme>
+  <programme start="20260709120000 +0000" stop="20260709140000 +0000" channel="PEACOCK 004">
+    <title lang="en">Away Feed: MIL at STL starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: MIL at STL</actor>
+      <actor>Away Feed: MIL at STL</actor>
+    </credits>
+  </programme>
+  <programme start="20260709140000 +0000" stop="20260709160000 +0000" channel="PEACOCK 004">
+    <title lang="en">Away Feed: MIL at STL starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: MIL at STL</actor>
+      <actor>Away Feed: MIL at STL</actor>
+    </credits>
+  </programme>
+  <programme start="20260709160000 +0000" stop="20260709180000 +0000" channel="PEACOCK 004">
+    <title lang="en">Away Feed: MIL at STL starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: MIL at STL</actor>
+      <actor>Away Feed: MIL at STL</actor>
+    </credits>
+  </programme>
+  <programme start="20260709180000 +0000" stop="20260709200000 +0000" channel="PEACOCK 004">
+    <title lang="en">Away Feed: MIL at STL starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: MIL at STL</actor>
+      <actor>Away Feed: MIL at STL</actor>
+    </credits>
+  </programme>
+  <programme start="20260709200000 +0000" stop="20260709220000 +0000" channel="PEACOCK 004">
+    <title lang="en">Away Feed: MIL at STL starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: MIL at STL</actor>
+      <actor>Away Feed: MIL at STL</actor>
+    </credits>
+  </programme>
+  <programme start="20260709220000 +0000" stop="20260709233000 +0000" channel="PEACOCK 004">
+    <title lang="en">Away Feed: MIL at STL starts at 7:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: MIL at STL</actor>
+      <actor>Away Feed: MIL at STL</actor>
+    </credits>
+  </programme>
+  <programme start="20260709233000 +0000" stop="20260710033000 +0000" channel="PEACOCK 004">
+    <title lang="en">Away Feed: MIL at STL</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: MIL at STL</actor>
+      <actor>Away Feed: MIL at STL</actor>
     </credits>
   </programme>
 </tv>
