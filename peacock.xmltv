@@ -300,584 +300,114 @@
   <channel id="PEACOCK 100">
     <display-name>PEACOCK 100</display-name>
   </channel>
-  <programme start="20260712090000 +0000" stop="20260712130000 +0000" channel="PEACOCK 001">
-    <title lang="en">High Diving World Cup: Italy 2</title>
+  <programme start="20260713100000 +0000" stop="20260713120000 +0000" channel="PEACOCK 001">
+    <title lang="en">Live At The Range starts at 9:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Live At The Range</actor>
+      <actor>Live At The Range</actor>
+    </credits>
+  </programme>
+  <programme start="20260713120000 +0000" stop="20260713130000 +0000" channel="PEACOCK 001">
+    <title lang="en">Live At The Range starts at 9:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Live At The Range</actor>
+      <actor>Live At The Range</actor>
+    </credits>
+  </programme>
+  <programme start="20260713130000 +0000" stop="20260713170000 +0000" channel="PEACOCK 001">
+    <title lang="en">Live At The Range</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>High Diving World Cup: Italy 2</actor>
-      <actor>High Diving World Cup: Italy 2</actor>
+      <actor>Live At The Range</actor>
+      <actor>Live At The Range</actor>
     </credits>
   </programme>
-  <programme start="20260712100000 +0000" stop="20260712110000 +0000" channel="PEACOCK 002">
-    <title lang="en">Tour de France: Stage 9 starts at 7:00 AM ET</title>
+  <programme start="20260713100000 +0000" stop="20260713120000 +0000" channel="PEACOCK 002">
+    <title lang="en">Mercury vs. Lynx starts at 9:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Tour de France: Stage 9</actor>
-      <actor>Tour de France: Stage 9</actor>
+      <actor>Mercury vs. Lynx</actor>
+      <actor>Mercury vs. Lynx</actor>
     </credits>
   </programme>
-  <programme start="20260712110000 +0000" stop="20260712150000 +0000" channel="PEACOCK 002">
-    <title lang="en">Tour de France: Stage 9</title>
+  <programme start="20260713120000 +0000" stop="20260713140000 +0000" channel="PEACOCK 002">
+    <title lang="en">Mercury vs. Lynx starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Mercury vs. Lynx</actor>
+      <actor>Mercury vs. Lynx</actor>
+    </credits>
+  </programme>
+  <programme start="20260713140000 +0000" stop="20260713160000 +0000" channel="PEACOCK 002">
+    <title lang="en">Mercury vs. Lynx starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Mercury vs. Lynx</actor>
+      <actor>Mercury vs. Lynx</actor>
+    </credits>
+  </programme>
+  <programme start="20260713160000 +0000" stop="20260713180000 +0000" channel="PEACOCK 002">
+    <title lang="en">Mercury vs. Lynx starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Mercury vs. Lynx</actor>
+      <actor>Mercury vs. Lynx</actor>
+    </credits>
+  </programme>
+  <programme start="20260713180000 +0000" stop="20260713200000 +0000" channel="PEACOCK 002">
+    <title lang="en">Mercury vs. Lynx starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Mercury vs. Lynx</actor>
+      <actor>Mercury vs. Lynx</actor>
+    </credits>
+  </programme>
+  <programme start="20260713200000 +0000" stop="20260713220000 +0000" channel="PEACOCK 002">
+    <title lang="en">Mercury vs. Lynx starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Mercury vs. Lynx</actor>
+      <actor>Mercury vs. Lynx</actor>
+    </credits>
+  </programme>
+  <programme start="20260713220000 +0000" stop="20260714000000 +0000" channel="PEACOCK 002">
+    <title lang="en">Mercury vs. Lynx starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Mercury vs. Lynx</actor>
+      <actor>Mercury vs. Lynx</actor>
+    </credits>
+  </programme>
+  <programme start="20260714000000 +0000" stop="20260714010000 +0000" channel="PEACOCK 002">
+    <title lang="en">Mercury vs. Lynx starts at 9:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Mercury vs. Lynx</actor>
+      <actor>Mercury vs. Lynx</actor>
+    </credits>
+  </programme>
+  <programme start="20260714010000 +0000" stop="20260714050000 +0000" channel="PEACOCK 002">
+    <title lang="en">Mercury vs. Lynx</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Tour de France: Stage 9</actor>
-      <actor>Tour de France: Stage 9</actor>
-    </credits>
-  </programme>
-  <programme start="20260712100000 +0000" stop="20260712120000 +0000" channel="PEACOCK 003">
-    <title lang="en">IMSA VPRC at CTMP | R2 starts at 11:05 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>IMSA VPRC at CTMP | R2</actor>
-      <actor>IMSA VPRC at CTMP | R2</actor>
-    </credits>
-  </programme>
-  <programme start="20260712120000 +0000" stop="20260712140000 +0000" channel="PEACOCK 003">
-    <title lang="en">IMSA VPRC at CTMP | R2 starts at 11:05 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>IMSA VPRC at CTMP | R2</actor>
-      <actor>IMSA VPRC at CTMP | R2</actor>
-    </credits>
-  </programme>
-  <programme start="20260712140000 +0000" stop="20260712150500 +0000" channel="PEACOCK 003">
-    <title lang="en">IMSA VPRC at CTMP | R2 starts at 11:05 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>IMSA VPRC at CTMP | R2</actor>
-      <actor>IMSA VPRC at CTMP | R2</actor>
-    </credits>
-  </programme>
-  <programme start="20260712150500 +0000" stop="20260712190500 +0000" channel="PEACOCK 003">
-    <title lang="en">IMSA VPRC at CTMP | R2</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>IMSA VPRC at CTMP | R2</actor>
-      <actor>IMSA VPRC at CTMP | R2</actor>
-    </credits>
-  </programme>
-  <programme start="20260712100000 +0000" stop="20260712120000 +0000" channel="PEACOCK 004">
-    <title lang="en">All-Star Futures Game starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>All-Star Futures Game</actor>
-      <actor>All-Star Futures Game</actor>
-    </credits>
-  </programme>
-  <programme start="20260712120000 +0000" stop="20260712140000 +0000" channel="PEACOCK 004">
-    <title lang="en">All-Star Futures Game starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>All-Star Futures Game</actor>
-      <actor>All-Star Futures Game</actor>
-    </credits>
-  </programme>
-  <programme start="20260712140000 +0000" stop="20260712160000 +0000" channel="PEACOCK 004">
-    <title lang="en">All-Star Futures Game starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>All-Star Futures Game</actor>
-      <actor>All-Star Futures Game</actor>
-    </credits>
-  </programme>
-  <programme start="20260712160000 +0000" stop="20260712200000 +0000" channel="PEACOCK 004">
-    <title lang="en">All-Star Futures Game</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>All-Star Futures Game</actor>
-      <actor>All-Star Futures Game</actor>
-    </credits>
-  </programme>
-  <programme start="20260712100000 +0000" stop="20260712120000 +0000" channel="PEACOCK 005">
-    <title lang="en">Brewers at Pirates starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Brewers at Pirates</actor>
-      <actor>Brewers at Pirates</actor>
-    </credits>
-  </programme>
-  <programme start="20260712120000 +0000" stop="20260712140000 +0000" channel="PEACOCK 005">
-    <title lang="en">Brewers at Pirates starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Brewers at Pirates</actor>
-      <actor>Brewers at Pirates</actor>
-    </credits>
-  </programme>
-  <programme start="20260712140000 +0000" stop="20260712160000 +0000" channel="PEACOCK 005">
-    <title lang="en">Brewers at Pirates starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Brewers at Pirates</actor>
-      <actor>Brewers at Pirates</actor>
-    </credits>
-  </programme>
-  <programme start="20260712160000 +0000" stop="20260712200000 +0000" channel="PEACOCK 005">
-    <title lang="en">Brewers at Pirates</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Brewers at Pirates</actor>
-      <actor>Brewers at Pirates</actor>
-    </credits>
-  </programme>
-  <programme start="20260712100000 +0000" stop="20260712120000 +0000" channel="PEACOCK 006">
-    <title lang="en">THEMOVE: Stage 9 starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>THEMOVE: Stage 9</actor>
-      <actor>THEMOVE: Stage 9</actor>
-    </credits>
-  </programme>
-  <programme start="20260712120000 +0000" stop="20260712140000 +0000" channel="PEACOCK 006">
-    <title lang="en">THEMOVE: Stage 9 starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>THEMOVE: Stage 9</actor>
-      <actor>THEMOVE: Stage 9</actor>
-    </credits>
-  </programme>
-  <programme start="20260712140000 +0000" stop="20260712160000 +0000" channel="PEACOCK 006">
-    <title lang="en">THEMOVE: Stage 9 starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>THEMOVE: Stage 9</actor>
-      <actor>THEMOVE: Stage 9</actor>
-    </credits>
-  </programme>
-  <programme start="20260712160000 +0000" stop="20260712200000 +0000" channel="PEACOCK 006">
-    <title lang="en">THEMOVE: Stage 9</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>THEMOVE: Stage 9</actor>
-      <actor>THEMOVE: Stage 9</actor>
-    </credits>
-  </programme>
-  <programme start="20260712100000 +0000" stop="20260712120000 +0000" channel="PEACOCK 007">
-    <title lang="en">IMSA CTMP Grand Prix starts at 2:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>IMSA CTMP Grand Prix</actor>
-      <actor>IMSA CTMP Grand Prix</actor>
-    </credits>
-  </programme>
-  <programme start="20260712120000 +0000" stop="20260712140000 +0000" channel="PEACOCK 007">
-    <title lang="en">IMSA CTMP Grand Prix starts at 2:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>IMSA CTMP Grand Prix</actor>
-      <actor>IMSA CTMP Grand Prix</actor>
-    </credits>
-  </programme>
-  <programme start="20260712140000 +0000" stop="20260712160000 +0000" channel="PEACOCK 007">
-    <title lang="en">IMSA CTMP Grand Prix starts at 2:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>IMSA CTMP Grand Prix</actor>
-      <actor>IMSA CTMP Grand Prix</actor>
-    </credits>
-  </programme>
-  <programme start="20260712160000 +0000" stop="20260712180000 +0000" channel="PEACOCK 007">
-    <title lang="en">IMSA CTMP Grand Prix starts at 2:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>IMSA CTMP Grand Prix</actor>
-      <actor>IMSA CTMP Grand Prix</actor>
-    </credits>
-  </programme>
-  <programme start="20260712180000 +0000" stop="20260712220000 +0000" channel="PEACOCK 007">
-    <title lang="en">IMSA CTMP Grand Prix</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>IMSA CTMP Grand Prix</actor>
-      <actor>IMSA CTMP Grand Prix</actor>
-    </credits>
-  </programme>
-  <programme start="20260712100000 +0000" stop="20260712120000 +0000" channel="PEACOCK 008">
-    <title lang="en">MLB Sunday Stretch: 7.12.26 starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLB Sunday Stretch: 7.12.26</actor>
-      <actor>MLB Sunday Stretch: 7.12.26</actor>
-    </credits>
-  </programme>
-  <programme start="20260712120000 +0000" stop="20260712140000 +0000" channel="PEACOCK 008">
-    <title lang="en">MLB Sunday Stretch: 7.12.26 starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLB Sunday Stretch: 7.12.26</actor>
-      <actor>MLB Sunday Stretch: 7.12.26</actor>
-    </credits>
-  </programme>
-  <programme start="20260712140000 +0000" stop="20260712160000 +0000" channel="PEACOCK 008">
-    <title lang="en">MLB Sunday Stretch: 7.12.26 starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLB Sunday Stretch: 7.12.26</actor>
-      <actor>MLB Sunday Stretch: 7.12.26</actor>
-    </credits>
-  </programme>
-  <programme start="20260712160000 +0000" stop="20260712180000 +0000" channel="PEACOCK 008">
-    <title lang="en">MLB Sunday Stretch: 7.12.26 starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLB Sunday Stretch: 7.12.26</actor>
-      <actor>MLB Sunday Stretch: 7.12.26</actor>
-    </credits>
-  </programme>
-  <programme start="20260712180000 +0000" stop="20260712183000 +0000" channel="PEACOCK 008">
-    <title lang="en">MLB Sunday Stretch: 7.12.26 starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLB Sunday Stretch: 7.12.26</actor>
-      <actor>MLB Sunday Stretch: 7.12.26</actor>
-    </credits>
-  </programme>
-  <programme start="20260712183000 +0000" stop="20260712223000 +0000" channel="PEACOCK 008">
-    <title lang="en">MLB Sunday Stretch: 7.12.26</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLB Sunday Stretch: 7.12.26</actor>
-      <actor>MLB Sunday Stretch: 7.12.26</actor>
-    </credits>
-  </programme>
-  <programme start="20260712100000 +0000" stop="20260712120000 +0000" channel="PEACOCK 009">
-    <title lang="en">American Century Champ: Rd. 3 starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>American Century Champ: Rd. 3</actor>
-      <actor>American Century Champ: Rd. 3</actor>
-    </credits>
-  </programme>
-  <programme start="20260712120000 +0000" stop="20260712140000 +0000" channel="PEACOCK 009">
-    <title lang="en">American Century Champ: Rd. 3 starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>American Century Champ: Rd. 3</actor>
-      <actor>American Century Champ: Rd. 3</actor>
-    </credits>
-  </programme>
-  <programme start="20260712140000 +0000" stop="20260712160000 +0000" channel="PEACOCK 009">
-    <title lang="en">American Century Champ: Rd. 3 starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>American Century Champ: Rd. 3</actor>
-      <actor>American Century Champ: Rd. 3</actor>
-    </credits>
-  </programme>
-  <programme start="20260712160000 +0000" stop="20260712180000 +0000" channel="PEACOCK 009">
-    <title lang="en">American Century Champ: Rd. 3 starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>American Century Champ: Rd. 3</actor>
-      <actor>American Century Champ: Rd. 3</actor>
-    </credits>
-  </programme>
-  <programme start="20260712180000 +0000" stop="20260712183000 +0000" channel="PEACOCK 009">
-    <title lang="en">American Century Champ: Rd. 3 starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>American Century Champ: Rd. 3</actor>
-      <actor>American Century Champ: Rd. 3</actor>
-    </credits>
-  </programme>
-  <programme start="20260712183000 +0000" stop="20260712223000 +0000" channel="PEACOCK 009">
-    <title lang="en">American Century Champ: Rd. 3</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>American Century Champ: Rd. 3</actor>
-      <actor>American Century Champ: Rd. 3</actor>
-    </credits>
-  </programme>
-  <programme start="20260712100000 +0000" stop="20260712120000 +0000" channel="PEACOCK 010">
-    <title lang="en">MLBx starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLBx</actor>
-      <actor>MLBx</actor>
-    </credits>
-  </programme>
-  <programme start="20260712120000 +0000" stop="20260712140000 +0000" channel="PEACOCK 010">
-    <title lang="en">MLBx starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLBx</actor>
-      <actor>MLBx</actor>
-    </credits>
-  </programme>
-  <programme start="20260712140000 +0000" stop="20260712160000 +0000" channel="PEACOCK 010">
-    <title lang="en">MLBx starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLBx</actor>
-      <actor>MLBx</actor>
-    </credits>
-  </programme>
-  <programme start="20260712160000 +0000" stop="20260712180000 +0000" channel="PEACOCK 010">
-    <title lang="en">MLBx starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLBx</actor>
-      <actor>MLBx</actor>
-    </credits>
-  </programme>
-  <programme start="20260712180000 +0000" stop="20260712190000 +0000" channel="PEACOCK 010">
-    <title lang="en">MLBx starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLBx</actor>
-      <actor>MLBx</actor>
-    </credits>
-  </programme>
-  <programme start="20260712190000 +0000" stop="20260712230000 +0000" channel="PEACOCK 010">
-    <title lang="en">MLBx</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLBx</actor>
-      <actor>MLBx</actor>
-    </credits>
-  </programme>
-  <programme start="20260712100000 +0000" stop="20260712120000 +0000" channel="PEACOCK 011">
-    <title lang="en">Away Feed: COL at SF starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: COL at SF</actor>
-      <actor>Away Feed: COL at SF</actor>
-    </credits>
-  </programme>
-  <programme start="20260712120000 +0000" stop="20260712140000 +0000" channel="PEACOCK 011">
-    <title lang="en">Away Feed: COL at SF starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: COL at SF</actor>
-      <actor>Away Feed: COL at SF</actor>
-    </credits>
-  </programme>
-  <programme start="20260712140000 +0000" stop="20260712160000 +0000" channel="PEACOCK 011">
-    <title lang="en">Away Feed: COL at SF starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: COL at SF</actor>
-      <actor>Away Feed: COL at SF</actor>
-    </credits>
-  </programme>
-  <programme start="20260712160000 +0000" stop="20260712180000 +0000" channel="PEACOCK 011">
-    <title lang="en">Away Feed: COL at SF starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: COL at SF</actor>
-      <actor>Away Feed: COL at SF</actor>
-    </credits>
-  </programme>
-  <programme start="20260712180000 +0000" stop="20260712200000 +0000" channel="PEACOCK 011">
-    <title lang="en">Away Feed: COL at SF starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: COL at SF</actor>
-      <actor>Away Feed: COL at SF</actor>
-    </credits>
-  </programme>
-  <programme start="20260712200000 +0000" stop="20260713000000 +0000" channel="PEACOCK 011">
-    <title lang="en">Away Feed: COL at SF</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: COL at SF</actor>
-      <actor>Away Feed: COL at SF</actor>
-    </credits>
-  </programme>
-  <programme start="20260712100000 +0000" stop="20260712120000 +0000" channel="PEACOCK 012">
-    <title lang="en">Home Feed: COL at SF starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: COL at SF</actor>
-      <actor>Home Feed: COL at SF</actor>
-    </credits>
-  </programme>
-  <programme start="20260712120000 +0000" stop="20260712140000 +0000" channel="PEACOCK 012">
-    <title lang="en">Home Feed: COL at SF starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: COL at SF</actor>
-      <actor>Home Feed: COL at SF</actor>
-    </credits>
-  </programme>
-  <programme start="20260712140000 +0000" stop="20260712160000 +0000" channel="PEACOCK 012">
-    <title lang="en">Home Feed: COL at SF starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: COL at SF</actor>
-      <actor>Home Feed: COL at SF</actor>
-    </credits>
-  </programme>
-  <programme start="20260712160000 +0000" stop="20260712180000 +0000" channel="PEACOCK 012">
-    <title lang="en">Home Feed: COL at SF starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: COL at SF</actor>
-      <actor>Home Feed: COL at SF</actor>
-    </credits>
-  </programme>
-  <programme start="20260712180000 +0000" stop="20260712200000 +0000" channel="PEACOCK 012">
-    <title lang="en">Home Feed: COL at SF starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: COL at SF</actor>
-      <actor>Home Feed: COL at SF</actor>
-    </credits>
-  </programme>
-  <programme start="20260712200000 +0000" stop="20260713000000 +0000" channel="PEACOCK 012">
-    <title lang="en">Home Feed: COL at SF</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: COL at SF</actor>
-      <actor>Home Feed: COL at SF</actor>
-    </credits>
-  </programme>
-  <programme start="20260712100000 +0000" stop="20260712120000 +0000" channel="PEACOCK 013">
-    <title lang="en">Fever vs. Aces starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Fever vs. Aces</actor>
-      <actor>Fever vs. Aces</actor>
-    </credits>
-  </programme>
-  <programme start="20260712120000 +0000" stop="20260712140000 +0000" channel="PEACOCK 013">
-    <title lang="en">Fever vs. Aces starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Fever vs. Aces</actor>
-      <actor>Fever vs. Aces</actor>
-    </credits>
-  </programme>
-  <programme start="20260712140000 +0000" stop="20260712160000 +0000" channel="PEACOCK 013">
-    <title lang="en">Fever vs. Aces starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Fever vs. Aces</actor>
-      <actor>Fever vs. Aces</actor>
-    </credits>
-  </programme>
-  <programme start="20260712160000 +0000" stop="20260712180000 +0000" channel="PEACOCK 013">
-    <title lang="en">Fever vs. Aces starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Fever vs. Aces</actor>
-      <actor>Fever vs. Aces</actor>
-    </credits>
-  </programme>
-  <programme start="20260712180000 +0000" stop="20260712200000 +0000" channel="PEACOCK 013">
-    <title lang="en">Fever vs. Aces starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Fever vs. Aces</actor>
-      <actor>Fever vs. Aces</actor>
-    </credits>
-  </programme>
-  <programme start="20260712200000 +0000" stop="20260712220000 +0000" channel="PEACOCK 013">
-    <title lang="en">Fever vs. Aces starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Fever vs. Aces</actor>
-      <actor>Fever vs. Aces</actor>
-    </credits>
-  </programme>
-  <programme start="20260712220000 +0000" stop="20260713000000 +0000" channel="PEACOCK 013">
-    <title lang="en">Fever vs. Aces starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Fever vs. Aces</actor>
-      <actor>Fever vs. Aces</actor>
-    </credits>
-  </programme>
-  <programme start="20260713000000 +0000" stop="20260713003000 +0000" channel="PEACOCK 013">
-    <title lang="en">Fever vs. Aces starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Fever vs. Aces</actor>
-      <actor>Fever vs. Aces</actor>
-    </credits>
-  </programme>
-  <programme start="20260713003000 +0000" stop="20260713043000 +0000" channel="PEACOCK 013">
-    <title lang="en">Fever vs. Aces</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Fever vs. Aces</actor>
-      <actor>Fever vs. Aces</actor>
+      <actor>Mercury vs. Lynx</actor>
+      <actor>Mercury vs. Lynx</actor>
     </credits>
   </programme>
 </tv>
