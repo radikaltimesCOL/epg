@@ -300,26 +300,26 @@
   <channel id="PEACOCK 100">
     <display-name>PEACOCK 100</display-name>
   </channel>
-  <programme start="20260714100000 +0000" stop="20260714103000 +0000" channel="PEACOCK 001">
-    <title lang="en">Tour de France: Stage 10 starts at 6:30 AM ET</title>
+  <programme start="20260715100000 +0000" stop="20260715110000 +0000" channel="PEACOCK 001">
+    <title lang="en">Tour de France: Stage 11 starts at 7:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Tour de France: Stage 10</actor>
-      <actor>Tour de France: Stage 10</actor>
+      <actor>Tour de France: Stage 11</actor>
+      <actor>Tour de France: Stage 11</actor>
     </credits>
   </programme>
-  <programme start="20260714103000 +0000" stop="20260714143000 +0000" channel="PEACOCK 001">
-    <title lang="en">Tour de France: Stage 10</title>
+  <programme start="20260715110000 +0000" stop="20260715150000 +0000" channel="PEACOCK 001">
+    <title lang="en">Tour de France: Stage 11</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Tour de France: Stage 10</actor>
-      <actor>Tour de France: Stage 10</actor>
+      <actor>Tour de France: Stage 11</actor>
+      <actor>Tour de France: Stage 11</actor>
     </credits>
   </programme>
-  <programme start="20260714100000 +0000" stop="20260714120000 +0000" channel="PEACOCK 002">
+  <programme start="20260715100000 +0000" stop="20260715120000 +0000" channel="PEACOCK 002">
     <title lang="en">Live At The Range starts at 9:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -328,7 +328,7 @@
       <actor>Live At The Range</actor>
     </credits>
   </programme>
-  <programme start="20260714120000 +0000" stop="20260714130000 +0000" channel="PEACOCK 002">
+  <programme start="20260715120000 +0000" stop="20260715130000 +0000" channel="PEACOCK 002">
     <title lang="en">Live At The Range starts at 9:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
@@ -337,7 +337,7 @@
       <actor>Live At The Range</actor>
     </credits>
   </programme>
-  <programme start="20260714130000 +0000" stop="20260714170000 +0000" channel="PEACOCK 002">
+  <programme start="20260715130000 +0000" stop="20260715170000 +0000" channel="PEACOCK 002">
     <title lang="en">Live At The Range</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -347,41 +347,50 @@
       <actor>Live At The Range</actor>
     </credits>
   </programme>
-  <programme start="20260714100000 +0000" stop="20260714120000 +0000" channel="PEACOCK 003">
-    <title lang="en">THEMOVE: Stage 10 starts at 12:00 PM ET</title>
+  <programme start="20260715100000 +0000" stop="20260715120000 +0000" channel="PEACOCK 003">
+    <title lang="en">THEMOVE: Stage 11 starts at 12:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>THEMOVE: Stage 10</actor>
-      <actor>THEMOVE: Stage 10</actor>
+      <actor>THEMOVE: Stage 11</actor>
+      <actor>THEMOVE: Stage 11</actor>
     </credits>
   </programme>
-  <programme start="20260714120000 +0000" stop="20260714140000 +0000" channel="PEACOCK 003">
-    <title lang="en">THEMOVE: Stage 10 starts at 12:00 PM ET</title>
+  <programme start="20260715120000 +0000" stop="20260715140000 +0000" channel="PEACOCK 003">
+    <title lang="en">THEMOVE: Stage 11 starts at 12:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>THEMOVE: Stage 10</actor>
-      <actor>THEMOVE: Stage 10</actor>
+      <actor>THEMOVE: Stage 11</actor>
+      <actor>THEMOVE: Stage 11</actor>
     </credits>
   </programme>
-  <programme start="20260714140000 +0000" stop="20260714160000 +0000" channel="PEACOCK 003">
-    <title lang="en">THEMOVE: Stage 10 starts at 12:00 PM ET</title>
+  <programme start="20260715140000 +0000" stop="20260715160000 +0000" channel="PEACOCK 003">
+    <title lang="en">THEMOVE: Stage 11 starts at 12:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>THEMOVE: Stage 10</actor>
-      <actor>THEMOVE: Stage 10</actor>
+      <actor>THEMOVE: Stage 11</actor>
+      <actor>THEMOVE: Stage 11</actor>
     </credits>
   </programme>
-  <programme start="20260714160000 +0000" stop="20260714200000 +0000" channel="PEACOCK 003">
-    <title lang="en">THEMOVE: Stage 10</title>
+  <programme start="20260715160000 +0000" stop="20260715163000 +0000" channel="PEACOCK 003">
+    <title lang="en">THEMOVE: Stage 11 starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>THEMOVE: Stage 11</actor>
+      <actor>THEMOVE: Stage 11</actor>
+    </credits>
+  </programme>
+  <programme start="20260715163000 +0000" stop="20260715203000 +0000" channel="PEACOCK 003">
+    <title lang="en">THEMOVE: Stage 11</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>THEMOVE: Stage 10</actor>
-      <actor>THEMOVE: Stage 10</actor>
+      <actor>THEMOVE: Stage 11</actor>
+      <actor>THEMOVE: Stage 11</actor>
     </credits>
   </programme>
 </tv>
