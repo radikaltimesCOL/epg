@@ -300,27 +300,47 @@
   <channel id="PEACOCK 100">
     <display-name>PEACOCK 100</display-name>
   </channel>
-  <programme start="20260715100000 +0000" stop="20260715110000 +0000" channel="PEACOCK 001">
-    <title lang="en">Tour de France: Stage 11 starts at 7:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Tour de France: Stage 11</actor>
-      <actor>Tour de France: Stage 11</actor>
-    </credits>
-  </programme>
-  <programme start="20260715110000 +0000" stop="20260715150000 +0000" channel="PEACOCK 001">
-    <title lang="en">Tour de France: Stage 11</title>
+  <programme start="20260716085600 +0000" stop="20260716125600 +0000" channel="PEACOCK 001">
+    <title lang="en">Scheffler, DeChambeau &amp; Hatton</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Tour de France: Stage 11</actor>
-      <actor>Tour de France: Stage 11</actor>
+      <actor>Scheffler, DeChambeau &amp; Hatton</actor>
+      <actor>Scheffler, DeChambeau &amp; Hatton</actor>
     </credits>
   </programme>
-  <programme start="20260715100000 +0000" stop="20260715120000 +0000" channel="PEACOCK 002">
-    <title lang="en">Live At The Range starts at 9:00 AM ET</title>
+  <programme start="20260716090700 +0000" stop="20260716130700 +0000" channel="PEACOCK 002">
+    <title lang="en">Rahm, Fleetwood &amp; Spieth</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Rahm, Fleetwood &amp; Spieth</actor>
+      <actor>Rahm, Fleetwood &amp; Spieth</actor>
+    </credits>
+  </programme>
+  <programme start="20260716100000 +0000" stop="20260716110000 +0000" channel="PEACOCK 003">
+    <title lang="en">Tour de France: Stage 12 starts at 7:00 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Tour de France: Stage 12</actor>
+      <actor>Tour de France: Stage 12</actor>
+    </credits>
+  </programme>
+  <programme start="20260716110000 +0000" stop="20260716150000 +0000" channel="PEACOCK 003">
+    <title lang="en">Tour de France: Stage 12</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Tour de France: Stage 12</actor>
+      <actor>Tour de France: Stage 12</actor>
+    </credits>
+  </programme>
+  <programme start="20260716100000 +0000" stop="20260716113000 +0000" channel="PEACOCK 004">
+    <title lang="en">Live At The Range starts at 7:30 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
@@ -328,16 +348,7 @@
       <actor>Live At The Range</actor>
     </credits>
   </programme>
-  <programme start="20260715120000 +0000" stop="20260715130000 +0000" channel="PEACOCK 002">
-    <title lang="en">Live At The Range starts at 9:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Live At The Range</actor>
-      <actor>Live At The Range</actor>
-    </credits>
-  </programme>
-  <programme start="20260715130000 +0000" stop="20260715170000 +0000" channel="PEACOCK 002">
+  <programme start="20260716113000 +0000" stop="20260716153000 +0000" channel="PEACOCK 004">
     <title lang="en">Live At The Range</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
@@ -347,50 +358,171 @@
       <actor>Live At The Range</actor>
     </credits>
   </programme>
-  <programme start="20260715100000 +0000" stop="20260715120000 +0000" channel="PEACOCK 003">
-    <title lang="en">THEMOVE: Stage 11 starts at 12:30 PM ET</title>
+  <programme start="20260716100000 +0000" stop="20260716120000 +0000" channel="PEACOCK 005">
+    <title lang="en">The Open All-Access: Rd. 1 starts at 8:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>THEMOVE: Stage 11</actor>
-      <actor>THEMOVE: Stage 11</actor>
+      <actor>The Open All-Access: Rd. 1</actor>
+      <actor>The Open All-Access: Rd. 1</actor>
     </credits>
   </programme>
-  <programme start="20260715120000 +0000" stop="20260715140000 +0000" channel="PEACOCK 003">
-    <title lang="en">THEMOVE: Stage 11 starts at 12:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>THEMOVE: Stage 11</actor>
-      <actor>THEMOVE: Stage 11</actor>
-    </credits>
-  </programme>
-  <programme start="20260715140000 +0000" stop="20260715160000 +0000" channel="PEACOCK 003">
-    <title lang="en">THEMOVE: Stage 11 starts at 12:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>THEMOVE: Stage 11</actor>
-      <actor>THEMOVE: Stage 11</actor>
-    </credits>
-  </programme>
-  <programme start="20260715160000 +0000" stop="20260715163000 +0000" channel="PEACOCK 003">
-    <title lang="en">THEMOVE: Stage 11 starts at 12:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>THEMOVE: Stage 11</actor>
-      <actor>THEMOVE: Stage 11</actor>
-    </credits>
-  </programme>
-  <programme start="20260715163000 +0000" stop="20260715203000 +0000" channel="PEACOCK 003">
-    <title lang="en">THEMOVE: Stage 11</title>
+  <programme start="20260716120000 +0000" stop="20260716160000 +0000" channel="PEACOCK 005">
+    <title lang="en">The Open All-Access: Rd. 1</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>THEMOVE: Stage 11</actor>
-      <actor>THEMOVE: Stage 11</actor>
+      <actor>The Open All-Access: Rd. 1</actor>
+      <actor>The Open All-Access: Rd. 1</actor>
+    </credits>
+  </programme>
+  <programme start="20260716100000 +0000" stop="20260716120000 +0000" channel="PEACOCK 006">
+    <title lang="en">Koepka, Lowry &amp; Rai starts at 9:51 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Koepka, Lowry &amp; Rai</actor>
+      <actor>Koepka, Lowry &amp; Rai</actor>
+    </credits>
+  </programme>
+  <programme start="20260716120000 +0000" stop="20260716135100 +0000" channel="PEACOCK 006">
+    <title lang="en">Koepka, Lowry &amp; Rai starts at 9:51 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Koepka, Lowry &amp; Rai</actor>
+      <actor>Koepka, Lowry &amp; Rai</actor>
+    </credits>
+  </programme>
+  <programme start="20260716135100 +0000" stop="20260716175100 +0000" channel="PEACOCK 006">
+    <title lang="en">Koepka, Lowry &amp; Rai</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Koepka, Lowry &amp; Rai</actor>
+      <actor>Koepka, Lowry &amp; Rai</actor>
+    </credits>
+  </programme>
+  <programme start="20260716100000 +0000" stop="20260716120000 +0000" channel="PEACOCK 007">
+    <title lang="en">Player Focus: Rory McIlory Live starts at 10:05 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Player Focus: Rory McIlory Live</actor>
+      <actor>Player Focus: Rory McIlory Live</actor>
+    </credits>
+  </programme>
+  <programme start="20260716120000 +0000" stop="20260716140000 +0000" channel="PEACOCK 007">
+    <title lang="en">Player Focus: Rory McIlory Live starts at 10:05 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Player Focus: Rory McIlory Live</actor>
+      <actor>Player Focus: Rory McIlory Live</actor>
+    </credits>
+  </programme>
+  <programme start="20260716140000 +0000" stop="20260716140500 +0000" channel="PEACOCK 007">
+    <title lang="en">Player Focus: Rory McIlory Live starts at 10:05 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Player Focus: Rory McIlory Live</actor>
+      <actor>Player Focus: Rory McIlory Live</actor>
+    </credits>
+  </programme>
+  <programme start="20260716140500 +0000" stop="20260716180500 +0000" channel="PEACOCK 007">
+    <title lang="en">Player Focus: Rory McIlory Live</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Player Focus: Rory McIlory Live</actor>
+      <actor>Player Focus: Rory McIlory Live</actor>
+    </credits>
+  </programme>
+  <programme start="20260716100000 +0000" stop="20260716120000 +0000" channel="PEACOCK 008">
+    <title lang="en">McIlroy, Schauffele &amp; Fitzpatrick starts at 10:15 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>McIlroy, Schauffele &amp; Fitzpatrick</actor>
+      <actor>McIlroy, Schauffele &amp; Fitzpatrick</actor>
+    </credits>
+  </programme>
+  <programme start="20260716120000 +0000" stop="20260716140000 +0000" channel="PEACOCK 008">
+    <title lang="en">McIlroy, Schauffele &amp; Fitzpatrick starts at 10:15 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>McIlroy, Schauffele &amp; Fitzpatrick</actor>
+      <actor>McIlroy, Schauffele &amp; Fitzpatrick</actor>
+    </credits>
+  </programme>
+  <programme start="20260716140000 +0000" stop="20260716141500 +0000" channel="PEACOCK 008">
+    <title lang="en">McIlroy, Schauffele &amp; Fitzpatrick starts at 10:15 AM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>McIlroy, Schauffele &amp; Fitzpatrick</actor>
+      <actor>McIlroy, Schauffele &amp; Fitzpatrick</actor>
+    </credits>
+  </programme>
+  <programme start="20260716141500 +0000" stop="20260716181500 +0000" channel="PEACOCK 008">
+    <title lang="en">McIlroy, Schauffele &amp; Fitzpatrick</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>McIlroy, Schauffele &amp; Fitzpatrick</actor>
+      <actor>McIlroy, Schauffele &amp; Fitzpatrick</actor>
+    </credits>
+  </programme>
+  <programme start="20260716100000 +0000" stop="20260716120000 +0000" channel="PEACOCK 009">
+    <title lang="en">THEMOVE: Stage 12 starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>THEMOVE: Stage 12</actor>
+      <actor>THEMOVE: Stage 12</actor>
+    </credits>
+  </programme>
+  <programme start="20260716120000 +0000" stop="20260716140000 +0000" channel="PEACOCK 009">
+    <title lang="en">THEMOVE: Stage 12 starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>THEMOVE: Stage 12</actor>
+      <actor>THEMOVE: Stage 12</actor>
+    </credits>
+  </programme>
+  <programme start="20260716140000 +0000" stop="20260716160000 +0000" channel="PEACOCK 009">
+    <title lang="en">THEMOVE: Stage 12 starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>THEMOVE: Stage 12</actor>
+      <actor>THEMOVE: Stage 12</actor>
+    </credits>
+  </programme>
+  <programme start="20260716160000 +0000" stop="20260716163000 +0000" channel="PEACOCK 009">
+    <title lang="en">THEMOVE: Stage 12 starts at 12:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>THEMOVE: Stage 12</actor>
+      <actor>THEMOVE: Stage 12</actor>
+    </credits>
+  </programme>
+  <programme start="20260716163000 +0000" stop="20260716203000 +0000" channel="PEACOCK 009">
+    <title lang="en">THEMOVE: Stage 12</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>THEMOVE: Stage 12</actor>
+      <actor>THEMOVE: Stage 12</actor>
     </credits>
   </programme>
 </tv>
