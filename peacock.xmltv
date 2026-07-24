@@ -300,372 +300,446 @@
   <channel id="PEACOCK 100">
     <display-name>PEACOCK 100</display-name>
   </channel>
-  <programme start="20260723100000 +0000" stop="20260723140000 +0000" channel="PEACOCK 001">
-    <title lang="en">Tour de France: Stage 18</title>
+  <programme start="20260724083000 +0000" stop="20260724123000 +0000" channel="PEACOCK 001">
+    <title lang="en">Women's SF: USA vs. AUS</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Tour de France: Stage 18</actor>
-      <actor>Tour de France: Stage 18</actor>
+      <actor>Women's SF: USA vs. AUS</actor>
+      <actor>Women's SF: USA vs. AUS</actor>
     </credits>
   </programme>
-  <programme start="20260723100000 +0000" stop="20260723120000 +0000" channel="PEACOCK 002">
-    <title lang="en">Canoe World Champs: Day 4 starts at 11:00 AM ET</title>
+  <programme start="20260724100000 +0000" stop="20260724101500 +0000" channel="PEACOCK 002">
+    <title lang="en">Women's SF: RUS vs. ESP starts at 6:15 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Canoe World Champs: Day 4</actor>
-      <actor>Canoe World Champs: Day 4</actor>
+      <actor>Women's SF: RUS vs. ESP</actor>
+      <actor>Women's SF: RUS vs. ESP</actor>
     </credits>
   </programme>
-  <programme start="20260723120000 +0000" stop="20260723140000 +0000" channel="PEACOCK 002">
-    <title lang="en">Canoe World Champs: Day 4 starts at 11:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Canoe World Champs: Day 4</actor>
-      <actor>Canoe World Champs: Day 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260723140000 +0000" stop="20260723150000 +0000" channel="PEACOCK 002">
-    <title lang="en">Canoe World Champs: Day 4 starts at 11:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Canoe World Champs: Day 4</actor>
-      <actor>Canoe World Champs: Day 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260723150000 +0000" stop="20260723190000 +0000" channel="PEACOCK 002">
-    <title lang="en">Canoe World Champs: Day 4</title>
+  <programme start="20260724101500 +0000" stop="20260724141500 +0000" channel="PEACOCK 002">
+    <title lang="en">Women's SF: RUS vs. ESP</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Canoe World Champs: Day 4</actor>
-      <actor>Canoe World Champs: Day 4</actor>
+      <actor>Women's SF: RUS vs. ESP</actor>
+      <actor>Women's SF: RUS vs. ESP</actor>
     </credits>
   </programme>
-  <programme start="20260723100000 +0000" stop="20260723120000 +0000" channel="PEACOCK 003">
-    <title lang="en">Para National Champs: Day 1 starts at 12:00 PM ET</title>
+  <programme start="20260724100000 +0000" stop="20260724110000 +0000" channel="PEACOCK 003">
+    <title lang="en">Tour de France: Stage 19 starts at 7:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Para National Champs: Day 1</actor>
-      <actor>Para National Champs: Day 1</actor>
+      <actor>Tour de France: Stage 19</actor>
+      <actor>Tour de France: Stage 19</actor>
     </credits>
   </programme>
-  <programme start="20260723120000 +0000" stop="20260723140000 +0000" channel="PEACOCK 003">
-    <title lang="en">Para National Champs: Day 1 starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Para National Champs: Day 1</actor>
-      <actor>Para National Champs: Day 1</actor>
-    </credits>
-  </programme>
-  <programme start="20260723140000 +0000" stop="20260723160000 +0000" channel="PEACOCK 003">
-    <title lang="en">Para National Champs: Day 1 starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Para National Champs: Day 1</actor>
-      <actor>Para National Champs: Day 1</actor>
-    </credits>
-  </programme>
-  <programme start="20260723160000 +0000" stop="20260723200000 +0000" channel="PEACOCK 003">
-    <title lang="en">Para National Champs: Day 1</title>
+  <programme start="20260724110000 +0000" stop="20260724150000 +0000" channel="PEACOCK 003">
+    <title lang="en">Tour de France: Stage 19</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Para National Champs: Day 1</actor>
-      <actor>Para National Champs: Day 1</actor>
+      <actor>Tour de France: Stage 19</actor>
+      <actor>Tour de France: Stage 19</actor>
     </credits>
   </programme>
-  <programme start="20260723100000 +0000" stop="20260723120000 +0000" channel="PEACOCK 004">
-    <title lang="en">THEMOVE: Stage 18 starts at 12:00 PM ET</title>
+  <programme start="20260724100000 +0000" stop="20260724120000 +0000" channel="PEACOCK 004">
+    <title lang="en">Canoe World Champs: Day 5 starts at 11:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>THEMOVE: Stage 18</actor>
-      <actor>THEMOVE: Stage 18</actor>
+      <actor>Canoe World Champs: Day 5</actor>
+      <actor>Canoe World Champs: Day 5</actor>
     </credits>
   </programme>
-  <programme start="20260723120000 +0000" stop="20260723140000 +0000" channel="PEACOCK 004">
-    <title lang="en">THEMOVE: Stage 18 starts at 12:00 PM ET</title>
+  <programme start="20260724120000 +0000" stop="20260724140000 +0000" channel="PEACOCK 004">
+    <title lang="en">Canoe World Champs: Day 5 starts at 11:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>THEMOVE: Stage 18</actor>
-      <actor>THEMOVE: Stage 18</actor>
+      <actor>Canoe World Champs: Day 5</actor>
+      <actor>Canoe World Champs: Day 5</actor>
     </credits>
   </programme>
-  <programme start="20260723140000 +0000" stop="20260723160000 +0000" channel="PEACOCK 004">
-    <title lang="en">THEMOVE: Stage 18 starts at 12:00 PM ET</title>
+  <programme start="20260724140000 +0000" stop="20260724150000 +0000" channel="PEACOCK 004">
+    <title lang="en">Canoe World Champs: Day 5 starts at 11:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>THEMOVE: Stage 18</actor>
-      <actor>THEMOVE: Stage 18</actor>
+      <actor>Canoe World Champs: Day 5</actor>
+      <actor>Canoe World Champs: Day 5</actor>
     </credits>
   </programme>
-  <programme start="20260723160000 +0000" stop="20260723200000 +0000" channel="PEACOCK 004">
-    <title lang="en">THEMOVE: Stage 18</title>
+  <programme start="20260724150000 +0000" stop="20260724190000 +0000" channel="PEACOCK 004">
+    <title lang="en">Canoe World Champs: Day 5</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>THEMOVE: Stage 18</actor>
-      <actor>THEMOVE: Stage 18</actor>
+      <actor>Canoe World Champs: Day 5</actor>
+      <actor>Canoe World Champs: Day 5</actor>
     </credits>
   </programme>
-  <programme start="20260723100000 +0000" stop="20260723120000 +0000" channel="PEACOCK 005">
-    <title lang="en">Canoe World Champs: Kayak Finals starts at 3:00 PM ET</title>
+  <programme start="20260724100000 +0000" stop="20260724120000 +0000" channel="PEACOCK 005">
+    <title lang="en">THEMOVE: Stage 19 starts at 12:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Canoe World Champs: Kayak Finals</actor>
-      <actor>Canoe World Champs: Kayak Finals</actor>
+      <actor>THEMOVE: Stage 19</actor>
+      <actor>THEMOVE: Stage 19</actor>
     </credits>
   </programme>
-  <programme start="20260723120000 +0000" stop="20260723140000 +0000" channel="PEACOCK 005">
-    <title lang="en">Canoe World Champs: Kayak Finals starts at 3:00 PM ET</title>
+  <programme start="20260724120000 +0000" stop="20260724140000 +0000" channel="PEACOCK 005">
+    <title lang="en">THEMOVE: Stage 19 starts at 12:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Canoe World Champs: Kayak Finals</actor>
-      <actor>Canoe World Champs: Kayak Finals</actor>
+      <actor>THEMOVE: Stage 19</actor>
+      <actor>THEMOVE: Stage 19</actor>
     </credits>
   </programme>
-  <programme start="20260723140000 +0000" stop="20260723160000 +0000" channel="PEACOCK 005">
-    <title lang="en">Canoe World Champs: Kayak Finals starts at 3:00 PM ET</title>
+  <programme start="20260724140000 +0000" stop="20260724160000 +0000" channel="PEACOCK 005">
+    <title lang="en">THEMOVE: Stage 19 starts at 12:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Canoe World Champs: Kayak Finals</actor>
-      <actor>Canoe World Champs: Kayak Finals</actor>
+      <actor>THEMOVE: Stage 19</actor>
+      <actor>THEMOVE: Stage 19</actor>
     </credits>
   </programme>
-  <programme start="20260723160000 +0000" stop="20260723180000 +0000" channel="PEACOCK 005">
-    <title lang="en">Canoe World Champs: Kayak Finals starts at 3:00 PM ET</title>
+  <programme start="20260724160000 +0000" stop="20260724163000 +0000" channel="PEACOCK 005">
+    <title lang="en">THEMOVE: Stage 19 starts at 12:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Canoe World Champs: Kayak Finals</actor>
-      <actor>Canoe World Champs: Kayak Finals</actor>
+      <actor>THEMOVE: Stage 19</actor>
+      <actor>THEMOVE: Stage 19</actor>
     </credits>
   </programme>
-  <programme start="20260723180000 +0000" stop="20260723190000 +0000" channel="PEACOCK 005">
-    <title lang="en">Canoe World Champs: Kayak Finals starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Canoe World Champs: Kayak Finals</actor>
-      <actor>Canoe World Champs: Kayak Finals</actor>
-    </credits>
-  </programme>
-  <programme start="20260723190000 +0000" stop="20260723230000 +0000" channel="PEACOCK 005">
-    <title lang="en">Canoe World Champs: Kayak Finals</title>
+  <programme start="20260724163000 +0000" stop="20260724203000 +0000" channel="PEACOCK 005">
+    <title lang="en">THEMOVE: Stage 19</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Canoe World Champs: Kayak Finals</actor>
-      <actor>Canoe World Champs: Kayak Finals</actor>
+      <actor>THEMOVE: Stage 19</actor>
+      <actor>THEMOVE: Stage 19</actor>
     </credits>
   </programme>
-  <programme start="20260723100000 +0000" stop="20260723120000 +0000" channel="PEACOCK 006">
-    <title lang="en">Home Feed: TB at TOR starts at 3:00 PM ET</title>
+  <programme start="20260724100000 +0000" stop="20260724120000 +0000" channel="PEACOCK 006">
+    <title lang="en">Para National Champs: Day 2 starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: TB at TOR</actor>
-      <actor>Home Feed: TB at TOR</actor>
+      <actor>Para National Champs: Day 2</actor>
+      <actor>Para National Champs: Day 2</actor>
     </credits>
   </programme>
-  <programme start="20260723120000 +0000" stop="20260723140000 +0000" channel="PEACOCK 006">
-    <title lang="en">Home Feed: TB at TOR starts at 3:00 PM ET</title>
+  <programme start="20260724120000 +0000" stop="20260724140000 +0000" channel="PEACOCK 006">
+    <title lang="en">Para National Champs: Day 2 starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: TB at TOR</actor>
-      <actor>Home Feed: TB at TOR</actor>
+      <actor>Para National Champs: Day 2</actor>
+      <actor>Para National Champs: Day 2</actor>
     </credits>
   </programme>
-  <programme start="20260723140000 +0000" stop="20260723160000 +0000" channel="PEACOCK 006">
-    <title lang="en">Home Feed: TB at TOR starts at 3:00 PM ET</title>
+  <programme start="20260724140000 +0000" stop="20260724160000 +0000" channel="PEACOCK 006">
+    <title lang="en">Para National Champs: Day 2 starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: TB at TOR</actor>
-      <actor>Home Feed: TB at TOR</actor>
+      <actor>Para National Champs: Day 2</actor>
+      <actor>Para National Champs: Day 2</actor>
     </credits>
   </programme>
-  <programme start="20260723160000 +0000" stop="20260723180000 +0000" channel="PEACOCK 006">
-    <title lang="en">Home Feed: TB at TOR starts at 3:00 PM ET</title>
+  <programme start="20260724160000 +0000" stop="20260724173000 +0000" channel="PEACOCK 006">
+    <title lang="en">Para National Champs: Day 2 starts at 1:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: TB at TOR</actor>
-      <actor>Home Feed: TB at TOR</actor>
+      <actor>Para National Champs: Day 2</actor>
+      <actor>Para National Champs: Day 2</actor>
     </credits>
   </programme>
-  <programme start="20260723180000 +0000" stop="20260723190000 +0000" channel="PEACOCK 006">
-    <title lang="en">Home Feed: TB at TOR starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: TB at TOR</actor>
-      <actor>Home Feed: TB at TOR</actor>
-    </credits>
-  </programme>
-  <programme start="20260723190000 +0000" stop="20260723230000 +0000" channel="PEACOCK 006">
-    <title lang="en">Home Feed: TB at TOR</title>
+  <programme start="20260724173000 +0000" stop="20260724213000 +0000" channel="PEACOCK 006">
+    <title lang="en">Para National Champs: Day 2</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: TB at TOR</actor>
-      <actor>Home Feed: TB at TOR</actor>
+      <actor>Para National Champs: Day 2</actor>
+      <actor>Para National Champs: Day 2</actor>
     </credits>
   </programme>
-  <programme start="20260723100000 +0000" stop="20260723120000 +0000" channel="PEACOCK 007">
-    <title lang="en">Away Feed: TB at TOR starts at 3:00 PM ET</title>
+  <programme start="20260724100000 +0000" stop="20260724120000 +0000" channel="PEACOCK 007">
+    <title lang="en">Canoe World Champs: Canoe Finals starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: TB at TOR</actor>
-      <actor>Away Feed: TB at TOR</actor>
+      <actor>Canoe World Champs: Canoe Finals</actor>
+      <actor>Canoe World Champs: Canoe Finals</actor>
     </credits>
   </programme>
-  <programme start="20260723120000 +0000" stop="20260723140000 +0000" channel="PEACOCK 007">
-    <title lang="en">Away Feed: TB at TOR starts at 3:00 PM ET</title>
+  <programme start="20260724120000 +0000" stop="20260724140000 +0000" channel="PEACOCK 007">
+    <title lang="en">Canoe World Champs: Canoe Finals starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: TB at TOR</actor>
-      <actor>Away Feed: TB at TOR</actor>
+      <actor>Canoe World Champs: Canoe Finals</actor>
+      <actor>Canoe World Champs: Canoe Finals</actor>
     </credits>
   </programme>
-  <programme start="20260723140000 +0000" stop="20260723160000 +0000" channel="PEACOCK 007">
-    <title lang="en">Away Feed: TB at TOR starts at 3:00 PM ET</title>
+  <programme start="20260724140000 +0000" stop="20260724160000 +0000" channel="PEACOCK 007">
+    <title lang="en">Canoe World Champs: Canoe Finals starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: TB at TOR</actor>
-      <actor>Away Feed: TB at TOR</actor>
+      <actor>Canoe World Champs: Canoe Finals</actor>
+      <actor>Canoe World Champs: Canoe Finals</actor>
     </credits>
   </programme>
-  <programme start="20260723160000 +0000" stop="20260723180000 +0000" channel="PEACOCK 007">
-    <title lang="en">Away Feed: TB at TOR starts at 3:00 PM ET</title>
+  <programme start="20260724160000 +0000" stop="20260724180000 +0000" channel="PEACOCK 007">
+    <title lang="en">Canoe World Champs: Canoe Finals starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: TB at TOR</actor>
-      <actor>Away Feed: TB at TOR</actor>
+      <actor>Canoe World Champs: Canoe Finals</actor>
+      <actor>Canoe World Champs: Canoe Finals</actor>
     </credits>
   </programme>
-  <programme start="20260723180000 +0000" stop="20260723190000 +0000" channel="PEACOCK 007">
-    <title lang="en">Away Feed: TB at TOR starts at 3:00 PM ET</title>
+  <programme start="20260724180000 +0000" stop="20260724190000 +0000" channel="PEACOCK 007">
+    <title lang="en">Canoe World Champs: Canoe Finals starts at 3:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: TB at TOR</actor>
-      <actor>Away Feed: TB at TOR</actor>
+      <actor>Canoe World Champs: Canoe Finals</actor>
+      <actor>Canoe World Champs: Canoe Finals</actor>
     </credits>
   </programme>
-  <programme start="20260723190000 +0000" stop="20260723230000 +0000" channel="PEACOCK 007">
-    <title lang="en">Away Feed: TB at TOR</title>
+  <programme start="20260724190000 +0000" stop="20260724230000 +0000" channel="PEACOCK 007">
+    <title lang="en">Canoe World Champs: Canoe Finals</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: TB at TOR</actor>
-      <actor>Away Feed: TB at TOR</actor>
+      <actor>Canoe World Champs: Canoe Finals</actor>
+      <actor>Canoe World Champs: Canoe Finals</actor>
     </credits>
   </programme>
-  <programme start="20260723100000 +0000" stop="20260723120000 +0000" channel="PEACOCK 008">
-    <title lang="en">Women's Classification Game starts at 9:30 PM ET</title>
+  <programme start="20260724100000 +0000" stop="20260724120000 +0000" channel="PEACOCK 008">
+    <title lang="en">USATF Outdoor Champs: Day 2 starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Women's Classification Game</actor>
-      <actor>Women's Classification Game</actor>
+      <actor>USATF Outdoor Champs: Day 2</actor>
+      <actor>USATF Outdoor Champs: Day 2</actor>
     </credits>
   </programme>
-  <programme start="20260723120000 +0000" stop="20260723140000 +0000" channel="PEACOCK 008">
-    <title lang="en">Women's Classification Game starts at 9:30 PM ET</title>
+  <programme start="20260724120000 +0000" stop="20260724140000 +0000" channel="PEACOCK 008">
+    <title lang="en">USATF Outdoor Champs: Day 2 starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Women's Classification Game</actor>
-      <actor>Women's Classification Game</actor>
+      <actor>USATF Outdoor Champs: Day 2</actor>
+      <actor>USATF Outdoor Champs: Day 2</actor>
     </credits>
   </programme>
-  <programme start="20260723140000 +0000" stop="20260723160000 +0000" channel="PEACOCK 008">
-    <title lang="en">Women's Classification Game starts at 9:30 PM ET</title>
+  <programme start="20260724140000 +0000" stop="20260724160000 +0000" channel="PEACOCK 008">
+    <title lang="en">USATF Outdoor Champs: Day 2 starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Women's Classification Game</actor>
-      <actor>Women's Classification Game</actor>
+      <actor>USATF Outdoor Champs: Day 2</actor>
+      <actor>USATF Outdoor Champs: Day 2</actor>
     </credits>
   </programme>
-  <programme start="20260723160000 +0000" stop="20260723180000 +0000" channel="PEACOCK 008">
-    <title lang="en">Women's Classification Game starts at 9:30 PM ET</title>
+  <programme start="20260724160000 +0000" stop="20260724180000 +0000" channel="PEACOCK 008">
+    <title lang="en">USATF Outdoor Champs: Day 2 starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Women's Classification Game</actor>
-      <actor>Women's Classification Game</actor>
+      <actor>USATF Outdoor Champs: Day 2</actor>
+      <actor>USATF Outdoor Champs: Day 2</actor>
     </credits>
   </programme>
-  <programme start="20260723180000 +0000" stop="20260723200000 +0000" channel="PEACOCK 008">
-    <title lang="en">Women's Classification Game starts at 9:30 PM ET</title>
+  <programme start="20260724180000 +0000" stop="20260724200000 +0000" channel="PEACOCK 008">
+    <title lang="en">USATF Outdoor Champs: Day 2 starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Women's Classification Game</actor>
-      <actor>Women's Classification Game</actor>
+      <actor>USATF Outdoor Champs: Day 2</actor>
+      <actor>USATF Outdoor Champs: Day 2</actor>
     </credits>
   </programme>
-  <programme start="20260723200000 +0000" stop="20260723220000 +0000" channel="PEACOCK 008">
-    <title lang="en">Women's Classification Game starts at 9:30 PM ET</title>
+  <programme start="20260724200000 +0000" stop="20260724220000 +0000" channel="PEACOCK 008">
+    <title lang="en">USATF Outdoor Champs: Day 2 starts at 6:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Women's Classification Game</actor>
-      <actor>Women's Classification Game</actor>
+      <actor>USATF Outdoor Champs: Day 2</actor>
+      <actor>USATF Outdoor Champs: Day 2</actor>
     </credits>
   </programme>
-  <programme start="20260723220000 +0000" stop="20260724000000 +0000" channel="PEACOCK 008">
-    <title lang="en">Women's Classification Game starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Women's Classification Game</actor>
-      <actor>Women's Classification Game</actor>
-    </credits>
-  </programme>
-  <programme start="20260724000000 +0000" stop="20260724013000 +0000" channel="PEACOCK 008">
-    <title lang="en">Women's Classification Game starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Women's Classification Game</actor>
-      <actor>Women's Classification Game</actor>
-    </credits>
-  </programme>
-  <programme start="20260724013000 +0000" stop="20260724053000 +0000" channel="PEACOCK 008">
-    <title lang="en">Women's Classification Game</title>
+  <programme start="20260724220000 +0000" stop="20260725020000 +0000" channel="PEACOCK 008">
+    <title lang="en">USATF Outdoor Champs: Day 2</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Women's Classification Game</actor>
-      <actor>Women's Classification Game</actor>
+      <actor>USATF Outdoor Champs: Day 2</actor>
+      <actor>USATF Outdoor Champs: Day 2</actor>
+    </credits>
+  </programme>
+  <programme start="20260724100000 +0000" stop="20260724120000 +0000" channel="PEACOCK 009">
+    <title lang="en">Away Feed: ATL at BAL starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: ATL at BAL</actor>
+      <actor>Away Feed: ATL at BAL</actor>
+    </credits>
+  </programme>
+  <programme start="20260724120000 +0000" stop="20260724140000 +0000" channel="PEACOCK 009">
+    <title lang="en">Away Feed: ATL at BAL starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: ATL at BAL</actor>
+      <actor>Away Feed: ATL at BAL</actor>
+    </credits>
+  </programme>
+  <programme start="20260724140000 +0000" stop="20260724160000 +0000" channel="PEACOCK 009">
+    <title lang="en">Away Feed: ATL at BAL starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: ATL at BAL</actor>
+      <actor>Away Feed: ATL at BAL</actor>
+    </credits>
+  </programme>
+  <programme start="20260724160000 +0000" stop="20260724180000 +0000" channel="PEACOCK 009">
+    <title lang="en">Away Feed: ATL at BAL starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: ATL at BAL</actor>
+      <actor>Away Feed: ATL at BAL</actor>
+    </credits>
+  </programme>
+  <programme start="20260724180000 +0000" stop="20260724200000 +0000" channel="PEACOCK 009">
+    <title lang="en">Away Feed: ATL at BAL starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: ATL at BAL</actor>
+      <actor>Away Feed: ATL at BAL</actor>
+    </credits>
+  </programme>
+  <programme start="20260724200000 +0000" stop="20260724220000 +0000" channel="PEACOCK 009">
+    <title lang="en">Away Feed: ATL at BAL starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: ATL at BAL</actor>
+      <actor>Away Feed: ATL at BAL</actor>
+    </credits>
+  </programme>
+  <programme start="20260724220000 +0000" stop="20260724230000 +0000" channel="PEACOCK 009">
+    <title lang="en">Away Feed: ATL at BAL starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: ATL at BAL</actor>
+      <actor>Away Feed: ATL at BAL</actor>
+    </credits>
+  </programme>
+  <programme start="20260724230000 +0000" stop="20260725030000 +0000" channel="PEACOCK 009">
+    <title lang="en">Away Feed: ATL at BAL</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: ATL at BAL</actor>
+      <actor>Away Feed: ATL at BAL</actor>
+    </credits>
+  </programme>
+  <programme start="20260724100000 +0000" stop="20260724120000 +0000" channel="PEACOCK 010">
+    <title lang="en">Home Feed: ATL at BAL starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: ATL at BAL</actor>
+      <actor>Home Feed: ATL at BAL</actor>
+    </credits>
+  </programme>
+  <programme start="20260724120000 +0000" stop="20260724140000 +0000" channel="PEACOCK 010">
+    <title lang="en">Home Feed: ATL at BAL starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: ATL at BAL</actor>
+      <actor>Home Feed: ATL at BAL</actor>
+    </credits>
+  </programme>
+  <programme start="20260724140000 +0000" stop="20260724160000 +0000" channel="PEACOCK 010">
+    <title lang="en">Home Feed: ATL at BAL starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: ATL at BAL</actor>
+      <actor>Home Feed: ATL at BAL</actor>
+    </credits>
+  </programme>
+  <programme start="20260724160000 +0000" stop="20260724180000 +0000" channel="PEACOCK 010">
+    <title lang="en">Home Feed: ATL at BAL starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: ATL at BAL</actor>
+      <actor>Home Feed: ATL at BAL</actor>
+    </credits>
+  </programme>
+  <programme start="20260724180000 +0000" stop="20260724200000 +0000" channel="PEACOCK 010">
+    <title lang="en">Home Feed: ATL at BAL starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: ATL at BAL</actor>
+      <actor>Home Feed: ATL at BAL</actor>
+    </credits>
+  </programme>
+  <programme start="20260724200000 +0000" stop="20260724220000 +0000" channel="PEACOCK 010">
+    <title lang="en">Home Feed: ATL at BAL starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: ATL at BAL</actor>
+      <actor>Home Feed: ATL at BAL</actor>
+    </credits>
+  </programme>
+  <programme start="20260724220000 +0000" stop="20260724230000 +0000" channel="PEACOCK 010">
+    <title lang="en">Home Feed: ATL at BAL starts at 7:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: ATL at BAL</actor>
+      <actor>Home Feed: ATL at BAL</actor>
+    </credits>
+  </programme>
+  <programme start="20260724230000 +0000" stop="20260725030000 +0000" channel="PEACOCK 010">
+    <title lang="en">Home Feed: ATL at BAL</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: ATL at BAL</actor>
+      <actor>Home Feed: ATL at BAL</actor>
     </credits>
   </programme>
 </tv>
