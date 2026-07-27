@@ -300,593 +300,168 @@
   <channel id="PEACOCK 100">
     <display-name>PEACOCK 100</display-name>
   </channel>
-  <programme start="20260726061500 +0000" stop="20260726101500 +0000" channel="PEACOCK 001">
-    <title lang="en">Women's Gold: USA vs. ESP</title>
+  <programme start="20260727100000 +0000" stop="20260727120000 +0000" channel="PEACOCK 001">
+    <title lang="en">Home Feed: HOU at LAA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: HOU at LAA</actor>
+      <actor>Home Feed: HOU at LAA</actor>
+    </credits>
+  </programme>
+  <programme start="20260727120000 +0000" stop="20260727140000 +0000" channel="PEACOCK 001">
+    <title lang="en">Home Feed: HOU at LAA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: HOU at LAA</actor>
+      <actor>Home Feed: HOU at LAA</actor>
+    </credits>
+  </programme>
+  <programme start="20260727140000 +0000" stop="20260727160000 +0000" channel="PEACOCK 001">
+    <title lang="en">Home Feed: HOU at LAA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: HOU at LAA</actor>
+      <actor>Home Feed: HOU at LAA</actor>
+    </credits>
+  </programme>
+  <programme start="20260727160000 +0000" stop="20260727180000 +0000" channel="PEACOCK 001">
+    <title lang="en">Home Feed: HOU at LAA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: HOU at LAA</actor>
+      <actor>Home Feed: HOU at LAA</actor>
+    </credits>
+  </programme>
+  <programme start="20260727180000 +0000" stop="20260727200000 +0000" channel="PEACOCK 001">
+    <title lang="en">Home Feed: HOU at LAA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: HOU at LAA</actor>
+      <actor>Home Feed: HOU at LAA</actor>
+    </credits>
+  </programme>
+  <programme start="20260727200000 +0000" stop="20260727220000 +0000" channel="PEACOCK 001">
+    <title lang="en">Home Feed: HOU at LAA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: HOU at LAA</actor>
+      <actor>Home Feed: HOU at LAA</actor>
+    </credits>
+  </programme>
+  <programme start="20260727220000 +0000" stop="20260728000000 +0000" channel="PEACOCK 001">
+    <title lang="en">Home Feed: HOU at LAA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: HOU at LAA</actor>
+      <actor>Home Feed: HOU at LAA</actor>
+    </credits>
+  </programme>
+  <programme start="20260728000000 +0000" stop="20260728013000 +0000" channel="PEACOCK 001">
+    <title lang="en">Home Feed: HOU at LAA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: HOU at LAA</actor>
+      <actor>Home Feed: HOU at LAA</actor>
+    </credits>
+  </programme>
+  <programme start="20260728013000 +0000" stop="20260728053000 +0000" channel="PEACOCK 001">
+    <title lang="en">Home Feed: HOU at LAA</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Women's Gold: USA vs. ESP</actor>
-      <actor>Women's Gold: USA vs. ESP</actor>
+      <actor>Home Feed: HOU at LAA</actor>
+      <actor>Home Feed: HOU at LAA</actor>
     </credits>
   </programme>
-  <programme start="20260726080000 +0000" stop="20260726120000 +0000" channel="PEACOCK 002">
-    <title lang="en">Men's Gold: HUN vs. GRC</title>
+  <programme start="20260727100000 +0000" stop="20260727120000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: HOU at LAA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: HOU at LAA</actor>
+      <actor>Away Feed: HOU at LAA</actor>
+    </credits>
+  </programme>
+  <programme start="20260727120000 +0000" stop="20260727140000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: HOU at LAA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: HOU at LAA</actor>
+      <actor>Away Feed: HOU at LAA</actor>
+    </credits>
+  </programme>
+  <programme start="20260727140000 +0000" stop="20260727160000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: HOU at LAA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: HOU at LAA</actor>
+      <actor>Away Feed: HOU at LAA</actor>
+    </credits>
+  </programme>
+  <programme start="20260727160000 +0000" stop="20260727180000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: HOU at LAA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: HOU at LAA</actor>
+      <actor>Away Feed: HOU at LAA</actor>
+    </credits>
+  </programme>
+  <programme start="20260727180000 +0000" stop="20260727200000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: HOU at LAA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: HOU at LAA</actor>
+      <actor>Away Feed: HOU at LAA</actor>
+    </credits>
+  </programme>
+  <programme start="20260727200000 +0000" stop="20260727220000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: HOU at LAA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: HOU at LAA</actor>
+      <actor>Away Feed: HOU at LAA</actor>
+    </credits>
+  </programme>
+  <programme start="20260727220000 +0000" stop="20260728000000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: HOU at LAA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: HOU at LAA</actor>
+      <actor>Away Feed: HOU at LAA</actor>
+    </credits>
+  </programme>
+  <programme start="20260728000000 +0000" stop="20260728013000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: HOU at LAA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: HOU at LAA</actor>
+      <actor>Away Feed: HOU at LAA</actor>
+    </credits>
+  </programme>
+  <programme start="20260728013000 +0000" stop="20260728053000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: HOU at LAA</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Men's Gold: HUN vs. GRC</actor>
-      <actor>Men's Gold: HUN vs. GRC</actor>
-    </credits>
-  </programme>
-  <programme start="20260726100000 +0000" stop="20260726120000 +0000" channel="PEACOCK 003">
-    <title lang="en">Tour de France: Stage 21 starts at 11:30 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Tour de France: Stage 21</actor>
-      <actor>Tour de France: Stage 21</actor>
-    </credits>
-  </programme>
-  <programme start="20260726120000 +0000" stop="20260726140000 +0000" channel="PEACOCK 003">
-    <title lang="en">Tour de France: Stage 21 starts at 11:30 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Tour de France: Stage 21</actor>
-      <actor>Tour de France: Stage 21</actor>
-    </credits>
-  </programme>
-  <programme start="20260726140000 +0000" stop="20260726153000 +0000" channel="PEACOCK 003">
-    <title lang="en">Tour de France: Stage 21 starts at 11:30 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Tour de France: Stage 21</actor>
-      <actor>Tour de France: Stage 21</actor>
-    </credits>
-  </programme>
-  <programme start="20260726153000 +0000" stop="20260726193000 +0000" channel="PEACOCK 003">
-    <title lang="en">Tour de France: Stage 21</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Tour de France: Stage 21</actor>
-      <actor>Tour de France: Stage 21</actor>
-    </credits>
-  </programme>
-  <programme start="20260726100000 +0000" stop="20260726120000 +0000" channel="PEACOCK 004">
-    <title lang="en">Guardians at Rays starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Guardians at Rays</actor>
-      <actor>Guardians at Rays</actor>
-    </credits>
-  </programme>
-  <programme start="20260726120000 +0000" stop="20260726140000 +0000" channel="PEACOCK 004">
-    <title lang="en">Guardians at Rays starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Guardians at Rays</actor>
-      <actor>Guardians at Rays</actor>
-    </credits>
-  </programme>
-  <programme start="20260726140000 +0000" stop="20260726160000 +0000" channel="PEACOCK 004">
-    <title lang="en">Guardians at Rays starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Guardians at Rays</actor>
-      <actor>Guardians at Rays</actor>
-    </credits>
-  </programme>
-  <programme start="20260726160000 +0000" stop="20260726200000 +0000" channel="PEACOCK 004">
-    <title lang="en">Guardians at Rays</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Guardians at Rays</actor>
-      <actor>Guardians at Rays</actor>
-    </credits>
-  </programme>
-  <programme start="20260726100000 +0000" stop="20260726120000 +0000" channel="PEACOCK 005">
-    <title lang="en">The Senior Open: Rd. 4 starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>The Senior Open: Rd. 4</actor>
-      <actor>The Senior Open: Rd. 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260726120000 +0000" stop="20260726140000 +0000" channel="PEACOCK 005">
-    <title lang="en">The Senior Open: Rd. 4 starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>The Senior Open: Rd. 4</actor>
-      <actor>The Senior Open: Rd. 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260726140000 +0000" stop="20260726160000 +0000" channel="PEACOCK 005">
-    <title lang="en">The Senior Open: Rd. 4 starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>The Senior Open: Rd. 4</actor>
-      <actor>The Senior Open: Rd. 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260726160000 +0000" stop="20260726200000 +0000" channel="PEACOCK 005">
-    <title lang="en">The Senior Open: Rd. 4</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>The Senior Open: Rd. 4</actor>
-      <actor>The Senior Open: Rd. 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260726100000 +0000" stop="20260726120000 +0000" channel="PEACOCK 006">
-    <title lang="en">Guardians vs. Rays (Español) starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Guardians vs. Rays (Español)</actor>
-      <actor>Guardians vs. Rays (Español)</actor>
-    </credits>
-  </programme>
-  <programme start="20260726120000 +0000" stop="20260726140000 +0000" channel="PEACOCK 006">
-    <title lang="en">Guardians vs. Rays (Español) starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Guardians vs. Rays (Español)</actor>
-      <actor>Guardians vs. Rays (Español)</actor>
-    </credits>
-  </programme>
-  <programme start="20260726140000 +0000" stop="20260726160000 +0000" channel="PEACOCK 006">
-    <title lang="en">Guardians vs. Rays (Español) starts at 12:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Guardians vs. Rays (Español)</actor>
-      <actor>Guardians vs. Rays (Español)</actor>
-    </credits>
-  </programme>
-  <programme start="20260726160000 +0000" stop="20260726200000 +0000" channel="PEACOCK 006">
-    <title lang="en">Guardians vs. Rays (Español)</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Guardians vs. Rays (Español)</actor>
-      <actor>Guardians vs. Rays (Español)</actor>
-    </credits>
-  </programme>
-  <programme start="20260726100000 +0000" stop="20260726120000 +0000" channel="PEACOCK 007">
-    <title lang="en">THEMOVE: Stage 21 starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>THEMOVE: Stage 21</actor>
-      <actor>THEMOVE: Stage 21</actor>
-    </credits>
-  </programme>
-  <programme start="20260726120000 +0000" stop="20260726140000 +0000" channel="PEACOCK 007">
-    <title lang="en">THEMOVE: Stage 21 starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>THEMOVE: Stage 21</actor>
-      <actor>THEMOVE: Stage 21</actor>
-    </credits>
-  </programme>
-  <programme start="20260726140000 +0000" stop="20260726160000 +0000" channel="PEACOCK 007">
-    <title lang="en">THEMOVE: Stage 21 starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>THEMOVE: Stage 21</actor>
-      <actor>THEMOVE: Stage 21</actor>
-    </credits>
-  </programme>
-  <programme start="20260726160000 +0000" stop="20260726180000 +0000" channel="PEACOCK 007">
-    <title lang="en">THEMOVE: Stage 21 starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>THEMOVE: Stage 21</actor>
-      <actor>THEMOVE: Stage 21</actor>
-    </credits>
-  </programme>
-  <programme start="20260726180000 +0000" stop="20260726183000 +0000" channel="PEACOCK 007">
-    <title lang="en">THEMOVE: Stage 21 starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>THEMOVE: Stage 21</actor>
-      <actor>THEMOVE: Stage 21</actor>
-    </credits>
-  </programme>
-  <programme start="20260726183000 +0000" stop="20260726223000 +0000" channel="PEACOCK 007">
-    <title lang="en">THEMOVE: Stage 21</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>THEMOVE: Stage 21</actor>
-      <actor>THEMOVE: Stage 21</actor>
-    </credits>
-  </programme>
-  <programme start="20260726100000 +0000" stop="20260726120000 +0000" channel="PEACOCK 008">
-    <title lang="en">MLB Sunday Stretch: 7.26.26 starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLB Sunday Stretch: 7.26.26</actor>
-      <actor>MLB Sunday Stretch: 7.26.26</actor>
-    </credits>
-  </programme>
-  <programme start="20260726120000 +0000" stop="20260726140000 +0000" channel="PEACOCK 008">
-    <title lang="en">MLB Sunday Stretch: 7.26.26 starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLB Sunday Stretch: 7.26.26</actor>
-      <actor>MLB Sunday Stretch: 7.26.26</actor>
-    </credits>
-  </programme>
-  <programme start="20260726140000 +0000" stop="20260726160000 +0000" channel="PEACOCK 008">
-    <title lang="en">MLB Sunday Stretch: 7.26.26 starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLB Sunday Stretch: 7.26.26</actor>
-      <actor>MLB Sunday Stretch: 7.26.26</actor>
-    </credits>
-  </programme>
-  <programme start="20260726160000 +0000" stop="20260726180000 +0000" channel="PEACOCK 008">
-    <title lang="en">MLB Sunday Stretch: 7.26.26 starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLB Sunday Stretch: 7.26.26</actor>
-      <actor>MLB Sunday Stretch: 7.26.26</actor>
-    </credits>
-  </programme>
-  <programme start="20260726180000 +0000" stop="20260726183000 +0000" channel="PEACOCK 008">
-    <title lang="en">MLB Sunday Stretch: 7.26.26 starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLB Sunday Stretch: 7.26.26</actor>
-      <actor>MLB Sunday Stretch: 7.26.26</actor>
-    </credits>
-  </programme>
-  <programme start="20260726183000 +0000" stop="20260726223000 +0000" channel="PEACOCK 008">
-    <title lang="en">MLB Sunday Stretch: 7.26.26</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>MLB Sunday Stretch: 7.26.26</actor>
-      <actor>MLB Sunday Stretch: 7.26.26</actor>
-    </credits>
-  </programme>
-  <programme start="20260726100000 +0000" stop="20260726120000 +0000" channel="PEACOCK 009">
-    <title lang="en">Away Feed: SEA at TEX starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: SEA at TEX</actor>
-      <actor>Away Feed: SEA at TEX</actor>
-    </credits>
-  </programme>
-  <programme start="20260726120000 +0000" stop="20260726140000 +0000" channel="PEACOCK 009">
-    <title lang="en">Away Feed: SEA at TEX starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: SEA at TEX</actor>
-      <actor>Away Feed: SEA at TEX</actor>
-    </credits>
-  </programme>
-  <programme start="20260726140000 +0000" stop="20260726160000 +0000" channel="PEACOCK 009">
-    <title lang="en">Away Feed: SEA at TEX starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: SEA at TEX</actor>
-      <actor>Away Feed: SEA at TEX</actor>
-    </credits>
-  </programme>
-  <programme start="20260726160000 +0000" stop="20260726180000 +0000" channel="PEACOCK 009">
-    <title lang="en">Away Feed: SEA at TEX starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: SEA at TEX</actor>
-      <actor>Away Feed: SEA at TEX</actor>
-    </credits>
-  </programme>
-  <programme start="20260726180000 +0000" stop="20260726183000 +0000" channel="PEACOCK 009">
-    <title lang="en">Away Feed: SEA at TEX starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: SEA at TEX</actor>
-      <actor>Away Feed: SEA at TEX</actor>
-    </credits>
-  </programme>
-  <programme start="20260726183000 +0000" stop="20260726223000 +0000" channel="PEACOCK 009">
-    <title lang="en">Away Feed: SEA at TEX</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: SEA at TEX</actor>
-      <actor>Away Feed: SEA at TEX</actor>
-    </credits>
-  </programme>
-  <programme start="20260726100000 +0000" stop="20260726120000 +0000" channel="PEACOCK 010">
-    <title lang="en">Home Feed: SEA at TEX starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: SEA at TEX</actor>
-      <actor>Home Feed: SEA at TEX</actor>
-    </credits>
-  </programme>
-  <programme start="20260726120000 +0000" stop="20260726140000 +0000" channel="PEACOCK 010">
-    <title lang="en">Home Feed: SEA at TEX starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: SEA at TEX</actor>
-      <actor>Home Feed: SEA at TEX</actor>
-    </credits>
-  </programme>
-  <programme start="20260726140000 +0000" stop="20260726160000 +0000" channel="PEACOCK 010">
-    <title lang="en">Home Feed: SEA at TEX starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: SEA at TEX</actor>
-      <actor>Home Feed: SEA at TEX</actor>
-    </credits>
-  </programme>
-  <programme start="20260726160000 +0000" stop="20260726180000 +0000" channel="PEACOCK 010">
-    <title lang="en">Home Feed: SEA at TEX starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: SEA at TEX</actor>
-      <actor>Home Feed: SEA at TEX</actor>
-    </credits>
-  </programme>
-  <programme start="20260726180000 +0000" stop="20260726183000 +0000" channel="PEACOCK 010">
-    <title lang="en">Home Feed: SEA at TEX starts at 2:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: SEA at TEX</actor>
-      <actor>Home Feed: SEA at TEX</actor>
-    </credits>
-  </programme>
-  <programme start="20260726183000 +0000" stop="20260726223000 +0000" channel="PEACOCK 010">
-    <title lang="en">Home Feed: SEA at TEX</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: SEA at TEX</actor>
-      <actor>Home Feed: SEA at TEX</actor>
-    </credits>
-  </programme>
-  <programme start="20260726100000 +0000" stop="20260726120000 +0000" channel="PEACOCK 011">
-    <title lang="en">USATF Outdoor Champs: Day 4 starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>USATF Outdoor Champs: Day 4</actor>
-      <actor>USATF Outdoor Champs: Day 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260726120000 +0000" stop="20260726140000 +0000" channel="PEACOCK 011">
-    <title lang="en">USATF Outdoor Champs: Day 4 starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>USATF Outdoor Champs: Day 4</actor>
-      <actor>USATF Outdoor Champs: Day 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260726140000 +0000" stop="20260726160000 +0000" channel="PEACOCK 011">
-    <title lang="en">USATF Outdoor Champs: Day 4 starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>USATF Outdoor Champs: Day 4</actor>
-      <actor>USATF Outdoor Champs: Day 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260726160000 +0000" stop="20260726180000 +0000" channel="PEACOCK 011">
-    <title lang="en">USATF Outdoor Champs: Day 4 starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>USATF Outdoor Champs: Day 4</actor>
-      <actor>USATF Outdoor Champs: Day 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260726180000 +0000" stop="20260726200000 +0000" channel="PEACOCK 011">
-    <title lang="en">USATF Outdoor Champs: Day 4 starts at 4:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>USATF Outdoor Champs: Day 4</actor>
-      <actor>USATF Outdoor Champs: Day 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260726200000 +0000" stop="20260727000000 +0000" channel="PEACOCK 011">
-    <title lang="en">USATF Outdoor Champs: Day 4</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>USATF Outdoor Champs: Day 4</actor>
-      <actor>USATF Outdoor Champs: Day 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260726100000 +0000" stop="20260726120000 +0000" channel="PEACOCK 012">
-    <title lang="en">Yankees vs. Phillies (Español) starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Yankees vs. Phillies (Español)</actor>
-      <actor>Yankees vs. Phillies (Español)</actor>
-    </credits>
-  </programme>
-  <programme start="20260726120000 +0000" stop="20260726140000 +0000" channel="PEACOCK 012">
-    <title lang="en">Yankees vs. Phillies (Español) starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Yankees vs. Phillies (Español)</actor>
-      <actor>Yankees vs. Phillies (Español)</actor>
-    </credits>
-  </programme>
-  <programme start="20260726140000 +0000" stop="20260726160000 +0000" channel="PEACOCK 012">
-    <title lang="en">Yankees vs. Phillies (Español) starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Yankees vs. Phillies (Español)</actor>
-      <actor>Yankees vs. Phillies (Español)</actor>
-    </credits>
-  </programme>
-  <programme start="20260726160000 +0000" stop="20260726180000 +0000" channel="PEACOCK 012">
-    <title lang="en">Yankees vs. Phillies (Español) starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Yankees vs. Phillies (Español)</actor>
-      <actor>Yankees vs. Phillies (Español)</actor>
-    </credits>
-  </programme>
-  <programme start="20260726180000 +0000" stop="20260726200000 +0000" channel="PEACOCK 012">
-    <title lang="en">Yankees vs. Phillies (Español) starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Yankees vs. Phillies (Español)</actor>
-      <actor>Yankees vs. Phillies (Español)</actor>
-    </credits>
-  </programme>
-  <programme start="20260726200000 +0000" stop="20260726220000 +0000" channel="PEACOCK 012">
-    <title lang="en">Yankees vs. Phillies (Español) starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Yankees vs. Phillies (Español)</actor>
-      <actor>Yankees vs. Phillies (Español)</actor>
-    </credits>
-  </programme>
-  <programme start="20260726220000 +0000" stop="20260726230000 +0000" channel="PEACOCK 012">
-    <title lang="en">Yankees vs. Phillies (Español) starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Yankees vs. Phillies (Español)</actor>
-      <actor>Yankees vs. Phillies (Español)</actor>
-    </credits>
-  </programme>
-  <programme start="20260726230000 +0000" stop="20260727030000 +0000" channel="PEACOCK 012">
-    <title lang="en">Yankees vs. Phillies (Español)</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Yankees vs. Phillies (Español)</actor>
-      <actor>Yankees vs. Phillies (Español)</actor>
-    </credits>
-  </programme>
-  <programme start="20260726100000 +0000" stop="20260726120000 +0000" channel="PEACOCK 013">
-    <title lang="en">Yankees at Phillies starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Yankees at Phillies</actor>
-      <actor>Yankees at Phillies</actor>
-    </credits>
-  </programme>
-  <programme start="20260726120000 +0000" stop="20260726140000 +0000" channel="PEACOCK 013">
-    <title lang="en">Yankees at Phillies starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Yankees at Phillies</actor>
-      <actor>Yankees at Phillies</actor>
-    </credits>
-  </programme>
-  <programme start="20260726140000 +0000" stop="20260726160000 +0000" channel="PEACOCK 013">
-    <title lang="en">Yankees at Phillies starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Yankees at Phillies</actor>
-      <actor>Yankees at Phillies</actor>
-    </credits>
-  </programme>
-  <programme start="20260726160000 +0000" stop="20260726180000 +0000" channel="PEACOCK 013">
-    <title lang="en">Yankees at Phillies starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Yankees at Phillies</actor>
-      <actor>Yankees at Phillies</actor>
-    </credits>
-  </programme>
-  <programme start="20260726180000 +0000" stop="20260726200000 +0000" channel="PEACOCK 013">
-    <title lang="en">Yankees at Phillies starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Yankees at Phillies</actor>
-      <actor>Yankees at Phillies</actor>
-    </credits>
-  </programme>
-  <programme start="20260726200000 +0000" stop="20260726220000 +0000" channel="PEACOCK 013">
-    <title lang="en">Yankees at Phillies starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Yankees at Phillies</actor>
-      <actor>Yankees at Phillies</actor>
-    </credits>
-  </programme>
-  <programme start="20260726220000 +0000" stop="20260726230000 +0000" channel="PEACOCK 013">
-    <title lang="en">Yankees at Phillies starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Yankees at Phillies</actor>
-      <actor>Yankees at Phillies</actor>
-    </credits>
-  </programme>
-  <programme start="20260726230000 +0000" stop="20260727030000 +0000" channel="PEACOCK 013">
-    <title lang="en">Yankees at Phillies</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Yankees at Phillies</actor>
-      <actor>Yankees at Phillies</actor>
+      <actor>Away Feed: HOU at LAA</actor>
+      <actor>Away Feed: HOU at LAA</actor>
     </credits>
   </programme>
 </tv>
