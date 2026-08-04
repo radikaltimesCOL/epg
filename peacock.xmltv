@@ -300,151 +300,242 @@
   <channel id="PEACOCK 100">
     <display-name>PEACOCK 100</display-name>
   </channel>
-  <programme start="20260803100000 +0000" stop="20260803120000 +0000" channel="PEACOCK 001">
-    <title lang="en">Tour de France Femmes: Stage 3 starts at 9:45 AM ET</title>
+  <programme start="20260804100000 +0000" stop="20260804120000 +0000" channel="PEACOCK 001">
+    <title lang="en">Tour de France Femmes: Stage 4 starts at 9:45 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Tour de France Femmes: Stage 3</actor>
-      <actor>Tour de France Femmes: Stage 3</actor>
+      <actor>Tour de France Femmes: Stage 4</actor>
+      <actor>Tour de France Femmes: Stage 4</actor>
     </credits>
   </programme>
-  <programme start="20260803120000 +0000" stop="20260803134500 +0000" channel="PEACOCK 001">
-    <title lang="en">Tour de France Femmes: Stage 3 starts at 9:45 AM ET</title>
+  <programme start="20260804120000 +0000" stop="20260804134500 +0000" channel="PEACOCK 001">
+    <title lang="en">Tour de France Femmes: Stage 4 starts at 9:45 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Tour de France Femmes: Stage 3</actor>
-      <actor>Tour de France Femmes: Stage 3</actor>
+      <actor>Tour de France Femmes: Stage 4</actor>
+      <actor>Tour de France Femmes: Stage 4</actor>
     </credits>
   </programme>
-  <programme start="20260803134500 +0000" stop="20260803174500 +0000" channel="PEACOCK 001">
-    <title lang="en">Tour de France Femmes: Stage 3</title>
+  <programme start="20260804134500 +0000" stop="20260804174500 +0000" channel="PEACOCK 001">
+    <title lang="en">Tour de France Femmes: Stage 4</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Tour de France Femmes: Stage 3</actor>
-      <actor>Tour de France Femmes: Stage 3</actor>
+      <actor>Tour de France Femmes: Stage 4</actor>
+      <actor>Tour de France Femmes: Stage 4</actor>
     </credits>
   </programme>
-  <programme start="20260803100000 +0000" stop="20260803120000 +0000" channel="PEACOCK 002">
-    <title lang="en">THEMOVE: Stage 3 starts at 12:15 PM ET</title>
+  <programme start="20260804100000 +0000" stop="20260804120000 +0000" channel="PEACOCK 002">
+    <title lang="en">THEMOVE: Stage 4 starts at 12:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>THEMOVE: Stage 3</actor>
-      <actor>THEMOVE: Stage 3</actor>
+      <actor>THEMOVE: Stage 4</actor>
+      <actor>THEMOVE: Stage 4</actor>
     </credits>
   </programme>
-  <programme start="20260803120000 +0000" stop="20260803140000 +0000" channel="PEACOCK 002">
-    <title lang="en">THEMOVE: Stage 3 starts at 12:15 PM ET</title>
+  <programme start="20260804120000 +0000" stop="20260804140000 +0000" channel="PEACOCK 002">
+    <title lang="en">THEMOVE: Stage 4 starts at 12:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>THEMOVE: Stage 3</actor>
-      <actor>THEMOVE: Stage 3</actor>
+      <actor>THEMOVE: Stage 4</actor>
+      <actor>THEMOVE: Stage 4</actor>
     </credits>
   </programme>
-  <programme start="20260803140000 +0000" stop="20260803160000 +0000" channel="PEACOCK 002">
-    <title lang="en">THEMOVE: Stage 3 starts at 12:15 PM ET</title>
+  <programme start="20260804140000 +0000" stop="20260804160000 +0000" channel="PEACOCK 002">
+    <title lang="en">THEMOVE: Stage 4 starts at 12:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>THEMOVE: Stage 3</actor>
-      <actor>THEMOVE: Stage 3</actor>
+      <actor>THEMOVE: Stage 4</actor>
+      <actor>THEMOVE: Stage 4</actor>
     </credits>
   </programme>
-  <programme start="20260803160000 +0000" stop="20260803161500 +0000" channel="PEACOCK 002">
-    <title lang="en">THEMOVE: Stage 3 starts at 12:15 PM ET</title>
+  <programme start="20260804160000 +0000" stop="20260804161500 +0000" channel="PEACOCK 002">
+    <title lang="en">THEMOVE: Stage 4 starts at 12:15 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>THEMOVE: Stage 3</actor>
-      <actor>THEMOVE: Stage 3</actor>
+      <actor>THEMOVE: Stage 4</actor>
+      <actor>THEMOVE: Stage 4</actor>
     </credits>
   </programme>
-  <programme start="20260803161500 +0000" stop="20260803201500 +0000" channel="PEACOCK 002">
-    <title lang="en">THEMOVE: Stage 3</title>
+  <programme start="20260804161500 +0000" stop="20260804201500 +0000" channel="PEACOCK 002">
+    <title lang="en">THEMOVE: Stage 4</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>THEMOVE: Stage 3</actor>
-      <actor>THEMOVE: Stage 3</actor>
+      <actor>THEMOVE: Stage 4</actor>
+      <actor>THEMOVE: Stage 4</actor>
     </credits>
   </programme>
-  <programme start="20260803100000 +0000" stop="20260803120000 +0000" channel="PEACOCK 003">
-    <title lang="en">Aces vs. Dream starts at 7:00 PM ET</title>
+  <programme start="20260804100000 +0000" stop="20260804120000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: DET at SEA starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Aces vs. Dream</actor>
-      <actor>Aces vs. Dream</actor>
+      <actor>Home Feed: DET at SEA</actor>
+      <actor>Home Feed: DET at SEA</actor>
     </credits>
   </programme>
-  <programme start="20260803120000 +0000" stop="20260803140000 +0000" channel="PEACOCK 003">
-    <title lang="en">Aces vs. Dream starts at 7:00 PM ET</title>
+  <programme start="20260804120000 +0000" stop="20260804140000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: DET at SEA starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Aces vs. Dream</actor>
-      <actor>Aces vs. Dream</actor>
+      <actor>Home Feed: DET at SEA</actor>
+      <actor>Home Feed: DET at SEA</actor>
     </credits>
   </programme>
-  <programme start="20260803140000 +0000" stop="20260803160000 +0000" channel="PEACOCK 003">
-    <title lang="en">Aces vs. Dream starts at 7:00 PM ET</title>
+  <programme start="20260804140000 +0000" stop="20260804160000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: DET at SEA starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Aces vs. Dream</actor>
-      <actor>Aces vs. Dream</actor>
+      <actor>Home Feed: DET at SEA</actor>
+      <actor>Home Feed: DET at SEA</actor>
     </credits>
   </programme>
-  <programme start="20260803160000 +0000" stop="20260803180000 +0000" channel="PEACOCK 003">
-    <title lang="en">Aces vs. Dream starts at 7:00 PM ET</title>
+  <programme start="20260804160000 +0000" stop="20260804180000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: DET at SEA starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Aces vs. Dream</actor>
-      <actor>Aces vs. Dream</actor>
+      <actor>Home Feed: DET at SEA</actor>
+      <actor>Home Feed: DET at SEA</actor>
     </credits>
   </programme>
-  <programme start="20260803180000 +0000" stop="20260803200000 +0000" channel="PEACOCK 003">
-    <title lang="en">Aces vs. Dream starts at 7:00 PM ET</title>
+  <programme start="20260804180000 +0000" stop="20260804200000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: DET at SEA starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Aces vs. Dream</actor>
-      <actor>Aces vs. Dream</actor>
+      <actor>Home Feed: DET at SEA</actor>
+      <actor>Home Feed: DET at SEA</actor>
     </credits>
   </programme>
-  <programme start="20260803200000 +0000" stop="20260803220000 +0000" channel="PEACOCK 003">
-    <title lang="en">Aces vs. Dream starts at 7:00 PM ET</title>
+  <programme start="20260804200000 +0000" stop="20260804220000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: DET at SEA starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Aces vs. Dream</actor>
-      <actor>Aces vs. Dream</actor>
+      <actor>Home Feed: DET at SEA</actor>
+      <actor>Home Feed: DET at SEA</actor>
     </credits>
   </programme>
-  <programme start="20260803220000 +0000" stop="20260803230000 +0000" channel="PEACOCK 003">
-    <title lang="en">Aces vs. Dream starts at 7:00 PM ET</title>
+  <programme start="20260804220000 +0000" stop="20260805000000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: DET at SEA starts at 9:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Aces vs. Dream</actor>
-      <actor>Aces vs. Dream</actor>
+      <actor>Home Feed: DET at SEA</actor>
+      <actor>Home Feed: DET at SEA</actor>
     </credits>
   </programme>
-  <programme start="20260803230000 +0000" stop="20260804030000 +0000" channel="PEACOCK 003">
-    <title lang="en">Aces vs. Dream</title>
+  <programme start="20260805000000 +0000" stop="20260805013000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: DET at SEA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: DET at SEA</actor>
+      <actor>Home Feed: DET at SEA</actor>
+    </credits>
+  </programme>
+  <programme start="20260805013000 +0000" stop="20260805053000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: DET at SEA</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Aces vs. Dream</actor>
-      <actor>Aces vs. Dream</actor>
+      <actor>Home Feed: DET at SEA</actor>
+      <actor>Home Feed: DET at SEA</actor>
+    </credits>
+  </programme>
+  <programme start="20260804100000 +0000" stop="20260804120000 +0000" channel="PEACOCK 004">
+    <title lang="en">Away Feed: DET at SEA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: DET at SEA</actor>
+      <actor>Away Feed: DET at SEA</actor>
+    </credits>
+  </programme>
+  <programme start="20260804120000 +0000" stop="20260804140000 +0000" channel="PEACOCK 004">
+    <title lang="en">Away Feed: DET at SEA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: DET at SEA</actor>
+      <actor>Away Feed: DET at SEA</actor>
+    </credits>
+  </programme>
+  <programme start="20260804140000 +0000" stop="20260804160000 +0000" channel="PEACOCK 004">
+    <title lang="en">Away Feed: DET at SEA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: DET at SEA</actor>
+      <actor>Away Feed: DET at SEA</actor>
+    </credits>
+  </programme>
+  <programme start="20260804160000 +0000" stop="20260804180000 +0000" channel="PEACOCK 004">
+    <title lang="en">Away Feed: DET at SEA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: DET at SEA</actor>
+      <actor>Away Feed: DET at SEA</actor>
+    </credits>
+  </programme>
+  <programme start="20260804180000 +0000" stop="20260804200000 +0000" channel="PEACOCK 004">
+    <title lang="en">Away Feed: DET at SEA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: DET at SEA</actor>
+      <actor>Away Feed: DET at SEA</actor>
+    </credits>
+  </programme>
+  <programme start="20260804200000 +0000" stop="20260804220000 +0000" channel="PEACOCK 004">
+    <title lang="en">Away Feed: DET at SEA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: DET at SEA</actor>
+      <actor>Away Feed: DET at SEA</actor>
+    </credits>
+  </programme>
+  <programme start="20260804220000 +0000" stop="20260805000000 +0000" channel="PEACOCK 004">
+    <title lang="en">Away Feed: DET at SEA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: DET at SEA</actor>
+      <actor>Away Feed: DET at SEA</actor>
+    </credits>
+  </programme>
+  <programme start="20260805000000 +0000" stop="20260805013000 +0000" channel="PEACOCK 004">
+    <title lang="en">Away Feed: DET at SEA starts at 9:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: DET at SEA</actor>
+      <actor>Away Feed: DET at SEA</actor>
+    </credits>
+  </programme>
+  <programme start="20260805013000 +0000" stop="20260805053000 +0000" channel="PEACOCK 004">
+    <title lang="en">Away Feed: DET at SEA</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: DET at SEA</actor>
+      <actor>Away Feed: DET at SEA</actor>
     </credits>
   </programme>
 </tv>
