@@ -210,147 +210,21 @@
   <channel id="PPV 70">
     <display-name>PPV 70</display-name>
   </channel>
-  <programme start="20260803100000 +0000" stop="20260803120000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
+  <programme start="20260804100000 +0000" stop="20260804120000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Monster Energy AMA National Motocross Championship at Loretta Lynns starts at 8:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
+      <actor>Monster Energy AMA National Motocross Championship at Loretta Lynns</actor>
     </credits>
   </programme>
-  <programme start="20260803120000 +0000" stop="20260803140000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
-    </credits>
-  </programme>
-  <programme start="20260803140000 +0000" stop="20260803160000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
-    </credits>
-  </programme>
-  <programme start="20260803160000 +0000" stop="20260803180000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
-    </credits>
-  </programme>
-  <programme start="20260803180000 +0000" stop="20260803200000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
-    </credits>
-  </programme>
-  <programme start="20260803200000 +0000" stop="20260803220000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
-    </credits>
-  </programme>
-  <programme start="20260803220000 +0000" stop="20260804000000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
-    </credits>
-  </programme>
-  <programme start="20260804000000 +0000" stop="20260804030000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: WWE Monday Night Raw (8.3 8:00 PM ET)</title>
+  <programme start="20260804120000 +0000" stop="20260804150000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Monster Energy AMA National Motocross Championship at Loretta Lynns (8.4 8:00 AM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 01</actor>
-      <actor>WWE Monday Night Raw</actor>
-    </credits>
-  </programme>
-  <programme start="20260803100000 +0000" stop="20260803120000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Monster Energy AMA National Motocross Championship at Loretta Lynns starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>Monster Energy AMA National Motocross Championship at Loretta Lynns</actor>
-    </credits>
-  </programme>
-  <programme start="20260803120000 +0000" stop="20260803140000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Monster Energy AMA National Motocross Championship at Loretta Lynns starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>Monster Energy AMA National Motocross Championship at Loretta Lynns</actor>
-    </credits>
-  </programme>
-  <programme start="20260803140000 +0000" stop="20260803160000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Monster Energy AMA National Motocross Championship at Loretta Lynns starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>Monster Energy AMA National Motocross Championship at Loretta Lynns</actor>
-    </credits>
-  </programme>
-  <programme start="20260803160000 +0000" stop="20260803180000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Monster Energy AMA National Motocross Championship at Loretta Lynns starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>Monster Energy AMA National Motocross Championship at Loretta Lynns</actor>
-    </credits>
-  </programme>
-  <programme start="20260803180000 +0000" stop="20260803200000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Monster Energy AMA National Motocross Championship at Loretta Lynns starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>Monster Energy AMA National Motocross Championship at Loretta Lynns</actor>
-    </credits>
-  </programme>
-  <programme start="20260803200000 +0000" stop="20260803220000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Monster Energy AMA National Motocross Championship at Loretta Lynns starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>Monster Energy AMA National Motocross Championship at Loretta Lynns</actor>
-    </credits>
-  </programme>
-  <programme start="20260803220000 +0000" stop="20260803230000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Monster Energy AMA National Motocross Championship at Loretta Lynns starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>Monster Energy AMA National Motocross Championship at Loretta Lynns</actor>
-    </credits>
-  </programme>
-  <programme start="20260803230000 +0000" stop="20260804020000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Monster Energy AMA National Motocross Championship at Loretta Lynns (8.3 7:00 PM ET)</title>
-    <category lang="en">Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
       <actor>Monster Energy AMA National Motocross Championship at Loretta Lynns</actor>
     </credits>
   </programme>
