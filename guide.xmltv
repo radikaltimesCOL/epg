@@ -210,7 +210,7 @@
   <channel id="PPV 70">
     <display-name>PPV 70</display-name>
   </channel>
-  <programme start="20260805100000 +0000" stop="20260805120000 +0000" channel="PPV 01">
+  <programme start="20260806100000 +0000" stop="20260806120000 +0000" channel="PPV 01">
     <title lang="en">EVENT 01: Monster Energy AMA National Motocross Championship at Loretta Lynns starts at 8:00 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
@@ -219,8 +219,8 @@
       <actor>Monster Energy AMA National Motocross Championship at Loretta Lynns</actor>
     </credits>
   </programme>
-  <programme start="20260805120000 +0000" stop="20260805150000 +0000" channel="PPV 01">
-    <title lang="en">EVENT 01: Monster Energy AMA National Motocross Championship at Loretta Lynns (8.5 8:00 AM ET)</title>
+  <programme start="20260806120000 +0000" stop="20260806150000 +0000" channel="PPV 01">
+    <title lang="en">EVENT 01: Monster Energy AMA National Motocross Championship at Loretta Lynns (8.6 8:00 AM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
@@ -228,139 +228,202 @@
       <actor>Monster Energy AMA National Motocross Championship at Loretta Lynns</actor>
     </credits>
   </programme>
-  <programme start="20260805100000 +0000" stop="20260805120000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Short Track Super Series at Action Track starts at 6:00 PM ET</title>
+  <programme start="20260806100000 +0000" stop="20260806120000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: PDRA Thunder Valley Throwdown starts at 4:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>Short Track Super Series at Action Track</actor>
+      <actor>PDRA Thunder Valley Throwdown</actor>
     </credits>
   </programme>
-  <programme start="20260805120000 +0000" stop="20260805140000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Short Track Super Series at Action Track starts at 6:00 PM ET</title>
+  <programme start="20260806120000 +0000" stop="20260806140000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: PDRA Thunder Valley Throwdown starts at 4:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>Short Track Super Series at Action Track</actor>
+      <actor>PDRA Thunder Valley Throwdown</actor>
     </credits>
   </programme>
-  <programme start="20260805140000 +0000" stop="20260805160000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Short Track Super Series at Action Track starts at 6:00 PM ET</title>
+  <programme start="20260806140000 +0000" stop="20260806160000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: PDRA Thunder Valley Throwdown starts at 4:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>Short Track Super Series at Action Track</actor>
+      <actor>PDRA Thunder Valley Throwdown</actor>
     </credits>
   </programme>
-  <programme start="20260805160000 +0000" stop="20260805180000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Short Track Super Series at Action Track starts at 6:00 PM ET</title>
+  <programme start="20260806160000 +0000" stop="20260806180000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: PDRA Thunder Valley Throwdown starts at 4:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>Short Track Super Series at Action Track</actor>
+      <actor>PDRA Thunder Valley Throwdown</actor>
     </credits>
   </programme>
-  <programme start="20260805180000 +0000" stop="20260805200000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Short Track Super Series at Action Track starts at 6:00 PM ET</title>
+  <programme start="20260806180000 +0000" stop="20260806200000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: PDRA Thunder Valley Throwdown starts at 4:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>Short Track Super Series at Action Track</actor>
+      <actor>PDRA Thunder Valley Throwdown</actor>
     </credits>
   </programme>
-  <programme start="20260805200000 +0000" stop="20260805220000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Short Track Super Series at Action Track starts at 6:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">PPV</category>
-    <credits>
-      <actor>EVENT 02</actor>
-      <actor>Short Track Super Series at Action Track</actor>
-    </credits>
-  </programme>
-  <programme start="20260805220000 +0000" stop="20260806010000 +0000" channel="PPV 02">
-    <title lang="en">EVENT 02: Short Track Super Series at Action Track (8.5 6:00 PM ET)</title>
+  <programme start="20260806200000 +0000" stop="20260806230000 +0000" channel="PPV 02">
+    <title lang="en">EVENT 02: PDRA Thunder Valley Throwdown (8.6 4:00 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 02</actor>
-      <actor>Short Track Super Series at Action Track</actor>
+      <actor>PDRA Thunder Valley Throwdown</actor>
     </credits>
   </programme>
-  <programme start="20260805100000 +0000" stop="20260805120000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: NASCAR Whelen Modified Tour at Thompson starts at 7:45 PM ET</title>
+  <programme start="20260806100000 +0000" stop="20260806120000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Lucas Oil North South 100 at Florence starts at 6:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>NASCAR Whelen Modified Tour at Thompson</actor>
+      <actor>Lucas Oil North South 100 at Florence</actor>
     </credits>
   </programme>
-  <programme start="20260805120000 +0000" stop="20260805140000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: NASCAR Whelen Modified Tour at Thompson starts at 7:45 PM ET</title>
+  <programme start="20260806120000 +0000" stop="20260806140000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Lucas Oil North South 100 at Florence starts at 6:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>NASCAR Whelen Modified Tour at Thompson</actor>
+      <actor>Lucas Oil North South 100 at Florence</actor>
     </credits>
   </programme>
-  <programme start="20260805140000 +0000" stop="20260805160000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: NASCAR Whelen Modified Tour at Thompson starts at 7:45 PM ET</title>
+  <programme start="20260806140000 +0000" stop="20260806160000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Lucas Oil North South 100 at Florence starts at 6:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>NASCAR Whelen Modified Tour at Thompson</actor>
+      <actor>Lucas Oil North South 100 at Florence</actor>
     </credits>
   </programme>
-  <programme start="20260805160000 +0000" stop="20260805180000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: NASCAR Whelen Modified Tour at Thompson starts at 7:45 PM ET</title>
+  <programme start="20260806160000 +0000" stop="20260806180000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Lucas Oil North South 100 at Florence starts at 6:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>NASCAR Whelen Modified Tour at Thompson</actor>
+      <actor>Lucas Oil North South 100 at Florence</actor>
     </credits>
   </programme>
-  <programme start="20260805180000 +0000" stop="20260805200000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: NASCAR Whelen Modified Tour at Thompson starts at 7:45 PM ET</title>
+  <programme start="20260806180000 +0000" stop="20260806200000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Lucas Oil North South 100 at Florence starts at 6:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>NASCAR Whelen Modified Tour at Thompson</actor>
+      <actor>Lucas Oil North South 100 at Florence</actor>
     </credits>
   </programme>
-  <programme start="20260805200000 +0000" stop="20260805220000 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: NASCAR Whelen Modified Tour at Thompson starts at 7:45 PM ET</title>
+  <programme start="20260806200000 +0000" stop="20260806220000 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Lucas Oil North South 100 at Florence starts at 6:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>NASCAR Whelen Modified Tour at Thompson</actor>
+      <actor>Lucas Oil North South 100 at Florence</actor>
     </credits>
   </programme>
-  <programme start="20260805220000 +0000" stop="20260805234500 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: NASCAR Whelen Modified Tour at Thompson starts at 7:45 PM ET</title>
+  <programme start="20260806220000 +0000" stop="20260806224500 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Lucas Oil North South 100 at Florence starts at 6:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>NASCAR Whelen Modified Tour at Thompson</actor>
+      <actor>Lucas Oil North South 100 at Florence</actor>
     </credits>
   </programme>
-  <programme start="20260805234500 +0000" stop="20260806024500 +0000" channel="PPV 03">
-    <title lang="en">EVENT 03: NASCAR Whelen Modified Tour at Thompson (8.5 7:45 PM ET)</title>
+  <programme start="20260806224500 +0000" stop="20260807014500 +0000" channel="PPV 03">
+    <title lang="en">EVENT 03: Lucas Oil North South 100 at Florence (8.6 6:45 PM ET)</title>
     <category lang="en">Sports</category>
     <category lang="en">PPV</category>
     <credits>
       <actor>EVENT 03</actor>
-      <actor>NASCAR Whelen Modified Tour at Thompson</actor>
+      <actor>Lucas Oil North South 100 at Florence</actor>
+    </credits>
+  </programme>
+  <programme start="20260806100000 +0000" stop="20260806120000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: Knoxville Raceway starts at 7:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>Knoxville Raceway</actor>
+    </credits>
+  </programme>
+  <programme start="20260806120000 +0000" stop="20260806140000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: Knoxville Raceway starts at 7:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>Knoxville Raceway</actor>
+    </credits>
+  </programme>
+  <programme start="20260806140000 +0000" stop="20260806160000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: Knoxville Raceway starts at 7:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>Knoxville Raceway</actor>
+    </credits>
+  </programme>
+  <programme start="20260806160000 +0000" stop="20260806180000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: Knoxville Raceway starts at 7:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>Knoxville Raceway</actor>
+    </credits>
+  </programme>
+  <programme start="20260806180000 +0000" stop="20260806200000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: Knoxville Raceway starts at 7:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>Knoxville Raceway</actor>
+    </credits>
+  </programme>
+  <programme start="20260806200000 +0000" stop="20260806220000 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: Knoxville Raceway starts at 7:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>Knoxville Raceway</actor>
+    </credits>
+  </programme>
+  <programme start="20260806220000 +0000" stop="20260806231500 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: Knoxville Raceway starts at 7:15 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>Knoxville Raceway</actor>
+    </credits>
+  </programme>
+  <programme start="20260806231500 +0000" stop="20260807021500 +0000" channel="PPV 04">
+    <title lang="en">EVENT 04: Knoxville Raceway (8.6 7:15 PM ET)</title>
+    <category lang="en">Sports</category>
+    <category lang="en">PPV</category>
+    <credits>
+      <actor>EVENT 04</actor>
+      <actor>Knoxville Raceway</actor>
     </credits>
   </programme>
 </tv>
