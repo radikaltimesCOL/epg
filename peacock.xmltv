@@ -300,580 +300,270 @@
   <channel id="PEACOCK 100">
     <display-name>PEACOCK 100</display-name>
   </channel>
-  <programme start="20260807100000 +0000" stop="20260807120000 +0000" channel="PEACOCK 001">
-    <title lang="en">Tour de France Femmes: Stage 7 starts at 9:20 AM ET</title>
+  <programme start="20260808100000 +0000" stop="20260808120000 +0000" channel="PEACOCK 001">
+    <title lang="en">Tour de France Femmes: Stage 8 starts at 9:30 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Tour de France Femmes: Stage 7</actor>
-      <actor>Tour de France Femmes: Stage 7</actor>
+      <actor>Tour de France Femmes: Stage 8</actor>
+      <actor>Tour de France Femmes: Stage 8</actor>
     </credits>
   </programme>
-  <programme start="20260807120000 +0000" stop="20260807132000 +0000" channel="PEACOCK 001">
-    <title lang="en">Tour de France Femmes: Stage 7 starts at 9:20 AM ET</title>
+  <programme start="20260808120000 +0000" stop="20260808133000 +0000" channel="PEACOCK 001">
+    <title lang="en">Tour de France Femmes: Stage 8 starts at 9:30 AM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Tour de France Femmes: Stage 7</actor>
-      <actor>Tour de France Femmes: Stage 7</actor>
+      <actor>Tour de France Femmes: Stage 8</actor>
+      <actor>Tour de France Femmes: Stage 8</actor>
     </credits>
   </programme>
-  <programme start="20260807132000 +0000" stop="20260807172000 +0000" channel="PEACOCK 001">
-    <title lang="en">Tour de France Femmes: Stage 7</title>
+  <programme start="20260808133000 +0000" stop="20260808173000 +0000" channel="PEACOCK 001">
+    <title lang="en">Tour de France Femmes: Stage 8</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Tour de France Femmes: Stage 7</actor>
-      <actor>Tour de France Femmes: Stage 7</actor>
+      <actor>Tour de France Femmes: Stage 8</actor>
+      <actor>Tour de France Femmes: Stage 8</actor>
     </credits>
   </programme>
-  <programme start="20260807100000 +0000" stop="20260807120000 +0000" channel="PEACOCK 002">
-    <title lang="en">THEMOVE: Stage 7 starts at 11:50 AM ET</title>
+  <programme start="20260808100000 +0000" stop="20260808120000 +0000" channel="PEACOCK 002">
+    <title lang="en">U20 Champs: Day 4 AM starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>THEMOVE: Stage 7</actor>
-      <actor>THEMOVE: Stage 7</actor>
+      <actor>U20 Champs: Day 4 AM</actor>
+      <actor>U20 Champs: Day 4 AM</actor>
     </credits>
   </programme>
-  <programme start="20260807120000 +0000" stop="20260807140000 +0000" channel="PEACOCK 002">
-    <title lang="en">THEMOVE: Stage 7 starts at 11:50 AM ET</title>
+  <programme start="20260808120000 +0000" stop="20260808140000 +0000" channel="PEACOCK 002">
+    <title lang="en">U20 Champs: Day 4 AM starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>THEMOVE: Stage 7</actor>
-      <actor>THEMOVE: Stage 7</actor>
+      <actor>U20 Champs: Day 4 AM</actor>
+      <actor>U20 Champs: Day 4 AM</actor>
     </credits>
   </programme>
-  <programme start="20260807140000 +0000" stop="20260807155000 +0000" channel="PEACOCK 002">
-    <title lang="en">THEMOVE: Stage 7 starts at 11:50 AM ET</title>
+  <programme start="20260808140000 +0000" stop="20260808160000 +0000" channel="PEACOCK 002">
+    <title lang="en">U20 Champs: Day 4 AM starts at 12:00 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>THEMOVE: Stage 7</actor>
-      <actor>THEMOVE: Stage 7</actor>
+      <actor>U20 Champs: Day 4 AM</actor>
+      <actor>U20 Champs: Day 4 AM</actor>
     </credits>
   </programme>
-  <programme start="20260807155000 +0000" stop="20260807195000 +0000" channel="PEACOCK 002">
-    <title lang="en">THEMOVE: Stage 7</title>
+  <programme start="20260808160000 +0000" stop="20260808200000 +0000" channel="PEACOCK 002">
+    <title lang="en">U20 Champs: Day 4 AM</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>THEMOVE: Stage 7</actor>
-      <actor>THEMOVE: Stage 7</actor>
+      <actor>U20 Champs: Day 4 AM</actor>
+      <actor>U20 Champs: Day 4 AM</actor>
     </credits>
   </programme>
-  <programme start="20260807100000 +0000" stop="20260807120000 +0000" channel="PEACOCK 003">
-    <title lang="en">U20 Champs: Day 3 AM starts at 1:00 PM ET</title>
+  <programme start="20260808100000 +0000" stop="20260808120000 +0000" channel="PEACOCK 003">
+    <title lang="en">THEMOVE: Stage 8 starts at 12:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>U20 Champs: Day 3 AM</actor>
-      <actor>U20 Champs: Day 3 AM</actor>
+      <actor>THEMOVE: Stage 8</actor>
+      <actor>THEMOVE: Stage 8</actor>
     </credits>
   </programme>
-  <programme start="20260807120000 +0000" stop="20260807140000 +0000" channel="PEACOCK 003">
-    <title lang="en">U20 Champs: Day 3 AM starts at 1:00 PM ET</title>
+  <programme start="20260808120000 +0000" stop="20260808140000 +0000" channel="PEACOCK 003">
+    <title lang="en">THEMOVE: Stage 8 starts at 12:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>U20 Champs: Day 3 AM</actor>
-      <actor>U20 Champs: Day 3 AM</actor>
+      <actor>THEMOVE: Stage 8</actor>
+      <actor>THEMOVE: Stage 8</actor>
     </credits>
   </programme>
-  <programme start="20260807140000 +0000" stop="20260807160000 +0000" channel="PEACOCK 003">
-    <title lang="en">U20 Champs: Day 3 AM starts at 1:00 PM ET</title>
+  <programme start="20260808140000 +0000" stop="20260808160000 +0000" channel="PEACOCK 003">
+    <title lang="en">THEMOVE: Stage 8 starts at 12:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>U20 Champs: Day 3 AM</actor>
-      <actor>U20 Champs: Day 3 AM</actor>
+      <actor>THEMOVE: Stage 8</actor>
+      <actor>THEMOVE: Stage 8</actor>
     </credits>
   </programme>
-  <programme start="20260807160000 +0000" stop="20260807170000 +0000" channel="PEACOCK 003">
-    <title lang="en">U20 Champs: Day 3 AM starts at 1:00 PM ET</title>
+  <programme start="20260808160000 +0000" stop="20260808163000 +0000" channel="PEACOCK 003">
+    <title lang="en">THEMOVE: Stage 8 starts at 12:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>U20 Champs: Day 3 AM</actor>
-      <actor>U20 Champs: Day 3 AM</actor>
+      <actor>THEMOVE: Stage 8</actor>
+      <actor>THEMOVE: Stage 8</actor>
     </credits>
   </programme>
-  <programme start="20260807170000 +0000" stop="20260807210000 +0000" channel="PEACOCK 003">
-    <title lang="en">U20 Champs: Day 3 AM</title>
+  <programme start="20260808163000 +0000" stop="20260808203000 +0000" channel="PEACOCK 003">
+    <title lang="en">THEMOVE: Stage 8</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>U20 Champs: Day 3 AM</actor>
-      <actor>U20 Champs: Day 3 AM</actor>
+      <actor>THEMOVE: Stage 8</actor>
+      <actor>THEMOVE: Stage 8</actor>
     </credits>
   </programme>
-  <programme start="20260807100000 +0000" stop="20260807120000 +0000" channel="PEACOCK 004">
-    <title lang="en">Away Feed: NYM at PIT starts at 6:30 PM ET</title>
+  <programme start="20260808100000 +0000" stop="20260808120000 +0000" channel="PEACOCK 004">
+    <title lang="en">U.S. Gymnastics Champs: Men Day 2 starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: NYM at PIT</actor>
-      <actor>Away Feed: NYM at PIT</actor>
+      <actor>U.S. Gymnastics Champs: Men Day 2</actor>
+      <actor>U.S. Gymnastics Champs: Men Day 2</actor>
     </credits>
   </programme>
-  <programme start="20260807120000 +0000" stop="20260807140000 +0000" channel="PEACOCK 004">
-    <title lang="en">Away Feed: NYM at PIT starts at 6:30 PM ET</title>
+  <programme start="20260808120000 +0000" stop="20260808140000 +0000" channel="PEACOCK 004">
+    <title lang="en">U.S. Gymnastics Champs: Men Day 2 starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: NYM at PIT</actor>
-      <actor>Away Feed: NYM at PIT</actor>
+      <actor>U.S. Gymnastics Champs: Men Day 2</actor>
+      <actor>U.S. Gymnastics Champs: Men Day 2</actor>
     </credits>
   </programme>
-  <programme start="20260807140000 +0000" stop="20260807160000 +0000" channel="PEACOCK 004">
-    <title lang="en">Away Feed: NYM at PIT starts at 6:30 PM ET</title>
+  <programme start="20260808140000 +0000" stop="20260808160000 +0000" channel="PEACOCK 004">
+    <title lang="en">U.S. Gymnastics Champs: Men Day 2 starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: NYM at PIT</actor>
-      <actor>Away Feed: NYM at PIT</actor>
+      <actor>U.S. Gymnastics Champs: Men Day 2</actor>
+      <actor>U.S. Gymnastics Champs: Men Day 2</actor>
     </credits>
   </programme>
-  <programme start="20260807160000 +0000" stop="20260807180000 +0000" channel="PEACOCK 004">
-    <title lang="en">Away Feed: NYM at PIT starts at 6:30 PM ET</title>
+  <programme start="20260808160000 +0000" stop="20260808180000 +0000" channel="PEACOCK 004">
+    <title lang="en">U.S. Gymnastics Champs: Men Day 2 starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: NYM at PIT</actor>
-      <actor>Away Feed: NYM at PIT</actor>
+      <actor>U.S. Gymnastics Champs: Men Day 2</actor>
+      <actor>U.S. Gymnastics Champs: Men Day 2</actor>
     </credits>
   </programme>
-  <programme start="20260807180000 +0000" stop="20260807200000 +0000" channel="PEACOCK 004">
-    <title lang="en">Away Feed: NYM at PIT starts at 6:30 PM ET</title>
+  <programme start="20260808180000 +0000" stop="20260808200000 +0000" channel="PEACOCK 004">
+    <title lang="en">U.S. Gymnastics Champs: Men Day 2 starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: NYM at PIT</actor>
-      <actor>Away Feed: NYM at PIT</actor>
+      <actor>U.S. Gymnastics Champs: Men Day 2</actor>
+      <actor>U.S. Gymnastics Champs: Men Day 2</actor>
     </credits>
   </programme>
-  <programme start="20260807200000 +0000" stop="20260807220000 +0000" channel="PEACOCK 004">
-    <title lang="en">Away Feed: NYM at PIT starts at 6:30 PM ET</title>
+  <programme start="20260808200000 +0000" stop="20260808220000 +0000" channel="PEACOCK 004">
+    <title lang="en">U.S. Gymnastics Champs: Men Day 2 starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: NYM at PIT</actor>
-      <actor>Away Feed: NYM at PIT</actor>
+      <actor>U.S. Gymnastics Champs: Men Day 2</actor>
+      <actor>U.S. Gymnastics Champs: Men Day 2</actor>
     </credits>
   </programme>
-  <programme start="20260807220000 +0000" stop="20260807223000 +0000" channel="PEACOCK 004">
-    <title lang="en">Away Feed: NYM at PIT starts at 6:30 PM ET</title>
+  <programme start="20260808220000 +0000" stop="20260808233000 +0000" channel="PEACOCK 004">
+    <title lang="en">U.S. Gymnastics Champs: Men Day 2 starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: NYM at PIT</actor>
-      <actor>Away Feed: NYM at PIT</actor>
+      <actor>U.S. Gymnastics Champs: Men Day 2</actor>
+      <actor>U.S. Gymnastics Champs: Men Day 2</actor>
     </credits>
   </programme>
-  <programme start="20260807223000 +0000" stop="20260808023000 +0000" channel="PEACOCK 004">
-    <title lang="en">Away Feed: NYM at PIT</title>
+  <programme start="20260808233000 +0000" stop="20260809033000 +0000" channel="PEACOCK 004">
+    <title lang="en">U.S. Gymnastics Champs: Men Day 2</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: NYM at PIT</actor>
-      <actor>Away Feed: NYM at PIT</actor>
+      <actor>U.S. Gymnastics Champs: Men Day 2</actor>
+      <actor>U.S. Gymnastics Champs: Men Day 2</actor>
     </credits>
   </programme>
-  <programme start="20260807100000 +0000" stop="20260807120000 +0000" channel="PEACOCK 005">
-    <title lang="en">Home Feed: NYM at PIT starts at 6:30 PM ET</title>
+  <programme start="20260808100000 +0000" stop="20260808120000 +0000" channel="PEACOCK 005">
+    <title lang="en">U20 Champs: Day 4 PM starts at 8:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: NYM at PIT</actor>
-      <actor>Home Feed: NYM at PIT</actor>
+      <actor>U20 Champs: Day 4 PM</actor>
+      <actor>U20 Champs: Day 4 PM</actor>
     </credits>
   </programme>
-  <programme start="20260807120000 +0000" stop="20260807140000 +0000" channel="PEACOCK 005">
-    <title lang="en">Home Feed: NYM at PIT starts at 6:30 PM ET</title>
+  <programme start="20260808120000 +0000" stop="20260808140000 +0000" channel="PEACOCK 005">
+    <title lang="en">U20 Champs: Day 4 PM starts at 8:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: NYM at PIT</actor>
-      <actor>Home Feed: NYM at PIT</actor>
+      <actor>U20 Champs: Day 4 PM</actor>
+      <actor>U20 Champs: Day 4 PM</actor>
     </credits>
   </programme>
-  <programme start="20260807140000 +0000" stop="20260807160000 +0000" channel="PEACOCK 005">
-    <title lang="en">Home Feed: NYM at PIT starts at 6:30 PM ET</title>
+  <programme start="20260808140000 +0000" stop="20260808160000 +0000" channel="PEACOCK 005">
+    <title lang="en">U20 Champs: Day 4 PM starts at 8:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: NYM at PIT</actor>
-      <actor>Home Feed: NYM at PIT</actor>
+      <actor>U20 Champs: Day 4 PM</actor>
+      <actor>U20 Champs: Day 4 PM</actor>
     </credits>
   </programme>
-  <programme start="20260807160000 +0000" stop="20260807180000 +0000" channel="PEACOCK 005">
-    <title lang="en">Home Feed: NYM at PIT starts at 6:30 PM ET</title>
+  <programme start="20260808160000 +0000" stop="20260808180000 +0000" channel="PEACOCK 005">
+    <title lang="en">U20 Champs: Day 4 PM starts at 8:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: NYM at PIT</actor>
-      <actor>Home Feed: NYM at PIT</actor>
+      <actor>U20 Champs: Day 4 PM</actor>
+      <actor>U20 Champs: Day 4 PM</actor>
     </credits>
   </programme>
-  <programme start="20260807180000 +0000" stop="20260807200000 +0000" channel="PEACOCK 005">
-    <title lang="en">Home Feed: NYM at PIT starts at 6:30 PM ET</title>
+  <programme start="20260808180000 +0000" stop="20260808200000 +0000" channel="PEACOCK 005">
+    <title lang="en">U20 Champs: Day 4 PM starts at 8:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: NYM at PIT</actor>
-      <actor>Home Feed: NYM at PIT</actor>
+      <actor>U20 Champs: Day 4 PM</actor>
+      <actor>U20 Champs: Day 4 PM</actor>
     </credits>
   </programme>
-  <programme start="20260807200000 +0000" stop="20260807220000 +0000" channel="PEACOCK 005">
-    <title lang="en">Home Feed: NYM at PIT starts at 6:30 PM ET</title>
+  <programme start="20260808200000 +0000" stop="20260808220000 +0000" channel="PEACOCK 005">
+    <title lang="en">U20 Champs: Day 4 PM starts at 8:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: NYM at PIT</actor>
-      <actor>Home Feed: NYM at PIT</actor>
+      <actor>U20 Champs: Day 4 PM</actor>
+      <actor>U20 Champs: Day 4 PM</actor>
     </credits>
   </programme>
-  <programme start="20260807220000 +0000" stop="20260807223000 +0000" channel="PEACOCK 005">
-    <title lang="en">Home Feed: NYM at PIT starts at 6:30 PM ET</title>
+  <programme start="20260808220000 +0000" stop="20260809000000 +0000" channel="PEACOCK 005">
+    <title lang="en">U20 Champs: Day 4 PM starts at 8:45 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: NYM at PIT</actor>
-      <actor>Home Feed: NYM at PIT</actor>
+      <actor>U20 Champs: Day 4 PM</actor>
+      <actor>U20 Champs: Day 4 PM</actor>
     </credits>
   </programme>
-  <programme start="20260807223000 +0000" stop="20260808023000 +0000" channel="PEACOCK 005">
-    <title lang="en">Home Feed: NYM at PIT</title>
+  <programme start="20260809000000 +0000" stop="20260809004500 +0000" channel="PEACOCK 005">
+    <title lang="en">U20 Champs: Day 4 PM starts at 8:45 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>U20 Champs: Day 4 PM</actor>
+      <actor>U20 Champs: Day 4 PM</actor>
+    </credits>
+  </programme>
+  <programme start="20260809004500 +0000" stop="20260809044500 +0000" channel="PEACOCK 005">
+    <title lang="en">U20 Champs: Day 4 PM</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: NYM at PIT</actor>
-      <actor>Home Feed: NYM at PIT</actor>
-    </credits>
-  </programme>
-  <programme start="20260807100000 +0000" stop="20260807120000 +0000" channel="PEACOCK 006">
-    <title lang="en">U20 Champs: Day 3 PM starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U20 Champs: Day 3 PM</actor>
-      <actor>U20 Champs: Day 3 PM</actor>
-    </credits>
-  </programme>
-  <programme start="20260807120000 +0000" stop="20260807140000 +0000" channel="PEACOCK 006">
-    <title lang="en">U20 Champs: Day 3 PM starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U20 Champs: Day 3 PM</actor>
-      <actor>U20 Champs: Day 3 PM</actor>
-    </credits>
-  </programme>
-  <programme start="20260807140000 +0000" stop="20260807160000 +0000" channel="PEACOCK 006">
-    <title lang="en">U20 Champs: Day 3 PM starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U20 Champs: Day 3 PM</actor>
-      <actor>U20 Champs: Day 3 PM</actor>
-    </credits>
-  </programme>
-  <programme start="20260807160000 +0000" stop="20260807180000 +0000" channel="PEACOCK 006">
-    <title lang="en">U20 Champs: Day 3 PM starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U20 Champs: Day 3 PM</actor>
-      <actor>U20 Champs: Day 3 PM</actor>
-    </credits>
-  </programme>
-  <programme start="20260807180000 +0000" stop="20260807200000 +0000" channel="PEACOCK 006">
-    <title lang="en">U20 Champs: Day 3 PM starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U20 Champs: Day 3 PM</actor>
-      <actor>U20 Champs: Day 3 PM</actor>
-    </credits>
-  </programme>
-  <programme start="20260807200000 +0000" stop="20260807220000 +0000" channel="PEACOCK 006">
-    <title lang="en">U20 Champs: Day 3 PM starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U20 Champs: Day 3 PM</actor>
-      <actor>U20 Champs: Day 3 PM</actor>
-    </credits>
-  </programme>
-  <programme start="20260807220000 +0000" stop="20260808000000 +0000" channel="PEACOCK 006">
-    <title lang="en">U20 Champs: Day 3 PM starts at 8:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U20 Champs: Day 3 PM</actor>
-      <actor>U20 Champs: Day 3 PM</actor>
-    </credits>
-  </programme>
-  <programme start="20260808000000 +0000" stop="20260808040000 +0000" channel="PEACOCK 006">
-    <title lang="en">U20 Champs: Day 3 PM</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U20 Champs: Day 3 PM</actor>
-      <actor>U20 Champs: Day 3 PM</actor>
-    </credits>
-  </programme>
-  <programme start="20260807100000 +0000" stop="20260807120000 +0000" channel="PEACOCK 007">
-    <title lang="en">Home Feed: LAD at AZ starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: LAD at AZ</actor>
-      <actor>Home Feed: LAD at AZ</actor>
-    </credits>
-  </programme>
-  <programme start="20260807120000 +0000" stop="20260807140000 +0000" channel="PEACOCK 007">
-    <title lang="en">Home Feed: LAD at AZ starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: LAD at AZ</actor>
-      <actor>Home Feed: LAD at AZ</actor>
-    </credits>
-  </programme>
-  <programme start="20260807140000 +0000" stop="20260807160000 +0000" channel="PEACOCK 007">
-    <title lang="en">Home Feed: LAD at AZ starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: LAD at AZ</actor>
-      <actor>Home Feed: LAD at AZ</actor>
-    </credits>
-  </programme>
-  <programme start="20260807160000 +0000" stop="20260807180000 +0000" channel="PEACOCK 007">
-    <title lang="en">Home Feed: LAD at AZ starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: LAD at AZ</actor>
-      <actor>Home Feed: LAD at AZ</actor>
-    </credits>
-  </programme>
-  <programme start="20260807180000 +0000" stop="20260807200000 +0000" channel="PEACOCK 007">
-    <title lang="en">Home Feed: LAD at AZ starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: LAD at AZ</actor>
-      <actor>Home Feed: LAD at AZ</actor>
-    </credits>
-  </programme>
-  <programme start="20260807200000 +0000" stop="20260807220000 +0000" channel="PEACOCK 007">
-    <title lang="en">Home Feed: LAD at AZ starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: LAD at AZ</actor>
-      <actor>Home Feed: LAD at AZ</actor>
-    </credits>
-  </programme>
-  <programme start="20260807220000 +0000" stop="20260808000000 +0000" channel="PEACOCK 007">
-    <title lang="en">Home Feed: LAD at AZ starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: LAD at AZ</actor>
-      <actor>Home Feed: LAD at AZ</actor>
-    </credits>
-  </programme>
-  <programme start="20260808000000 +0000" stop="20260808013000 +0000" channel="PEACOCK 007">
-    <title lang="en">Home Feed: LAD at AZ starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: LAD at AZ</actor>
-      <actor>Home Feed: LAD at AZ</actor>
-    </credits>
-  </programme>
-  <programme start="20260808013000 +0000" stop="20260808053000 +0000" channel="PEACOCK 007">
-    <title lang="en">Home Feed: LAD at AZ</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: LAD at AZ</actor>
-      <actor>Home Feed: LAD at AZ</actor>
-    </credits>
-  </programme>
-  <programme start="20260807100000 +0000" stop="20260807120000 +0000" channel="PEACOCK 008">
-    <title lang="en">Away Feed: LAD at AZ starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: LAD at AZ</actor>
-      <actor>Away Feed: LAD at AZ</actor>
-    </credits>
-  </programme>
-  <programme start="20260807120000 +0000" stop="20260807140000 +0000" channel="PEACOCK 008">
-    <title lang="en">Away Feed: LAD at AZ starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: LAD at AZ</actor>
-      <actor>Away Feed: LAD at AZ</actor>
-    </credits>
-  </programme>
-  <programme start="20260807140000 +0000" stop="20260807160000 +0000" channel="PEACOCK 008">
-    <title lang="en">Away Feed: LAD at AZ starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: LAD at AZ</actor>
-      <actor>Away Feed: LAD at AZ</actor>
-    </credits>
-  </programme>
-  <programme start="20260807160000 +0000" stop="20260807180000 +0000" channel="PEACOCK 008">
-    <title lang="en">Away Feed: LAD at AZ starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: LAD at AZ</actor>
-      <actor>Away Feed: LAD at AZ</actor>
-    </credits>
-  </programme>
-  <programme start="20260807180000 +0000" stop="20260807200000 +0000" channel="PEACOCK 008">
-    <title lang="en">Away Feed: LAD at AZ starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: LAD at AZ</actor>
-      <actor>Away Feed: LAD at AZ</actor>
-    </credits>
-  </programme>
-  <programme start="20260807200000 +0000" stop="20260807220000 +0000" channel="PEACOCK 008">
-    <title lang="en">Away Feed: LAD at AZ starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: LAD at AZ</actor>
-      <actor>Away Feed: LAD at AZ</actor>
-    </credits>
-  </programme>
-  <programme start="20260807220000 +0000" stop="20260808000000 +0000" channel="PEACOCK 008">
-    <title lang="en">Away Feed: LAD at AZ starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: LAD at AZ</actor>
-      <actor>Away Feed: LAD at AZ</actor>
-    </credits>
-  </programme>
-  <programme start="20260808000000 +0000" stop="20260808013000 +0000" channel="PEACOCK 008">
-    <title lang="en">Away Feed: LAD at AZ starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: LAD at AZ</actor>
-      <actor>Away Feed: LAD at AZ</actor>
-    </credits>
-  </programme>
-  <programme start="20260808013000 +0000" stop="20260808053000 +0000" channel="PEACOCK 008">
-    <title lang="en">Away Feed: LAD at AZ</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: LAD at AZ</actor>
-      <actor>Away Feed: LAD at AZ</actor>
-    </credits>
-  </programme>
-  <programme start="20260807100000 +0000" stop="20260807120000 +0000" channel="PEACOCK 009">
-    <title lang="en">U.S. Gymnastics Champs: Women Day 1 starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U.S. Gymnastics Champs: Women Day 1</actor>
-      <actor>U.S. Gymnastics Champs: Women Day 1</actor>
-    </credits>
-  </programme>
-  <programme start="20260807120000 +0000" stop="20260807140000 +0000" channel="PEACOCK 009">
-    <title lang="en">U.S. Gymnastics Champs: Women Day 1 starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U.S. Gymnastics Champs: Women Day 1</actor>
-      <actor>U.S. Gymnastics Champs: Women Day 1</actor>
-    </credits>
-  </programme>
-  <programme start="20260807140000 +0000" stop="20260807160000 +0000" channel="PEACOCK 009">
-    <title lang="en">U.S. Gymnastics Champs: Women Day 1 starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U.S. Gymnastics Champs: Women Day 1</actor>
-      <actor>U.S. Gymnastics Champs: Women Day 1</actor>
-    </credits>
-  </programme>
-  <programme start="20260807160000 +0000" stop="20260807180000 +0000" channel="PEACOCK 009">
-    <title lang="en">U.S. Gymnastics Champs: Women Day 1 starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U.S. Gymnastics Champs: Women Day 1</actor>
-      <actor>U.S. Gymnastics Champs: Women Day 1</actor>
-    </credits>
-  </programme>
-  <programme start="20260807180000 +0000" stop="20260807200000 +0000" channel="PEACOCK 009">
-    <title lang="en">U.S. Gymnastics Champs: Women Day 1 starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U.S. Gymnastics Champs: Women Day 1</actor>
-      <actor>U.S. Gymnastics Champs: Women Day 1</actor>
-    </credits>
-  </programme>
-  <programme start="20260807200000 +0000" stop="20260807220000 +0000" channel="PEACOCK 009">
-    <title lang="en">U.S. Gymnastics Champs: Women Day 1 starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U.S. Gymnastics Champs: Women Day 1</actor>
-      <actor>U.S. Gymnastics Champs: Women Day 1</actor>
-    </credits>
-  </programme>
-  <programme start="20260807220000 +0000" stop="20260808000000 +0000" channel="PEACOCK 009">
-    <title lang="en">U.S. Gymnastics Champs: Women Day 1 starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U.S. Gymnastics Champs: Women Day 1</actor>
-      <actor>U.S. Gymnastics Champs: Women Day 1</actor>
-    </credits>
-  </programme>
-  <programme start="20260808000000 +0000" stop="20260808020000 +0000" channel="PEACOCK 009">
-    <title lang="en">U.S. Gymnastics Champs: Women Day 1 starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U.S. Gymnastics Champs: Women Day 1</actor>
-      <actor>U.S. Gymnastics Champs: Women Day 1</actor>
-    </credits>
-  </programme>
-  <programme start="20260808020000 +0000" stop="20260808060000 +0000" channel="PEACOCK 009">
-    <title lang="en">U.S. Gymnastics Champs: Women Day 1</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U.S. Gymnastics Champs: Women Day 1</actor>
-      <actor>U.S. Gymnastics Champs: Women Day 1</actor>
+      <actor>U20 Champs: Day 4 PM</actor>
+      <actor>U20 Champs: Day 4 PM</actor>
     </credits>
   </programme>
 </tv>
