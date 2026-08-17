@@ -300,736 +300,86 @@
   <channel id="PEACOCK 100">
     <display-name>PEACOCK 100</display-name>
   </channel>
-  <programme start="20260815090000 +0000" stop="20260815130000 +0000" channel="PEACOCK 001">
-    <title lang="en">Groups All-Around Final</title>
+  <programme start="20260817100000 +0000" stop="20260817120000 +0000" channel="PEACOCK 001">
+    <title lang="en">Wings vs. Valkyries starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Wings vs. Valkyries</actor>
+      <actor>Wings vs. Valkyries</actor>
+    </credits>
+  </programme>
+  <programme start="20260817120000 +0000" stop="20260817140000 +0000" channel="PEACOCK 001">
+    <title lang="en">Wings vs. Valkyries starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Wings vs. Valkyries</actor>
+      <actor>Wings vs. Valkyries</actor>
+    </credits>
+  </programme>
+  <programme start="20260817140000 +0000" stop="20260817160000 +0000" channel="PEACOCK 001">
+    <title lang="en">Wings vs. Valkyries starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Wings vs. Valkyries</actor>
+      <actor>Wings vs. Valkyries</actor>
+    </credits>
+  </programme>
+  <programme start="20260817160000 +0000" stop="20260817180000 +0000" channel="PEACOCK 001">
+    <title lang="en">Wings vs. Valkyries starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Wings vs. Valkyries</actor>
+      <actor>Wings vs. Valkyries</actor>
+    </credits>
+  </programme>
+  <programme start="20260817180000 +0000" stop="20260817200000 +0000" channel="PEACOCK 001">
+    <title lang="en">Wings vs. Valkyries starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Wings vs. Valkyries</actor>
+      <actor>Wings vs. Valkyries</actor>
+    </credits>
+  </programme>
+  <programme start="20260817200000 +0000" stop="20260817220000 +0000" channel="PEACOCK 001">
+    <title lang="en">Wings vs. Valkyries starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Wings vs. Valkyries</actor>
+      <actor>Wings vs. Valkyries</actor>
+    </credits>
+  </programme>
+  <programme start="20260817220000 +0000" stop="20260818000000 +0000" channel="PEACOCK 001">
+    <title lang="en">Wings vs. Valkyries starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Wings vs. Valkyries</actor>
+      <actor>Wings vs. Valkyries</actor>
+    </credits>
+  </programme>
+  <programme start="20260818000000 +0000" stop="20260818020000 +0000" channel="PEACOCK 001">
+    <title lang="en">Wings vs. Valkyries starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Wings vs. Valkyries</actor>
+      <actor>Wings vs. Valkyries</actor>
+    </credits>
+  </programme>
+  <programme start="20260818020000 +0000" stop="20260818060000 +0000" channel="PEACOCK 001">
+    <title lang="en">Wings vs. Valkyries</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Groups All-Around Final</actor>
-      <actor>Groups All-Around Final</actor>
-    </credits>
-  </programme>
-  <programme start="20260815100000 +0000" stop="20260815120000 +0000" channel="PEACOCK 002">
-    <title lang="en">Race Day Live: Unadilla starts at 10:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Race Day Live: Unadilla</actor>
-      <actor>Race Day Live: Unadilla</actor>
-    </credits>
-  </programme>
-  <programme start="20260815120000 +0000" stop="20260815140000 +0000" channel="PEACOCK 002">
-    <title lang="en">Race Day Live: Unadilla starts at 10:00 AM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Race Day Live: Unadilla</actor>
-      <actor>Race Day Live: Unadilla</actor>
-    </credits>
-  </programme>
-  <programme start="20260815140000 +0000" stop="20260815180000 +0000" channel="PEACOCK 002">
-    <title lang="en">Race Day Live: Unadilla</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Race Day Live: Unadilla</actor>
-      <actor>Race Day Live: Unadilla</actor>
-    </credits>
-  </programme>
-  <programme start="20260815100000 +0000" stop="20260815120000 +0000" channel="PEACOCK 003">
-    <title lang="en">Motocross Rd. 26: Unadilla starts at 1:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Motocross Rd. 26: Unadilla</actor>
-      <actor>Motocross Rd. 26: Unadilla</actor>
-    </credits>
-  </programme>
-  <programme start="20260815120000 +0000" stop="20260815140000 +0000" channel="PEACOCK 003">
-    <title lang="en">Motocross Rd. 26: Unadilla starts at 1:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Motocross Rd. 26: Unadilla</actor>
-      <actor>Motocross Rd. 26: Unadilla</actor>
-    </credits>
-  </programme>
-  <programme start="20260815140000 +0000" stop="20260815160000 +0000" channel="PEACOCK 003">
-    <title lang="en">Motocross Rd. 26: Unadilla starts at 1:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Motocross Rd. 26: Unadilla</actor>
-      <actor>Motocross Rd. 26: Unadilla</actor>
-    </credits>
-  </programme>
-  <programme start="20260815160000 +0000" stop="20260815170000 +0000" channel="PEACOCK 003">
-    <title lang="en">Motocross Rd. 26: Unadilla starts at 1:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Motocross Rd. 26: Unadilla</actor>
-      <actor>Motocross Rd. 26: Unadilla</actor>
-    </credits>
-  </programme>
-  <programme start="20260815170000 +0000" stop="20260815210000 +0000" channel="PEACOCK 003">
-    <title lang="en">Motocross Rd. 26: Unadilla</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Motocross Rd. 26: Unadilla</actor>
-      <actor>Motocross Rd. 26: Unadilla</actor>
-    </credits>
-  </programme>
-  <programme start="20260815100000 +0000" stop="20260815120000 +0000" channel="PEACOCK 004">
-    <title lang="en">Pan Pacific Champs: Prelims Day 4 starts at 1:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Pan Pacific Champs: Prelims Day 4</actor>
-      <actor>Pan Pacific Champs: Prelims Day 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260815120000 +0000" stop="20260815140000 +0000" channel="PEACOCK 004">
-    <title lang="en">Pan Pacific Champs: Prelims Day 4 starts at 1:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Pan Pacific Champs: Prelims Day 4</actor>
-      <actor>Pan Pacific Champs: Prelims Day 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260815140000 +0000" stop="20260815160000 +0000" channel="PEACOCK 004">
-    <title lang="en">Pan Pacific Champs: Prelims Day 4 starts at 1:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Pan Pacific Champs: Prelims Day 4</actor>
-      <actor>Pan Pacific Champs: Prelims Day 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260815160000 +0000" stop="20260815170000 +0000" channel="PEACOCK 004">
-    <title lang="en">Pan Pacific Champs: Prelims Day 4 starts at 1:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Pan Pacific Champs: Prelims Day 4</actor>
-      <actor>Pan Pacific Champs: Prelims Day 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260815170000 +0000" stop="20260815210000 +0000" channel="PEACOCK 004">
-    <title lang="en">Pan Pacific Champs: Prelims Day 4</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Pan Pacific Champs: Prelims Day 4</actor>
-      <actor>Pan Pacific Champs: Prelims Day 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260815100000 +0000" stop="20260815120000 +0000" channel="PEACOCK 005">
-    <title lang="en">U.S. Amateur: SFs starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U.S. Amateur: SFs</actor>
-      <actor>U.S. Amateur: SFs</actor>
-    </credits>
-  </programme>
-  <programme start="20260815120000 +0000" stop="20260815140000 +0000" channel="PEACOCK 005">
-    <title lang="en">U.S. Amateur: SFs starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U.S. Amateur: SFs</actor>
-      <actor>U.S. Amateur: SFs</actor>
-    </credits>
-  </programme>
-  <programme start="20260815140000 +0000" stop="20260815160000 +0000" channel="PEACOCK 005">
-    <title lang="en">U.S. Amateur: SFs starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U.S. Amateur: SFs</actor>
-      <actor>U.S. Amateur: SFs</actor>
-    </credits>
-  </programme>
-  <programme start="20260815160000 +0000" stop="20260815180000 +0000" channel="PEACOCK 005">
-    <title lang="en">U.S. Amateur: SFs starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U.S. Amateur: SFs</actor>
-      <actor>U.S. Amateur: SFs</actor>
-    </credits>
-  </programme>
-  <programme start="20260815180000 +0000" stop="20260815190000 +0000" channel="PEACOCK 005">
-    <title lang="en">U.S. Amateur: SFs starts at 3:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U.S. Amateur: SFs</actor>
-      <actor>U.S. Amateur: SFs</actor>
-    </credits>
-  </programme>
-  <programme start="20260815190000 +0000" stop="20260815230000 +0000" channel="PEACOCK 005">
-    <title lang="en">U.S. Amateur: SFs</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>U.S. Amateur: SFs</actor>
-      <actor>U.S. Amateur: SFs</actor>
-    </credits>
-  </programme>
-  <programme start="20260815100000 +0000" stop="20260815120000 +0000" channel="PEACOCK 006">
-    <title lang="en">Power FC v. Ascent FC starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Power FC v. Ascent FC</actor>
-      <actor>Power FC v. Ascent FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260815120000 +0000" stop="20260815140000 +0000" channel="PEACOCK 006">
-    <title lang="en">Power FC v. Ascent FC starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Power FC v. Ascent FC</actor>
-      <actor>Power FC v. Ascent FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260815140000 +0000" stop="20260815160000 +0000" channel="PEACOCK 006">
-    <title lang="en">Power FC v. Ascent FC starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Power FC v. Ascent FC</actor>
-      <actor>Power FC v. Ascent FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260815160000 +0000" stop="20260815180000 +0000" channel="PEACOCK 006">
-    <title lang="en">Power FC v. Ascent FC starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Power FC v. Ascent FC</actor>
-      <actor>Power FC v. Ascent FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260815180000 +0000" stop="20260815200000 +0000" channel="PEACOCK 006">
-    <title lang="en">Power FC v. Ascent FC starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Power FC v. Ascent FC</actor>
-      <actor>Power FC v. Ascent FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260815200000 +0000" stop="20260815220000 +0000" channel="PEACOCK 006">
-    <title lang="en">Power FC v. Ascent FC starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Power FC v. Ascent FC</actor>
-      <actor>Power FC v. Ascent FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260815220000 +0000" stop="20260815230000 +0000" channel="PEACOCK 006">
-    <title lang="en">Power FC v. Ascent FC starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Power FC v. Ascent FC</actor>
-      <actor>Power FC v. Ascent FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260815230000 +0000" stop="20260816030000 +0000" channel="PEACOCK 006">
-    <title lang="en">Power FC v. Ascent FC</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Power FC v. Ascent FC</actor>
-      <actor>Power FC v. Ascent FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260815100000 +0000" stop="20260815120000 +0000" channel="PEACOCK 007">
-    <title lang="en">Lexington SC v. Brooklyn FC starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Lexington SC v. Brooklyn FC</actor>
-      <actor>Lexington SC v. Brooklyn FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260815120000 +0000" stop="20260815140000 +0000" channel="PEACOCK 007">
-    <title lang="en">Lexington SC v. Brooklyn FC starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Lexington SC v. Brooklyn FC</actor>
-      <actor>Lexington SC v. Brooklyn FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260815140000 +0000" stop="20260815160000 +0000" channel="PEACOCK 007">
-    <title lang="en">Lexington SC v. Brooklyn FC starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Lexington SC v. Brooklyn FC</actor>
-      <actor>Lexington SC v. Brooklyn FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260815160000 +0000" stop="20260815180000 +0000" channel="PEACOCK 007">
-    <title lang="en">Lexington SC v. Brooklyn FC starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Lexington SC v. Brooklyn FC</actor>
-      <actor>Lexington SC v. Brooklyn FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260815180000 +0000" stop="20260815200000 +0000" channel="PEACOCK 007">
-    <title lang="en">Lexington SC v. Brooklyn FC starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Lexington SC v. Brooklyn FC</actor>
-      <actor>Lexington SC v. Brooklyn FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260815200000 +0000" stop="20260815220000 +0000" channel="PEACOCK 007">
-    <title lang="en">Lexington SC v. Brooklyn FC starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Lexington SC v. Brooklyn FC</actor>
-      <actor>Lexington SC v. Brooklyn FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260815220000 +0000" stop="20260815230000 +0000" channel="PEACOCK 007">
-    <title lang="en">Lexington SC v. Brooklyn FC starts at 7:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Lexington SC v. Brooklyn FC</actor>
-      <actor>Lexington SC v. Brooklyn FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260815230000 +0000" stop="20260816030000 +0000" channel="PEACOCK 007">
-    <title lang="en">Lexington SC v. Brooklyn FC</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Lexington SC v. Brooklyn FC</actor>
-      <actor>Lexington SC v. Brooklyn FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260815100000 +0000" stop="20260815120000 +0000" channel="PEACOCK 008">
-    <title lang="en">FTL United v. Sporting JAX starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>FTL United v. Sporting JAX</actor>
-      <actor>FTL United v. Sporting JAX</actor>
-    </credits>
-  </programme>
-  <programme start="20260815120000 +0000" stop="20260815140000 +0000" channel="PEACOCK 008">
-    <title lang="en">FTL United v. Sporting JAX starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>FTL United v. Sporting JAX</actor>
-      <actor>FTL United v. Sporting JAX</actor>
-    </credits>
-  </programme>
-  <programme start="20260815140000 +0000" stop="20260815160000 +0000" channel="PEACOCK 008">
-    <title lang="en">FTL United v. Sporting JAX starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>FTL United v. Sporting JAX</actor>
-      <actor>FTL United v. Sporting JAX</actor>
-    </credits>
-  </programme>
-  <programme start="20260815160000 +0000" stop="20260815180000 +0000" channel="PEACOCK 008">
-    <title lang="en">FTL United v. Sporting JAX starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>FTL United v. Sporting JAX</actor>
-      <actor>FTL United v. Sporting JAX</actor>
-    </credits>
-  </programme>
-  <programme start="20260815180000 +0000" stop="20260815200000 +0000" channel="PEACOCK 008">
-    <title lang="en">FTL United v. Sporting JAX starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>FTL United v. Sporting JAX</actor>
-      <actor>FTL United v. Sporting JAX</actor>
-    </credits>
-  </programme>
-  <programme start="20260815200000 +0000" stop="20260815220000 +0000" channel="PEACOCK 008">
-    <title lang="en">FTL United v. Sporting JAX starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>FTL United v. Sporting JAX</actor>
-      <actor>FTL United v. Sporting JAX</actor>
-    </credits>
-  </programme>
-  <programme start="20260815220000 +0000" stop="20260815233000 +0000" channel="PEACOCK 008">
-    <title lang="en">FTL United v. Sporting JAX starts at 7:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>FTL United v. Sporting JAX</actor>
-      <actor>FTL United v. Sporting JAX</actor>
-    </credits>
-  </programme>
-  <programme start="20260815233000 +0000" stop="20260816033000 +0000" channel="PEACOCK 008">
-    <title lang="en">FTL United v. Sporting JAX</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>FTL United v. Sporting JAX</actor>
-      <actor>FTL United v. Sporting JAX</actor>
-    </credits>
-  </programme>
-  <programme start="20260815100000 +0000" stop="20260815120000 +0000" channel="PEACOCK 009">
-    <title lang="en">Trinity FC v. Sun FC starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Trinity FC v. Sun FC</actor>
-      <actor>Trinity FC v. Sun FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260815120000 +0000" stop="20260815140000 +0000" channel="PEACOCK 009">
-    <title lang="en">Trinity FC v. Sun FC starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Trinity FC v. Sun FC</actor>
-      <actor>Trinity FC v. Sun FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260815140000 +0000" stop="20260815160000 +0000" channel="PEACOCK 009">
-    <title lang="en">Trinity FC v. Sun FC starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Trinity FC v. Sun FC</actor>
-      <actor>Trinity FC v. Sun FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260815160000 +0000" stop="20260815180000 +0000" channel="PEACOCK 009">
-    <title lang="en">Trinity FC v. Sun FC starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Trinity FC v. Sun FC</actor>
-      <actor>Trinity FC v. Sun FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260815180000 +0000" stop="20260815200000 +0000" channel="PEACOCK 009">
-    <title lang="en">Trinity FC v. Sun FC starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Trinity FC v. Sun FC</actor>
-      <actor>Trinity FC v. Sun FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260815200000 +0000" stop="20260815220000 +0000" channel="PEACOCK 009">
-    <title lang="en">Trinity FC v. Sun FC starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Trinity FC v. Sun FC</actor>
-      <actor>Trinity FC v. Sun FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260815220000 +0000" stop="20260816000000 +0000" channel="PEACOCK 009">
-    <title lang="en">Trinity FC v. Sun FC starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Trinity FC v. Sun FC</actor>
-      <actor>Trinity FC v. Sun FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260816000000 +0000" stop="20260816003000 +0000" channel="PEACOCK 009">
-    <title lang="en">Trinity FC v. Sun FC starts at 8:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Trinity FC v. Sun FC</actor>
-      <actor>Trinity FC v. Sun FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260816003000 +0000" stop="20260816043000 +0000" channel="PEACOCK 009">
-    <title lang="en">Trinity FC v. Sun FC</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Trinity FC v. Sun FC</actor>
-      <actor>Trinity FC v. Sun FC</actor>
-    </credits>
-  </programme>
-  <programme start="20260815100000 +0000" stop="20260815120000 +0000" channel="PEACOCK 010">
-    <title lang="en">Home Feed: KC at LAA starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: KC at LAA</actor>
-      <actor>Home Feed: KC at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260815120000 +0000" stop="20260815140000 +0000" channel="PEACOCK 010">
-    <title lang="en">Home Feed: KC at LAA starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: KC at LAA</actor>
-      <actor>Home Feed: KC at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260815140000 +0000" stop="20260815160000 +0000" channel="PEACOCK 010">
-    <title lang="en">Home Feed: KC at LAA starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: KC at LAA</actor>
-      <actor>Home Feed: KC at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260815160000 +0000" stop="20260815180000 +0000" channel="PEACOCK 010">
-    <title lang="en">Home Feed: KC at LAA starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: KC at LAA</actor>
-      <actor>Home Feed: KC at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260815180000 +0000" stop="20260815200000 +0000" channel="PEACOCK 010">
-    <title lang="en">Home Feed: KC at LAA starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: KC at LAA</actor>
-      <actor>Home Feed: KC at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260815200000 +0000" stop="20260815220000 +0000" channel="PEACOCK 010">
-    <title lang="en">Home Feed: KC at LAA starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: KC at LAA</actor>
-      <actor>Home Feed: KC at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260815220000 +0000" stop="20260816000000 +0000" channel="PEACOCK 010">
-    <title lang="en">Home Feed: KC at LAA starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: KC at LAA</actor>
-      <actor>Home Feed: KC at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260816000000 +0000" stop="20260816013000 +0000" channel="PEACOCK 010">
-    <title lang="en">Home Feed: KC at LAA starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: KC at LAA</actor>
-      <actor>Home Feed: KC at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260816013000 +0000" stop="20260816053000 +0000" channel="PEACOCK 010">
-    <title lang="en">Home Feed: KC at LAA</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Home Feed: KC at LAA</actor>
-      <actor>Home Feed: KC at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260815100000 +0000" stop="20260815120000 +0000" channel="PEACOCK 011">
-    <title lang="en">Away Feed: KC at LAA starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: KC at LAA</actor>
-      <actor>Away Feed: KC at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260815120000 +0000" stop="20260815140000 +0000" channel="PEACOCK 011">
-    <title lang="en">Away Feed: KC at LAA starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: KC at LAA</actor>
-      <actor>Away Feed: KC at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260815140000 +0000" stop="20260815160000 +0000" channel="PEACOCK 011">
-    <title lang="en">Away Feed: KC at LAA starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: KC at LAA</actor>
-      <actor>Away Feed: KC at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260815160000 +0000" stop="20260815180000 +0000" channel="PEACOCK 011">
-    <title lang="en">Away Feed: KC at LAA starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: KC at LAA</actor>
-      <actor>Away Feed: KC at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260815180000 +0000" stop="20260815200000 +0000" channel="PEACOCK 011">
-    <title lang="en">Away Feed: KC at LAA starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: KC at LAA</actor>
-      <actor>Away Feed: KC at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260815200000 +0000" stop="20260815220000 +0000" channel="PEACOCK 011">
-    <title lang="en">Away Feed: KC at LAA starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: KC at LAA</actor>
-      <actor>Away Feed: KC at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260815220000 +0000" stop="20260816000000 +0000" channel="PEACOCK 011">
-    <title lang="en">Away Feed: KC at LAA starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: KC at LAA</actor>
-      <actor>Away Feed: KC at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260816000000 +0000" stop="20260816013000 +0000" channel="PEACOCK 011">
-    <title lang="en">Away Feed: KC at LAA starts at 9:30 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: KC at LAA</actor>
-      <actor>Away Feed: KC at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260816013000 +0000" stop="20260816053000 +0000" channel="PEACOCK 011">
-    <title lang="en">Away Feed: KC at LAA</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Away Feed: KC at LAA</actor>
-      <actor>Away Feed: KC at LAA</actor>
-    </credits>
-  </programme>
-  <programme start="20260815100000 +0000" stop="20260815120000 +0000" channel="PEACOCK 012">
-    <title lang="en">Pan Pacific Champs: Finals Day 4 starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Pan Pacific Champs: Finals Day 4</actor>
-      <actor>Pan Pacific Champs: Finals Day 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260815120000 +0000" stop="20260815140000 +0000" channel="PEACOCK 012">
-    <title lang="en">Pan Pacific Champs: Finals Day 4 starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Pan Pacific Champs: Finals Day 4</actor>
-      <actor>Pan Pacific Champs: Finals Day 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260815140000 +0000" stop="20260815160000 +0000" channel="PEACOCK 012">
-    <title lang="en">Pan Pacific Champs: Finals Day 4 starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Pan Pacific Champs: Finals Day 4</actor>
-      <actor>Pan Pacific Champs: Finals Day 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260815160000 +0000" stop="20260815180000 +0000" channel="PEACOCK 012">
-    <title lang="en">Pan Pacific Champs: Finals Day 4 starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Pan Pacific Champs: Finals Day 4</actor>
-      <actor>Pan Pacific Champs: Finals Day 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260815180000 +0000" stop="20260815200000 +0000" channel="PEACOCK 012">
-    <title lang="en">Pan Pacific Champs: Finals Day 4 starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Pan Pacific Champs: Finals Day 4</actor>
-      <actor>Pan Pacific Champs: Finals Day 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260815200000 +0000" stop="20260815220000 +0000" channel="PEACOCK 012">
-    <title lang="en">Pan Pacific Champs: Finals Day 4 starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Pan Pacific Champs: Finals Day 4</actor>
-      <actor>Pan Pacific Champs: Finals Day 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260815220000 +0000" stop="20260816000000 +0000" channel="PEACOCK 012">
-    <title lang="en">Pan Pacific Champs: Finals Day 4 starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Pan Pacific Champs: Finals Day 4</actor>
-      <actor>Pan Pacific Champs: Finals Day 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260816000000 +0000" stop="20260816020000 +0000" channel="PEACOCK 012">
-    <title lang="en">Pan Pacific Champs: Finals Day 4 starts at 10:00 PM ET</title>
-    <category lang="en">Pre-Event Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Pan Pacific Champs: Finals Day 4</actor>
-      <actor>Pan Pacific Champs: Finals Day 4</actor>
-    </credits>
-  </programme>
-  <programme start="20260816020000 +0000" stop="20260816060000 +0000" channel="PEACOCK 012">
-    <title lang="en">Pan Pacific Champs: Finals Day 4</title>
-    <desc lang="en">Network: Peacock</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Peacock</category>
-    <credits>
-      <actor>Pan Pacific Champs: Finals Day 4</actor>
-      <actor>Pan Pacific Champs: Finals Day 4</actor>
+      <actor>Wings vs. Valkyries</actor>
+      <actor>Wings vs. Valkyries</actor>
     </credits>
   </programme>
 </tv>
