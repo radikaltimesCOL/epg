@@ -300,206 +300,442 @@
   <channel id="PEACOCK 100">
     <display-name>PEACOCK 100</display-name>
   </channel>
-  <programme start="20260820100000 +0000" stop="20260820120000 +0000" channel="PEACOCK 001">
-    <title lang="en">Pool Play: AUS vs. USA starts at 10:30 AM ET</title>
+  <programme start="20260821100000 +0000" stop="20260821120000 +0000" channel="PEACOCK 001">
+    <title lang="en">QF: FRA vs. USA starts at 3:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Pool Play: AUS vs. USA</actor>
-      <actor>Pool Play: AUS vs. USA</actor>
+      <actor>QF: FRA vs. USA</actor>
+      <actor>QF: FRA vs. USA</actor>
     </credits>
   </programme>
-  <programme start="20260820120000 +0000" stop="20260820140000 +0000" channel="PEACOCK 001">
-    <title lang="en">Pool Play: AUS vs. USA starts at 10:30 AM ET</title>
+  <programme start="20260821120000 +0000" stop="20260821140000 +0000" channel="PEACOCK 001">
+    <title lang="en">QF: FRA vs. USA starts at 3:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Pool Play: AUS vs. USA</actor>
-      <actor>Pool Play: AUS vs. USA</actor>
+      <actor>QF: FRA vs. USA</actor>
+      <actor>QF: FRA vs. USA</actor>
     </credits>
   </programme>
-  <programme start="20260820140000 +0000" stop="20260820143000 +0000" channel="PEACOCK 001">
-    <title lang="en">Pool Play: AUS vs. USA starts at 10:30 AM ET</title>
+  <programme start="20260821140000 +0000" stop="20260821160000 +0000" channel="PEACOCK 001">
+    <title lang="en">QF: FRA vs. USA starts at 3:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Pool Play: AUS vs. USA</actor>
-      <actor>Pool Play: AUS vs. USA</actor>
+      <actor>QF: FRA vs. USA</actor>
+      <actor>QF: FRA vs. USA</actor>
     </credits>
   </programme>
-  <programme start="20260820143000 +0000" stop="20260820183000 +0000" channel="PEACOCK 001">
-    <title lang="en">Pool Play: AUS vs. USA</title>
+  <programme start="20260821160000 +0000" stop="20260821180000 +0000" channel="PEACOCK 001">
+    <title lang="en">QF: FRA vs. USA starts at 3:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>QF: FRA vs. USA</actor>
+      <actor>QF: FRA vs. USA</actor>
+    </credits>
+  </programme>
+  <programme start="20260821180000 +0000" stop="20260821193000 +0000" channel="PEACOCK 001">
+    <title lang="en">QF: FRA vs. USA starts at 3:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>QF: FRA vs. USA</actor>
+      <actor>QF: FRA vs. USA</actor>
+    </credits>
+  </programme>
+  <programme start="20260821193000 +0000" stop="20260821233000 +0000" channel="PEACOCK 001">
+    <title lang="en">QF: FRA vs. USA</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Pool Play: AUS vs. USA</actor>
-      <actor>Pool Play: AUS vs. USA</actor>
+      <actor>QF: FRA vs. USA</actor>
+      <actor>QF: FRA vs. USA</actor>
     </credits>
   </programme>
-  <programme start="20260820100000 +0000" stop="20260820120000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: TOR at TB starts at 1:00 PM ET</title>
+  <programme start="20260821100000 +0000" stop="20260821120000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: STL at PHI starts at 6:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: TOR at TB</actor>
-      <actor>Home Feed: TOR at TB</actor>
+      <actor>Away Feed: STL at PHI</actor>
+      <actor>Away Feed: STL at PHI</actor>
     </credits>
   </programme>
-  <programme start="20260820120000 +0000" stop="20260820140000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: TOR at TB starts at 1:00 PM ET</title>
+  <programme start="20260821120000 +0000" stop="20260821140000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: STL at PHI starts at 6:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: TOR at TB</actor>
-      <actor>Home Feed: TOR at TB</actor>
+      <actor>Away Feed: STL at PHI</actor>
+      <actor>Away Feed: STL at PHI</actor>
     </credits>
   </programme>
-  <programme start="20260820140000 +0000" stop="20260820160000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: TOR at TB starts at 1:00 PM ET</title>
+  <programme start="20260821140000 +0000" stop="20260821160000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: STL at PHI starts at 6:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: TOR at TB</actor>
-      <actor>Home Feed: TOR at TB</actor>
+      <actor>Away Feed: STL at PHI</actor>
+      <actor>Away Feed: STL at PHI</actor>
     </credits>
   </programme>
-  <programme start="20260820160000 +0000" stop="20260820170000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: TOR at TB starts at 1:00 PM ET</title>
+  <programme start="20260821160000 +0000" stop="20260821180000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: STL at PHI starts at 6:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: TOR at TB</actor>
-      <actor>Home Feed: TOR at TB</actor>
+      <actor>Away Feed: STL at PHI</actor>
+      <actor>Away Feed: STL at PHI</actor>
     </credits>
   </programme>
-  <programme start="20260820170000 +0000" stop="20260820210000 +0000" channel="PEACOCK 002">
-    <title lang="en">Home Feed: TOR at TB</title>
+  <programme start="20260821180000 +0000" stop="20260821200000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: STL at PHI starts at 6:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: STL at PHI</actor>
+      <actor>Away Feed: STL at PHI</actor>
+    </credits>
+  </programme>
+  <programme start="20260821200000 +0000" stop="20260821220000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: STL at PHI starts at 6:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: STL at PHI</actor>
+      <actor>Away Feed: STL at PHI</actor>
+    </credits>
+  </programme>
+  <programme start="20260821220000 +0000" stop="20260821223000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: STL at PHI starts at 6:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: STL at PHI</actor>
+      <actor>Away Feed: STL at PHI</actor>
+    </credits>
+  </programme>
+  <programme start="20260821223000 +0000" stop="20260822023000 +0000" channel="PEACOCK 002">
+    <title lang="en">Away Feed: STL at PHI</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Home Feed: TOR at TB</actor>
-      <actor>Home Feed: TOR at TB</actor>
+      <actor>Away Feed: STL at PHI</actor>
+      <actor>Away Feed: STL at PHI</actor>
     </credits>
   </programme>
-  <programme start="20260820100000 +0000" stop="20260820120000 +0000" channel="PEACOCK 003">
-    <title lang="en">Away Feed: TOR at TB starts at 1:00 PM ET</title>
+  <programme start="20260821100000 +0000" stop="20260821120000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: STL at PHI starts at 6:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: TOR at TB</actor>
-      <actor>Away Feed: TOR at TB</actor>
+      <actor>Home Feed: STL at PHI</actor>
+      <actor>Home Feed: STL at PHI</actor>
     </credits>
   </programme>
-  <programme start="20260820120000 +0000" stop="20260820140000 +0000" channel="PEACOCK 003">
-    <title lang="en">Away Feed: TOR at TB starts at 1:00 PM ET</title>
+  <programme start="20260821120000 +0000" stop="20260821140000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: STL at PHI starts at 6:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: TOR at TB</actor>
-      <actor>Away Feed: TOR at TB</actor>
+      <actor>Home Feed: STL at PHI</actor>
+      <actor>Home Feed: STL at PHI</actor>
     </credits>
   </programme>
-  <programme start="20260820140000 +0000" stop="20260820160000 +0000" channel="PEACOCK 003">
-    <title lang="en">Away Feed: TOR at TB starts at 1:00 PM ET</title>
+  <programme start="20260821140000 +0000" stop="20260821160000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: STL at PHI starts at 6:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: TOR at TB</actor>
-      <actor>Away Feed: TOR at TB</actor>
+      <actor>Home Feed: STL at PHI</actor>
+      <actor>Home Feed: STL at PHI</actor>
     </credits>
   </programme>
-  <programme start="20260820160000 +0000" stop="20260820170000 +0000" channel="PEACOCK 003">
-    <title lang="en">Away Feed: TOR at TB starts at 1:00 PM ET</title>
+  <programme start="20260821160000 +0000" stop="20260821180000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: STL at PHI starts at 6:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: TOR at TB</actor>
-      <actor>Away Feed: TOR at TB</actor>
+      <actor>Home Feed: STL at PHI</actor>
+      <actor>Home Feed: STL at PHI</actor>
     </credits>
   </programme>
-  <programme start="20260820170000 +0000" stop="20260820210000 +0000" channel="PEACOCK 003">
-    <title lang="en">Away Feed: TOR at TB</title>
+  <programme start="20260821180000 +0000" stop="20260821200000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: STL at PHI starts at 6:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: STL at PHI</actor>
+      <actor>Home Feed: STL at PHI</actor>
+    </credits>
+  </programme>
+  <programme start="20260821200000 +0000" stop="20260821220000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: STL at PHI starts at 6:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: STL at PHI</actor>
+      <actor>Home Feed: STL at PHI</actor>
+    </credits>
+  </programme>
+  <programme start="20260821220000 +0000" stop="20260821223000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: STL at PHI starts at 6:30 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: STL at PHI</actor>
+      <actor>Home Feed: STL at PHI</actor>
+    </credits>
+  </programme>
+  <programme start="20260821223000 +0000" stop="20260822023000 +0000" channel="PEACOCK 003">
+    <title lang="en">Home Feed: STL at PHI</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Away Feed: TOR at TB</actor>
-      <actor>Away Feed: TOR at TB</actor>
+      <actor>Home Feed: STL at PHI</actor>
+      <actor>Home Feed: STL at PHI</actor>
     </credits>
   </programme>
-  <programme start="20260820100000 +0000" stop="20260820120000 +0000" channel="PEACOCK 004">
-    <title lang="en">Pool Play: BRA vs. USA starts at 6:30 PM ET</title>
+  <programme start="20260821100000 +0000" stop="20260821120000 +0000" channel="PEACOCK 004">
+    <title lang="en">Brooklyn FC v. Power FC starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Pool Play: BRA vs. USA</actor>
-      <actor>Pool Play: BRA vs. USA</actor>
+      <actor>Brooklyn FC v. Power FC</actor>
+      <actor>Brooklyn FC v. Power FC</actor>
     </credits>
   </programme>
-  <programme start="20260820120000 +0000" stop="20260820140000 +0000" channel="PEACOCK 004">
-    <title lang="en">Pool Play: BRA vs. USA starts at 6:30 PM ET</title>
+  <programme start="20260821120000 +0000" stop="20260821140000 +0000" channel="PEACOCK 004">
+    <title lang="en">Brooklyn FC v. Power FC starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Pool Play: BRA vs. USA</actor>
-      <actor>Pool Play: BRA vs. USA</actor>
+      <actor>Brooklyn FC v. Power FC</actor>
+      <actor>Brooklyn FC v. Power FC</actor>
     </credits>
   </programme>
-  <programme start="20260820140000 +0000" stop="20260820160000 +0000" channel="PEACOCK 004">
-    <title lang="en">Pool Play: BRA vs. USA starts at 6:30 PM ET</title>
+  <programme start="20260821140000 +0000" stop="20260821160000 +0000" channel="PEACOCK 004">
+    <title lang="en">Brooklyn FC v. Power FC starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Pool Play: BRA vs. USA</actor>
-      <actor>Pool Play: BRA vs. USA</actor>
+      <actor>Brooklyn FC v. Power FC</actor>
+      <actor>Brooklyn FC v. Power FC</actor>
     </credits>
   </programme>
-  <programme start="20260820160000 +0000" stop="20260820180000 +0000" channel="PEACOCK 004">
-    <title lang="en">Pool Play: BRA vs. USA starts at 6:30 PM ET</title>
+  <programme start="20260821160000 +0000" stop="20260821180000 +0000" channel="PEACOCK 004">
+    <title lang="en">Brooklyn FC v. Power FC starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Pool Play: BRA vs. USA</actor>
-      <actor>Pool Play: BRA vs. USA</actor>
+      <actor>Brooklyn FC v. Power FC</actor>
+      <actor>Brooklyn FC v. Power FC</actor>
     </credits>
   </programme>
-  <programme start="20260820180000 +0000" stop="20260820200000 +0000" channel="PEACOCK 004">
-    <title lang="en">Pool Play: BRA vs. USA starts at 6:30 PM ET</title>
+  <programme start="20260821180000 +0000" stop="20260821200000 +0000" channel="PEACOCK 004">
+    <title lang="en">Brooklyn FC v. Power FC starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Pool Play: BRA vs. USA</actor>
-      <actor>Pool Play: BRA vs. USA</actor>
+      <actor>Brooklyn FC v. Power FC</actor>
+      <actor>Brooklyn FC v. Power FC</actor>
     </credits>
   </programme>
-  <programme start="20260820200000 +0000" stop="20260820220000 +0000" channel="PEACOCK 004">
-    <title lang="en">Pool Play: BRA vs. USA starts at 6:30 PM ET</title>
+  <programme start="20260821200000 +0000" stop="20260821220000 +0000" channel="PEACOCK 004">
+    <title lang="en">Brooklyn FC v. Power FC starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Pool Play: BRA vs. USA</actor>
-      <actor>Pool Play: BRA vs. USA</actor>
+      <actor>Brooklyn FC v. Power FC</actor>
+      <actor>Brooklyn FC v. Power FC</actor>
     </credits>
   </programme>
-  <programme start="20260820220000 +0000" stop="20260820223000 +0000" channel="PEACOCK 004">
-    <title lang="en">Pool Play: BRA vs. USA starts at 6:30 PM ET</title>
+  <programme start="20260821220000 +0000" stop="20260821233000 +0000" channel="PEACOCK 004">
+    <title lang="en">Brooklyn FC v. Power FC starts at 7:30 PM ET</title>
     <category lang="en">Pre-Event Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Pool Play: BRA vs. USA</actor>
-      <actor>Pool Play: BRA vs. USA</actor>
+      <actor>Brooklyn FC v. Power FC</actor>
+      <actor>Brooklyn FC v. Power FC</actor>
     </credits>
   </programme>
-  <programme start="20260820223000 +0000" stop="20260821023000 +0000" channel="PEACOCK 004">
-    <title lang="en">Pool Play: BRA vs. USA</title>
+  <programme start="20260821233000 +0000" stop="20260822033000 +0000" channel="PEACOCK 004">
+    <title lang="en">Brooklyn FC v. Power FC</title>
     <desc lang="en">Network: Peacock</desc>
     <category lang="en">Sports</category>
     <category lang="en">Peacock</category>
     <credits>
-      <actor>Pool Play: BRA vs. USA</actor>
-      <actor>Pool Play: BRA vs. USA</actor>
+      <actor>Brooklyn FC v. Power FC</actor>
+      <actor>Brooklyn FC v. Power FC</actor>
+    </credits>
+  </programme>
+  <programme start="20260821100000 +0000" stop="20260821120000 +0000" channel="PEACOCK 005">
+    <title lang="en">Home Feed: PIT at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: PIT at LAD</actor>
+      <actor>Home Feed: PIT at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260821120000 +0000" stop="20260821140000 +0000" channel="PEACOCK 005">
+    <title lang="en">Home Feed: PIT at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: PIT at LAD</actor>
+      <actor>Home Feed: PIT at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260821140000 +0000" stop="20260821160000 +0000" channel="PEACOCK 005">
+    <title lang="en">Home Feed: PIT at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: PIT at LAD</actor>
+      <actor>Home Feed: PIT at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260821160000 +0000" stop="20260821180000 +0000" channel="PEACOCK 005">
+    <title lang="en">Home Feed: PIT at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: PIT at LAD</actor>
+      <actor>Home Feed: PIT at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260821180000 +0000" stop="20260821200000 +0000" channel="PEACOCK 005">
+    <title lang="en">Home Feed: PIT at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: PIT at LAD</actor>
+      <actor>Home Feed: PIT at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260821200000 +0000" stop="20260821220000 +0000" channel="PEACOCK 005">
+    <title lang="en">Home Feed: PIT at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: PIT at LAD</actor>
+      <actor>Home Feed: PIT at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260821220000 +0000" stop="20260822000000 +0000" channel="PEACOCK 005">
+    <title lang="en">Home Feed: PIT at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: PIT at LAD</actor>
+      <actor>Home Feed: PIT at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260822000000 +0000" stop="20260822020000 +0000" channel="PEACOCK 005">
+    <title lang="en">Home Feed: PIT at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: PIT at LAD</actor>
+      <actor>Home Feed: PIT at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260822020000 +0000" stop="20260822060000 +0000" channel="PEACOCK 005">
+    <title lang="en">Home Feed: PIT at LAD</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Home Feed: PIT at LAD</actor>
+      <actor>Home Feed: PIT at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260821100000 +0000" stop="20260821120000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: PIT at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: PIT at LAD</actor>
+      <actor>Away Feed: PIT at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260821120000 +0000" stop="20260821140000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: PIT at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: PIT at LAD</actor>
+      <actor>Away Feed: PIT at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260821140000 +0000" stop="20260821160000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: PIT at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: PIT at LAD</actor>
+      <actor>Away Feed: PIT at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260821160000 +0000" stop="20260821180000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: PIT at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: PIT at LAD</actor>
+      <actor>Away Feed: PIT at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260821180000 +0000" stop="20260821200000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: PIT at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: PIT at LAD</actor>
+      <actor>Away Feed: PIT at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260821200000 +0000" stop="20260821220000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: PIT at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: PIT at LAD</actor>
+      <actor>Away Feed: PIT at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260821220000 +0000" stop="20260822000000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: PIT at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: PIT at LAD</actor>
+      <actor>Away Feed: PIT at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260822000000 +0000" stop="20260822020000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: PIT at LAD starts at 10:00 PM ET</title>
+    <category lang="en">Pre-Event Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: PIT at LAD</actor>
+      <actor>Away Feed: PIT at LAD</actor>
+    </credits>
+  </programme>
+  <programme start="20260822020000 +0000" stop="20260822060000 +0000" channel="PEACOCK 006">
+    <title lang="en">Away Feed: PIT at LAD</title>
+    <desc lang="en">Network: Peacock</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Peacock</category>
+    <credits>
+      <actor>Away Feed: PIT at LAD</actor>
+      <actor>Away Feed: PIT at LAD</actor>
     </credits>
   </programme>
 </tv>
